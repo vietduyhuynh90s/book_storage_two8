@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nghi-le-te-than_20111.html",
+    "title" : "Nghi Lễ Tế Thần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tĩnh Thủy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 53082,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_c428bea731ff0f87064706f31fd98f4b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_c428bea731ff0f87064706f31fd98f4b.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4913,
+    "title" : "nghi-le-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3778,
+    "title" : "nghi-le-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3477,
+    "title" : "nghi-le-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4025,
+    "title" : "nghi-le-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2943,
+    "title" : "nghi-le-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3498,
+    "title" : "nghi-le-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4573,
+    "title" : "nghi-le-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4042,
+    "title" : "nghi-le-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3909,
+    "title" : "nghi-le-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3845,
+    "title" : "nghi-le-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3329,
+    "title" : "nghi-le-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "nghi-le-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3312,
+    "title" : "nghi-le-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3757,
+    "title" : "nghi-le-9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-1.mp3",
+    "title" : "nghi-le-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-10.mp3",
+    "title" : "nghi-le-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-11.mp3",
+    "title" : "nghi-le-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-12.mp3",
+    "title" : "nghi-le-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-13.mp3",
+    "title" : "nghi-le-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-14.mp3",
+    "title" : "nghi-le-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-2.mp3",
+    "title" : "nghi-le-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-3.mp3",
+    "title" : "nghi-le-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-4.mp3",
+    "title" : "nghi-le-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-5.mp3",
+    "title" : "nghi-le-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-6.mp3",
+    "title" : "nghi-le-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-7.mp3",
+    "title" : "nghi-le-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-8.mp3",
+    "title" : "nghi-le-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghi-le-1/nghi-le-9.mp3",
+    "title" : "nghi-le-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

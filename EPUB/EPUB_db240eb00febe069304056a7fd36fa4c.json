@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-nguoi-ban-cua-mat-troi_20159.html",
+    "title" : "Những Người Bạn Của Mặt Trời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lanka",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 17432,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_db240eb00febe069304056a7fd36fa4c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_db240eb00febe069304056a7fd36fa4c.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhung-nguoi-ban-cua-mat-troi.sna/NHUNG_NGUOI_BAN_CUA_MAT_TROI_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2878,
+    "title" : "NHUNG NGUOI BAN CUA MAT TROI 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-ban-cua-mat-troi.sna/NHUNG_NGUOI_BAN_CUA_MAT_TROI_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3025,
+    "title" : "NHUNG NGUOI BAN CUA MAT TROI 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-ban-cua-mat-troi.sna/NHUNG_NGUOI_BAN_CUA_MAT_TROI_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2815,
+    "title" : "NHUNG NGUOI BAN CUA MAT TROI 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-ban-cua-mat-troi.sna/NHUNG_NGUOI_BAN_CUA_MAT_TROI_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3198,
+    "title" : "NHUNG NGUOI BAN CUA MAT TROI 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-ban-cua-mat-troi.sna/NHUNG_NGUOI_BAN_CUA_MAT_TROI_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2215,
+    "title" : "NHUNG NGUOI BAN CUA MAT TROI 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-ban-cua-mat-troi.sna/NHUNG_NGUOI_BAN_CUA_MAT_TROI_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3301,
+    "title" : "NHUNG NGUOI BAN CUA MAT TROI 06",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhung-nguoi-ban-cua-mat-troi.sna/NHUNG_NGUOI_BAN_CUA_MAT_TROI_01.mp3",
+    "title" : "NHUNG NGUOI BAN CUA MAT TROI 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-ban-cua-mat-troi.sna/NHUNG_NGUOI_BAN_CUA_MAT_TROI_02.mp3",
+    "title" : "NHUNG NGUOI BAN CUA MAT TROI 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-ban-cua-mat-troi.sna/NHUNG_NGUOI_BAN_CUA_MAT_TROI_03.mp3",
+    "title" : "NHUNG NGUOI BAN CUA MAT TROI 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-ban-cua-mat-troi.sna/NHUNG_NGUOI_BAN_CUA_MAT_TROI_04.mp3",
+    "title" : "NHUNG NGUOI BAN CUA MAT TROI 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-ban-cua-mat-troi.sna/NHUNG_NGUOI_BAN_CUA_MAT_TROI_05.mp3",
+    "title" : "NHUNG NGUOI BAN CUA MAT TROI 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-ban-cua-mat-troi.sna/NHUNG_NGUOI_BAN_CUA_MAT_TROI_06.mp3",
+    "title" : "NHUNG NGUOI BAN CUA MAT TROI 06",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

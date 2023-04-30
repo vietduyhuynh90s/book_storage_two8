@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-ve-hanh-phuc_20120.html",
+    "title" : "Bàn Về Hạnh Phúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Matthieu Ricard",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 46735,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_f00ca66b1d207abc716feb11eebb560a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_f00ca66b1d207abc716feb11eebb560a.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ban-ve-2/ban-ve-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16680,
+    "title" : "ban-ve-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-ve-2/ban-ve-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19105,
+    "title" : "ban-ve-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-ve-2/ban-ve-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10950,
+    "title" : "ban-ve-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ban-ve-2/ban-ve-1.mp3",
+    "title" : "ban-ve-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-ve-2/ban-ve-2.mp3",
+    "title" : "ban-ve-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-ve-2/ban-ve-3.mp3",
+    "title" : "ban-ve-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

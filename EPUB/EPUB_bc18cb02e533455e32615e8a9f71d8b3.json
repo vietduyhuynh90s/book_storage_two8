@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhat-ky-dang-thi-thuy-tram_20088.html",
+    "title" : "Nhật Ký Đặng Thị Thùy Trâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đặng Thùy Trâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 33138,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_bc18cb02e533455e32615e8a9f71d8b3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_bc18cb02e533455e32615e8a9f71d8b3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1220,
+    "title" : "NhatkyDangThuyTram01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1524,
+    "title" : "NhatkyDangThuyTram02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1499,
+    "title" : "NhatkyDangThuyTram03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 852,
+    "title" : "NhatkyDangThuyTram04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1691,
+    "title" : "NhatkyDangThuyTram05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1718,
+    "title" : "NhatkyDangThuyTram06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 933,
+    "title" : "NhatkyDangThuyTram07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1741,
+    "title" : "NhatkyDangThuyTram08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1590,
+    "title" : "NhatkyDangThuyTram09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 877,
+    "title" : "NhatkyDangThuyTram10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1798,
+    "title" : "NhatkyDangThuyTram11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1649,
+    "title" : "NhatkyDangThuyTram12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 801,
+    "title" : "NhatkyDangThuyTram13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1816,
+    "title" : "NhatkyDangThuyTram14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1608,
+    "title" : "NhatkyDangThuyTram15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1623,
+    "title" : "NhatkyDangThuyTram16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1847,
+    "title" : "NhatkyDangThuyTram17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 658,
+    "title" : "NhatkyDangThuyTram18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 915,
+    "title" : "NhatkyDangThuyTram19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1832,
+    "title" : "NhatkyDangThuyTram20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1551,
+    "title" : "NhatkyDangThuyTram21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1776,
+    "title" : "NhatkyDangThuyTram22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram23Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1619,
+    "title" : "NhatkyDangThuyTram23Het",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram01.mp3",
+    "title" : "NhatkyDangThuyTram01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram02.mp3",
+    "title" : "NhatkyDangThuyTram02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram03.mp3",
+    "title" : "NhatkyDangThuyTram03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram04.mp3",
+    "title" : "NhatkyDangThuyTram04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram05.mp3",
+    "title" : "NhatkyDangThuyTram05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram06.mp3",
+    "title" : "NhatkyDangThuyTram06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram07.mp3",
+    "title" : "NhatkyDangThuyTram07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram08.mp3",
+    "title" : "NhatkyDangThuyTram08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram09.mp3",
+    "title" : "NhatkyDangThuyTram09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram10.mp3",
+    "title" : "NhatkyDangThuyTram10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram11.mp3",
+    "title" : "NhatkyDangThuyTram11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram12.mp3",
+    "title" : "NhatkyDangThuyTram12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram13.mp3",
+    "title" : "NhatkyDangThuyTram13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram14.mp3",
+    "title" : "NhatkyDangThuyTram14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram15.mp3",
+    "title" : "NhatkyDangThuyTram15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram16.mp3",
+    "title" : "NhatkyDangThuyTram16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram17.mp3",
+    "title" : "NhatkyDangThuyTram17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram18.mp3",
+    "title" : "NhatkyDangThuyTram18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram19.mp3",
+    "title" : "NhatkyDangThuyTram19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram20.mp3",
+    "title" : "NhatkyDangThuyTram20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram21.mp3",
+    "title" : "NhatkyDangThuyTram21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram22.mp3",
+    "title" : "NhatkyDangThuyTram22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-dang-thuy-tram.sna/NhatkyDangThuyTram23Het.mp3",
+    "title" : "NhatkyDangThuyTram23Het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

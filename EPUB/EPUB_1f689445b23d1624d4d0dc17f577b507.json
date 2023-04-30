@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/giup-chong-thanh-cong_20077.html",
+    "title" : "Giúp Chồng Thành Công",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dale Carnegie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 18082,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_1f689445b23d1624d4d0dc17f577b507.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_1f689445b23d1624d4d0dc17f577b507.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2685,
+    "title" : "GiupChongThanhCongPhan01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1812,
+    "title" : "GiupChongThanhCongPhan02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1835,
+    "title" : "GiupChongThanhCongPhan03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2441,
+    "title" : "GiupChongThanhCongPhan04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2594,
+    "title" : "GiupChongThanhCongPhan05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1713,
+    "title" : "GiupChongThanhCongPhan06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2146,
+    "title" : "GiupChongThanhCongPhan07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan080910Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2856,
+    "title" : "GiupChongThanhCongPhan080910Het",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan01.mp3",
+    "title" : "GiupChongThanhCongPhan01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan02.mp3",
+    "title" : "GiupChongThanhCongPhan02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan03.mp3",
+    "title" : "GiupChongThanhCongPhan03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan04.mp3",
+    "title" : "GiupChongThanhCongPhan04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan05.mp3",
+    "title" : "GiupChongThanhCongPhan05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan06.mp3",
+    "title" : "GiupChongThanhCongPhan06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan07.mp3",
+    "title" : "GiupChongThanhCongPhan07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-dale-carnegie-giup-chong-thanh-cong.sna/GiupChongThanhCongPhan080910Het.mp3",
+    "title" : "GiupChongThanhCongPhan080910Het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
