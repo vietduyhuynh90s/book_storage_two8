@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mot-thien-nam-mong-nguyen-ngoc-thuan_10457.html",
+    "title" : "Một Thiên Nằm Mộng - Nguyễn Ngọc Thuần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Thuần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 11592,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_0953c40317f0fd60caef6d8d02f645b2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_0953c40317f0fd60caef6d8d02f645b2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mot-thien-nam-mong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3962,
+    "title" : "1 - Nguyễn Ngọc Thuần và giấc mơ tuổi thơ không dứt, Chuyện Bà cả Sề kéo dài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thien-nam-mong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4102,
+    "title" : "2 - Sợ gì cái giống la đà, Khi em chạy...nhưng mà thôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thien-nam-mong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3528,
+    "title" : "3 - Lại một ngày không có thiên thần nào, Và những giấc mơ cuối cùng trên dây",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mot-thien-nam-mong/1.mp3",
+    "title" : "1 - Nguyễn Ngọc Thuần và giấc mơ tuổi thơ không dứt, Chuyện Bà cả Sề kéo dài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thien-nam-mong/2.mp3",
+    "title" : "2 - Sợ gì cái giống la đà, Khi em chạy...nhưng mà thôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thien-nam-mong/3.mp3",
+    "title" : "3 - Lại một ngày không có thiên thần nào, Và những giấc mơ cuối cùng trên dây",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

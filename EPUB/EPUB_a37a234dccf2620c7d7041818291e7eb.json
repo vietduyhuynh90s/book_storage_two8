@@ -1,0 +1,389 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lam-thi-lang-co_15633.html",
+    "title" : "Lâm Thị Lang Cố",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Huyền Tiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 199858,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_a37a234dccf2620c7d7041818291e7eb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_a37a234dccf2620c7d7041818291e7eb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lam-thi-lang-co/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4057,
+    "title" : "[ BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ ( TẬP 1) || Phát hành chiều 3,5,7 hàng tuần !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7736,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 10)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6962,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 11)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7726,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 12)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7015,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 13)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7521,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 14)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7666,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 15)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7458,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 16)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7212,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 17)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7646,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 18)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7999,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 19)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4094,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ ( TẬP 2 ) || Phát hành chiều 3,5,7 hàng tuần !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6791,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 20)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8043,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 21)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8484,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 22)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7964,
+    "title" : "[BÁCH HỢP AUDIO] (H)LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 23)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7602,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 24)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7744,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 25)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7182,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 26)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9717,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 27)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6062,
+    "title" : "[BÁCH HỢP AUDIO] (H) LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 28)|| Phát hành chiều 3,5,7 !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3697,
+    "title" : "[BÁCH HỢP AUDIO] (H) LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 29)|| Tạm Ngưng!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4166,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 3)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6379,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 4)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6386,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 5)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6547,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 6)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6903,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 7)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6144,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 8)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6955,
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 9)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lam-thi-lang-co/1.mp3",
+    "title" : "[ BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ ( TẬP 1) || Phát hành chiều 3,5,7 hàng tuần !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/10.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 10)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/11.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 11)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/12.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 12)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/13.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 13)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/14.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 14)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/15.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 15)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/16.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 16)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/17.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 17)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/18.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 18)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/19.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 19)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/2.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ ( TẬP 2 ) || Phát hành chiều 3,5,7 hàng tuần !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/20.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 20)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/21.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 21)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/22.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 22)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/23.mp3",
+    "title" : "[BÁCH HỢP AUDIO] (H)LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 23)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/24.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 24)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/25.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 25)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/26.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 26)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/27.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 27)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/28.mp3",
+    "title" : "[BÁCH HỢP AUDIO] (H) LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 28)|| Phát hành chiều 3,5,7 !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/29.mp3",
+    "title" : "[BÁCH HỢP AUDIO] (H) LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 29)|| Tạm Ngưng!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/3.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 3)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/4.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 4)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/5.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 5)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/6.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 6)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/7.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 7)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/8.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 8)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-thi-lang-co/9.mp3",
+    "title" : "[BÁCH HỢP AUDIO] LÂM THỊ LANG CỐ (hiện đại,hôn nhân..)(TẬP 9)|| Phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

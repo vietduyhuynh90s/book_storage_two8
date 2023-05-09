@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thai-can-dam-tinh-hoa-xu-the-phuong-dong-hong-ung-minh_10572.html",
+    "title" : "Thái Căn Đàm: Tinh Hoa Xử Thế Phương Đông - Hồng Ứng Minh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồng Ứng Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 8195,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_46147361743a72a97fef971dc8d2e071.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_46147361743a72a97fef971dc8d2e071.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tinh-hoa-xu-the-phuong-dong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3060,
+    "title" : "Phần 1 Đạo làm người và xử thế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-hoa-xu-the-phuong-dong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3010,
+    "title" : "Phần 2 Tu Thân Dưỡng Tính",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-hoa-xu-the-phuong-dong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2125,
+    "title" : "Phần 3 Thành Bại Trong Sự Nghiệp (Hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tinh-hoa-xu-the-phuong-dong/1.mp3",
+    "title" : "Phần 1 Đạo làm người và xử thế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-hoa-xu-the-phuong-dong/2.mp3",
+    "title" : "Phần 2 Tu Thân Dưỡng Tính",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-hoa-xu-the-phuong-dong/3.mp3",
+    "title" : "Phần 3 Thành Bại Trong Sự Nghiệp (Hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

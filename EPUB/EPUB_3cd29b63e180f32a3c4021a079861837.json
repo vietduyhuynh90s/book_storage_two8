@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trong-phim-ngoai-doi_15687.html",
+    "title" : "Trong Phim Ngoài Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhất Diệp Cô Chu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 26031,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_3cd29b63e180f32a3c4021a079861837.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_3cd29b63e180f32a3c4021a079861837.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3595,
+    "title" : "Nam chính bá đạo ăn sạch nữ phụ| 50 triệu, tôi không bán thân| Ngôn tình sắc, sủng, showbiz cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3090,
+    "title" : "[P2] Nam chính bá đạo ăn sạch nữ phụ| Anh chỉ hứng thú thân thể tôi thôi sao?Truyện ngôn tình sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3160,
+    "title" : "[P3] Nam chính lạnh lùng ăn sạch nữ phụ| Một đêm điên cuồng, mộng xuân thành thật| Ngôn tình sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3275,
+    "title" : "[P4] Nam chính lạnh lùng ăn sạch nữ phụ| Em phải giúp tôi trị bệnh \"BẤT LỰC\"| Truyện ngôn tình sắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3090,
+    "title" : "[P5] Nam chính bá đạo ăn sạch nữ phụ| Anh rất thích em ướt vì anh| Truyện ngôn tình sắc sủng cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2996,
+    "title" : "[P6] Nam chính bá đạo ăn sạch nữ phụ| Hóa ra anh đè em từ 3 năm trước| Truyện ngôn tình sủng, sắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3551,
+    "title" : "[P7] Nam chính bá đạo ăn sạch nữ phụ| Kế hoạch mua chuộc nhà vợ tương lai| Truyện ngôn tình sủng hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3274,
+    "title" : "[TẬP CUỐI CỰC HAY] Nam chính bá đạo ăn sạch nữ phụ| Phim giả tình thật| Truyện ngôn tình sủng",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/1.mp3",
+    "title" : "Nam chính bá đạo ăn sạch nữ phụ| 50 triệu, tôi không bán thân| Ngôn tình sắc, sủng, showbiz cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/2.mp3",
+    "title" : "[P2] Nam chính bá đạo ăn sạch nữ phụ| Anh chỉ hứng thú thân thể tôi thôi sao?Truyện ngôn tình sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/3.mp3",
+    "title" : "[P3] Nam chính lạnh lùng ăn sạch nữ phụ| Một đêm điên cuồng, mộng xuân thành thật| Ngôn tình sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/4.mp3",
+    "title" : "[P4] Nam chính lạnh lùng ăn sạch nữ phụ| Em phải giúp tôi trị bệnh \"BẤT LỰC\"| Truyện ngôn tình sắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/5.mp3",
+    "title" : "[P5] Nam chính bá đạo ăn sạch nữ phụ| Anh rất thích em ướt vì anh| Truyện ngôn tình sắc sủng cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/6.mp3",
+    "title" : "[P6] Nam chính bá đạo ăn sạch nữ phụ| Hóa ra anh đè em từ 3 năm trước| Truyện ngôn tình sủng, sắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/7.mp3",
+    "title" : "[P7] Nam chính bá đạo ăn sạch nữ phụ| Kế hoạch mua chuộc nhà vợ tương lai| Truyện ngôn tình sủng hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-phim-ngoai-doi/8.mp3",
+    "title" : "[TẬP CUỐI CỰC HAY] Nam chính bá đạo ăn sạch nữ phụ| Phim giả tình thật| Truyện ngôn tình sủng",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-mac-chung-benh-ua-sach-se_14575.html",
+    "title" : "Kẻ Mắc Chứng Bệnh Ưa Sạch Sẽ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phù Hoa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 51144,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_ce0f1c9341f75150e16b08045c009eb2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_ce0f1c9341f75150e16b08045c009eb2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3850,
+    "title" : "MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5478,
+    "title" : "MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5363,
+    "title" : "MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5337,
+    "title" : "MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3937,
+    "title" : "MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3690,
+    "title" : "MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3690,
+    "title" : "MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4194,
+    "title" : "MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4111,
+    "title" : "MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3627,
+    "title" : "MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3550,
+    "title" : "MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4317,
+    "title" : "MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/1.mp3",
+    "title" : "MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/10.mp3",
+    "title" : "MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/11.mp3",
+    "title" : "MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/12.mp3",
+    "title" : "MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/2.mp3",
+    "title" : "MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/3.mp3",
+    "title" : "MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/4.mp3",
+    "title" : "MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/5.mp3",
+    "title" : "MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/6.mp3",
+    "title" : "MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/7.mp3",
+    "title" : "MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/8.mp3",
+    "title" : "MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sat-nhan-an-minh/9.mp3",
+    "title" : "MC Lạc Lạc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

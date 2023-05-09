@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-gioi-khong-phai-nguoi-lam-tat-ca_17061.html",
+    "title" : "Người Giỏi Không Phải Người Làm Tất Cả",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ph.D Donna M. Genett",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 3321,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_86c1f5624c06f8886f614d098490cf58.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_86c1f5624c06f8886f614d098490cf58.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/00_Intro.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 154,
+    "title" : "00 Intro",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/01Chuong1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 411,
+    "title" : "01Chuong1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/02Chuong2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 489,
+    "title" : "02Chuong2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/03Chuong2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 296,
+    "title" : "03Chuong2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/04Chuong3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 300,
+    "title" : "04Chuong3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/05Chuong3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 119,
+    "title" : "05Chuong3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/06Chuong4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 364,
+    "title" : "06Chuong4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/07Chuong4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 241,
+    "title" : "07Chuong4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/08Chuong5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 462,
+    "title" : "08Chuong5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/09Chuong5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 59,
+    "title" : "09Chuong5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/10Chuong6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 237,
+    "title" : "10Chuong6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/11Chuong7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 189,
+    "title" : "11Chuong7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/00_Intro.mp3",
+    "title" : "00 Intro",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/01Chuong1.mp3",
+    "title" : "01Chuong1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/02Chuong2.mp3",
+    "title" : "02Chuong2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/03Chuong2.mp3",
+    "title" : "03Chuong2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/04Chuong3.mp3",
+    "title" : "04Chuong3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/05Chuong3.mp3",
+    "title" : "05Chuong3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/06Chuong4.mp3",
+    "title" : "06Chuong4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/07Chuong4.mp3",
+    "title" : "07Chuong4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/08Chuong5.mp3",
+    "title" : "08Chuong5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/09Chuong5.mp3",
+    "title" : "09Chuong5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/10Chuong6.mp3",
+    "title" : "10Chuong6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguoiGioiKoPhaiLaNguoiLamTatCa/11Chuong7.mp3",
+    "title" : "11Chuong7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

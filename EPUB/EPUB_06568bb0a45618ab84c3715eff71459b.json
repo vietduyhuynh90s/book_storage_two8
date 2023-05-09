@@ -1,0 +1,1193 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-tinh-tri-mang-an-tam_10152.html",
+    "title" : "Người Tình Trí Mạng - Ân Tầm.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ân Tầm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 429506,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_06568bb0a45618ab84c3715eff71459b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_06568bb0a45618ab84c3715eff71459b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoitinhchimang/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2876,
+    "title" : "Ân Tầm - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5272,
+    "title" : "Ân Tầm - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2257,
+    "title" : "Ân Tầm - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3499,
+    "title" : "Ân Tầm - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2635,
+    "title" : "Ân Tầm - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3433,
+    "title" : "Ân Tầm - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6081,
+    "title" : "Ân Tầm - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3703,
+    "title" : "Ân Tầm - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3304,
+    "title" : "Ân Tầm - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3160,
+    "title" : "Ân Tầm - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3297,
+    "title" : "Ân Tầm - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2345,
+    "title" : "Ân Tầm - Phần 2 New",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3454,
+    "title" : "Ân Tầm - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3559,
+    "title" : "Ân Tầm - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3313,
+    "title" : "Ân Tầm - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3636,
+    "title" : "Ân Tầm - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2917,
+    "title" : "Ân Tầm - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3199,
+    "title" : "Ân Tầm - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4358,
+    "title" : "Ân Tầm - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6216,
+    "title" : "Ân Tầm - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6138,
+    "title" : "Ân Tầm - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3527,
+    "title" : "Ân Tầm - Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3649,
+    "title" : "Ân Tầm - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5381,
+    "title" : "Ân Tầm - Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7476,
+    "title" : "Ân Tầm - Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5145,
+    "title" : "Ân Tầm - Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5236,
+    "title" : "Ân Tầm - Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3335,
+    "title" : "Ân Tầm - Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3796,
+    "title" : "Ân Tầm - Phần 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4672,
+    "title" : "Ân Tầm - Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3431,
+    "title" : "Ân Tầm - Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4877,
+    "title" : "Ân Tầm - Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6885,
+    "title" : "Ân Tầm - Phần 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4380,
+    "title" : "Ân Tầm - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5220,
+    "title" : "Ân Tầm - Phần 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3119,
+    "title" : "Ân Tầm - Phần 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4748,
+    "title" : "Ân Tầm - Phần 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5983,
+    "title" : "Ân Tầm - Phần 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7055,
+    "title" : "Ân Tầm - Phần 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7144,
+    "title" : "Ân Tầm - Phần 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5939,
+    "title" : "Ân Tầm - Phần 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5627,
+    "title" : "Ân Tầm - Phần 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4808,
+    "title" : "Ân Tầm - Phần 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3788,
+    "title" : "Ân Tầm - Phần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3032,
+    "title" : "Ân Tầm - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5208,
+    "title" : "Ân Tầm - Phần 50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4115,
+    "title" : "Ân Tầm - Phần 51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2552,
+    "title" : "Ân Tầm - Phần 52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3860,
+    "title" : "Ân Tầm - Phần 53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3633,
+    "title" : "Ân Tầm - Phần 54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4431,
+    "title" : "Ân Tầm - Phần 55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5404,
+    "title" : "Ân Tầm - Phần 56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5991,
+    "title" : "Ân Tầm - Phần 57 new",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5194,
+    "title" : "Ân Tầm - Phần 58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3411,
+    "title" : "Ân Tầm - Phần 59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3471,
+    "title" : "Ân Tầm - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6968,
+    "title" : "Ân Tầm - Phần 60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5207,
+    "title" : "Ân Tầm - Phần 61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Ân Tầm - Phần 62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "Ân Tầm - Phần 63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4645,
+    "title" : "Ân Tầm - Phần 64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5078,
+    "title" : "Ân Tầm - Phần 65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3786,
+    "title" : "Ân Tầm - Phần 66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3215,
+    "title" : "Ân Tầm - Phần 67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3822,
+    "title" : "Ân Tầm - Phần 68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3073,
+    "title" : "Ân Tầm - Phần 69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2202,
+    "title" : "Ân Tầm - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3277,
+    "title" : "Ân Tầm - Phần 70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3160,
+    "title" : "Ân Tầm - Phần 71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3791,
+    "title" : "Ân Tầm - Phần 72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3843,
+    "title" : "Ân Tầm - Phần 73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3296,
+    "title" : "Ân Tầm - Phần 74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2958,
+    "title" : "Ân Tầm - Phần 75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3529,
+    "title" : "Ân Tầm - Phần 76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2763,
+    "title" : "Ân Tầm - Phần 77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2574,
+    "title" : "Ân Tầm - Phần 78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4943,
+    "title" : "Ân Tầm - Phần 79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3609,
+    "title" : "Ân Tầm - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2758,
+    "title" : "Ân Tầm - Phần 80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6482,
+    "title" : "Ân Tầm - Phần 81",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4633,
+    "title" : "Ân Tầm - Phần 82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5412,
+    "title" : "Ân Tầm - Phần 83",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5558,
+    "title" : "Ân Tầm - Phần 84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4502,
+    "title" : "Ân Tầm - Phần 85",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6447,
+    "title" : "Ân Tầm - Phần 86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3980,
+    "title" : "Ân Tầm - Phần 87",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4697,
+    "title" : "88",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6219,
+    "title" : "89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4481,
+    "title" : "Ân Tầm - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6583,
+    "title" : "90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6729,
+    "title" : "91",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7503,
+    "title" : "92",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7372,
+    "title" : "93",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5601,
+    "title" : "94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6979,
+    "title" : "95",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6453,
+    "title" : "96",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoitinhchimang/1.mp3",
+    "title" : "Ân Tầm - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/10.mp3",
+    "title" : "Ân Tầm - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/11.mp3",
+    "title" : "Ân Tầm - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/12.mp3",
+    "title" : "Ân Tầm - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/13.mp3",
+    "title" : "Ân Tầm - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/14.mp3",
+    "title" : "Ân Tầm - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/15.mp3",
+    "title" : "Ân Tầm - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/16.mp3",
+    "title" : "Ân Tầm - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/17.mp3",
+    "title" : "Ân Tầm - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/18.mp3",
+    "title" : "Ân Tầm - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/19.mp3",
+    "title" : "Ân Tầm - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/2.mp3",
+    "title" : "Ân Tầm - Phần 2 New",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/20.mp3",
+    "title" : "Ân Tầm - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/21.mp3",
+    "title" : "Ân Tầm - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/22.mp3",
+    "title" : "Ân Tầm - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/23.mp3",
+    "title" : "Ân Tầm - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/24.mp3",
+    "title" : "Ân Tầm - Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/25.mp3",
+    "title" : "Ân Tầm - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/26.mp3",
+    "title" : "Ân Tầm - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/27.mp3",
+    "title" : "Ân Tầm - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/28.mp3",
+    "title" : "Ân Tầm - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/29.mp3",
+    "title" : "Ân Tầm - Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/3.mp3",
+    "title" : "Ân Tầm - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/30.mp3",
+    "title" : "Ân Tầm - Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/31.mp3",
+    "title" : "Ân Tầm - Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/32.mp3",
+    "title" : "Ân Tầm - Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/33.mp3",
+    "title" : "Ân Tầm - Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/34.mp3",
+    "title" : "Ân Tầm - Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/35.mp3",
+    "title" : "Ân Tầm - Phần 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/36.mp3",
+    "title" : "Ân Tầm - Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/37.mp3",
+    "title" : "Ân Tầm - Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/38.mp3",
+    "title" : "Ân Tầm - Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/39.mp3",
+    "title" : "Ân Tầm - Phần 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/4.mp3",
+    "title" : "Ân Tầm - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/40.mp3",
+    "title" : "Ân Tầm - Phần 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/41.mp3",
+    "title" : "Ân Tầm - Phần 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/42.mp3",
+    "title" : "Ân Tầm - Phần 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/43.mp3",
+    "title" : "Ân Tầm - Phần 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/44.mp3",
+    "title" : "Ân Tầm - Phần 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/45.mp3",
+    "title" : "Ân Tầm - Phần 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/46.mp3",
+    "title" : "Ân Tầm - Phần 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/47.mp3",
+    "title" : "Ân Tầm - Phần 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/48.mp3",
+    "title" : "Ân Tầm - Phần 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/49.mp3",
+    "title" : "Ân Tầm - Phần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/5.mp3",
+    "title" : "Ân Tầm - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/50.mp3",
+    "title" : "Ân Tầm - Phần 50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/51.mp3",
+    "title" : "Ân Tầm - Phần 51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/52.mp3",
+    "title" : "Ân Tầm - Phần 52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/53.mp3",
+    "title" : "Ân Tầm - Phần 53",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/54.mp3",
+    "title" : "Ân Tầm - Phần 54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/55.mp3",
+    "title" : "Ân Tầm - Phần 55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/56.mp3",
+    "title" : "Ân Tầm - Phần 56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/57.mp3",
+    "title" : "Ân Tầm - Phần 57 new",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/58.mp3",
+    "title" : "Ân Tầm - Phần 58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/59.mp3",
+    "title" : "Ân Tầm - Phần 59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/6.mp3",
+    "title" : "Ân Tầm - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/60.mp3",
+    "title" : "Ân Tầm - Phần 60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/61.mp3",
+    "title" : "Ân Tầm - Phần 61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/62.mp3",
+    "title" : "Ân Tầm - Phần 62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/63.mp3",
+    "title" : "Ân Tầm - Phần 63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/64.mp3",
+    "title" : "Ân Tầm - Phần 64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/65.mp3",
+    "title" : "Ân Tầm - Phần 65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/66.mp3",
+    "title" : "Ân Tầm - Phần 66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/67.mp3",
+    "title" : "Ân Tầm - Phần 67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/68.mp3",
+    "title" : "Ân Tầm - Phần 68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/69.mp3",
+    "title" : "Ân Tầm - Phần 69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/7.mp3",
+    "title" : "Ân Tầm - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/70.mp3",
+    "title" : "Ân Tầm - Phần 70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/71.mp3",
+    "title" : "Ân Tầm - Phần 71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/72.mp3",
+    "title" : "Ân Tầm - Phần 72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/73.mp3",
+    "title" : "Ân Tầm - Phần 73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/74.mp3",
+    "title" : "Ân Tầm - Phần 74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/75.mp3",
+    "title" : "Ân Tầm - Phần 75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/76.mp3",
+    "title" : "Ân Tầm - Phần 76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/77.mp3",
+    "title" : "Ân Tầm - Phần 77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/78.mp3",
+    "title" : "Ân Tầm - Phần 78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/79.mp3",
+    "title" : "Ân Tầm - Phần 79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/8.mp3",
+    "title" : "Ân Tầm - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/80.mp3",
+    "title" : "Ân Tầm - Phần 80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/81.mp3",
+    "title" : "Ân Tầm - Phần 81",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/82.mp3",
+    "title" : "Ân Tầm - Phần 82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/83.mp3",
+    "title" : "Ân Tầm - Phần 83",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/84.mp3",
+    "title" : "Ân Tầm - Phần 84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/85.mp3",
+    "title" : "Ân Tầm - Phần 85",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/86.mp3",
+    "title" : "Ân Tầm - Phần 86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/87.mp3",
+    "title" : "Ân Tầm - Phần 87",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/88.mp3",
+    "title" : "88",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/89.mp3",
+    "title" : "89",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/9.mp3",
+    "title" : "Ân Tầm - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/90.mp3",
+    "title" : "90",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/91.mp3",
+    "title" : "91",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/92.mp3",
+    "title" : "92",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/93.mp3",
+    "title" : "93",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/94.mp3",
+    "title" : "94",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/95.mp3",
+    "title" : "95",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoitinhchimang/96.mp3",
+    "title" : "96",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

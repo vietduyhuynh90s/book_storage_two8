@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/song-chung-voi-me-chong-phu-thuy-duoi-day-bien_10267.html",
+    "title" : "Sống Chung Với Mẹ Chồng - Phù Thủy Dưới Đáy Biển",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phù Thủy Dưới Đáy Biển",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 35325,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_4243a723bf9572d8fa5dcd731e6a0ab5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_4243a723bf9572d8fa5dcd731e6a0ab5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/song-chung-voi-me-chong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6892,
+    "title" : "Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-chung-voi-me-chong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6899,
+    "title" : "Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-chung-voi-me-chong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6932,
+    "title" : "Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-chung-voi-me-chong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7969,
+    "title" : "Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-chung-voi-me-chong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6633,
+    "title" : "Phần 5 (End)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/song-chung-voi-me-chong/1.mp3",
+    "title" : "Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-chung-voi-me-chong/2.mp3",
+    "title" : "Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-chung-voi-me-chong/3.mp3",
+    "title" : "Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-chung-voi-me-chong/4.mp3",
+    "title" : "Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-chung-voi-me-chong/5.mp3",
+    "title" : "Phần 5 (End)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

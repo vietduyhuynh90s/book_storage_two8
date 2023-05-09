@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ho-ly-hao-sac_12148.html",
+    "title" : "Hồ Ly Háo Sắc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chiết Hỏa Nhất Hạ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 40581,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_e51c1a62ba5508f3ab50755870ea640a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_e51c1a62ba5508f3ab50755870ea640a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ho_ly_hao_sac/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14236,
+    "title" : "Truyện Ngôn Tình Mới Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho_ly_hao_sac/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14381,
+    "title" : "Truyện Ngôn Tình Mới Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho_ly_hao_sac/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11964,
+    "title" : "Truyện Ngôn Tình Mới Nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ho_ly_hao_sac/1.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho_ly_hao_sac/2.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho_ly_hao_sac/3.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

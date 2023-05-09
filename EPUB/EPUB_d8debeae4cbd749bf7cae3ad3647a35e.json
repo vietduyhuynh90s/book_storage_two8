@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bo-cong-anh-no-muon-lan-rua_11713.html",
+    "title" : "Bồ Công Anh Nở Muộn - Lan Rùa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lan Rùa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 33777,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_d8debeae4cbd749bf7cae3ad3647a35e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_d8debeae4cbd749bf7cae3ad3647a35e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/boconganhnomuon/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16656,
+    "title" : "Truyện Về Tình Yêu & Những Hoài Bão Tuổi Trẻ ♥ Lan Rùa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/boconganhnomuon/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7310,
+    "title" : "Truyện Ngắn Hay Về Tình Yêu 2018 ♥ Lan Rùa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/boconganhnomuon/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5421,
+    "title" : "Câu Chuyện Hay Về Tình Yêu ♥ Lan Rùa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/boconganhnomuon/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4390,
+    "title" : "Một Cuộc Tình Thật Đẹp",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/boconganhnomuon/1.mp3",
+    "title" : "Truyện Về Tình Yêu & Những Hoài Bão Tuổi Trẻ ♥ Lan Rùa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/boconganhnomuon/2.mp3",
+    "title" : "Truyện Ngắn Hay Về Tình Yêu 2018 ♥ Lan Rùa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/boconganhnomuon/3.mp3",
+    "title" : "Câu Chuyện Hay Về Tình Yêu ♥ Lan Rùa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/boconganhnomuon/4.mp3",
+    "title" : "Một Cuộc Tình Thật Đẹp",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

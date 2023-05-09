@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi_20277.html",
+    "title" : "Steve Jobs Và Apple Thay Đổi Cách Nghe Nhạc Của Thế Giới",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Thanh Truyền",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 16778,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_d204a1386201a8fec829fd45dc0b7280.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_d204a1386201a8fec829fd45dc0b7280.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/01.MucLuc_MoDau_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1064,
+    "title" : "01.MucLuc MoDau SteveJobsAppleThayDoiCachNgheNhac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/02.P01_C01_BieuTuongVanHoaTheKy_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1092,
+    "title" : "02.P01 C01 BieuTuongVanHoaTheKy SteveJobsAppleThayDoiCachNgheNhac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/03.P01_C02_LoiNhuanLaThuYeu_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 871,
+    "title" : "03.P01 C02 LoiNhuanLaThuYeu SteveJobsAppleThayDoiCachNgheNhac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/04.P02_C01_ToiSinhRaTaiTraiDat_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1167,
+    "title" : "04.P02 C01 ToiSinhRaTaiTraiDat SteveJobsAppleThayDoiCachNgheNhac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/05.P02_C02_ThapNenTrongGaraTamToi_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1369,
+    "title" : "05.P02 C02 ThapNenTrongGaraTamToi SteveJobsAppleThayDoiCachNgheNhac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/06.P02_C03_TroVeVaiTroThuLinh_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1357,
+    "title" : "06.P02 C03 TroVeVaiTroThuLinh SteveJobsAppleThayDoiCachNgheNhac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/07.P03_C01_BanDuocGiKhiMuaSanPham_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1361,
+    "title" : "07.P03 C01 BanDuocGiKhiMuaSanPham SteveJobsAppleThayDoiCachNgheNhac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/08.P03_C02_TaoRaCoHoiChoChinhMinh_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1763,
+    "title" : "08.P03 C02 TaoRaCoHoiChoChinhMinh SteveJobsAppleThayDoiCachNgheNhac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/09.P03_C03A_KhamPhaTiemNangSangTao_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 900,
+    "title" : "09.P03 C03A KhamPhaTiemNangSangTao SteveJobsAppleThayDoiCachNgheNhac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/10.P03_C03B_C4_KhamPhaTiemNangSangTao_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1134,
+    "title" : "10.P03 C03B C4 KhamPhaTiemNangSangTao SteveJobsAppleThayDoiCachNgheNhac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/11.PhuLucA_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1386,
+    "title" : "11.PhuLucA SteveJobsAppleThayDoiCachNgheNhac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/12.PhuLucB_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1166,
+    "title" : "12.PhuLucB SteveJobsAppleThayDoiCachNgheNhac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/13.PhuLucC_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1091,
+    "title" : "13.PhuLucC SteveJobsAppleThayDoiCachNgheNhac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/14.PhuLucD_Het_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1057,
+    "title" : "14.PhuLucD Het SteveJobsAppleThayDoiCachNgheNhac",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/01.MucLuc_MoDau_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "title" : "01.MucLuc MoDau SteveJobsAppleThayDoiCachNgheNhac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/02.P01_C01_BieuTuongVanHoaTheKy_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "title" : "02.P01 C01 BieuTuongVanHoaTheKy SteveJobsAppleThayDoiCachNgheNhac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/03.P01_C02_LoiNhuanLaThuYeu_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "title" : "03.P01 C02 LoiNhuanLaThuYeu SteveJobsAppleThayDoiCachNgheNhac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/04.P02_C01_ToiSinhRaTaiTraiDat_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "title" : "04.P02 C01 ToiSinhRaTaiTraiDat SteveJobsAppleThayDoiCachNgheNhac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/05.P02_C02_ThapNenTrongGaraTamToi_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "title" : "05.P02 C02 ThapNenTrongGaraTamToi SteveJobsAppleThayDoiCachNgheNhac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/06.P02_C03_TroVeVaiTroThuLinh_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "title" : "06.P02 C03 TroVeVaiTroThuLinh SteveJobsAppleThayDoiCachNgheNhac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/07.P03_C01_BanDuocGiKhiMuaSanPham_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "title" : "07.P03 C01 BanDuocGiKhiMuaSanPham SteveJobsAppleThayDoiCachNgheNhac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/08.P03_C02_TaoRaCoHoiChoChinhMinh_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "title" : "08.P03 C02 TaoRaCoHoiChoChinhMinh SteveJobsAppleThayDoiCachNgheNhac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/09.P03_C03A_KhamPhaTiemNangSangTao_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "title" : "09.P03 C03A KhamPhaTiemNangSangTao SteveJobsAppleThayDoiCachNgheNhac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/10.P03_C03B_C4_KhamPhaTiemNangSangTao_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "title" : "10.P03 C03B C4 KhamPhaTiemNangSangTao SteveJobsAppleThayDoiCachNgheNhac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/11.PhuLucA_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "title" : "11.PhuLucA SteveJobsAppleThayDoiCachNgheNhac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/12.PhuLucB_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "title" : "12.PhuLucB SteveJobsAppleThayDoiCachNgheNhac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/13.PhuLucC_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "title" : "13.PhuLucC SteveJobsAppleThayDoiCachNgheNhac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/steve-jobs-va-apple-thay-doi-cach-nghe-nhac-cua-the-gioi.sna/14.PhuLucD_Het_SteveJobsAppleThayDoiCachNgheNhac.mp3",
+    "title" : "14.PhuLucD Het SteveJobsAppleThayDoiCachNgheNhac",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

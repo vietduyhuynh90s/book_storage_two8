@@ -1,0 +1,533 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-ke-phieu-luu-harold-robbins_11436.html",
+    "title" : "Những Kẻ Phiêu Lưu - Harold Robbins",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Harold Robbins",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 97244,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_ddab7621f8704584441f1864ead92ebb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_ddab7621f8704584441f1864ead92ebb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nktpl/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2316,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – ( Tập 1 ) – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2500,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 11 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2360,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 12 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2214,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 13 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2101,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 14 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1955,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 15 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2380,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 16 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2082,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 17 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2545,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 18 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2390,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 19 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2270,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 20 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2420,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – ( Tập 2 ) – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1981,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 21 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2320,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 22 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2064,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 23 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2220,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 24 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2251,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 25 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2498,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 26 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2230,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 27 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2338,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 28 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2587,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 29 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4025,
+    "title" : "(30 & 31) – Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2160,
+    "title" : "Harold Robbins - Tập 3 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2211,
+    "title" : "(32) – Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2549,
+    "title" : "(33) – Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2095,
+    "title" : "(34) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2481,
+    "title" : "(35) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2281,
+    "title" : "(36) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2264,
+    "title" : "(37) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2379,
+    "title" : "(38) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2289,
+    "title" : "(39) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2371,
+    "title" : "(40) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2367,
+    "title" : "(41) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3689,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – ( Tập 4 & 5 ) – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2306,
+    "title" : "(42) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2794,
+    "title" : "(43 END) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2138,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 6 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2280,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 7 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2027,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 8 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2422,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 9 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nktpl/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2094,
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 10 – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nktpl/1.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – ( Tập 1 ) – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/10.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 11 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/11.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 12 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/12.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 13 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/13.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 14 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/14.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 15 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/15.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 16 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/16.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 17 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/17.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 18 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/18.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 19 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/19.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 20 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/2.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – ( Tập 2 ) – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/20.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 21 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/21.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 22 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/22.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 23 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/23.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 24 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/24.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 25 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/25.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 26 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/26.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 27 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/27.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 28 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/28.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 29 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/29.mp3",
+    "title" : "(30 & 31) – Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/3.mp3",
+    "title" : "Harold Robbins - Tập 3 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/30.mp3",
+    "title" : "(32) – Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/31.mp3",
+    "title" : "(33) – Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/32.mp3",
+    "title" : "(34) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/33.mp3",
+    "title" : "(35) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/34.mp3",
+    "title" : "(36) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/35.mp3",
+    "title" : "(37) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/36.mp3",
+    "title" : "(38) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/37.mp3",
+    "title" : "(39) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/38.mp3",
+    "title" : "(40) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/39.mp3",
+    "title" : "(41) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/4.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – ( Tập 4 & 5 ) – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/40.mp3",
+    "title" : "(42) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/41.mp3",
+    "title" : "(43 END) Những kẻ phiêu lưu – Harold Robbins – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/5.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 6 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/6.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 7 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/7.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 8 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/8.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 9 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nktpl/9.mp3",
+    "title" : "Những kẻ phiêu lưu – Harold Robbins – Tập 10 – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

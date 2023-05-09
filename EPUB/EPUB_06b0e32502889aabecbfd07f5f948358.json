@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-linh-cua-nu-phu-my-ngoc-132_11345.html",
+    "title" : "Bản Lĩnh Của Nữ Phụ - Mỹ Ngọc 132",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mỹ Ngọc 132",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 38954,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_06b0e32502889aabecbfd07f5f948358.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_06b0e32502889aabecbfd07f5f948358.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ban-linh-cua-nu-phu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13077,
+    "title" : "Bản Lĩnh Của Nữ Phụ | Truyện Ngôn Tình Hiện Đại Mới Nhất | MC Thu Hằng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-linh-cua-nu-phu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10386,
+    "title" : "Đọc Truyện Bản Lĩnh Của Nữ Phụ Tập 2 | Những Bí Ẩn Đằng Sau | MC Thu Hằng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-linh-cua-nu-phu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6543,
+    "title" : "Truyện Ngôn Tình Hay Bản Lĩnh Của Nữ Phụ [Tập 3] Bắt Đầu Hành Động | Thu Hằng diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-linh-cua-nu-phu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8948,
+    "title" : "Tập Cuối Hồi Kết Truyện Bản Lĩnh Của Nữ Phụ [Tập 4]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ban-linh-cua-nu-phu/1.mp3",
+    "title" : "Bản Lĩnh Của Nữ Phụ | Truyện Ngôn Tình Hiện Đại Mới Nhất | MC Thu Hằng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-linh-cua-nu-phu/2.mp3",
+    "title" : "Đọc Truyện Bản Lĩnh Của Nữ Phụ Tập 2 | Những Bí Ẩn Đằng Sau | MC Thu Hằng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-linh-cua-nu-phu/3.mp3",
+    "title" : "Truyện Ngôn Tình Hay Bản Lĩnh Của Nữ Phụ [Tập 3] Bắt Đầu Hành Động | Thu Hằng diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-linh-cua-nu-phu/4.mp3",
+    "title" : "Tập Cuối Hồi Kết Truyện Bản Lĩnh Của Nữ Phụ [Tập 4]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

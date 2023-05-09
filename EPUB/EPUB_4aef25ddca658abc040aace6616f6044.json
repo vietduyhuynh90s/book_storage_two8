@@ -1,0 +1,521 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/am-muu-ngay-tan-the-sidney-sheldon_2349.html",
+    "title" : "Âm Mưu Ngày Tận Thế - Sidney Sheldon",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sidney Sheldon",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 37314,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_4aef25ddca658abc040aace6616f6044.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_4aef25ddca658abc040aace6616f6044.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p01-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 636,
+    "title" : "Am-muu-ngay-tan-the-p01-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1077,
+    "title" : "Am-muu-ngay-tan-the-p03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p04-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 341,
+    "title" : "Am-muu-ngay-tan-the-p04-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 930,
+    "title" : "Am-muu-ngay-tan-the-p06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1725,
+    "title" : "Am-muu-ngay-tan-the-p07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 616,
+    "title" : "Am-muu-ngay-tan-the-p08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 579,
+    "title" : "Am-muu-ngay-tan-the-p09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p10-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 915,
+    "title" : "Am-muu-ngay-tan-the-p10-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p12-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 943,
+    "title" : "Am-muu-ngay-tan-the-p12-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p14-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 651,
+    "title" : "Am-muu-ngay-tan-the-p14-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 858,
+    "title" : "Am-muu-ngay-tan-the-p16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1372,
+    "title" : "Am-muu-ngay-tan-the-p17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2117,
+    "title" : "Am-muu-ngay-tan-the-p18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p19-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 957,
+    "title" : "Am-muu-ngay-tan-the-p19-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p21-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 298,
+    "title" : "Am-muu-ngay-tan-the-p21-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 992,
+    "title" : "Am-muu-ngay-tan-the-p23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 375,
+    "title" : "Am-muu-ngay-tan-the-p24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 704,
+    "title" : "Am-muu-ngay-tan-the-p25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 950,
+    "title" : "Am-muu-ngay-tan-the-p26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 332,
+    "title" : "Am-muu-ngay-tan-the-p27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 738,
+    "title" : "Am-muu-ngay-tan-the-p28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 947,
+    "title" : "Am-muu-ngay-tan-the-p29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p30-31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 329,
+    "title" : "Am-muu-ngay-tan-the-p30-31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1726,
+    "title" : "Am-muu-ngay-tan-the-p32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p33-34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1308,
+    "title" : "Am-muu-ngay-tan-the-p33-34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1148,
+    "title" : "Am-muu-ngay-tan-the-p35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2046,
+    "title" : "Am-muu-ngay-tan-the-p36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1582,
+    "title" : "Am-muu-ngay-tan-the-p37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1295,
+    "title" : "Am-muu-ngay-tan-the-p38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p39-40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 559,
+    "title" : "Am-muu-ngay-tan-the-p39-40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 583,
+    "title" : "Am-muu-ngay-tan-the-p41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1225,
+    "title" : "Am-muu-ngay-tan-the-p42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p43-44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 626,
+    "title" : "Am-muu-ngay-tan-the-p43-44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1368,
+    "title" : "Am-muu-ngay-tan-the-p45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 410,
+    "title" : "Am-muu-ngay-tan-the-p46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1555,
+    "title" : "Am-muu-ngay-tan-the-p47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 549,
+    "title" : "Am-muu-ngay-tan-the-p48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p49-50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 610,
+    "title" : "Am-muu-ngay-tan-the-p49-50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 747,
+    "title" : "Am-muu-ngay-tan-the-p51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 595,
+    "title" : "Am-muu-ngay-tan-the-p52",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p01-2.mp3",
+    "title" : "Am-muu-ngay-tan-the-p01-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p03.mp3",
+    "title" : "Am-muu-ngay-tan-the-p03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p04-5.mp3",
+    "title" : "Am-muu-ngay-tan-the-p04-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p06.mp3",
+    "title" : "Am-muu-ngay-tan-the-p06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p07.mp3",
+    "title" : "Am-muu-ngay-tan-the-p07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p08.mp3",
+    "title" : "Am-muu-ngay-tan-the-p08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p09.mp3",
+    "title" : "Am-muu-ngay-tan-the-p09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p10-11.mp3",
+    "title" : "Am-muu-ngay-tan-the-p10-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p12-13.mp3",
+    "title" : "Am-muu-ngay-tan-the-p12-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p14-15.mp3",
+    "title" : "Am-muu-ngay-tan-the-p14-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p16.mp3",
+    "title" : "Am-muu-ngay-tan-the-p16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p17.mp3",
+    "title" : "Am-muu-ngay-tan-the-p17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p18.mp3",
+    "title" : "Am-muu-ngay-tan-the-p18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p19-20.mp3",
+    "title" : "Am-muu-ngay-tan-the-p19-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p21-22.mp3",
+    "title" : "Am-muu-ngay-tan-the-p21-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p23.mp3",
+    "title" : "Am-muu-ngay-tan-the-p23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p24.mp3",
+    "title" : "Am-muu-ngay-tan-the-p24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p25.mp3",
+    "title" : "Am-muu-ngay-tan-the-p25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p26.mp3",
+    "title" : "Am-muu-ngay-tan-the-p26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p27.mp3",
+    "title" : "Am-muu-ngay-tan-the-p27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p28.mp3",
+    "title" : "Am-muu-ngay-tan-the-p28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p29.mp3",
+    "title" : "Am-muu-ngay-tan-the-p29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p30-31.mp3",
+    "title" : "Am-muu-ngay-tan-the-p30-31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p32.mp3",
+    "title" : "Am-muu-ngay-tan-the-p32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p33-34.mp3",
+    "title" : "Am-muu-ngay-tan-the-p33-34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p35.mp3",
+    "title" : "Am-muu-ngay-tan-the-p35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p36.mp3",
+    "title" : "Am-muu-ngay-tan-the-p36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p37.mp3",
+    "title" : "Am-muu-ngay-tan-the-p37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p38.mp3",
+    "title" : "Am-muu-ngay-tan-the-p38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p39-40.mp3",
+    "title" : "Am-muu-ngay-tan-the-p39-40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p41.mp3",
+    "title" : "Am-muu-ngay-tan-the-p41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p42.mp3",
+    "title" : "Am-muu-ngay-tan-the-p42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p43-44.mp3",
+    "title" : "Am-muu-ngay-tan-the-p43-44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p45.mp3",
+    "title" : "Am-muu-ngay-tan-the-p45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p46.mp3",
+    "title" : "Am-muu-ngay-tan-the-p46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p47.mp3",
+    "title" : "Am-muu-ngay-tan-the-p47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p48.mp3",
+    "title" : "Am-muu-ngay-tan-the-p48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p49-50.mp3",
+    "title" : "Am-muu-ngay-tan-the-p49-50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p51.mp3",
+    "title" : "Am-muu-ngay-tan-the-p51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Am-Muu-Ngay-Tan-The-truyen-audio/Am-muu-ngay-tan-the-p52.mp3",
+    "title" : "Am-muu-ngay-tan-the-p52",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

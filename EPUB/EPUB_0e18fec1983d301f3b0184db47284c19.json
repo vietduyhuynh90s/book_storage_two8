@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-quyet-gay-dung-co-nghiep-bac-ty_15444.html",
+    "title" : "Bí quyết Gây dựng Cơ Nghiệp Bạc Tỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Adam Khoo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25821,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_0e18fec1983d301f3b0184db47284c19.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_0e18fec1983d301f3b0184db47284c19.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bi-quyet-gay-dung-co-nghiep-bac-ty/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Kho sách nói | Bí quyết gây dựng cơ nghiệp bạc tỷ Adam Khoo | sách dạy kinh doanh làm giàu hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-gay-dung-co-nghiep-bac-ty/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Kho sách nói | Bí quyết gây dựng cơ nghiệp bạc tỷ Adam Khoo | sách dạy kinh doanh làm giàu hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-gay-dung-co-nghiep-bac-ty/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Kho sách nói | Bí quyết gây dựng cơ nghiệp bạc tỷ Adam Khoo | sách dạy kinh doanh làm giàu hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-gay-dung-co-nghiep-bac-ty/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4221,
+    "title" : "Kho sách nói | Bí quyết gây dựng cơ nghiệp bạc tỷ Adam Khoo | sách dạy kinh doanh làm giàu hay nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bi-quyet-gay-dung-co-nghiep-bac-ty/1.mp3",
+    "title" : "Kho sách nói | Bí quyết gây dựng cơ nghiệp bạc tỷ Adam Khoo | sách dạy kinh doanh làm giàu hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-gay-dung-co-nghiep-bac-ty/2.mp3",
+    "title" : "Kho sách nói | Bí quyết gây dựng cơ nghiệp bạc tỷ Adam Khoo | sách dạy kinh doanh làm giàu hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-gay-dung-co-nghiep-bac-ty/3.mp3",
+    "title" : "Kho sách nói | Bí quyết gây dựng cơ nghiệp bạc tỷ Adam Khoo | sách dạy kinh doanh làm giàu hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-gay-dung-co-nghiep-bac-ty/4.mp3",
+    "title" : "Kho sách nói | Bí quyết gây dựng cơ nghiệp bạc tỷ Adam Khoo | sách dạy kinh doanh làm giàu hay nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tim-lai-chinh-minh_14812.html",
+    "title" : "Tìm Lại Chính Mình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Marcia Grad",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 18666,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_ae5c8e01e5611e8a15da621008ee009f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_ae5c8e01e5611e8a15da621008ee009f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 451,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1333,
+    "title" : "Một ngày chàng hoàng tử sẽ đến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 790,
+    "title" : "Cuộc hội ngộ với thầy thuốc trái tim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 951,
+    "title" : "Hoàng tử phong nhã",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 795,
+    "title" : "Chàng tiếu lâm và kẻ giấu mặt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 745,
+    "title" : "Những cánh hồng nhàu nát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 939,
+    "title" : "Nên hay không nên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 983,
+    "title" : "Cẩm nang sống hạnh phúc mãi mãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1279,
+    "title" : "Con đường chân lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1923,
+    "title" : "Đại dương cảm xúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1035,
+    "title" : "Miền ảo ảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1504,
+    "title" : "Khu trại dành cho những lữ khách lạc đường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1222,
+    "title" : "Vùng đất của sự thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1330,
+    "title" : "Con đường ký ức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 922,
+    "title" : "Thung lũng hoàn hảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 723,
+    "title" : "Ngôi đền chân lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1741,
+    "title" : "Cuộn da thiêng",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch00.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch01.mp3",
+    "title" : "Một ngày chàng hoàng tử sẽ đến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch02.mp3",
+    "title" : "Cuộc hội ngộ với thầy thuốc trái tim",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch03.mp3",
+    "title" : "Hoàng tử phong nhã",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch04.mp3",
+    "title" : "Chàng tiếu lâm và kẻ giấu mặt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch05.mp3",
+    "title" : "Những cánh hồng nhàu nát",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch07.mp3",
+    "title" : "Nên hay không nên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch08.mp3",
+    "title" : "Cẩm nang sống hạnh phúc mãi mãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch09.mp3",
+    "title" : "Con đường chân lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch10.mp3",
+    "title" : "Đại dương cảm xúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch11.mp3",
+    "title" : "Miền ảo ảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch12.mp3",
+    "title" : "Khu trại dành cho những lữ khách lạc đường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch13.mp3",
+    "title" : "Vùng đất của sự thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch14.mp3",
+    "title" : "Con đường ký ức",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch15.mp3",
+    "title" : "Thung lũng hoàn hảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch16.mp3",
+    "title" : "Ngôi đền chân lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-timlaichinhminh/ch17.mp3",
+    "title" : "Cuộn da thiêng",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

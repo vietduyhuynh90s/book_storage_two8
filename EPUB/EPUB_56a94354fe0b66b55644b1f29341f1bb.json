@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tinh-kiep-tam-sinh-cuu-lo-phi-huong_10285.html",
+    "title" : "Tình Kiếp Tam Sinh - Cửu Lộ Phi Hương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Lộ Phi Hương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 16688,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_56a94354fe0b66b55644b1f29341f1bb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_56a94354fe0b66b55644b1f29341f1bb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tinh-kiep-tam-sinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2635,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-kiep-tam-sinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2695,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-kiep-tam-sinh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2324,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-kiep-tam-sinh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2759,
+    "title" : "Truyện Ngôn Tình Sắc Xuyên Không Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-kiep-tam-sinh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "Truyện Ngôn Tình Sắc Xuyên Không Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-kiep-tam-sinh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2605,
+    "title" : "Truyện Ngôn Tình Sắc Xuyên Không Hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tinh-kiep-tam-sinh/1.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-kiep-tam-sinh/2.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-kiep-tam-sinh/3.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-kiep-tam-sinh/4.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Xuyên Không Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-kiep-tam-sinh/5.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Xuyên Không Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-kiep-tam-sinh/6.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Xuyên Không Hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

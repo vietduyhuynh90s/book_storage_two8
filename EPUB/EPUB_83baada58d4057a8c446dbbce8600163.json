@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lay-mot-hoang-hau-khong-tranh-sung-pham-khuyet_10313.html",
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng - Phạm Khuyết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phạm Khuyết",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 84037,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_83baada58d4057a8c446dbbce8600163.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_83baada58d4057a8c446dbbce8600163.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6128,
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7781,
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6855,
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9736,
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P12 Hết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6366,
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7404,
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6799,
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6177,
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6099,
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6867,
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6659,
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7166,
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/1.mp3",
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/10.mp3",
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/11.mp3",
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/12.mp3",
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P12 Hết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/2.mp3",
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/3.mp3",
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/4.mp3",
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/5.mp3",
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/6.mp3",
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/7.mp3",
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/8.mp3",
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-mot-hoang-hau-khong-tranh-sung/9.mp3",
+    "title" : "Lấy Một Hoàng Hậu Không Tranh Sủng – Ngôn Tình Xuyên Không Cung Đấu – P9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

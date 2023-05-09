@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-harry-potter-va-hon-da-phu-thuy-j-k-rowling-ky-ao_2450.html",
+    "title" : "Harry Potter Và Hòn Đá Phù Thuỷ - J. K. Rowling",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "J. K. Rowling",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 31660,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_e9bedbb1064e6e27df39b1ee52b4d165.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_e9bedbb1064e6e27df39b1ee52b4d165.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/001-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1163,
+    "title" : "001-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/002-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1379,
+    "title" : "002-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/003-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1576,
+    "title" : "003-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/004-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1609,
+    "title" : "004-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/005-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3034,
+    "title" : "005-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/006-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2813,
+    "title" : "006-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/007-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1809,
+    "title" : "007-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/008-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1266,
+    "title" : "008-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/009-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2295,
+    "title" : "009-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/010-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1838,
+    "title" : "010-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/011-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1520,
+    "title" : "011-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/012-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2498,
+    "title" : "012-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/013-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1403,
+    "title" : "013-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/014-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1634,
+    "title" : "014-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/015-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1014,
+    "title" : "015-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/016-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2584,
+    "title" : "016-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/017ket-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2225,
+    "title" : "017ket-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/001-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "001-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/002-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "002-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/003-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "003-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/004-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "004-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/005-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "005-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/006-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "006-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/007-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "007-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/008-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "008-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/009-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "009-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/010-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "010-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/011-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "011-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/012-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "012-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/013-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "013-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/014-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "014-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/015-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "015-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/016-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "016-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HarryPotter_Phan1_Hondaphuthuy/017ket-HarryPotter-H%C3%B2n%C4%90%C3%A1Ph%C3%B9Th%E1%BB%A7y-JKRowling-%C4%90%E1%BB%93ngLinhNamD%C6%B0%C6%A1ng.mp3",
+    "title" : "017ket-HarryPotter-HònĐáPhùThủy-JKRowling-ĐồngLinhNamDương",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

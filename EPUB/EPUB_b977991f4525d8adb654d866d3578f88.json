@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chiec-nhan-kim-cuong-danielle-steel_11437.html",
+    "title" : "Chiếc Nhẫn Kim Cương - Danielle Steel",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Danielle Steel",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 29375,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_b977991f4525d8adb654d866d3578f88.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_b977991f4525d8adb654d866d3578f88.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 186,
+    "title" : "Danielle Steel - Truyện Audio Lê Duyên Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4221,
+    "title" : "Chiếc nhẫn kim cương – Danielle Steel – (1&2) – Truyện Audio Lê Duyên–Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4440,
+    "title" : "Chiếc nhẫn kim cương – Danielle Steel – (3&4) – Truyện Audio Lê Duyên–Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4284,
+    "title" : "Chiếc nhẫn kim cương – Danielle Steel – (5&6) – Truyện Audio Lê Duyên–Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4058,
+    "title" : "Chiếc nhẫn kim cương – Danielle Steel – (7&8 ) – Truyện Audio Lê Duyên–Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3949,
+    "title" : "Chiếc nhẫn kim cương – Danielle Steel – (9&10 ) – Truyện Audio Lê Duyên–Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4295,
+    "title" : "Chiếc nhẫn kim cương – Danielle Steel – (11&12 ) – Truyện Audio Lê Duyên–Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "Chiếc nhẫn kim cương – Danielle Steel – (Tập 13 END ) – Truyện Audio Lê Duyên–Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/1.mp3",
+    "title" : "Danielle Steel - Truyện Audio Lê Duyên Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/2.mp3",
+    "title" : "Chiếc nhẫn kim cương – Danielle Steel – (1&2) – Truyện Audio Lê Duyên–Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/3.mp3",
+    "title" : "Chiếc nhẫn kim cương – Danielle Steel – (3&4) – Truyện Audio Lê Duyên–Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/4.mp3",
+    "title" : "Chiếc nhẫn kim cương – Danielle Steel – (5&6) – Truyện Audio Lê Duyên–Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/5.mp3",
+    "title" : "Chiếc nhẫn kim cương – Danielle Steel – (7&8 ) – Truyện Audio Lê Duyên–Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/6.mp3",
+    "title" : "Chiếc nhẫn kim cương – Danielle Steel – (9&10 ) – Truyện Audio Lê Duyên–Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/7.mp3",
+    "title" : "Chiếc nhẫn kim cương – Danielle Steel – (11&12 ) – Truyện Audio Lê Duyên–Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cnkc/8.mp3",
+    "title" : "Chiếc nhẫn kim cương – Danielle Steel – (Tập 13 END ) – Truyện Audio Lê Duyên–Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

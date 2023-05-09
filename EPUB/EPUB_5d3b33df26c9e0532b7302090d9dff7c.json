@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thanh-pho-thien-than-patrick-smith_11387.html",
+    "title" : "Thành Phố Thiên Thần - Patrick Smith",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Patrick Smith",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 20673,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_5d3b33df26c9e0532b7302090d9dff7c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_5d3b33df26c9e0532b7302090d9dff7c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2528,
+    "title" : "Patrick D. Smith - Tập 1- Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2867,
+    "title" : "Patrick D. Smith - Tập 2 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2299,
+    "title" : "Patrick D. Smith - Tập 3 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2522,
+    "title" : "Patrick D. Smith - Tập 4 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2153,
+    "title" : "Patrick D. Smith - Tập 5 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2563,
+    "title" : "Patrick D. Smith - Tập 6 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2587,
+    "title" : "Patrick D. Smith - Tập 7 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3154,
+    "title" : "Patrick D. Smith - Tập 8 END - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/1.mp3",
+    "title" : "Patrick D. Smith - Tập 1- Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/2.mp3",
+    "title" : "Patrick D. Smith - Tập 2 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/3.mp3",
+    "title" : "Patrick D. Smith - Tập 3 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/4.mp3",
+    "title" : "Patrick D. Smith - Tập 4 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/5.mp3",
+    "title" : "Patrick D. Smith - Tập 5 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/6.mp3",
+    "title" : "Patrick D. Smith - Tập 6 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/7.mp3",
+    "title" : "Patrick D. Smith - Tập 7 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tptt/8.mp3",
+    "title" : "Patrick D. Smith - Tập 8 END - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

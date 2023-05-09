@@ -1,0 +1,977 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tao-thien-ba-tao-trong-hoai_10263.html",
+    "title" : "Tào Thiên Bá - Tào Trọng Hoài",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tào Trọng Hoài",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 108453,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_7b2fde86a398048137406a087125dcb6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_7b2fde86a398048137406a087125dcb6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tao-thien-ba/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1157,
+    "title" : "tào tháo | lời mở đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 811,
+    "title" : "tào tháo | chương 02/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1648,
+    "title" : "tào tháo | chương 02/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1449,
+    "title" : "tào tháo | chương 02/3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 865,
+    "title" : "tào tháo | chương 02/4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1780,
+    "title" : "tào tháo | chương 03/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1499,
+    "title" : "tào tháo | chương 03/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1464,
+    "title" : "tào tháo | chương 03/3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1491,
+    "title" : "tào tháo | chương 03/4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1680,
+    "title" : "tào tháo | chương 04/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2254,
+    "title" : "tào tháo | chương 04/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 697,
+    "title" : "tào tháo | chương 01/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1202,
+    "title" : "tào tháo | chương 04/3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1564,
+    "title" : "tào tháo | chương 05/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1189,
+    "title" : "tào tháo | chương 05/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2043,
+    "title" : "tào tháo | chương 06/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1795,
+    "title" : "tào tháo | chương 06/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2301,
+    "title" : "tào tháo | chương 07/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1934,
+    "title" : "tào tháo | chương 07/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1676,
+    "title" : "tào tháo | chương 08/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2323,
+    "title" : "tào tháo | chương 08/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1658,
+    "title" : "tào tháo | chương 09/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1005,
+    "title" : "tào tháo | chương 01/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 915,
+    "title" : "tào tháo | chương 09/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1605,
+    "title" : "tào tháo | chương 10/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1632,
+    "title" : "tào tháo | chương 10/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1404,
+    "title" : "tào tháo | chương 10/3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1371,
+    "title" : "tào tháo | chương 11/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1286,
+    "title" : "tào tháo | chương 11/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1163,
+    "title" : "tào tháo | chương 12/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1402,
+    "title" : "tào tháo | chương 12/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1724,
+    "title" : "tào tháo | chương 13/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1538,
+    "title" : "tào tháo | chương 13/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1009,
+    "title" : "tào tháo | chương 01/3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1377,
+    "title" : "tào tháo | chương 14/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1634,
+    "title" : "tào tháo | chương 14/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1304,
+    "title" : "tào tháo | chương 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1228,
+    "title" : "tào tháo | chương 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1645,
+    "title" : "tào tháo | chương 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1467,
+    "title" : "tào tháo | chương 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1183,
+    "title" : "tào tháo | chương 19/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1085,
+    "title" : "tào tháo | chương 19/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1448,
+    "title" : "tào tháo | chương 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1229,
+    "title" : "tào tháo | chương 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1109,
+    "title" : "tào tháo | chương 01/4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1252,
+    "title" : "tào tháo | chương 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1278,
+    "title" : "tào tháo | chương 23/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2081,
+    "title" : "tào tháo | chương 23/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1221,
+    "title" : "tào tháo | chương 23/3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 912,
+    "title" : "tào tháo | chương 24/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 966,
+    "title" : "tào tháo | chương 24/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1606,
+    "title" : "tào tháo | chương 25/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1395,
+    "title" : "tào tháo | chương 25/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 820,
+    "title" : "tào tháo | chương 25/3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1384,
+    "title" : "tào tháo | chương 26/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1216,
+    "title" : "tào tháo | chương 01/5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1423,
+    "title" : "tào tháo | chương 26/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1140,
+    "title" : "tào tháo | chương 26/3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1658,
+    "title" : "tào tháo | chương 26/4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1520,
+    "title" : "tào tháo | chương 27/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1316,
+    "title" : "tào tháo | chương 27/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1420,
+    "title" : "tào tháo | chương 27/3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1580,
+    "title" : "tào tháo | chương 27/4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1107,
+    "title" : "tào tháo | chương 28/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1264,
+    "title" : "tào tháo | chương 28/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1415,
+    "title" : "tào tháo | chương 28/3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1517,
+    "title" : "tào tháo | chương 01/6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1350,
+    "title" : "tào tháo | chương 28/4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1498,
+    "title" : "tào tháo | chương 28/5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1224,
+    "title" : "tào tháo | chương 29/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1227,
+    "title" : "tào tháo | chương 29/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1121,
+    "title" : "tào tháo | chương 29/3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1124,
+    "title" : "tào tháo | chương 30/1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1128,
+    "title" : "tào tháo | chương 30/2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1671,
+    "title" : "tào tháo | chương 30/3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1437,
+    "title" : "tào tháo | chương kết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 556,
+    "title" : "tào tháo | chương 01/7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1383,
+    "title" : "tào tháo | chương 01/8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tao-thien-ba/1.mp3",
+    "title" : "tào tháo | lời mở đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/10.mp3",
+    "title" : "tào tháo | chương 02/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/11.mp3",
+    "title" : "tào tháo | chương 02/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/12.mp3",
+    "title" : "tào tháo | chương 02/3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/13.mp3",
+    "title" : "tào tháo | chương 02/4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/14.mp3",
+    "title" : "tào tháo | chương 03/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/15.mp3",
+    "title" : "tào tháo | chương 03/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/16.mp3",
+    "title" : "tào tháo | chương 03/3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/17.mp3",
+    "title" : "tào tháo | chương 03/4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/18.mp3",
+    "title" : "tào tháo | chương 04/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/19.mp3",
+    "title" : "tào tháo | chương 04/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/2.mp3",
+    "title" : "tào tháo | chương 01/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/20.mp3",
+    "title" : "tào tháo | chương 04/3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/21.mp3",
+    "title" : "tào tháo | chương 05/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/22.mp3",
+    "title" : "tào tháo | chương 05/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/23.mp3",
+    "title" : "tào tháo | chương 06/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/24.mp3",
+    "title" : "tào tháo | chương 06/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/25.mp3",
+    "title" : "tào tháo | chương 07/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/26.mp3",
+    "title" : "tào tháo | chương 07/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/27.mp3",
+    "title" : "tào tháo | chương 08/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/28.mp3",
+    "title" : "tào tháo | chương 08/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/29.mp3",
+    "title" : "tào tháo | chương 09/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/3.mp3",
+    "title" : "tào tháo | chương 01/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/30.mp3",
+    "title" : "tào tháo | chương 09/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/31.mp3",
+    "title" : "tào tháo | chương 10/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/32.mp3",
+    "title" : "tào tháo | chương 10/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/33.mp3",
+    "title" : "tào tháo | chương 10/3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/34.mp3",
+    "title" : "tào tháo | chương 11/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/35.mp3",
+    "title" : "tào tháo | chương 11/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/36.mp3",
+    "title" : "tào tháo | chương 12/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/37.mp3",
+    "title" : "tào tháo | chương 12/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/38.mp3",
+    "title" : "tào tháo | chương 13/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/39.mp3",
+    "title" : "tào tháo | chương 13/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/4.mp3",
+    "title" : "tào tháo | chương 01/3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/40.mp3",
+    "title" : "tào tháo | chương 14/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/41.mp3",
+    "title" : "tào tháo | chương 14/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/42.mp3",
+    "title" : "tào tháo | chương 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/43.mp3",
+    "title" : "tào tháo | chương 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/44.mp3",
+    "title" : "tào tháo | chương 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/45.mp3",
+    "title" : "tào tháo | chương 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/46.mp3",
+    "title" : "tào tháo | chương 19/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/47.mp3",
+    "title" : "tào tháo | chương 19/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/48.mp3",
+    "title" : "tào tháo | chương 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/49.mp3",
+    "title" : "tào tháo | chương 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/5.mp3",
+    "title" : "tào tháo | chương 01/4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/50.mp3",
+    "title" : "tào tháo | chương 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/51.mp3",
+    "title" : "tào tháo | chương 23/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/52.mp3",
+    "title" : "tào tháo | chương 23/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/53.mp3",
+    "title" : "tào tháo | chương 23/3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/54.mp3",
+    "title" : "tào tháo | chương 24/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/55.mp3",
+    "title" : "tào tháo | chương 24/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/56.mp3",
+    "title" : "tào tháo | chương 25/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/57.mp3",
+    "title" : "tào tháo | chương 25/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/58.mp3",
+    "title" : "tào tháo | chương 25/3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/59.mp3",
+    "title" : "tào tháo | chương 26/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/6.mp3",
+    "title" : "tào tháo | chương 01/5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/60.mp3",
+    "title" : "tào tháo | chương 26/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/61.mp3",
+    "title" : "tào tháo | chương 26/3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/62.mp3",
+    "title" : "tào tháo | chương 26/4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/63.mp3",
+    "title" : "tào tháo | chương 27/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/64.mp3",
+    "title" : "tào tháo | chương 27/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/65.mp3",
+    "title" : "tào tháo | chương 27/3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/66.mp3",
+    "title" : "tào tháo | chương 27/4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/67.mp3",
+    "title" : "tào tháo | chương 28/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/68.mp3",
+    "title" : "tào tháo | chương 28/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/69.mp3",
+    "title" : "tào tháo | chương 28/3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/7.mp3",
+    "title" : "tào tháo | chương 01/6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/70.mp3",
+    "title" : "tào tháo | chương 28/4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/71.mp3",
+    "title" : "tào tháo | chương 28/5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/72.mp3",
+    "title" : "tào tháo | chương 29/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/73.mp3",
+    "title" : "tào tháo | chương 29/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/74.mp3",
+    "title" : "tào tháo | chương 29/3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/75.mp3",
+    "title" : "tào tháo | chương 30/1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/76.mp3",
+    "title" : "tào tháo | chương 30/2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/77.mp3",
+    "title" : "tào tháo | chương 30/3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/78.mp3",
+    "title" : "tào tháo | chương kết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/8.mp3",
+    "title" : "tào tháo | chương 01/7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tao-thien-ba/9.mp3",
+    "title" : "tào tháo | chương 01/8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

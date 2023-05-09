@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/gatsby-vi-dai-f-scott-fitzgerald_9265.html",
+    "title" : "Gatsby Vĩ Đại - F. Scott Fitzgerald",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "F Scott Fitzgerald",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 20717,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_334c7685a834656311c28c682494ddc6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_334c7685a834656311c28c682494ddc6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/DTV_GBVD/01_GBVD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2492,
+    "title" : "01 GBVD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/02_GBVD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1722,
+    "title" : "02 GBVD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/03_GBVD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2455,
+    "title" : "03 GBVD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/04_GBVD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2362,
+    "title" : "04 GBVD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/05_GBVD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1847,
+    "title" : "05 GBVD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/06_GBVD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1820,
+    "title" : "06 GBVD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/07_GBVD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3911,
+    "title" : "07 GBVD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/08_GBVD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1924,
+    "title" : "08 GBVD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/09_GBVD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2184,
+    "title" : "09 GBVD",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/DTV_GBVD/01_GBVD.mp3",
+    "title" : "01 GBVD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/02_GBVD.mp3",
+    "title" : "02 GBVD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/03_GBVD.mp3",
+    "title" : "03 GBVD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/04_GBVD.mp3",
+    "title" : "04 GBVD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/05_GBVD.mp3",
+    "title" : "05 GBVD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/06_GBVD.mp3",
+    "title" : "06 GBVD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/07_GBVD.mp3",
+    "title" : "07 GBVD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/08_GBVD.mp3",
+    "title" : "08 GBVD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_GBVD/09_GBVD.mp3",
+    "title" : "09 GBVD",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

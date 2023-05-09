@@ -1,0 +1,569 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoang-tuyen-dan-lo-nhan-he-liet-nap-lan-nguyen-so_10541.html",
+    "title" : "Hoàng Tuyền Dẫn Lộ Nhân Hệ Liệt - Nạp Lan Nguyên Sơ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nạp Lan Nguyên Sơ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 169450,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_164aaece0226b2192d05b22ec37749ff.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_164aaece0226b2192d05b22ec37749ff.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2611,
+    "title" : "Kinh Biến | Truyện Trinh Thám Hay| MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4144,
+    "title" : "Phần 10 | SAO TAM LANG HẠ PHÀM - HUYỀN CƯƠNG | MC NGUYỄN THÀNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3487,
+    "title" : "Phần 11 | ĐOẠN LONG ĐÀI | MC NGUYỄN THÀNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3902,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4676,
+    "title" : "Phần 13 | LONG VƯƠNG XUẤT HIỆN | MC NGUYỄN THÀNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3591,
+    "title" : "14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3259,
+    "title" : "15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3911,
+    "title" : "Phần 16 | Ý NGHĨA 2 TỪ NAM NGUYỆT | MC NGUYỄN THÀNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4778,
+    "title" : "Phần 17 | KẾT THÚC QUYỂN 1 | MC NGUYỄN THÀNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3564,
+    "title" : "18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3884,
+    "title" : "ÁC MỘNG | Truyện Trinh Thám Hot| MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3656,
+    "title" : "20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4029,
+    "title" : "Phần 21 | NGUY HIỂM RÌNH RẬP | MC NGUYỄN THÀNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4073,
+    "title" : "Phần 22 | 4 Thanh Tà Binh | MC NGUYỄN THÀNH kể truyện ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4473,
+    "title" : "Phần 23 | BÍ ẨN CỦA CÁC THANH TÀ BINH | MC NGUYỄN THÀNH kể truyện ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4263,
+    "title" : "Phần 24 | THANH TÀ BINH THỨ 2 | MC NGUYỄN THÀNH kể truyện ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4569,
+    "title" : "Phần 25 | Đọc truyện đêm khuya | MC NGUYỄN THÀNH kể truyện ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3873,
+    "title" : "Phần 26 | THÂN PHẬN THẬT CỦA VŨ VĂN THỤ HỌC | MC NGUYỄN THÀNH kể truyện ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4263,
+    "title" : "Phần 27 | HUNG THỦ BÍ ẨN | MC NGUYỄN THÀNH kể truyện ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4145,
+    "title" : "Phần 28 | SƯ HUYNH - TIỂU MUỘI | MC NGUYỄN THÀNH kể truyện ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4499,
+    "title" : "Phần 29 | ÂM DƯƠNG SƯ | MC NGUYỄN THÀNH kể truyện ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4172,
+    "title" : "LINH HỒN | Truyện Trinh Thám | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3469,
+    "title" : "Phần 30 | BỨC TRANH THỨ 2 | MC NGUYỄN THÀNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4109,
+    "title" : "Phần 31 | TRAO ĐỔI TÀ BINH | MC NGUYỄN THÀNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4600,
+    "title" : "Phần 32 | CUỒNG ĐAO SHAMSHIR | MC NGUYỄN THÀNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3739,
+    "title" : "Phần 33 | BÍ MẬT CẦN ĐƯỢC BẢO VỆ | MC NGUYỄN THÀNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3626,
+    "title" : "Phần 34 | TUNG TÍCH THANH TÀ BINH THỨ 4 | MC NGUYỄN THÀNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4274,
+    "title" : "Phần 35 | ĐỔI XÁC | MC NGUYỄN THÀNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3838,
+    "title" : "Phần 36 | QUẤY RẦY | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4714,
+    "title" : "Phần 37 | QUÁ KHỨ DẤU KÍN | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3187,
+    "title" : "Phần 38 | NGŨ LÔI ĐẠI PHÁP | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3947,
+    "title" : "Phần 39 | DỊCH BỆNH | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3765,
+    "title" : "Hoàng Tuyền Dẫn Lộ Nhân Tập 4| Thế Trận Nghi Binh | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3875,
+    "title" : "Phần 40 | ĐAO THIÊN THẠCH | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3239,
+    "title" : "Phần 41 | HỖN CHIẾN SINH TỬ | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2715,
+    "title" : "Phần 42 | TÀ BINH ĐẠI CHIẾN | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3355,
+    "title" : "Phần 43 | CUỘC CHIẾN KẾT THÚC | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2973,
+    "title" : "Phần 44 | ĐẠI KẾT CỤC | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3487,
+    "title" : "Thương Nghiệp| Hoàng Tuyền Dẫn Lộ Nhân tập 05| | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3805,
+    "title" : "HỒN ĐỘN | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3830,
+    "title" : "Truyện Trinh Thám | Hoàng Tuyền Dẫn Lộ Nhân TẬP 07 | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4298,
+    "title" : "Truyện Trinh Thám | Hoàng Tuyền Dẫn Lộ Nhân TẬP 08 | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3868,
+    "title" : "Phần 9 | TẠC XỈ - NGƯỜI SÓI | MC NGUYỄN THÀNH",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/1.mp3",
+    "title" : "Kinh Biến | Truyện Trinh Thám Hay| MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/10.mp3",
+    "title" : "Phần 10 | SAO TAM LANG HẠ PHÀM - HUYỀN CƯƠNG | MC NGUYỄN THÀNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/11.mp3",
+    "title" : "Phần 11 | ĐOẠN LONG ĐÀI | MC NGUYỄN THÀNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/13.mp3",
+    "title" : "Phần 13 | LONG VƯƠNG XUẤT HIỆN | MC NGUYỄN THÀNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/15.mp3",
+    "title" : "15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/16.mp3",
+    "title" : "Phần 16 | Ý NGHĨA 2 TỪ NAM NGUYỆT | MC NGUYỄN THÀNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/17.mp3",
+    "title" : "Phần 17 | KẾT THÚC QUYỂN 1 | MC NGUYỄN THÀNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/18.mp3",
+    "title" : "18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/19.mp3",
+    "title" : "19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/2.mp3",
+    "title" : "ÁC MỘNG | Truyện Trinh Thám Hot| MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/20.mp3",
+    "title" : "20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/21.mp3",
+    "title" : "Phần 21 | NGUY HIỂM RÌNH RẬP | MC NGUYỄN THÀNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/22.mp3",
+    "title" : "Phần 22 | 4 Thanh Tà Binh | MC NGUYỄN THÀNH kể truyện ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/23.mp3",
+    "title" : "Phần 23 | BÍ ẨN CỦA CÁC THANH TÀ BINH | MC NGUYỄN THÀNH kể truyện ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/24.mp3",
+    "title" : "Phần 24 | THANH TÀ BINH THỨ 2 | MC NGUYỄN THÀNH kể truyện ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/25.mp3",
+    "title" : "Phần 25 | Đọc truyện đêm khuya | MC NGUYỄN THÀNH kể truyện ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/26.mp3",
+    "title" : "Phần 26 | THÂN PHẬN THẬT CỦA VŨ VĂN THỤ HỌC | MC NGUYỄN THÀNH kể truyện ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/27.mp3",
+    "title" : "Phần 27 | HUNG THỦ BÍ ẨN | MC NGUYỄN THÀNH kể truyện ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/28.mp3",
+    "title" : "Phần 28 | SƯ HUYNH - TIỂU MUỘI | MC NGUYỄN THÀNH kể truyện ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/29.mp3",
+    "title" : "Phần 29 | ÂM DƯƠNG SƯ | MC NGUYỄN THÀNH kể truyện ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/3.mp3",
+    "title" : "LINH HỒN | Truyện Trinh Thám | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/30.mp3",
+    "title" : "Phần 30 | BỨC TRANH THỨ 2 | MC NGUYỄN THÀNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/31.mp3",
+    "title" : "Phần 31 | TRAO ĐỔI TÀ BINH | MC NGUYỄN THÀNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/32.mp3",
+    "title" : "Phần 32 | CUỒNG ĐAO SHAMSHIR | MC NGUYỄN THÀNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/33.mp3",
+    "title" : "Phần 33 | BÍ MẬT CẦN ĐƯỢC BẢO VỆ | MC NGUYỄN THÀNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/34.mp3",
+    "title" : "Phần 34 | TUNG TÍCH THANH TÀ BINH THỨ 4 | MC NGUYỄN THÀNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/35.mp3",
+    "title" : "Phần 35 | ĐỔI XÁC | MC NGUYỄN THÀNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/36.mp3",
+    "title" : "Phần 36 | QUẤY RẦY | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/37.mp3",
+    "title" : "Phần 37 | QUÁ KHỨ DẤU KÍN | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/38.mp3",
+    "title" : "Phần 38 | NGŨ LÔI ĐẠI PHÁP | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/39.mp3",
+    "title" : "Phần 39 | DỊCH BỆNH | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/4.mp3",
+    "title" : "Hoàng Tuyền Dẫn Lộ Nhân Tập 4| Thế Trận Nghi Binh | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/40.mp3",
+    "title" : "Phần 40 | ĐAO THIÊN THẠCH | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/41.mp3",
+    "title" : "Phần 41 | HỖN CHIẾN SINH TỬ | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/42.mp3",
+    "title" : "Phần 42 | TÀ BINH ĐẠI CHIẾN | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/43.mp3",
+    "title" : "Phần 43 | CUỘC CHIẾN KẾT THÚC | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/44.mp3",
+    "title" : "Phần 44 | ĐẠI KẾT CỤC | Truyện Ma, Linh Dị MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/5.mp3",
+    "title" : "Thương Nghiệp| Hoàng Tuyền Dẫn Lộ Nhân tập 05| | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/6.mp3",
+    "title" : "HỒN ĐỘN | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/7.mp3",
+    "title" : "Truyện Trinh Thám | Hoàng Tuyền Dẫn Lộ Nhân TẬP 07 | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/8.mp3",
+    "title" : "Truyện Trinh Thám | Hoàng Tuyền Dẫn Lộ Nhân TẬP 08 | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tuyen-dan-lo-nhan/9.mp3",
+    "title" : "Phần 9 | TẠC XỈ - NGƯỜI SÓI | MC NGUYỄN THÀNH",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

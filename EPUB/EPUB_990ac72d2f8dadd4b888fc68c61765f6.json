@@ -1,0 +1,437 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mau-nhuom-dinh-con-lon_15500.html",
+    "title" : "Máu Nhuộm Đỉnh Côn Lôn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tiêu Sắc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 104477,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_990ac72d2f8dadd4b888fc68c61765f6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_990ac72d2f8dadd4b888fc68c61765f6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3740,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 1+2 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3256,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 19+20 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3363,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 21+22 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3478,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 23+24 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3334,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 25+26 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3432,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 27+28 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3617,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 29+30 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3300,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 31+32 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3416,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 33+34 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3476,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 35+36 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3063,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 37+38 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2670,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 3+4 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2219,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 39+40 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2783,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 41+42 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3214,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 43+44 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2756,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 45+46 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2426,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 47+48 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2661,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 49+50 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 51+52 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3678,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 53+54 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3642,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 55+56 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3059,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 57+58 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4386,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 5+6 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2803,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 59+60 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2588,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 61+62 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2124,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 63+64 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2845,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 65+66 (END) | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 7+8 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3553,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 9+10 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3291,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 11+12 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3298,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 13+14 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3054,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 15+16 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3561,
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 17+18 | Truyện Kiếm Hiệp hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/1.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 1+2 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/10.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 19+20 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/11.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 21+22 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/12.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 23+24 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/13.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 25+26 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/14.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 27+28 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/15.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 29+30 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/16.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 31+32 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/17.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 33+34 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/18.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 35+36 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/19.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 37+38 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/2.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 3+4 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/20.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 39+40 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/21.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 41+42 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/22.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 43+44 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/23.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 45+46 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/24.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 47+48 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/25.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 49+50 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/26.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 51+52 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/27.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 53+54 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/28.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 55+56 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/29.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 57+58 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/3.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 5+6 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/30.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 59+60 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/31.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 61+62 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/32.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 63+64 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/33.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 65+66 (END) | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/4.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 7+8 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/5.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 9+10 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/6.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 11+12 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/7.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 13+14 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/8.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 15+16 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mau-nhuom-dinh-con-lon/9.mp3",
+    "title" : "Máu nhuộm đỉnh Côn Lôn | Chương 17+18 | Truyện Kiếm Hiệp hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

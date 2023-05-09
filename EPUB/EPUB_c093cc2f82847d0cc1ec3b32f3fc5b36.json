@@ -1,0 +1,269 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/noi-buon-chien-tranh-bao-ninh_10736.html",
+    "title" : "Nỗi Buồn Chiến Tranh - Bảo Ninh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bảo Ninh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 35939,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_c093cc2f82847d0cc1ec3b32f3fc5b36.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_c093cc2f82847d0cc1ec3b32f3fc5b36.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1855,
+    "title" : "Phần 1 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1859,
+    "title" : "Phần 10 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2111,
+    "title" : "Phần 11 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1911,
+    "title" : "Phần 12 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1893,
+    "title" : "Phần 13 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1853,
+    "title" : "Phần 14 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1706,
+    "title" : "Phần 15 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1802,
+    "title" : "Phần 16 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1877,
+    "title" : "Phần 17 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2007,
+    "title" : "Phần 18 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2015,
+    "title" : "Phần 19 - Phần cuối - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1801,
+    "title" : "Phần 2 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1880,
+    "title" : "Phần 3 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1782,
+    "title" : "Phần 4 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1934,
+    "title" : "Phần 5 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2143,
+    "title" : "Phần 6 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1794,
+    "title" : "Phần 7 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1857,
+    "title" : "Phần 8 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1859,
+    "title" : "Phần 9 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/1.mp3",
+    "title" : "Phần 1 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/10.mp3",
+    "title" : "Phần 10 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/11.mp3",
+    "title" : "Phần 11 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/12.mp3",
+    "title" : "Phần 12 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/13.mp3",
+    "title" : "Phần 13 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/14.mp3",
+    "title" : "Phần 14 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/15.mp3",
+    "title" : "Phần 15 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/16.mp3",
+    "title" : "Phần 16 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/17.mp3",
+    "title" : "Phần 17 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/18.mp3",
+    "title" : "Phần 18 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/19.mp3",
+    "title" : "Phần 19 - Phần cuối - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/2.mp3",
+    "title" : "Phần 2 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/3.mp3",
+    "title" : "Phần 3 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/4.mp3",
+    "title" : "Phần 4 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/5.mp3",
+    "title" : "Phần 5 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/6.mp3",
+    "title" : "Phần 6 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/7.mp3",
+    "title" : "Phần 7 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/8.mp3",
+    "title" : "Phần 8 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-buon-chien-tranh/9.mp3",
+    "title" : "Phần 9 - Tác giả Bảo Ninh | Đọc truyện đêm khuya",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

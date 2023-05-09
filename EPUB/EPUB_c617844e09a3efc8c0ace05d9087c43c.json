@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/co-vo-bo-tron_12103.html",
+    "title" : "Cô Vợ Bỏ Trốn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tiểu Đào",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 13713,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_c617844e09a3efc8c0ace05d9087c43c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_c617844e09a3efc8c0ace05d9087c43c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/covobotron_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7272,
+    "title" : "Truyện ngôn tình hay cảm động trái tim triệu người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/covobotron_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6441,
+    "title" : "Cô Vợ Bỏ Trốn [Phần cuối] Truyện ngôn tình hay cảm động lòng người",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/covobotron_201903/1.mp3",
+    "title" : "Truyện ngôn tình hay cảm động trái tim triệu người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/covobotron_201903/2.mp3",
+    "title" : "Cô Vợ Bỏ Trốn [Phần cuối] Truyện ngôn tình hay cảm động lòng người",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

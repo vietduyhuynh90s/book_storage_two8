@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/do-nuong-nuong-bao-oan-ho-bieu-chanh_11917.html",
+    "title" : "Đỗ Nương Nương Báo Oán - Hồ Biểu Chánh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19915,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_e7a9c830c2fb4dc229515ecbc6b840aa.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_e7a9c830c2fb4dc229515ecbc6b840aa.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/donuongbaooan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3145,
+    "title" : "(1) Đỗ Nương báo oán 1 Hồ Biểu Chánh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/donuongbaooan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2956,
+    "title" : "Tập 2- Đỗ nương báo oán – Hồ biểu Chánh – Truyện Audio Lê Duyen- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/donuongbaooan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2969,
+    "title" : "Tập 3- Đỗ nương báo oán – Hồ biểu Chánh – Truyện Audio Lê Duyen- Duyên Lê.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/donuongbaooan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2983,
+    "title" : "Đỗ nương báo oán – Hồ biểu Chánh – Truyện Audio Lê Duyen- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/donuongbaooan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1795,
+    "title" : "Đỗ nương báo oán – Hồ biểu Chánh – Truyện Audio Lê Duyen- Duyên Lê.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/donuongbaooan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2516,
+    "title" : "Đỗ nương báo oán – Hồ biểu Chánh – Truyện Audio Lê Duyen- Duyên Lê.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/donuongbaooan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1670,
+    "title" : "Đỗ nương báo oán – Hồ biểu Chánh – Truyện Audio Lê Duyen- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/donuongbaooan/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1881,
+    "title" : "Đỗ nương báo oán – Hồ biểu Chánh – Truyện Audio Lê Duyen- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/donuongbaooan/1.mp3",
+    "title" : "(1) Đỗ Nương báo oán 1 Hồ Biểu Chánh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/donuongbaooan/2.mp3",
+    "title" : "Tập 2- Đỗ nương báo oán – Hồ biểu Chánh – Truyện Audio Lê Duyen- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/donuongbaooan/3.mp3",
+    "title" : "Tập 3- Đỗ nương báo oán – Hồ biểu Chánh – Truyện Audio Lê Duyen- Duyên Lê.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/donuongbaooan/4.mp3",
+    "title" : "Đỗ nương báo oán – Hồ biểu Chánh – Truyện Audio Lê Duyen- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/donuongbaooan/5.mp3",
+    "title" : "Đỗ nương báo oán – Hồ biểu Chánh – Truyện Audio Lê Duyen- Duyên Lê.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/donuongbaooan/6.mp3",
+    "title" : "Đỗ nương báo oán – Hồ biểu Chánh – Truyện Audio Lê Duyen- Duyên Lê.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/donuongbaooan/7.mp3",
+    "title" : "Đỗ nương báo oán – Hồ biểu Chánh – Truyện Audio Lê Duyen- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/donuongbaooan/8.mp3",
+    "title" : "Đỗ nương báo oán – Hồ biểu Chánh – Truyện Audio Lê Duyen- Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

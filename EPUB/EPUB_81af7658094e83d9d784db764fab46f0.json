@@ -1,0 +1,689 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tong-giam-doc-anh-that-la-hu-co-thuy-linh_10545.html",
+    "title" : "Tổng Giám Đốc, Anh Thật Là Hư - Cơ Thủy Linh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cơ Thủy Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 290495,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_81af7658094e83d9d784db764fab46f0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_81af7658094e83d9d784db764fab46f0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4821,
+    "title" : "Tác Giả Cơ Thủy Linh - Audio Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5162,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 10 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5124,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 11 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5077,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 12 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4935,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 13 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10061,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 14 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5317,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 15 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5288,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 16 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6637,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 17 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5338,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 18 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5608,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 19 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7721,
+    "title" : "Tác Giả Cơ Thủy Linh - Audio Ngôn Tình - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4976,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 20 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4946,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 21 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5022,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 22 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5133,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 23 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4814,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 24 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5301,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 25 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4246,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 26 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4979,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 27 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4994,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 28 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4245,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 29 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7718,
+    "title" : "Tác Giả Cơ Thủy Linh - Audio Ngôn Tình - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5393,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 30 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4285,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 31 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4859,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 32 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5137,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 33 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4243,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 34 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4451,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 35 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4429,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 36 - Tác Giả Cơ Thủy Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5226,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 37 - Tác Giả Cơ Thủy Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4919,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 38 - Tác Giả Cơ Thủy Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5921,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 39 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5949,
+    "title" : "Tác Giả Cơ Thủy Linh - Audio Ngôn Tình - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4987,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 40 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4897,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 41 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4914,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 42 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5422,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 43 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5136,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 44 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6322,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 45 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4909,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 46 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5078,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 47 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4800,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 48 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5044,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 49 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6089,
+    "title" : "Tác Giả Cơ Thủy Linh - Audio Ngôn Tình - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5036,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 50 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4800,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 51 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4800,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 52 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5281,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 53 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11024,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 54 Tập Cuối - Tác Giả Cơ Thủy Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5112,
+    "title" : "Tác Giả Cơ Thủy Linh - Audio Ngôn Tình - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4866,
+    "title" : "Tác Giả Cơ Thủy Linh - Audio Ngôn Tình - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4860,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 8 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4843,
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 9 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/1.mp3",
+    "title" : "Tác Giả Cơ Thủy Linh - Audio Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/10.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 10 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/11.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 11 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/12.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 12 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/13.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 13 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/14.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 14 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/15.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 15 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/16.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 16 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/17.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 17 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/18.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 18 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/19.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 19 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/2.mp3",
+    "title" : "Tác Giả Cơ Thủy Linh - Audio Ngôn Tình - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/20.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 20 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/21.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 21 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/22.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 22 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/23.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 23 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/24.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 24 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/25.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 25 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/26.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 26 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/27.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 27 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/28.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 28 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/29.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 29 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/3.mp3",
+    "title" : "Tác Giả Cơ Thủy Linh - Audio Ngôn Tình - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/30.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 30 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/31.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 31 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/32.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 32 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/33.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 33 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/34.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 34 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/35.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 35 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/36.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 36 - Tác Giả Cơ Thủy Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/37.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 37 - Tác Giả Cơ Thủy Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/38.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 38 - Tác Giả Cơ Thủy Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/39.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 39 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/4.mp3",
+    "title" : "Tác Giả Cơ Thủy Linh - Audio Ngôn Tình - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/40.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 40 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/41.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 41 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/42.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 42 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/43.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 43 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/44.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 44 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/45.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 45 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/46.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 46 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/47.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 47 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/48.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 48 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/49.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 49 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/5.mp3",
+    "title" : "Tác Giả Cơ Thủy Linh - Audio Ngôn Tình - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/50.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 50 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/51.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 51 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/52.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 52 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/53.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 53 - Tác Giả Cơ Thủy Linh - Diễn Đọc Ngoan Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/54.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 54 Tập Cuối - Tác Giả Cơ Thủy Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/6.mp3",
+    "title" : "Tác Giả Cơ Thủy Linh - Audio Ngôn Tình - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/7.mp3",
+    "title" : "Tác Giả Cơ Thủy Linh - Audio Ngôn Tình - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/8.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 8 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-giam-doc-anh-that-la-hu/9.mp3",
+    "title" : "Tổng Giám Đốc Anh Thật Là Hư Tập 9 - Tác Giả Cơ Thủy Linh - Giọng Đọc Mộc Lam",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

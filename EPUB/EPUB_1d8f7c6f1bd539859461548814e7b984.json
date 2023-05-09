@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dam-hanh-phuc_14849.html",
+    "title" : "Dám Hạnh Phúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Koga Fumitake",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 20781,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_1d8f7c6f1bd539859461548814e7b984.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_1d8f7c6f1bd539859461548814e7b984.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dhp_20200509/D%C3%A1m%20h%E1%BA%A1nh%20ph%C3%BAc%20-%20Koga%20Fumitake%20%26%20Kishimi%20Ichiro%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 20781,
+    "title" : "Dám hạnh phúc - Koga Fumitake & Kishimi Ichiro (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dhp_20200509/D%C3%A1m%20h%E1%BA%A1nh%20ph%C3%BAc%20-%20Koga%20Fumitake%20%26%20Kishimi%20Ichiro%20%28128kbit_AAC%29.mp3",
+    "title" : "Dám hạnh phúc - Koga Fumitake & Kishimi Ichiro (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

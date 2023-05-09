@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-mat-am-duong_15914.html",
+    "title" : "Con Mắt Âm Dương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hiền Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 30329,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_e40863a22281ac716144c3365ce16b3b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_e40863a22281ac716144c3365ce16b3b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3526,
+    "title" : "Truyện ma mới nhất 2020 Mc Đình Soạn Kể Sợ & Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3606,
+    "title" : "Truyện ma mới nhất 2020 Mc Đình Soạn Kể Sợ & Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3429,
+    "title" : "Truyện ma mới nhất 2020 Mc Đình Soạn Kể Sợ & Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3315,
+    "title" : "Truyện ma mới nhất 2020 Mc Đình Soạn Kể Sợ & Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3181,
+    "title" : "Truyện Ma Mới Có Thật Về Người Có Con Mắt Âm Dương Mc Đình Soạn Kể Rơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3250,
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể Đến Sợ Và Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3472,
+    "title" : "Truyện Ma Mới Có Thật Về Người Có Con Mắt Âm Dương MC Đình Soạn Kể RỢN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3236,
+    "title" : "Truyện Ma Mới Có Thật Về Người Có Con Mắt Âm Dương Mc Đình Soạn Kể Rơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3314,
+    "title" : "[Tập 9 Kết] Con Mắt Âm Dương -Truyện Ma Mới Có Thật Về Người Có Con Mắt Âm Dương Mc Đình Soạn Kể Rợn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/1.mp3",
+    "title" : "Truyện ma mới nhất 2020 Mc Đình Soạn Kể Sợ & Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/2.mp3",
+    "title" : "Truyện ma mới nhất 2020 Mc Đình Soạn Kể Sợ & Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/3.mp3",
+    "title" : "Truyện ma mới nhất 2020 Mc Đình Soạn Kể Sợ & Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/4.mp3",
+    "title" : "Truyện ma mới nhất 2020 Mc Đình Soạn Kể Sợ & Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/5.mp3",
+    "title" : "Truyện Ma Mới Có Thật Về Người Có Con Mắt Âm Dương Mc Đình Soạn Kể Rơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/6.mp3",
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể Đến Sợ Và Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/7.mp3",
+    "title" : "Truyện Ma Mới Có Thật Về Người Có Con Mắt Âm Dương MC Đình Soạn Kể RỢN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/8.mp3",
+    "title" : "Truyện Ma Mới Có Thật Về Người Có Con Mắt Âm Dương Mc Đình Soạn Kể Rơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mat-am-duong_202012/9.mp3",
+    "title" : "[Tập 9 Kết] Con Mắt Âm Dương -Truyện Ma Mới Có Thật Về Người Có Con Mắt Âm Dương Mc Đình Soạn Kể Rợn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nghe-thuat-toi-gian_15386.html",
+    "title" : "Nghệ Thuật Tối Giản",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dominique Loreau",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 26147,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_99664b2eeb8e6c326a68123cdcc229eb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_99664b2eeb8e6c326a68123cdcc229eb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nghe-thuat-toi-gian/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Nghệ Thuật Tối Giản- Có Ít Đi, Sống Nhiều Hơn | Dominique Loreau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-toi-gian/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Nghệ Thuật Tối Giản- Có Ít Đi, Sống Nhiều Hơn | Dominique Loreau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-toi-gian/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Nghệ Thuật Tối Giản- Có Ít Đi, Sống Nhiều Hơn | Dominique Loreau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-toi-gian/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4547,
+    "title" : "Nghệ Thuật Tối Giản- Có Ít Đi, Sống Nhiều Hơn | Dominique Loreau",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nghe-thuat-toi-gian/1.mp3",
+    "title" : "Nghệ Thuật Tối Giản- Có Ít Đi, Sống Nhiều Hơn | Dominique Loreau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-toi-gian/2.mp3",
+    "title" : "Nghệ Thuật Tối Giản- Có Ít Đi, Sống Nhiều Hơn | Dominique Loreau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-toi-gian/3.mp3",
+    "title" : "Nghệ Thuật Tối Giản- Có Ít Đi, Sống Nhiều Hơn | Dominique Loreau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-toi-gian/4.mp3",
+    "title" : "Nghệ Thuật Tối Giản- Có Ít Đi, Sống Nhiều Hơn | Dominique Loreau",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

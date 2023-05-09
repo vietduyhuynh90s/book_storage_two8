@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sai-gon-thi-thanh-hoang-dai_17482.html",
+    "title" : "Sài Gòn - Thị Thành Hoang Dại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khải Đơn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 18605,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_0467e5d188f42b383f705d8b831f1c6e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_0467e5d188f42b383f705d8b831f1c6e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_01.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1575,
+    "title" : "Sài Gòn thị thành hoang dại 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_02.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1561,
+    "title" : "Sài Gòn thị thành hoang dại 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_03.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2845,
+    "title" : "Sài Gòn thị thành hoang dại 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_04.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1743,
+    "title" : "Sài Gòn thị thành hoang dại 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_05.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2091,
+    "title" : "Sài Gòn thị thành hoang dại 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_06.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2603,
+    "title" : "Sài Gòn thị thành hoang dại 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_07.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1609,
+    "title" : "Sài Gòn thị thành hoang dại 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_08.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2815,
+    "title" : "Sài Gòn thị thành hoang dại 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_09.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1763,
+    "title" : "Sài Gòn thị thành hoang dại 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_01.mp3.mp3",
+    "title" : "Sài Gòn thị thành hoang dại 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_02.mp3.mp3",
+    "title" : "Sài Gòn thị thành hoang dại 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_03.mp3.mp3",
+    "title" : "Sài Gòn thị thành hoang dại 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_04.mp3.mp3",
+    "title" : "Sài Gòn thị thành hoang dại 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_05.mp3.mp3",
+    "title" : "Sài Gòn thị thành hoang dại 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_06.mp3.mp3",
+    "title" : "Sài Gòn thị thành hoang dại 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_07.mp3.mp3",
+    "title" : "Sài Gòn thị thành hoang dại 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_08.mp3.mp3",
+    "title" : "Sài Gòn thị thành hoang dại 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/saigonthithanhhoangdai-khaidon/SAI_GON_THI_THANH_HOANG_DAI_09.mp3.mp3",
+    "title" : "Sài Gòn thị thành hoang dại 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

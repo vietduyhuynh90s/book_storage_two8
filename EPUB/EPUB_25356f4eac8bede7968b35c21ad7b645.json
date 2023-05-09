@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tran-hon-priest_10265.html",
+    "title" : "Trấn Hồn - Priest",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Priest",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 125255,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_25356f4eac8bede7968b35c21ad7b645.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_25356f4eac8bede7968b35c21ad7b645.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tran-hon/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4656,
+    "title" : "Trấn Hồn | Priest ( Tập 1 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5460,
+    "title" : "Trấn Hồn | Priest ( Tập 10 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5424,
+    "title" : "Trấn Hồn | Priest ( Tập 11 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5438,
+    "title" : "Trấn Hồn | Priest ( Tập 12 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5461,
+    "title" : "Trấn Hồn | Priest ( Tập 13 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5516,
+    "title" : "Trấn Hồn | Priest ( Tập 14 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5493,
+    "title" : "Trấn Hồn | Priest ( Tập 15 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5442,
+    "title" : "Trấn Hồn | Priest ( Tập 16 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5503,
+    "title" : "Trấn Hồn | Priest ( Tập 17 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5458,
+    "title" : "Trấn Hồn | Priest ( Tập 18 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5506,
+    "title" : "Trấn Hồn | Priest ( Tập 19 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4676,
+    "title" : "Trấn Hồn | Priest ( Tập 2 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5443,
+    "title" : "Trấn Hồn | Priest ( Tập 20 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5437,
+    "title" : "Trấn Hồn | Priest ( Tập 21 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5469,
+    "title" : "Trấn Hồn | Priest ( Tập 22 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5454,
+    "title" : "Trấn Hồn | Priest ( Tập 23 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5258,
+    "title" : "Trấn Hồn | Priest ( Tập Cuối ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4648,
+    "title" : "Trấn Hồn | Priest ( Tập 3 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4668,
+    "title" : "Trấn Hồn | Priest ( Tập 4 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4660,
+    "title" : "Trấn Hồn | Priest ( Tập 5 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4660,
+    "title" : "Trấn Hồn | Priest ( Tập 6 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4652,
+    "title" : "Trấn Hồn | Priest ( Tập 7 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5424,
+    "title" : "Trấn Hồn | Priest ( Tập 8 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-hon/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5449,
+    "title" : "Trấn Hồn | Priest ( Tập 9 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tran-hon/1.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 1 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/10.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 10 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/11.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 11 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/12.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 12 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/13.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 13 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/14.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 14 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/15.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 15 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/16.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 16 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/17.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 17 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/18.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 18 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/19.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 19 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/2.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 2 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/20.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 20 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/21.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 21 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/22.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 22 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/23.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 23 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/24.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập Cuối ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/3.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 3 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/4.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 4 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/5.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 5 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/6.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 6 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/7.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 7 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/8.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 8 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-hon/9.mp3",
+    "title" : "Trấn Hồn | Priest ( Tập 9 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

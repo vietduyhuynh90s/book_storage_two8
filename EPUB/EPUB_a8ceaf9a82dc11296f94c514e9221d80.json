@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu-thien-ban-anh-canh-nghiem_12009.html",
+    "title" : "Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều - Thiên Bản Anh Cảnh Nghiêm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Bản Anh Cảnh Nghiêm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 73413,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_a8ceaf9a82dc11296f94c514e9221d80.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_a8ceaf9a82dc11296f94c514e9221d80.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5370,
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4203,
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5654,
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5043,
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5226,
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5556,
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6123,
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 15 End",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5414,
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4198,
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4259,
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4830,
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4261,
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3967,
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4569,
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4740,
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/1.mp3",
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/10.mp3",
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/11.mp3",
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/12.mp3",
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/13.mp3",
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/14.mp3",
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/15.mp3",
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 15 End",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/2.mp3",
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/3.mp3",
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/4.mp3",
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/5.mp3",
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/6.mp3",
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/7.mp3",
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/8.mp3",
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-sau-gao-cua-mot-sach-o-thanh-trieu/9.mp3",
+    "title" : "Xuyên Không Hay - Cuộc Sống Sâu Gạo Của Mọt Sách Ở Thanh Triều Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

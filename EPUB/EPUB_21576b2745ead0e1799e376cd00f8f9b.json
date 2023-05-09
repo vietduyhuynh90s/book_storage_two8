@@ -1,0 +1,437 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ly-hon-di-dien-ha-luc-thieu_10449.html",
+    "title" : "Ly Hôn Đi Điện Hạ - Lục Thiếu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lục Thiểu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 78253,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_21576b2745ead0e1799e376cd00f8f9b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_21576b2745ead0e1799e376cd00f8f9b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2497,
+    "title" : "Tập 1- Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2694,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2078,
+    "title" : "Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2376,
+    "title" : "Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1960,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2215,
+    "title" : "Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2511,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2474,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2458,
+    "title" : "Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2458,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2433,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2239,
+    "title" : "Tập 2 - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2560,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2147,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2141,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2499,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2217,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2588,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2395,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2489,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2421,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2411,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2574,
+    "title" : "Tập 3 - Lục Thiểu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2685,
+    "title" : "Tập30 - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2160,
+    "title" : "Tập 31 - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2338,
+    "title" : "Tập 32 - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 931,
+    "title" : "Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2458,
+    "title" : "Tập 4 - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2967,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2483,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2554,
+    "title" : "Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2355,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2487,
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/1.mp3",
+    "title" : "Tập 1- Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/10.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/11.mp3",
+    "title" : "Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/12.mp3",
+    "title" : "Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/13.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/14.mp3",
+    "title" : "Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/15.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/16.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/17.mp3",
+    "title" : "Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/18.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/19.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/2.mp3",
+    "title" : "Tập 2 - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/20.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/21.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/22.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/23.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/24.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/25.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/26.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/27.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/28.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/29.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/3.mp3",
+    "title" : "Tập 3 - Lục Thiểu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/30.mp3",
+    "title" : "Tập30 - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/31.mp3",
+    "title" : "Tập 31 - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/32.mp3",
+    "title" : "Tập 32 - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/33.mp3",
+    "title" : "Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/4.mp3",
+    "title" : "Tập 4 - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/5.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/6.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/7.mp3",
+    "title" : "Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/8.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ly-hon-di-dien-ha/9.mp3",
+    "title" : "Ly hôn đi, điện hạ - Lục Thiếu - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

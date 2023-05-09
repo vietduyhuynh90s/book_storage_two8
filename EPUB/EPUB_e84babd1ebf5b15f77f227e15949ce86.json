@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cam-tam-tinh-nguyen-len-thuyen-giac-moc-tam_10712.html",
+    "title" : "Cam Tâm Tình Nguyện Lên Thuyền Giặc - Mộc Tâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mộc Tâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 21988,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_e84babd1ebf5b15f77f227e15949ce86.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_e84babd1ebf5b15f77f227e15949ce86.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cam-tam-tinh-nguyen-len-thuyen-giac/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11356,
+    "title" : "Cam Tâm Tình Nguyện Lên Thuyền Giặc [Tập 1] Truyện Ngôn Tình Sắc Tổng Giám Đốc Độc Sủng (Bối Bối)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-tam-tinh-nguyen-len-thuyen-giac/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10632,
+    "title" : "nhân viên hay nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cam-tam-tinh-nguyen-len-thuyen-giac/1.mp3",
+    "title" : "Cam Tâm Tình Nguyện Lên Thuyền Giặc [Tập 1] Truyện Ngôn Tình Sắc Tổng Giám Đốc Độc Sủng (Bối Bối)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-tam-tinh-nguyen-len-thuyen-giac/2.mp3",
+    "title" : "nhân viên hay nhất 2019",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

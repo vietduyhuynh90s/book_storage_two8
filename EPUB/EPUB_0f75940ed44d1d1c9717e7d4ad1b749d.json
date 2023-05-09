@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/co-vo-be-nho-cua-tong-giam-doc-bang-hoa-ai-uoc_10341.html",
+    "title" : "Cô Vợ Bé Nhỏ Của Tổng Giám Đốc Băng Hỏa - Ái Ước",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ái Ước",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 18382,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_0f75940ed44d1d1c9717e7d4ad1b749d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_0f75940ed44d1d1c9717e7d4ad1b749d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-vo-be-nho-cua-tong-giam-doc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6918,
+    "title" : "Truyện ngôn tình hay Cảm động & Đáng yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-be-nho-cua-tong-giam-doc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5830,
+    "title" : "Truyện ngôn tình mới hay thật là hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-vo-be-nho-cua-tong-giam-doc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5634,
+    "title" : "Truyện ngôn tình mới hay và ngọt ngào",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-vo-be-nho-cua-tong-giam-doc/1.mp3",
+    "title" : "Truyện ngôn tình hay Cảm động & Đáng yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-be-nho-cua-tong-giam-doc/2.mp3",
+    "title" : "Truyện ngôn tình mới hay thật là hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-vo-be-nho-cua-tong-giam-doc/3.mp3",
+    "title" : "Truyện ngôn tình mới hay và ngọt ngào",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

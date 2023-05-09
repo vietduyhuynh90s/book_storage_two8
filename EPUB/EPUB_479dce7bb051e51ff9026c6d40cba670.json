@@ -1,0 +1,677 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tai-nang-tuyet-sac-vo-tinh-bao-bao_10732.html",
+    "title" : "Tài Năng Tuyệt Sắc - Vô Tình Bảo Bảo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vô Tình Bảo Bảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 281513,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_479dce7bb051e51ff9026c6d40cba670.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_479dce7bb051e51ff9026c6d40cba670.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5122,
+    "title" : "Tài Năng Tuyệt Sắc Tập 1 - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5069,
+    "title" : "Tài Năng Tuyệt Sắc Tập 10 - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5029,
+    "title" : "Tài Năng Tuyệt Sắc Tập 11 - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5122,
+    "title" : "Tài Năng Tuyệt Sắc Tập 12 - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5312,
+    "title" : "Tài Năng Tuyệt Sắc Tập 13 - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4998,
+    "title" : "Tài Năng Tuyệt Sắc Tập 14 - Truyện tình cảm hấp dẫn lắm đừng bỏ qua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5172,
+    "title" : "Tài Năng Tuyệt Sắc Tập 14 - Truyện Xuyên Không Cực Kì Hấp Dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5000,
+    "title" : "Tài Năng Tuyệt Sắc Tập 16 - Truyện tình cảm hấp dẫn lắm đừng bỏ qua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5114,
+    "title" : "Tài Năng Tuyệt Sắc Tập 17 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5068,
+    "title" : "Tài Năng Tuyệt Sắc Tập 18 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5340,
+    "title" : "Tài Năng Tuyệt Sắc Tập 19 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5478,
+    "title" : "Tài Năng Tuyệt Sắc Tập 2 - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4986,
+    "title" : "Tài Năng Tuyệt Sắc Tập 20 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5313,
+    "title" : "Tài Năng Tuyệt Sắc Tập 21 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5551,
+    "title" : "Tài Năng Tuyệt Sắc Tập 22 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5003,
+    "title" : "Tài Năng Tuyệt Sắc Tập 23 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5049,
+    "title" : "Tài Năng Tuyệt Sắc Tập 24 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5709,
+    "title" : "Tài Năng Tuyệt Sắc Tập 25 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5094,
+    "title" : "Tài Năng Tuyệt Sắc Tập 26 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4924,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5148,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5498,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5184,
+    "title" : "Tài Năng Tuyệt Sắc Tập 3 - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6880,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4965,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5020,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4987,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5179,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4983,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5215,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5703,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4940,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4868,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5399,
+    "title" : "Tài Năng Tuyệt Sắc Tập 4 - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5112,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5402,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5506,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5487,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6349,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5094,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4999,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4967,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5107,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5008,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5058,
+    "title" : "Tài Năng Tuyệt Sắc Tập 5 - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5419,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5036,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5558,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8614,
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4978,
+    "title" : "Tài Năng Tuyệt Sắc Tập 6 - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4919,
+    "title" : "Tài Năng Tuyệt Sắc Tập 7 - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6374,
+    "title" : "Tài Năng Tuyệt Sắc Tập 8 - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5104,
+    "title" : "Tài Năng Tuyệt Sắc Tập 9 - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/1.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 1 - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/10.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 10 - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/11.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 11 - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/12.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 12 - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/13.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 13 - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/14.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 14 - Truyện tình cảm hấp dẫn lắm đừng bỏ qua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/15.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 14 - Truyện Xuyên Không Cực Kì Hấp Dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/16.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 16 - Truyện tình cảm hấp dẫn lắm đừng bỏ qua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/17.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 17 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/18.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 18 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/19.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 19 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/2.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 2 - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/20.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 20 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/21.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 21 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/22.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 22 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/23.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 23 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/24.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 24 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/25.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 25 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/26.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 26 - Truyện tình cảm tiên hiệp ma pháp hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/27.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/28.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/29.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/3.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 3 - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/30.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/31.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/32.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/33.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/34.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/35.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/36.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/37.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/38.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/39.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/4.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 4 - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/40.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/41.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/42.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/43.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/44.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/45.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/46.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/47.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/48.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/49.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/5.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 5 - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/50.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/51.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/52.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/53.mp3",
+    "title" : "Truyện ngôn tình xuyên không cực kì hấp dẫn - Diễn đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/6.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 6 - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/7.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 7 - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/8.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 8 - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-nang-tuyet-sac/9.mp3",
+    "title" : "Tài Năng Tuyệt Sắc Tập 9 - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

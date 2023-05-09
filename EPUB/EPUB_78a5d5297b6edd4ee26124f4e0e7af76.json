@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuyen-tau-dia-nguc-div_8005.html",
+    "title" : "Chuyến Tàu Địa Ngục - DIV.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "DIV",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25007,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_78a5d5297b6edd4ee26124f4e0e7af76.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_78a5d5297b6edd4ee26124f4e0e7af76.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chuyen-tau-dia-nguc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5865,
+    "title" : "Truyện ma kinh dị Chuyến tàu địa ngục cực rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tau-dia-nguc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4598,
+    "title" : "Truyện ma kinh dị Chuyến tàu địa ngục (Phần 2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tau-dia-nguc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5130,
+    "title" : "Truyện ma kinh dị cực hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tau-dia-nguc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9414,
+    "title" : "Truyện ma cực hay, cực hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chuyen-tau-dia-nguc/1.mp3",
+    "title" : "Truyện ma kinh dị Chuyến tàu địa ngục cực rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tau-dia-nguc/2.mp3",
+    "title" : "Truyện ma kinh dị Chuyến tàu địa ngục (Phần 2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tau-dia-nguc/3.mp3",
+    "title" : "Truyện ma kinh dị cực hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tau-dia-nguc/4.mp3",
+    "title" : "Truyện ma cực hay, cực hấp dẫn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

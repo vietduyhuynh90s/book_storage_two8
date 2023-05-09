@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xa-ngoai-kia-noi-loai-tom-hat_19191.html",
+    "title" : "Xa Ngoài Kia Nơi Loài Tôm Hát",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Delia Owens",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 45520,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_df6e2616c20b1aed1b7ce08267975d7d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_df6e2616c20b1aed1b7ce08267975d7d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xnknlth/00001_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7772,
+    "title" : "00001 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00002_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4313,
+    "title" : "00002 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00003_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6735,
+    "title" : "00003 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00004_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7365,
+    "title" : "00004 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00005_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5393,
+    "title" : "00005 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00006_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3222,
+    "title" : "00006 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00007_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4185,
+    "title" : "00007 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00008_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4948,
+    "title" : "00008 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00009_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1587,
+    "title" : "00009 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xnknlth/00001_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "title" : "00001 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00002_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "title" : "00002 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00003_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "title" : "00003 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00004_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "title" : "00004 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00005_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "title" : "00005 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00006_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "title" : "00006 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00007_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "title" : "00007 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00008_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "title" : "00008 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xnknlth/00009_XA%20NGOA%CC%80I%20KIA%20NO%CC%9BI%20LOA%CC%80I%20TO%CC%82M%20HA%CC%81T%20%28full%29%20-%20Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20%28audiobook%29%20%28192kbit_AAC%29.m4a",
+    "title" : "00009 XA NGOÀI KIA NƠI LOÀI TÔM HÁT (full) - Tiểu thuyết (audiobook) (192kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

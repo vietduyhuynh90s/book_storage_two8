@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ty-vet-tam-linh_15461.html",
+    "title" : "Tỳ Vết Tâm Linh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bình Nguyên Lộc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 34110,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_cd0781b7c6fb08d919a8b9ec3418625b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_cd0781b7c6fb08d919a8b9ec3418625b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ty-vet-tam-linh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện dài của Bình Nguyên Lộc | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ty-vet-tam-linh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện dài của Bình Nguyên Lộc | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ty-vet-tam-linh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện dài của Bình Nguyên Lộc | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ty-vet-tam-linh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện dài của Bình Nguyên Lộc | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ty-vet-tam-linh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5310,
+    "title" : "Truyện dài của Bình Nguyên Lộc | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ty-vet-tam-linh/1.mp3",
+    "title" : "Truyện dài của Bình Nguyên Lộc | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ty-vet-tam-linh/2.mp3",
+    "title" : "Truyện dài của Bình Nguyên Lộc | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ty-vet-tam-linh/3.mp3",
+    "title" : "Truyện dài của Bình Nguyên Lộc | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ty-vet-tam-linh/4.mp3",
+    "title" : "Truyện dài của Bình Nguyên Lộc | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ty-vet-tam-linh/5.mp3",
+    "title" : "Truyện dài của Bình Nguyên Lộc | Nghe Truyện Xưa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

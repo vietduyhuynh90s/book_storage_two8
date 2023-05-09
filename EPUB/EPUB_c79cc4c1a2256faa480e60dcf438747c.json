@@ -1,0 +1,269 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/am-khi-diet-quy-nhan_17844.html",
+    "title" : "Ám Khí Diệt Quỷ Nhân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thủy Mộng Trung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 75880,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_c79cc4c1a2256faa480e60dcf438747c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_c79cc4c1a2256faa480e60dcf438747c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2001-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3303,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 01-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2004-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1441,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 04-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2006-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1997,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 06-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2008-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3055,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 08-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2011-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3306,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 11-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2015-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4248,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 15-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2019-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3111,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 19-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2022-26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5371,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 22-26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2027-29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3292,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 27-29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2030-33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3952,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 30-33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2034-37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4429,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 34-37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2038-41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3946,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 38-41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2042-46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5609,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 42-46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2047-51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5943,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 47-51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2052-55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4026,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 52-55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2056-60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5364,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 56-60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2061-64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4197,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 61-64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2065-68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4599,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 65-68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2069-72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4691,
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 69-72",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2001-03.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 01-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2004-05.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 04-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2006-07.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 06-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2008-10.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 08-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2011-14.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 11-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2015-18.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 15-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2019-21.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 19-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2022-26.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 22-26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2027-29.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 27-29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2030-33.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 30-33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2034-37.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 34-37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2038-41.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 38-41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2042-46.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 42-46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2047-51.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 47-51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2052-55.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 52-55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2056-60.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 56-60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2061-64.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 61-64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2065-68.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 65-68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-khi-diet-quy-nhan-chuong-15-18/%C3%81m%20Kh%C3%AD%20Di%E1%BB%87t%20Qu%E1%BB%B7%20Nh%C3%A2n_Ch%C6%B0%C6%A1ng%2069-72.mp3",
+    "title" : "Ám Khí Diệt Quỷ Nhân Chương 69-72",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

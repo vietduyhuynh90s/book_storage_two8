@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-quyet-dau-tu-kinh-doanh-chung-khoan-cua-ty-phu-warren-buffett-george-soros_19062.html",
+    "title" : "Bí Quyết Đầu Tư & Kinh Doanh Chứng Khoán Của Tỷ Phú Warren Buffett & George Soros",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mark Tier",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 13080,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_9583ed4b279ba7101aefddae2c088286.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_9583ed4b279ba7101aefddae2c088286.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/01.GioiThieu_BiQuyetDauTuCK.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 490,
+    "title" : "01.GioiThieu BiQuyetDauTuCK",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/02.P01_C01_SucManhThoiQuenTinhThan_BiQuyetDauTuCK.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1078,
+    "title" : "02.P01 C01 SucManhThoiQuenTinhThan BiQuyetDauTuCK",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/03.P01_C02_7SaiLamChetNguoi_BiQuyetDauTuCK.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1171,
+    "title" : "03.P01 C02 7SaiLamChetNguoi BiQuyetDauTuCK",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/04.P01_C03_GiuGinNhungGiBanCo_BiQuyetDauTuCK.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 903,
+    "title" : "04.P01 C03 GiuGinNhungGiBanCo BiQuyetDauTuCK",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/05.P01_C04_CoPhaiGeorgeKhongDamMaoHiem_BiQuyetDauTuCK.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2127,
+    "title" : "05.P01 C04 CoPhaiGeorgeKhongDamMaoHiem BiQuyetDauTuCK",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/06.P01_C05_KhongTinVaoThiTruong_BiQuyetDauTuCK.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2945,
+    "title" : "06.P01 C05 KhongTinVaoThiTruong BiQuyetDauTuCK",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/07.P01_%20C06_PhaiDanhGiaDungVeMinh_BiQuyetDauTuCK.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2670,
+    "title" : "07.P01  C06 PhaiDanhGiaDungVeMinh BiQuyetDauTuCK",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/08.P01_%20C07_HieuQuaCuaDauTuTapTrung_BiQuyetDauTuCK.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 704,
+    "title" : "08.P01  C07 HieuQuaCuaDauTuTapTrung BiQuyetDauTuCK",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/09.P01_C08_TietKiem1XuLaLamRa1Dola_BiQuyetDauTuCK.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 477,
+    "title" : "09.P01 C08 TietKiem1XuLaLamRa1Dola BiQuyetDauTuCK",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/10.P01_C09_TrungThanhVoiLinhVucBanAmHieu_BiQuyetDauTuCK.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 515,
+    "title" : "10.P01 C09 TrungThanhVoiLinhVucBanAmHieu BiQuyetDauTuCK",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/01.GioiThieu_BiQuyetDauTuCK.mp3",
+    "title" : "01.GioiThieu BiQuyetDauTuCK",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/02.P01_C01_SucManhThoiQuenTinhThan_BiQuyetDauTuCK.mp3",
+    "title" : "02.P01 C01 SucManhThoiQuenTinhThan BiQuyetDauTuCK",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/03.P01_C02_7SaiLamChetNguoi_BiQuyetDauTuCK.mp3",
+    "title" : "03.P01 C02 7SaiLamChetNguoi BiQuyetDauTuCK",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/04.P01_C03_GiuGinNhungGiBanCo_BiQuyetDauTuCK.mp3",
+    "title" : "04.P01 C03 GiuGinNhungGiBanCo BiQuyetDauTuCK",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/05.P01_C04_CoPhaiGeorgeKhongDamMaoHiem_BiQuyetDauTuCK.mp3",
+    "title" : "05.P01 C04 CoPhaiGeorgeKhongDamMaoHiem BiQuyetDauTuCK",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/06.P01_C05_KhongTinVaoThiTruong_BiQuyetDauTuCK.mp3",
+    "title" : "06.P01 C05 KhongTinVaoThiTruong BiQuyetDauTuCK",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/07.P01_%20C06_PhaiDanhGiaDungVeMinh_BiQuyetDauTuCK.mp3",
+    "title" : "07.P01  C06 PhaiDanhGiaDungVeMinh BiQuyetDauTuCK",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/08.P01_%20C07_HieuQuaCuaDauTuTapTrung_BiQuyetDauTuCK.mp3",
+    "title" : "08.P01  C07 HieuQuaCuaDauTuTapTrung BiQuyetDauTuCK",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/09.P01_C08_TietKiem1XuLaLamRa1Dola_BiQuyetDauTuCK.mp3",
+    "title" : "09.P01 C08 TietKiem1XuLaLamRa1Dola BiQuyetDauTuCK",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-dau-tu-ck/10.P01_C09_TrungThanhVoiLinhVucBanAmHieu_BiQuyetDauTuCK.mp3",
+    "title" : "10.P01 C09 TrungThanhVoiLinhVucBanAmHieu BiQuyetDauTuCK",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bai-hoc-vo-gia-tu-dieu-binh-di_20236.html",
+    "title" : "Bài Học Vô Giá Từ Điều Bình Dị",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "G Francis Xavier. Ph D",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 8575,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_51370605bd2c761786298907db6f8636.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_51370605bd2c761786298907db6f8636.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bai-hoc-vo-gia-tu-nhung-dieu-binh-di.sna/BAI_HOC_VO_GIA_TU_NHUNG_DIEU_BINH_DI_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2386,
+    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-vo-gia-tu-nhung-dieu-binh-di.sna/BAI_HOC_VO_GIA_TU_NHUNG_DIEU_BINH_DI_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3133,
+    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-vo-gia-tu-nhung-dieu-binh-di.sna/BAI_HOC_VO_GIA_TU_NHUNG_DIEU_BINH_DI_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3056,
+    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 03",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bai-hoc-vo-gia-tu-nhung-dieu-binh-di.sna/BAI_HOC_VO_GIA_TU_NHUNG_DIEU_BINH_DI_01.mp3",
+    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-vo-gia-tu-nhung-dieu-binh-di.sna/BAI_HOC_VO_GIA_TU_NHUNG_DIEU_BINH_DI_02.mp3",
+    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-vo-gia-tu-nhung-dieu-binh-di.sna/BAI_HOC_VO_GIA_TU_NHUNG_DIEU_BINH_DI_03.mp3",
+    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 03",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

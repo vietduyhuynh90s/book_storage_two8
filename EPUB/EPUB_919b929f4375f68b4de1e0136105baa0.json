@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/son-nam-di-va-ghi-nho_12504.html",
+    "title" : "Sơn Nam Đi Và Ghi Nhớ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sơn Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25579,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_919b929f4375f68b4de1e0136105baa0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_919b929f4375f68b4de1e0136105baa0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2001.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2713,
+    "title" : "Biên giới và văn hóa tâm linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2002.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2446,
+    "title" : "Sự vắng bóng các ngôi chùa tại Sài Gòn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2003.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2759,
+    "title" : "Di sản Sài Gòn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2004.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2842,
+    "title" : "Tình riêng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2005.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2881,
+    "title" : "Vài nét văn hóa dân tộc qua lễ Kỳ Yên ở đình làng Nam Bộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2006.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3332,
+    "title" : "100 năm trước Sài Gòn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2007.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2519,
+    "title" : "Lạm bàn về sách báo Sài Gòn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2008.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3129,
+    "title" : "Đám cưới thời xưa, thời nay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2009.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2958,
+    "title" : "Phong vị thời khẩn hoang trong món ăn miền Nam",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2001.mp3.mp3",
+    "title" : "Biên giới và văn hóa tâm linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2002.mp3.mp3",
+    "title" : "Sự vắng bóng các ngôi chùa tại Sài Gòn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2003.mp3.mp3",
+    "title" : "Di sản Sài Gòn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2004.mp3.mp3",
+    "title" : "Tình riêng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2005.mp3.mp3",
+    "title" : "Vài nét văn hóa dân tộc qua lễ Kỳ Yên ở đình làng Nam Bộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2006.mp3.mp3",
+    "title" : "100 năm trước Sài Gòn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2007.mp3.mp3",
+    "title" : "Lạm bàn về sách báo Sài Gòn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2008.mp3.mp3",
+    "title" : "Đám cưới thời xưa, thời nay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sonnamdivaghinho-ssn/SON%20NAM%20DI%20VA%20GHI%20NHO%2009.mp3.mp3",
+    "title" : "Phong vị thời khẩn hoang trong món ăn miền Nam",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,449 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kinh-van-hoa-nguyen-nhat-anh_2893.html",
+    "title" : "Kính Vạn Hoa - Nguyễn Nhật Ánh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 223547,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_6d6e52acee6c7b0156162e215367c875.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_6d6e52acee6c7b0156162e215367c875.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/kinh_van_hoa/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8318,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7183,
+    "title" : "Theo dấu chim ưng | Nguyễn nhật Ánh [FULL] | Sách nói | Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6637,
+    "title" : "Tiền chuộc | Nguyễn nhật Ánh [FULL] | Sách nói | Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6264,
+    "title" : "Khu vườn trên mái nhà | Nguyễn nhật Ánh [FULL] | Sách nói | Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7239,
+    "title" : "Thủ môn bị từ chối | Nguyễn nhật Ánh [FULL] | Sách nói | Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6480,
+    "title" : "Thi sĩ hạng ruồi [FULL] | Sách nói | Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6121,
+    "title" : "Ba lô màu xanh [FULL] | Sách nói | Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6357,
+    "title" : "Chiếc lọ tàng hình [FULL] | Sách nói | Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6634,
+    "title" : "Cuộc so tài vất vả [FULL] | Sách nói | Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5800,
+    "title" : "Cú nhảy kinh hoàng [FULL] | Sách nói | Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10060,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6275,
+    "title" : "Anh và em [FULL] | Sách nói | Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6678,
+    "title" : "Tướng quân [FULL] | Sách nói | Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7213,
+    "title" : "Tấm huy chương vàng [FULL] | Sách nói | Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6119,
+    "title" : "23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6154,
+    "title" : "24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6548,
+    "title" : "25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6343,
+    "title" : "26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6171,
+    "title" : "27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6462,
+    "title" : "28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5683,
+    "title" : "29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10697,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5736,
+    "title" : "30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5529,
+    "title" : "31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7011,
+    "title" : "32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5768,
+    "title" : "33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5326,
+    "title" : "34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2171,
+    "title" : "35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8107,
+    "title" : "tập 5: Xin Lỗi Mày Tai To | Audio book | Nguyễn Nhật Ánh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6593,
+    "title" : "tập 6: Người bạn lạ lùng | Audio book | Nguyễn Nhật Ánh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6907,
+    "title" : "tập 7: Bí mật kẻ trộm | Nguyễn Nhật Ánh | Audio book | Sách nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7323,
+    "title" : "Bắt Đền Hoa Sứ | Nguyễn nhật Ánh [FULL] | Sách nói | Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5886,
+    "title" : "Con mả con ma | Nguyễn nhật Ánh [FULL] | Sách nói | Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5754,
+    "title" : "Cô giáo Trinh | Nguyễn nhật Ánh [FULL] | Sách nói | Audiobook",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/kinh_van_hoa/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/10.mp3",
+    "title" : "Theo dấu chim ưng | Nguyễn nhật Ánh [FULL] | Sách nói | Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/11.mp3",
+    "title" : "Tiền chuộc | Nguyễn nhật Ánh [FULL] | Sách nói | Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/13.mp3",
+    "title" : "Khu vườn trên mái nhà | Nguyễn nhật Ánh [FULL] | Sách nói | Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/14.mp3",
+    "title" : "Thủ môn bị từ chối | Nguyễn nhật Ánh [FULL] | Sách nói | Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/15.mp3",
+    "title" : "Thi sĩ hạng ruồi [FULL] | Sách nói | Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/16.mp3",
+    "title" : "Ba lô màu xanh [FULL] | Sách nói | Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/17.mp3",
+    "title" : "Chiếc lọ tàng hình [FULL] | Sách nói | Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/18.mp3",
+    "title" : "Cuộc so tài vất vả [FULL] | Sách nói | Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/19.mp3",
+    "title" : "Cú nhảy kinh hoàng [FULL] | Sách nói | Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/20.mp3",
+    "title" : "Anh và em [FULL] | Sách nói | Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/21.mp3",
+    "title" : "Tướng quân [FULL] | Sách nói | Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/22.mp3",
+    "title" : "Tấm huy chương vàng [FULL] | Sách nói | Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/23.mp3",
+    "title" : "23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/24.mp3",
+    "title" : "24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/25.mp3",
+    "title" : "25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/26.mp3",
+    "title" : "26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/27.mp3",
+    "title" : "27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/28.mp3",
+    "title" : "28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/29.mp3",
+    "title" : "29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/30.mp3",
+    "title" : "30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/31.mp3",
+    "title" : "31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/32.mp3",
+    "title" : "32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/33.mp3",
+    "title" : "33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/34.mp3",
+    "title" : "34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/35.mp3",
+    "title" : "35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/4.mp3",
+    "title" : "tập 5: Xin Lỗi Mày Tai To | Audio book | Nguyễn Nhật Ánh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/5.mp3",
+    "title" : "tập 6: Người bạn lạ lùng | Audio book | Nguyễn Nhật Ánh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/6.mp3",
+    "title" : "tập 7: Bí mật kẻ trộm | Nguyễn Nhật Ánh | Audio book | Sách nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/7.mp3",
+    "title" : "Bắt Đền Hoa Sứ | Nguyễn nhật Ánh [FULL] | Sách nói | Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/8.mp3",
+    "title" : "Con mả con ma | Nguyễn nhật Ánh [FULL] | Sách nói | Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh_van_hoa/9.mp3",
+    "title" : "Cô giáo Trinh | Nguyễn nhật Ánh [FULL] | Sách nói | Audiobook",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

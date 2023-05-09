@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/oan-nghiep-dong-ho_16070.html",
+    "title" : "Oan Nghiệp Dòng Họ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồi Ức",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 21094,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_a5846a17b54fe88187de617703a78fe0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_a5846a17b54fe88187de617703a78fe0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/oan-nghiep-dong-ho/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3743,
+    "title" : "Truyện Ma Có Thật Về Dòng Họ Trần Hồ MC Ngọc Lâm Kể Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-nghiep-dong-ho/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3862,
+    "title" : "Truyện Ma Có Thật Về Dòng Họ Trần Hồ MC Ngọc Lâm Kể Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-nghiep-dong-ho/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3855,
+    "title" : "Truyện Ma Có Thật Về Dòng Họ Trần Hồ MC Ngọc Lâm Kể Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-nghiep-dong-ho/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4017,
+    "title" : "Truyện Ma Có Thật Về Dòng Họ Trần Hồ MC Ngọc Lâm Kể Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-nghiep-dong-ho/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5617,
+    "title" : "Truyện Ma Có Thật Về Dòng Họ Trần Hồ MC Ngọc Lâm Kể Sợ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/oan-nghiep-dong-ho/1.mp3",
+    "title" : "Truyện Ma Có Thật Về Dòng Họ Trần Hồ MC Ngọc Lâm Kể Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-nghiep-dong-ho/2.mp3",
+    "title" : "Truyện Ma Có Thật Về Dòng Họ Trần Hồ MC Ngọc Lâm Kể Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-nghiep-dong-ho/3.mp3",
+    "title" : "Truyện Ma Có Thật Về Dòng Họ Trần Hồ MC Ngọc Lâm Kể Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-nghiep-dong-ho/4.mp3",
+    "title" : "Truyện Ma Có Thật Về Dòng Họ Trần Hồ MC Ngọc Lâm Kể Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-nghiep-dong-ho/5.mp3",
+    "title" : "Truyện Ma Có Thật Về Dòng Họ Trần Hồ MC Ngọc Lâm Kể Sợ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

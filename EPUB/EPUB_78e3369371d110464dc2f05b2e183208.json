@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hai-so-phan-jeffrey-archer_9553.html",
+    "title" : "Hai số phận - Jeffrey Archer",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jeffrey Archer",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 83234,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_78e3369371d110464dc2f05b2e183208.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_78e3369371d110464dc2f05b2e183208.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hai-so-phan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6547,
+    "title" : "Tiểu thuyết Hai số phận Phần 1 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8129,
+    "title" : "Tiểu thuyết Hai số phận Phần 10 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8168,
+    "title" : "Tiểu thuyết Hai số phận Phần 11 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8098,
+    "title" : "Phần cuối | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6600,
+    "title" : "Tiểu thuyết Hai số phận Phần 2 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6618,
+    "title" : "Tiểu thuyết Hai số phận Phần 3 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6548,
+    "title" : "Tiểu thuyết Hai số phận Phần 4 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6480,
+    "title" : "Tiểu thuyết Hai số phận Phần 5 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6446,
+    "title" : "Tiểu thuyết Hai số phận Phần 6 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6615,
+    "title" : "Tiểu thuyết Hai số phận Phần 7 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6485,
+    "title" : "Tiểu thuyết Hai số phận Phần 8 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6500,
+    "title" : "Tiểu thuyết Hai số phận Phần 9 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hai-so-phan/1.mp3",
+    "title" : "Tiểu thuyết Hai số phận Phần 1 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/10.mp3",
+    "title" : "Tiểu thuyết Hai số phận Phần 10 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/11.mp3",
+    "title" : "Tiểu thuyết Hai số phận Phần 11 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/12.mp3",
+    "title" : "Phần cuối | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/2.mp3",
+    "title" : "Tiểu thuyết Hai số phận Phần 2 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/3.mp3",
+    "title" : "Tiểu thuyết Hai số phận Phần 3 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/4.mp3",
+    "title" : "Tiểu thuyết Hai số phận Phần 4 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/5.mp3",
+    "title" : "Tiểu thuyết Hai số phận Phần 5 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/6.mp3",
+    "title" : "Tiểu thuyết Hai số phận Phần 6 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/7.mp3",
+    "title" : "Tiểu thuyết Hai số phận Phần 7 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/8.mp3",
+    "title" : "Tiểu thuyết Hai số phận Phần 8 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-so-phan/9.mp3",
+    "title" : "Tiểu thuyết Hai số phận Phần 9 | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

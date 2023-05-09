@@ -1,0 +1,353 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/but-ky-duong-tang-dại-duòng-tay-vuc-ký_13506.html",
+    "title" : "Bút Ký Đường Tăng - Đại Đường Tây Vực Ký",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Huyền Trang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 48865,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_b34df6f2516f579e51dc5732e0a6047e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_b34df6f2516f579e51dc5732e0a6047e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1225,
+    "title" : "Đại Đường Tây Vực Ký (P1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1514,
+    "title" : "Đại Đường Tây Vực Ký (P10)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1471,
+    "title" : "Đại Đường Tây Vực Ký (P11)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1403,
+    "title" : "Đại Đường Tây Vực Ký (P12)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1818,
+    "title" : "Đại Đường Tây Vực Ký (P13)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1837,
+    "title" : "Đại Đường Tây Vực Ký (P14)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1588,
+    "title" : "Đại Đường Tây Vực Ký (P15)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1426,
+    "title" : "Đại Đường Tây Vực Ký (P16)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2474,
+    "title" : "Đại Đường Tây Vực Ký (P17)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2609,
+    "title" : "Đại Đường Tây Vực Ký (P18)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1900,
+    "title" : "Đại Đường Tây Vực Ký (P19)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1399,
+    "title" : "Đại Đường Tây Vực Ký (P2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2006,
+    "title" : "Đại Đường Tây Vực Ký (P20)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1999,
+    "title" : "Đại Đường Tây Vực Ký (P21)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2033,
+    "title" : "Đại Đường Tây Vực Ký (P22)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1812,
+    "title" : "Đại Đường Tây Vực Ký (P23)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1952,
+    "title" : "Đại Đường Tây Vực Ký (P24)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2730,
+    "title" : "Đại Đường Tây Vực Ký (P25)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2918,
+    "title" : "Đại Đường Tây Vực Ký (P26)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1921,
+    "title" : "Đại Đường Tây Vực Ký (P3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1992,
+    "title" : "Đại Đường Tây Vực Ký (P4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1712,
+    "title" : "Đại Đường Tây Vực Ký (P5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2180,
+    "title" : "Đại Đường Tây Vực Ký (P6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1603,
+    "title" : "Đại Đường Tây Vực Ký (P7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1613,
+    "title" : "Đại Đường Tây Vực Ký (P8)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1730,
+    "title" : "Đại Đường Tây Vực Ký (P9)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/1.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/10.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P10)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/11.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P11)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/12.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P12)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/13.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P13)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/14.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P14)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/15.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P15)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/16.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P16)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/17.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P17)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/18.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P18)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/19.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P19)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/2.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/20.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P20)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/21.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P21)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/22.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P22)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/23.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P23)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/24.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P24)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/25.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P25)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/26.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P26)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/3.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/4.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/5.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/6.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/7.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/8.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P8)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-tay-vuc-ky/9.mp3",
+    "title" : "Đại Đường Tây Vực Ký (P9)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

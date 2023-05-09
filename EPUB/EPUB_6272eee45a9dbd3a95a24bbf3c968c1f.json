@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuyen-o-nong-trai_17777.html",
+    "title" : "Chuyện Ở Nông Trại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "George Orwell",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 11752,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_6272eee45a9dbd3a95a24bbf3c968c1f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_6272eee45a9dbd3a95a24bbf3c968c1f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cont-tsv/Tra%CC%A3i%20Su%CC%81c%20Va%CC%A3%CC%82t%20%28Animal%20Farm%29%20-%20George%20Orwell%20-%20audio%20book%20%28128kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11752,
+    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cont-tsv/Tra%CC%A3i%20Su%CC%81c%20Va%CC%A3%CC%82t%20%28Animal%20Farm%29%20-%20George%20Orwell%20-%20audio%20book%20%28128kbit_AAC%29.m4a",
+    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

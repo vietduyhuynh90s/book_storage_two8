@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ha-do_12536.html",
+    "title" : "Hạ Đỏ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 13796,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_97eac0144ae122c0835e47fef0b753fe.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_97eac0144ae122c0835e47fef0b753fe.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1759,
+    "title" : "HA DO 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2330,
+    "title" : "HA DO 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1547,
+    "title" : "HA DO 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 915,
+    "title" : "HA DO 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1683,
+    "title" : "HA DO 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1791,
+    "title" : "HA DO 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1125,
+    "title" : "HA DO 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 825,
+    "title" : "HA DO 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1821,
+    "title" : "HA DO 09",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_01.mp3",
+    "title" : "HA DO 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_02.mp3",
+    "title" : "HA DO 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_03.mp3",
+    "title" : "HA DO 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_04.mp3",
+    "title" : "HA DO 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_05.mp3",
+    "title" : "HA DO 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_06.mp3",
+    "title" : "HA DO 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_07.mp3",
+    "title" : "HA DO 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_08.mp3",
+    "title" : "HA DO 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ha-do.sna/HA_DO_09.mp3",
+    "title" : "HA DO 09",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

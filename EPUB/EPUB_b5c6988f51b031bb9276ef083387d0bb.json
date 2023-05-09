@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/gai-gia-ga-bay-lan_13024.html",
+    "title" : "Gái Già Gả Bảy Lần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoa Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25103,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_b5c6988f51b031bb9276ef083387d0bb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_b5c6988f51b031bb9276ef083387d0bb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/gai-gia-ga-lan-7/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5837,
+    "title" : "gaigiagalan7 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-gia-ga-lan-7/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5615,
+    "title" : "gaigiagalan7 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-gia-ga-lan-7/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6630,
+    "title" : "gaigiagalan7 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-gia-ga-lan-7/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7021,
+    "title" : "gaigiagalan7 4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/gai-gia-ga-lan-7/1.mp3",
+    "title" : "gaigiagalan7 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-gia-ga-lan-7/2.mp3",
+    "title" : "gaigiagalan7 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-gia-ga-lan-7/3.mp3",
+    "title" : "gaigiagalan7 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-gia-ga-lan-7/4.mp3",
+    "title" : "gaigiagalan7 4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/toi-vo-toi_17847.html",
+    "title" : "Tôi Vô Tội",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22962,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_5e1631ec48d864ce9fd74eceaa6711c1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_5e1631ec48d864ce9fd74eceaa6711c1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1972,
+    "title" : "Tôi vô tội 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1611,
+    "title" : "Tôi vô tội 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_03-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1776,
+    "title" : "Tôi vô tội 03-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1514,
+    "title" : "Tôi vô tội 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_06-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2442,
+    "title" : "Tôi vô tội 06-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_08-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1788,
+    "title" : "Tôi vô tội 08-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_10-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1586,
+    "title" : "Tôi vô tội 10-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_12-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1790,
+    "title" : "Tôi vô tội 12-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_14-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1034,
+    "title" : "Tôi vô tội 14-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_17-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1331,
+    "title" : "Tôi vô tội 17-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_19-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1684,
+    "title" : "Tôi vô tội 19-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_21-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1589,
+    "title" : "Tôi vô tội 21-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1380,
+    "title" : "Tôi vô tội 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_24-26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1465,
+    "title" : "Tôi vô tội 24-26",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_01.mp3",
+    "title" : "Tôi vô tội 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_02.mp3",
+    "title" : "Tôi vô tội 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_03-04.mp3",
+    "title" : "Tôi vô tội 03-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_05.mp3",
+    "title" : "Tôi vô tội 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_06-07.mp3",
+    "title" : "Tôi vô tội 06-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_08-09.mp3",
+    "title" : "Tôi vô tội 08-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_10-11.mp3",
+    "title" : "Tôi vô tội 10-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_12-13.mp3",
+    "title" : "Tôi vô tội 12-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_14-16.mp3",
+    "title" : "Tôi vô tội 14-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_17-18.mp3",
+    "title" : "Tôi vô tội 17-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_19-20.mp3",
+    "title" : "Tôi vô tội 19-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_21-22.mp3",
+    "title" : "Tôi vô tội 21-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_23.mp3",
+    "title" : "Tôi vô tội 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-vo-toi-06-07/T%C3%B4i%20v%C3%B4%20t%E1%BB%99i_24-26.mp3",
+    "title" : "Tôi vô tội 24-26",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

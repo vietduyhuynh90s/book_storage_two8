@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khuy-nuong_17837.html",
+    "title" : "Khuy Nương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tây Lăng Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 2786,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_4cf6d3d8f8608e0d72f768915c2f81b7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_4cf6d3d8f8608e0d72f768915c2f81b7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chuong-5/chuong%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 505,
+    "title" : "chuong 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuong-5/chuong%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 474,
+    "title" : "chuong 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuong-5/chuong%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 495,
+    "title" : "chuong 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuong-5/chuong%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 554,
+    "title" : "chuong 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuong-5/chuong%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 758,
+    "title" : "chuong 5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chuong-5/chuong%201.mp3",
+    "title" : "chuong 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuong-5/chuong%202.mp3",
+    "title" : "chuong 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuong-5/chuong%203.mp3",
+    "title" : "chuong 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuong-5/chuong%204.mp3",
+    "title" : "chuong 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuong-5/chuong%205.mp3",
+    "title" : "chuong 5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

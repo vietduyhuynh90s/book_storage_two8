@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lam-qua-phu-that-kho-thanh-phong-noan_11880.html",
+    "title" : "Làm Quả Phụ Thật Khó - Thanh Phong Noãn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thanh Phong Noãn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 26659,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_dc7fc4bc70deb40ca8a301bda28051c2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_dc7fc4bc70deb40ca8a301bda28051c2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lamquaphuthatkho/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5486,
+    "title" : "Truyện Điền Văn Hay-Làm Quả Phụ Thật Khó Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lamquaphuthatkho/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4497,
+    "title" : "Truyện Điền Văn Hay-Làm Quả Phụ Thật Khó Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lamquaphuthatkho/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4791,
+    "title" : "Truyện Điền Văn Hay-Làm Quả Phụ Thật Khó Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lamquaphuthatkho/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5096,
+    "title" : "Truyện Điền Văn Hay-Làm Quả Phụ Thật Khó Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lamquaphuthatkho/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6789,
+    "title" : "Truyện Điền Văn Hay-Làm Quả Phụ Thật Khó Phần 5 End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lamquaphuthatkho/1.mp3",
+    "title" : "Truyện Điền Văn Hay-Làm Quả Phụ Thật Khó Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lamquaphuthatkho/2.mp3",
+    "title" : "Truyện Điền Văn Hay-Làm Quả Phụ Thật Khó Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lamquaphuthatkho/3.mp3",
+    "title" : "Truyện Điền Văn Hay-Làm Quả Phụ Thật Khó Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lamquaphuthatkho/4.mp3",
+    "title" : "Truyện Điền Văn Hay-Làm Quả Phụ Thật Khó Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lamquaphuthatkho/5.mp3",
+    "title" : "Truyện Điền Văn Hay-Làm Quả Phụ Thật Khó Phần 5 End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trieu-phu-khu-o-chuot-vikas-swarup_10338.html",
+    "title" : "Triệu Phú Khu Ổ Chuột - Vikas Swarup",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vikas Swarup",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 37619,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_c9ace7933bc32da5e8e2118fd27af206.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_c9ace7933bc32da5e8e2118fd27af206.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trieu-phu-khu-o-chuot/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8028,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trieu-phu-khu-o-chuot/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10912,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trieu-phu-khu-o-chuot/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11197,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trieu-phu-khu-o-chuot/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7482,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trieu-phu-khu-o-chuot/1.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trieu-phu-khu-o-chuot/2.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trieu-phu-khu-o-chuot/3.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trieu-phu-khu-o-chuot/4.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

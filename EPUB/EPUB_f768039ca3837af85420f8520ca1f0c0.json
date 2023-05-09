@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/anh-linh-bat-diet_16058.html",
+    "title" : "Anh Linh Bất Diệt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Hoàng Nghĩa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22755,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_f768039ca3837af85420f8520ca1f0c0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_f768039ca3837af85420f8520ca1f0c0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anh-linh-bat-diet/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3878,
+    "title" : "Truyện Ma Có Thật Hay Rợn Thời Xưa Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-linh-bat-diet/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3722,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Đến Là Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-linh-bat-diet/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3956,
+    "title" : "Truyện Ma Có Thật Mới Rợn Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-linh-bat-diet/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3736,
+    "title" : "Truyện Ma Có Thật Mới Rợn Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-linh-bat-diet/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3798,
+    "title" : "Truyện Ma Có Thật Mới Rợn Đình Soạn Kể Đến Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-linh-bat-diet/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3665,
+    "title" : "Truyện Ma Có Thật Mới Rợn Đình Soạn Kể Đến Sợ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anh-linh-bat-diet/1.mp3",
+    "title" : "Truyện Ma Có Thật Hay Rợn Thời Xưa Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-linh-bat-diet/2.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Đến Là Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-linh-bat-diet/3.mp3",
+    "title" : "Truyện Ma Có Thật Mới Rợn Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-linh-bat-diet/4.mp3",
+    "title" : "Truyện Ma Có Thật Mới Rợn Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-linh-bat-diet/5.mp3",
+    "title" : "Truyện Ma Có Thật Mới Rợn Đình Soạn Kể Đến Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-linh-bat-diet/6.mp3",
+    "title" : "Truyện Ma Có Thật Mới Rợn Đình Soạn Kể Đến Sợ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

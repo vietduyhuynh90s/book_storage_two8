@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chien-luyen-tuyet-han-tuyet-truyen-ky_13307.html",
+    "title" : "Chiến Luyến Tuyết, Hàn Tuyết Truyền Kỳ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phượng Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 51672,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_2608958e9be87f35831636b54a7bf702.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_2608958e9be87f35831636b54a7bf702.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5018,
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6868,
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5010,
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4992,
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4959,
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5122,
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4968,
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4881,
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4927,
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4927,
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/1.mp3",
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/10.mp3",
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/2.mp3",
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/3.mp3",
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/4.mp3",
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/5.mp3",
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/6.mp3",
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/7.mp3",
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/8.mp3",
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-yeu-tuyet-truyen-ky-ve-han-tuyet/9.mp3",
+    "title" : "Truyện ngôn tình xuyên không phiêu lưu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

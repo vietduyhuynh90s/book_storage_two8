@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vong-am_14627.html",
+    "title" : "Vong Ám",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Yết",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 27036,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_daa5e4af147e1cb84300bbd1bc69bdba.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_daa5e4af147e1cb84300bbd1bc69bdba.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vong-am/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3194,
+    "title" : "Tập 1]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-am/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3657,
+    "title" : "Tập 2]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-am/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3262,
+    "title" : "Tập 3]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-am/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3301,
+    "title" : "Tập 4]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-am/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3232,
+    "title" : "Tập 5]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-am/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3216,
+    "title" : "Tập 6 ]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-am/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3019,
+    "title" : "Tập 7]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-am/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4155,
+    "title" : "Tập 8]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vong-am/1.mp3",
+    "title" : "Tập 1]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-am/2.mp3",
+    "title" : "Tập 2]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-am/3.mp3",
+    "title" : "Tập 3]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-am/4.mp3",
+    "title" : "Tập 4]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-am/5.mp3",
+    "title" : "Tập 5]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-am/6.mp3",
+    "title" : "Tập 6 ]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-am/7.mp3",
+    "title" : "Tập 7]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-am/8.mp3",
+    "title" : "Tập 8]Vong Ám - Truyện ma Đình Soạn mới nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,413 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ong-co-van-ho-so-mot-diep-vien_14412.html",
+    "title" : "Ông Cố Vấn: Hồ Sơ Một Điệp Viên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hữu Mai",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 89637,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_8db999b180869528ddff34fa99857a0b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_8db999b180869528ddff34fa99857a0b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4442,
+    "title" : "Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2151,
+    "title" : "Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2193,
+    "title" : "Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2034,
+    "title" : "Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1832,
+    "title" : "Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2615,
+    "title" : "Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4131,
+    "title" : "Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2153,
+    "title" : "Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3683,
+    "title" : "Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3920,
+    "title" : "Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3609,
+    "title" : "Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3370,
+    "title" : "Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1974,
+    "title" : "Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3511,
+    "title" : "Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3142,
+    "title" : "Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2849,
+    "title" : "Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2896,
+    "title" : "Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3216,
+    "title" : "Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3385,
+    "title" : "Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2719,
+    "title" : "Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2586,
+    "title" : "Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3701,
+    "title" : "Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4463,
+    "title" : "Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2588,
+    "title" : "Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2715,
+    "title" : "Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2092,
+    "title" : "Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1877,
+    "title" : "Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3784,
+    "title" : "Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1665,
+    "title" : "Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2288,
+    "title" : "Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2053,
+    "title" : "Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/1.mp3",
+    "title" : "Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/10.mp3",
+    "title" : "Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/11.mp3",
+    "title" : "Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/12.mp3",
+    "title" : "Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/13.mp3",
+    "title" : "Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/14.mp3",
+    "title" : "Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/15.mp3",
+    "title" : "Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/16.mp3",
+    "title" : "Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/17.mp3",
+    "title" : "Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/18.mp3",
+    "title" : "Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/19.mp3",
+    "title" : "Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/2.mp3",
+    "title" : "Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/20.mp3",
+    "title" : "Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/21.mp3",
+    "title" : "Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/22.mp3",
+    "title" : "Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/23.mp3",
+    "title" : "Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/24.mp3",
+    "title" : "Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/25.mp3",
+    "title" : "Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/26.mp3",
+    "title" : "Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/27.mp3",
+    "title" : "Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/28.mp3",
+    "title" : "Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/29.mp3",
+    "title" : "Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/3.mp3",
+    "title" : "Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/30.mp3",
+    "title" : "Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/31.mp3",
+    "title" : "Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/4.mp3",
+    "title" : "Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/5.mp3",
+    "title" : "Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/6.mp3",
+    "title" : "Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/7.mp3",
+    "title" : "Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/8.mp3",
+    "title" : "Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-bao-ong-co-van/9.mp3",
+    "title" : "Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

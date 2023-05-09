@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/11-loi-khuyen-danh-cho-the-he-tre-cua-bill-gates_19190.html",
+    "title" : "11 Lời Khuyên Dành Cho Thế Hệ Trẻ Của Bill Gates",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Gia Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 33968,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_73d7589326d25a89a69ab238093b8f11.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_73d7589326d25a89a69ab238093b8f11.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "loi-khuyen-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "loi-khuyen-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "loi-khuyen-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "loi-khuyen-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5168,
+    "title" : "loi-khuyen-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-1.mp3",
+    "title" : "loi-khuyen-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-2.mp3",
+    "title" : "loi-khuyen-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-3.mp3",
+    "title" : "loi-khuyen-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-4.mp3",
+    "title" : "loi-khuyen-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-5.mp3",
+    "title" : "loi-khuyen-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chia-khoa-ngay-tan-the-james-rollins_10739.html",
+    "title" : "Chìa Khóa Ngày Tận Thế - James Rollins",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "James Rollins",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 58388,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_058c9caf349b25dd9075e269bdc8a082.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_058c9caf349b25dd9075e269bdc8a082.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2715,
+    "title" : "Chìa khóa ngày tận thế l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2136,
+    "title" : "Chương 12 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2455,
+    "title" : "Chương 13 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3072,
+    "title" : "Chương 14 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2596,
+    "title" : "Chương 15 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2357,
+    "title" : "Chương 16-17 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2723,
+    "title" : "Chương 18 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3487,
+    "title" : "Chương 19 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2545,
+    "title" : "Chương 20 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2725,
+    "title" : "Chương 21 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2329,
+    "title" : "Chương 22-23 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1388,
+    "title" : "Chương 2 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2422,
+    "title" : "Chương 24-26 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1830,
+    "title" : "Chương 27 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1592,
+    "title" : "Chương 28 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1684,
+    "title" : "Chương 29 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1754,
+    "title" : "Chương 30 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1590,
+    "title" : "Chương 31 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1643,
+    "title" : "Chương 32 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1709,
+    "title" : "Chương 33 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1842,
+    "title" : "Chương 3 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1889,
+    "title" : "Chương 4 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1329,
+    "title" : "Chương 5 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2018,
+    "title" : "Chương 6 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2580,
+    "title" : "Chương 7-8 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1484,
+    "title" : "Chương 9 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2494,
+    "title" : "Chương 10-11 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/1.mp3",
+    "title" : "Chìa khóa ngày tận thế l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/10.mp3",
+    "title" : "Chương 12 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/11.mp3",
+    "title" : "Chương 13 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/12.mp3",
+    "title" : "Chương 14 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/13.mp3",
+    "title" : "Chương 15 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/14.mp3",
+    "title" : "Chương 16-17 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/15.mp3",
+    "title" : "Chương 18 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/16.mp3",
+    "title" : "Chương 19 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/17.mp3",
+    "title" : "Chương 20 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/18.mp3",
+    "title" : "Chương 21 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/19.mp3",
+    "title" : "Chương 22-23 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/2.mp3",
+    "title" : "Chương 2 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/20.mp3",
+    "title" : "Chương 24-26 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/21.mp3",
+    "title" : "Chương 27 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/22.mp3",
+    "title" : "Chương 28 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/23.mp3",
+    "title" : "Chương 29 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/24.mp3",
+    "title" : "Chương 30 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/25.mp3",
+    "title" : "Chương 31 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/26.mp3",
+    "title" : "Chương 32 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/27.mp3",
+    "title" : "Chương 33 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/3.mp3",
+    "title" : "Chương 3 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/4.mp3",
+    "title" : "Chương 4 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/5.mp3",
+    "title" : "Chương 5 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/6.mp3",
+    "title" : "Chương 6 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/7.mp3",
+    "title" : "Chương 7-8 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/8.mp3",
+    "title" : "Chương 9 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chia-khoa-ngay-tan-the/9.mp3",
+    "title" : "Chương 10-11 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

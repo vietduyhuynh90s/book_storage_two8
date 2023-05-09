@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/doi-ban-ban-khong-song-ai-song-ho_14828.html",
+    "title" : "Đời Bạn, Bạn Không Sống, Ai Sống Hộ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kazuko Watanabe",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 8529,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_4a1217c292963d399594865de0f5f889.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_4a1217c292963d399594865de0f5f889.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/DBBKSASH/%C4%90%E1%BB%9Di%20b%E1%BA%A1n%2C%20b%E1%BA%A1n%20kh%C3%B4ng%20s%E1%BB%91ng%20ai%20s%E1%BB%91ng%20h%E1%BB%99%20-%20Kazuko%20Watanabe%20%28152kbit_Opus%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8529,
+    "title" : "Đời bạn, bạn không sống ai sống hộ - Kazuko Watanabe (152kbit Opus)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/DBBKSASH/%C4%90%E1%BB%9Di%20b%E1%BA%A1n%2C%20b%E1%BA%A1n%20kh%C3%B4ng%20s%E1%BB%91ng%20ai%20s%E1%BB%91ng%20h%E1%BB%99%20-%20Kazuko%20Watanabe%20%28152kbit_Opus%29.mp3",
+    "title" : "Đời bạn, bạn không sống ai sống hộ - Kazuko Watanabe (152kbit Opus)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

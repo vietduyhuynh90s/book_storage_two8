@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuoi-tho-du-doi-phung-quan_10456.html",
+    "title" : "Tuổi Thơ Dữ Dội - Phùng Quán",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phùng Quân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 77224,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_0ecc9c3f42828360e4ea943ee54c7459.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_0ecc9c3f42828360e4ea943ee54c7459.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4655,
+    "title" : "1 - Một tuần trước ngày Huế nổ súng kháng chiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "10 - Bảy Đòn Bánh Tét",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3528,
+    "title" : "11 - Học Đòi Làm Cộng Sản",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3717,
+    "title" : "12 - Chiến Sĩ Tình Báo Nhỏ Tuổi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5642,
+    "title" : "13 - Trong Xà Lim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5460,
+    "title" : "14 - Răng Cửa Và Răng Sứt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5082,
+    "title" : "15 - Thân Cái Thằng Tù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3290,
+    "title" : "16 - Kỳ Quan Thế Giới Gà Luộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6118,
+    "title" : "17 - Vệ Quốc Đoàn 15 Tuổi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4256,
+    "title" : "18 - Lên Chiến Khu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3535,
+    "title" : "2 - Diễn Viên Nhào Lộn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3031,
+    "title" : "3 - Đôi Bông Tai Cưới Vợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5033,
+    "title" : "4 - Tổ Của Vịnh Sưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3514,
+    "title" : "5 - Đài Quan Sát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5250,
+    "title" : "6 - Tuyến Lửa Đạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2863,
+    "title" : "7 - Đoàn Quân Rút Lui",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4347,
+    "title" : "8 - Gia Đình Hồi Cư Kỳ Quặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3703,
+    "title" : "9 - Đòn Sấm Sét Bất Ngờ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/1.mp3",
+    "title" : "1 - Một tuần trước ngày Huế nổ súng kháng chiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/10.mp3",
+    "title" : "10 - Bảy Đòn Bánh Tét",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/11.mp3",
+    "title" : "11 - Học Đòi Làm Cộng Sản",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/12.mp3",
+    "title" : "12 - Chiến Sĩ Tình Báo Nhỏ Tuổi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/13.mp3",
+    "title" : "13 - Trong Xà Lim",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/14.mp3",
+    "title" : "14 - Răng Cửa Và Răng Sứt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/15.mp3",
+    "title" : "15 - Thân Cái Thằng Tù",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/16.mp3",
+    "title" : "16 - Kỳ Quan Thế Giới Gà Luộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/17.mp3",
+    "title" : "17 - Vệ Quốc Đoàn 15 Tuổi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/18.mp3",
+    "title" : "18 - Lên Chiến Khu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/2.mp3",
+    "title" : "2 - Diễn Viên Nhào Lộn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/3.mp3",
+    "title" : "3 - Đôi Bông Tai Cưới Vợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/4.mp3",
+    "title" : "4 - Tổ Của Vịnh Sưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/5.mp3",
+    "title" : "5 - Đài Quan Sát",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/6.mp3",
+    "title" : "6 - Tuyến Lửa Đạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/7.mp3",
+    "title" : "7 - Đoàn Quân Rút Lui",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/8.mp3",
+    "title" : "8 - Gia Đình Hồi Cư Kỳ Quặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tho-du-doi/9.mp3",
+    "title" : "9 - Đòn Sấm Sét Bất Ngờ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

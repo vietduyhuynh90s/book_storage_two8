@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/giai-ngai-ky-yamiyugi-atemu_10183.html",
+    "title" : "Giải Ngải Ký - Yamiyugi Atemu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Yamiyugi Atemu (Tống Mặt Than)",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 30082,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_938a2bc4adcb803d4c8012d0fd08cfd7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_938a2bc4adcb803d4c8012d0fd08cfd7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/giaingaiky_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3106,
+    "title" : "Giải Ngải Ký - Phần 1/10: Nằm Viện - Tống Mặt Than [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4448,
+    "title" : "Giải Ngải Ký - Phần 10/10: Người Nói Chuyện Với Linh Hồn - Tống Mặt Than [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 460,
+    "title" : "Truyện Ma: Giải Ngải Ký - Trích đoạn - Tác giả: Tống Mặt Than - [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1069,
+    "title" : "Giải Ngải Ký - Phần 2/10: Ma Nhập - Tống Mặt Than [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3029,
+    "title" : "Giải Ngải Ký - Phần 3/10: Chợ Phiên Âm Phủ - Tống Mặt Than [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2599,
+    "title" : "Giải Ngải Ký - Phần 4/10: Thầy Tào - Tống Mặt Than [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1036,
+    "title" : "Giải Ngải Ký - Phần 5/10: Tái Khám - Tống Mặt Than [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2432,
+    "title" : "Giải Ngải Ký - Phần 6/10: Quật Mộ - Tống Mặt Than [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2783,
+    "title" : "Giải Ngải Ký - Phần 7/10: Chuyến Xe Cuối Cùng - Tống Mặt Than [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4868,
+    "title" : "Giải Ngải Ký - Phần 8/10: Âm Hôn - Tống Mặt Than [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4252,
+    "title" : "Giải Ngải Ký - Phần 9/10: Oan Nghiệt - Tống Mặt Than [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/giaingaiky_201903/1.mp3",
+    "title" : "Giải Ngải Ký - Phần 1/10: Nằm Viện - Tống Mặt Than [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/10.mp3",
+    "title" : "Giải Ngải Ký - Phần 10/10: Người Nói Chuyện Với Linh Hồn - Tống Mặt Than [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/11.mp3",
+    "title" : "Truyện Ma: Giải Ngải Ký - Trích đoạn - Tác giả: Tống Mặt Than - [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/2.mp3",
+    "title" : "Giải Ngải Ký - Phần 2/10: Ma Nhập - Tống Mặt Than [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/3.mp3",
+    "title" : "Giải Ngải Ký - Phần 3/10: Chợ Phiên Âm Phủ - Tống Mặt Than [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/4.mp3",
+    "title" : "Giải Ngải Ký - Phần 4/10: Thầy Tào - Tống Mặt Than [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/5.mp3",
+    "title" : "Giải Ngải Ký - Phần 5/10: Tái Khám - Tống Mặt Than [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/6.mp3",
+    "title" : "Giải Ngải Ký - Phần 6/10: Quật Mộ - Tống Mặt Than [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/7.mp3",
+    "title" : "Giải Ngải Ký - Phần 7/10: Chuyến Xe Cuối Cùng - Tống Mặt Than [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/8.mp3",
+    "title" : "Giải Ngải Ký - Phần 8/10: Âm Hôn - Tống Mặt Than [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giaingaiky_201903/9.mp3",
+    "title" : "Giải Ngải Ký - Phần 9/10: Oan Nghiệt - Tống Mặt Than [MC Viết Linh]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

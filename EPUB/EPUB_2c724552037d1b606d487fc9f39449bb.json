@@ -1,0 +1,1409 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bao-quan-phong-long_10720.html",
+    "title" : "Bạo Quân - Phong Lộng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phong Lộng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 98654,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_2c724552037d1b606d487fc9f39449bb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_2c724552037d1b606d487fc9f39449bb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bao-quan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1110,
+    "title" : "Audio Bạo Quân Văn án + chương 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 783,
+    "title" : "Audio Bạo Quân Chương 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 905,
+    "title" : "Audio Bạo Quân Chương 97",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 767,
+    "title" : "Audio Bạo Quân Chương 98",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 865,
+    "title" : "Audio Bạo Quân Chương 99",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1006,
+    "title" : "Audio Bạo Quân Chương 100",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 965,
+    "title" : "Audio Bạo Quân Chương 101",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 819,
+    "title" : "Audio Bạo Quân Chương 102",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 953,
+    "title" : "Audio Bạo Quân Chương 103",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 935,
+    "title" : "Audio Bạo Quân Chương 104",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 811,
+    "title" : "Audio Bạo Quân Chương 105",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 889,
+    "title" : "Audio Bạo Quân Chương 106",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 795,
+    "title" : "Audio Bạo Quân Chương 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1005,
+    "title" : "Audio Bạo Quân Chương 107",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 863,
+    "title" : "Audio Bạo Quân Chương 108",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1062,
+    "title" : "Audio Bạo Quân Chương 109",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 913,
+    "title" : "Audio Bạo Quân Chương 110",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 860,
+    "title" : "Audio Bạo Quân Chương 111 end",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 783,
+    "title" : "Audio Bạo Quân Chương 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 656,
+    "title" : "Audio Bạo Quân Chương 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 814,
+    "title" : "Audio Bạo Quân Chương 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 691,
+    "title" : "Audio Bạo Quân Chương 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 750,
+    "title" : "Audio Bạo Quân Chương 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 814,
+    "title" : "Audio Bạo Quân Chương 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 784,
+    "title" : "Audio Bạo Quân Chương 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 647,
+    "title" : "Audio Bạo Quân Chương 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 533,
+    "title" : "Audio Bạo Quân Chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 714,
+    "title" : "Audio Bạo Quân Chương 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 659,
+    "title" : "Audio Bạo Quân Chương 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 443,
+    "title" : "Audio Bạo Quân Chương 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 652,
+    "title" : "Audio Bạo Quân Chương 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 781,
+    "title" : "Audio Bạo Quân Chương 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 642,
+    "title" : "Audio Bạo Quân Chương 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 993,
+    "title" : "Audio Bạo Quân Chương 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 716,
+    "title" : "Audio Bạo Quân Chương 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 720,
+    "title" : "Audio Bạo Quân Chương 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 809,
+    "title" : "Audio Bạo Quân Chương 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 657,
+    "title" : "Audio Bạo Quân Chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 587,
+    "title" : "Audio Bạo Quân Chương 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 702,
+    "title" : "Audio Bạo Quân Chương 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 981,
+    "title" : "Audio Bạo Quân Chương 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 710,
+    "title" : "Audio Bạo Quân Chương 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 905,
+    "title" : "Audio Bạo Quân Chương 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 935,
+    "title" : "Audio Bạo Quân Chương 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 628,
+    "title" : "Audio Bạo Quân Chương 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1025,
+    "title" : "Audio Bạo Quân Chương 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 899,
+    "title" : "Audio Bạo Quân Chương 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 978,
+    "title" : "Audio Bạo Quân Chương 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 848,
+    "title" : "Audio Bạo Quân Chương 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 747,
+    "title" : "Audio Bạo Quân Chương 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 638,
+    "title" : "Audio Bạo Quân Chương 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1201,
+    "title" : "Audio Bạo Quân Chương 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 835,
+    "title" : "Audio Bạo Quân Chương 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1121,
+    "title" : "Audio Bạo Quân Chương 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 814,
+    "title" : "Audio Bạo Quân Chương 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 990,
+    "title" : "Audio Bạo Quân Chương 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 612,
+    "title" : "Audio Bạo Quân Chương 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1717,
+    "title" : "Audio Bạo Quân Chương 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 844,
+    "title" : "Audio Bạo Quân Chương 49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 708,
+    "title" : "Audio Bạo Quân Chương 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1105,
+    "title" : "Audio Bạo Quân Chương 50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1087,
+    "title" : "Audio Bạo Quân Chương 51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1122,
+    "title" : "Audio Bạo Quân Chương 52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 919,
+    "title" : "Audio Bạo Quân Chương 53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1020,
+    "title" : "Audio Bạo Quân Chương 54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 936,
+    "title" : "Audio Bạo Quân Chương 55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1061,
+    "title" : "Audio Bạo Quân Chương 56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 835,
+    "title" : "Audio Bạo Quân Chương 57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 861,
+    "title" : "Audio Bạo Quân Chương 58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 881,
+    "title" : "Audio Bạo Quân Chương 59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 721,
+    "title" : "Audio Bạo Quân Chương 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 920,
+    "title" : "Audio Bạo Quân Chương 60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 961,
+    "title" : "Audio Bạo Quân Chương 61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 491,
+    "title" : "Audio Bạo Quân Chương 62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 951,
+    "title" : "Audio Bạo Quân Chương 62 (tiếp theo)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 924,
+    "title" : "Audio Bạo Quân Chương 63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 799,
+    "title" : "Audio Bạo Quân Chương 64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 669,
+    "title" : "Audio Bạo Quân Chương 65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 469,
+    "title" : "Audio Bạo Quân Chương 65 (tiếp theo)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 825,
+    "title" : "Audio Bạo Quân Chương 66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 900,
+    "title" : "Audio Bạo Quân Chương 67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 829,
+    "title" : "Audio Bạo Quân Chương 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1015,
+    "title" : "Audio Bạo Quân Chương 68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1033,
+    "title" : "Audio Bạo Quân Chương 69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 732,
+    "title" : "Audio Bạo Quân Chương 70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 704,
+    "title" : "Audio Bạo Quân Chương 71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 919,
+    "title" : "Audio Bạo Quân Chương 72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 660,
+    "title" : "Audio Bạo Quân Chương 73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 910,
+    "title" : "Audio Bạo Quân Chương 74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 783,
+    "title" : "Audio Bạo Quân Chương 75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 658,
+    "title" : "Audio Bạo Quân Chương 76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 829,
+    "title" : "Audio Bạo Quân Chương 77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 747,
+    "title" : "Audio Bạo Quân Chương 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 930,
+    "title" : "Audio Bạo Quân Chương 78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 860,
+    "title" : "Audio Bạo Quân quân Chương 79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1176,
+    "title" : "Audio Bạo Quân Chương 80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1074,
+    "title" : "Audio Bạo Quân Chương 81",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 796,
+    "title" : "Audio Bạo Quân Chương 82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 794,
+    "title" : "Audio Bạo Quân Chương 83",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 924,
+    "title" : "Audio Bạo Quân Chương 84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 983,
+    "title" : "Audio Bạo Quân Chương 85",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1492,
+    "title" : "Audio Bạo Quân Chương 86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1322,
+    "title" : "Audio Bạo Quân Chương 87",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 649,
+    "title" : "Audio Bạo Quân Chương 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 938,
+    "title" : "Audio Bạo Quân Chương 88",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1242,
+    "title" : "Audio Bạo Quân Chương 89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 812,
+    "title" : "Audio Bạo Quân Chương 90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1060,
+    "title" : "Audio Bạo Quân Chương 91",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 917,
+    "title" : "Audio Bạo Quân Chương 92",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1299,
+    "title" : "Audio Bạo Quân Chương 93",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 855,
+    "title" : "Audio Bạo Quân Chương 94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 467,
+    "title" : "Audio Bạo Quân Chương 95",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 683,
+    "title" : "Audio Bạo Quân Chương 95 (tiếp theo)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-quan/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1116,
+    "title" : "Audio Bạo Quân Chương 96",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bao-quan/1.mp3",
+    "title" : "Audio Bạo Quân Văn án + chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/10.mp3",
+    "title" : "Audio Bạo Quân Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/100.mp3",
+    "title" : "Audio Bạo Quân Chương 97",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/101.mp3",
+    "title" : "Audio Bạo Quân Chương 98",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/102.mp3",
+    "title" : "Audio Bạo Quân Chương 99",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/103.mp3",
+    "title" : "Audio Bạo Quân Chương 100",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/104.mp3",
+    "title" : "Audio Bạo Quân Chương 101",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/105.mp3",
+    "title" : "Audio Bạo Quân Chương 102",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/106.mp3",
+    "title" : "Audio Bạo Quân Chương 103",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/107.mp3",
+    "title" : "Audio Bạo Quân Chương 104",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/108.mp3",
+    "title" : "Audio Bạo Quân Chương 105",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/109.mp3",
+    "title" : "Audio Bạo Quân Chương 106",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/11.mp3",
+    "title" : "Audio Bạo Quân Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/110.mp3",
+    "title" : "Audio Bạo Quân Chương 107",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/111.mp3",
+    "title" : "Audio Bạo Quân Chương 108",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/112.mp3",
+    "title" : "Audio Bạo Quân Chương 109",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/113.mp3",
+    "title" : "Audio Bạo Quân Chương 110",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/114.mp3",
+    "title" : "Audio Bạo Quân Chương 111 end",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/12.mp3",
+    "title" : "Audio Bạo Quân Chương 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/13.mp3",
+    "title" : "Audio Bạo Quân Chương 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/14.mp3",
+    "title" : "Audio Bạo Quân Chương 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/15.mp3",
+    "title" : "Audio Bạo Quân Chương 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/16.mp3",
+    "title" : "Audio Bạo Quân Chương 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/17.mp3",
+    "title" : "Audio Bạo Quân Chương 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/18.mp3",
+    "title" : "Audio Bạo Quân Chương 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/19.mp3",
+    "title" : "Audio Bạo Quân Chương 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/2.mp3",
+    "title" : "Audio Bạo Quân Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/20.mp3",
+    "title" : "Audio Bạo Quân Chương 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/21.mp3",
+    "title" : "Audio Bạo Quân Chương 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/22.mp3",
+    "title" : "Audio Bạo Quân Chương 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/23.mp3",
+    "title" : "Audio Bạo Quân Chương 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/24.mp3",
+    "title" : "Audio Bạo Quân Chương 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/25.mp3",
+    "title" : "Audio Bạo Quân Chương 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/26.mp3",
+    "title" : "Audio Bạo Quân Chương 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/27.mp3",
+    "title" : "Audio Bạo Quân Chương 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/28.mp3",
+    "title" : "Audio Bạo Quân Chương 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/29.mp3",
+    "title" : "Audio Bạo Quân Chương 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/3.mp3",
+    "title" : "Audio Bạo Quân Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/30.mp3",
+    "title" : "Audio Bạo Quân Chương 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/31.mp3",
+    "title" : "Audio Bạo Quân Chương 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/32.mp3",
+    "title" : "Audio Bạo Quân Chương 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/33.mp3",
+    "title" : "Audio Bạo Quân Chương 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/34.mp3",
+    "title" : "Audio Bạo Quân Chương 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/35.mp3",
+    "title" : "Audio Bạo Quân Chương 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/36.mp3",
+    "title" : "Audio Bạo Quân Chương 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/37.mp3",
+    "title" : "Audio Bạo Quân Chương 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/38.mp3",
+    "title" : "Audio Bạo Quân Chương 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/39.mp3",
+    "title" : "Audio Bạo Quân Chương 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/4.mp3",
+    "title" : "Audio Bạo Quân Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/40.mp3",
+    "title" : "Audio Bạo Quân Chương 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/41.mp3",
+    "title" : "Audio Bạo Quân Chương 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/42.mp3",
+    "title" : "Audio Bạo Quân Chương 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/43.mp3",
+    "title" : "Audio Bạo Quân Chương 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/44.mp3",
+    "title" : "Audio Bạo Quân Chương 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/45.mp3",
+    "title" : "Audio Bạo Quân Chương 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/46.mp3",
+    "title" : "Audio Bạo Quân Chương 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/47.mp3",
+    "title" : "Audio Bạo Quân Chương 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/48.mp3",
+    "title" : "Audio Bạo Quân Chương 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/49.mp3",
+    "title" : "Audio Bạo Quân Chương 49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/5.mp3",
+    "title" : "Audio Bạo Quân Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/50.mp3",
+    "title" : "Audio Bạo Quân Chương 50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/51.mp3",
+    "title" : "Audio Bạo Quân Chương 51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/52.mp3",
+    "title" : "Audio Bạo Quân Chương 52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/53.mp3",
+    "title" : "Audio Bạo Quân Chương 53",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/54.mp3",
+    "title" : "Audio Bạo Quân Chương 54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/55.mp3",
+    "title" : "Audio Bạo Quân Chương 55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/56.mp3",
+    "title" : "Audio Bạo Quân Chương 56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/57.mp3",
+    "title" : "Audio Bạo Quân Chương 57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/58.mp3",
+    "title" : "Audio Bạo Quân Chương 58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/59.mp3",
+    "title" : "Audio Bạo Quân Chương 59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/6.mp3",
+    "title" : "Audio Bạo Quân Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/60.mp3",
+    "title" : "Audio Bạo Quân Chương 60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/61.mp3",
+    "title" : "Audio Bạo Quân Chương 61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/62.mp3",
+    "title" : "Audio Bạo Quân Chương 62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/63.mp3",
+    "title" : "Audio Bạo Quân Chương 62 (tiếp theo)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/64.mp3",
+    "title" : "Audio Bạo Quân Chương 63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/65.mp3",
+    "title" : "Audio Bạo Quân Chương 64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/66.mp3",
+    "title" : "Audio Bạo Quân Chương 65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/67.mp3",
+    "title" : "Audio Bạo Quân Chương 65 (tiếp theo)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/68.mp3",
+    "title" : "Audio Bạo Quân Chương 66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/69.mp3",
+    "title" : "Audio Bạo Quân Chương 67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/7.mp3",
+    "title" : "Audio Bạo Quân Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/70.mp3",
+    "title" : "Audio Bạo Quân Chương 68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/71.mp3",
+    "title" : "Audio Bạo Quân Chương 69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/72.mp3",
+    "title" : "Audio Bạo Quân Chương 70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/73.mp3",
+    "title" : "Audio Bạo Quân Chương 71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/74.mp3",
+    "title" : "Audio Bạo Quân Chương 72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/75.mp3",
+    "title" : "Audio Bạo Quân Chương 73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/76.mp3",
+    "title" : "Audio Bạo Quân Chương 74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/77.mp3",
+    "title" : "Audio Bạo Quân Chương 75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/78.mp3",
+    "title" : "Audio Bạo Quân Chương 76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/79.mp3",
+    "title" : "Audio Bạo Quân Chương 77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/8.mp3",
+    "title" : "Audio Bạo Quân Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/80.mp3",
+    "title" : "Audio Bạo Quân Chương 78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/81.mp3",
+    "title" : "Audio Bạo Quân quân Chương 79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/82.mp3",
+    "title" : "Audio Bạo Quân Chương 80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/83.mp3",
+    "title" : "Audio Bạo Quân Chương 81",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/84.mp3",
+    "title" : "Audio Bạo Quân Chương 82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/85.mp3",
+    "title" : "Audio Bạo Quân Chương 83",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/86.mp3",
+    "title" : "Audio Bạo Quân Chương 84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/87.mp3",
+    "title" : "Audio Bạo Quân Chương 85",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/88.mp3",
+    "title" : "Audio Bạo Quân Chương 86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/89.mp3",
+    "title" : "Audio Bạo Quân Chương 87",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/9.mp3",
+    "title" : "Audio Bạo Quân Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/90.mp3",
+    "title" : "Audio Bạo Quân Chương 88",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/91.mp3",
+    "title" : "Audio Bạo Quân Chương 89",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/92.mp3",
+    "title" : "Audio Bạo Quân Chương 90",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/93.mp3",
+    "title" : "Audio Bạo Quân Chương 91",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/94.mp3",
+    "title" : "Audio Bạo Quân Chương 92",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/95.mp3",
+    "title" : "Audio Bạo Quân Chương 93",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/96.mp3",
+    "title" : "Audio Bạo Quân Chương 94",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/97.mp3",
+    "title" : "Audio Bạo Quân Chương 95",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/98.mp3",
+    "title" : "Audio Bạo Quân Chương 95 (tiếp theo)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-quan/99.mp3",
+    "title" : "Audio Bạo Quân Chương 96",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

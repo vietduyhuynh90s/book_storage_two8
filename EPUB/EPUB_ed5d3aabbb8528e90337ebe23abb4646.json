@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/me-chong-da-nghi_12799.html",
+    "title" : "Mẹ Chồng Đa Nghi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khuyết Danh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 31392,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_ed5d3aabbb8528e90337ebe23abb4646.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_ed5d3aabbb8528e90337ebe23abb4646.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/me-chong-da-nghi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3909,
+    "title" : "Mẹ Chồng Đa Nghi (Cực Hay) #mcthanhmai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-chong-da-nghi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4481,
+    "title" : "Siêu phẩm tâm lý xã hội 2020 (Cực Hay) #mcthanhmai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-chong-da-nghi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3808,
+    "title" : "Phận làm dâu (Cực Hay) #mcthanhmai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-chong-da-nghi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3824,
+    "title" : "Siêu phẩm tâm lý xã hội 2019 #mcthanhmai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-chong-da-nghi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3777,
+    "title" : "Truyện tâm lý xã hội 2020 - MC Thanh mai diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-chong-da-nghi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3614,
+    "title" : "Truyện tâm lý xã hội mới 2020 #mcthanhmai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-chong-da-nghi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3885,
+    "title" : "Truyện tâm lý xã hội cực hay #mcthanhmai diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-chong-da-nghi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4094,
+    "title" : "Mẹ Chồng Đa Nghi - Truyện tâm lý xã hội mới 2020 #mcthanhmai",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/me-chong-da-nghi/1.mp3",
+    "title" : "Mẹ Chồng Đa Nghi (Cực Hay) #mcthanhmai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-chong-da-nghi/2.mp3",
+    "title" : "Siêu phẩm tâm lý xã hội 2020 (Cực Hay) #mcthanhmai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-chong-da-nghi/3.mp3",
+    "title" : "Phận làm dâu (Cực Hay) #mcthanhmai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-chong-da-nghi/4.mp3",
+    "title" : "Siêu phẩm tâm lý xã hội 2019 #mcthanhmai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-chong-da-nghi/5.mp3",
+    "title" : "Truyện tâm lý xã hội 2020 - MC Thanh mai diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-chong-da-nghi/6.mp3",
+    "title" : "Truyện tâm lý xã hội mới 2020 #mcthanhmai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-chong-da-nghi/7.mp3",
+    "title" : "Truyện tâm lý xã hội cực hay #mcthanhmai diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-chong-da-nghi/8.mp3",
+    "title" : "Mẹ Chồng Đa Nghi - Truyện tâm lý xã hội mới 2020 #mcthanhmai",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xac-chet-khong-dau_14624.html",
+    "title" : "Xác Chết Không Đầu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Danh Giác",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 17872,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_7d1652050832adb642a82a2e81e65391.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_7d1652050832adb642a82a2e81e65391.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xacchetkhongdau/XacChetKhongDau_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2970,
+    "title" : "XacChetKhongDau 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xacchetkhongdau/XacChetKhongDau_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3024,
+    "title" : "XacChetKhongDau 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xacchetkhongdau/XacChetKhongDau_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3273,
+    "title" : "XacChetKhongDau 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xacchetkhongdau/XacChetKhongDau_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3311,
+    "title" : "XacChetKhongDau 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xacchetkhongdau/XacChetKhongDau_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5294,
+    "title" : "XacChetKhongDau 05",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xacchetkhongdau/XacChetKhongDau_01.mp3",
+    "title" : "XacChetKhongDau 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xacchetkhongdau/XacChetKhongDau_02.mp3",
+    "title" : "XacChetKhongDau 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xacchetkhongdau/XacChetKhongDau_03.mp3",
+    "title" : "XacChetKhongDau 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xacchetkhongdau/XacChetKhongDau_04.mp3",
+    "title" : "XacChetKhongDau 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xacchetkhongdau/XacChetKhongDau_05.mp3",
+    "title" : "XacChetKhongDau 05",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

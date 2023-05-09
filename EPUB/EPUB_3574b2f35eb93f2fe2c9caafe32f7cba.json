@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ky-nang-di-truoc-dam-me_15309.html",
+    "title" : "Kỹ Năng Đi Trước Đam Mê",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cal Newport",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22168,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_3574b2f35eb93f2fe2c9caafe32f7cba.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_3574b2f35eb93f2fe2c9caafe32f7cba.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ky-nang-di-ttruoc-dam-me/ky-nang-di-truoc-dam-me.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 22168,
+    "title" : "ky-nang-di-truoc-dam-me",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ky-nang-di-ttruoc-dam-me/ky-nang-di-truoc-dam-me.mp3",
+    "title" : "ky-nang-di-truoc-dam-me",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

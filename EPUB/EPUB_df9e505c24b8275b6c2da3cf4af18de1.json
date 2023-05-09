@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/la-yeu-hay-han_15313.html",
+    "title" : "Là Yêu Hay Hận",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Linh Hy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 36208,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_df9e505c24b8275b6c2da3cf4af18de1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_df9e505c24b8275b6c2da3cf4af18de1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/la-yeu-hay-han/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3123,
+    "title" : "Phần 1 - Tác giả Linh Hi (Ngày lành cảnh đẹp biết bao giờ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3012,
+    "title" : "Phần 10 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3054,
+    "title" : "Phần 11 - Tác giả Linh Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4449,
+    "title" : "Phần 12 -The and - Tác giả Linh Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2529,
+    "title" : "Phần 2 - Tác giả Linh Hi (Ngày lành cảnh đẹp biết bao giờ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2641,
+    "title" : "Phần 3 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3206,
+    "title" : "Phần 4 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2819,
+    "title" : "Phần 5 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3097,
+    "title" : "Phần 6 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2300,
+    "title" : "Phần 7 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3330,
+    "title" : "Phần 8 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2648,
+    "title" : "Phần 9 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/la-yeu-hay-han/1.mp3",
+    "title" : "Phần 1 - Tác giả Linh Hi (Ngày lành cảnh đẹp biết bao giờ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/10.mp3",
+    "title" : "Phần 10 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/11.mp3",
+    "title" : "Phần 11 - Tác giả Linh Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/12.mp3",
+    "title" : "Phần 12 -The and - Tác giả Linh Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/2.mp3",
+    "title" : "Phần 2 - Tác giả Linh Hi (Ngày lành cảnh đẹp biết bao giờ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/3.mp3",
+    "title" : "Phần 3 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/4.mp3",
+    "title" : "Phần 4 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/5.mp3",
+    "title" : "Phần 5 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/6.mp3",
+    "title" : "Phần 6 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/7.mp3",
+    "title" : "Phần 7 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/8.mp3",
+    "title" : "Phần 8 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/la-yeu-hay-han/9.mp3",
+    "title" : "Phần 9 - Tác giả Linh Hy (Ngày lành cảnh đẹp biết bao giờ)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chap-niem-da-man_11492.html",
+    "title" : "Chấp Niệm - Dạ Mạn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dạ Man",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 52121,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_34cbb2d6e8c2601a324b5df3b3c4d2e3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_34cbb2d6e8c2601a324b5df3b3c4d2e3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/covodangthuong_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10087,
+    "title" : "Cô Vợ Đáng Thương | Truyện ngôn tình mới cảm động nhất về Chấp Niệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/covodangthuong_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10197,
+    "title" : "[Phần 2] Cô Vợ Đang Thương | Truyện ngôn tình hiện đại cực hay về Chap Niệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/covodangthuong_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7583,
+    "title" : "Truyện ngôn tình mới hay khó quên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/covodangthuong_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7395,
+    "title" : "[Phần 4] Cô Vợ Đáng Thương| Truyện ngôn tình hay nghe bao lần vẫn không chán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/covodangthuong_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7356,
+    "title" : "Truyện ngôn tình hay tuyệt vời ông mặt trời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/covodangthuong_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9503,
+    "title" : "Truyện ngôn tình mới hay nghe là mê ly",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/covodangthuong_201903/1.mp3",
+    "title" : "Cô Vợ Đáng Thương | Truyện ngôn tình mới cảm động nhất về Chấp Niệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/covodangthuong_201903/2.mp3",
+    "title" : "[Phần 2] Cô Vợ Đang Thương | Truyện ngôn tình hiện đại cực hay về Chap Niệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/covodangthuong_201903/3.mp3",
+    "title" : "Truyện ngôn tình mới hay khó quên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/covodangthuong_201903/4.mp3",
+    "title" : "[Phần 4] Cô Vợ Đáng Thương| Truyện ngôn tình hay nghe bao lần vẫn không chán",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/covodangthuong_201903/5.mp3",
+    "title" : "Truyện ngôn tình hay tuyệt vời ông mặt trời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/covodangthuong_201903/6.mp3",
+    "title" : "Truyện ngôn tình mới hay nghe là mê ly",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

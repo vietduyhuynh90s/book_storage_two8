@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/son-hai-di-thu-chi_15146.html",
+    "title" : "Sơn Hải Dị Thú Chí",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mao Đậu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 6316,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_5cf3337b8abb7b3008c9f7df642b49d0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_5cf3337b8abb7b3008c9f7df642b49d0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/son-hai-di-thu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 542,
+    "title" : "DỊ THÚ TRONG SƠN HẢI KINH - [ PHẦN 1]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/son-hai-di-thu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1457,
+    "title" : "DỊ THÚ TRONG SƠN HẢI KINH - [ PHẦN 2]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/son-hai-di-thu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1105,
+    "title" : "QUÁI THÚ - TRONG SƠN HẢI KINH - [PHẦN 3]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/son-hai-di-thu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1725,
+    "title" : "QUÁI THÚ - TRONG SƠN HẢI KINH - [PHẦN4]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/son-hai-di-thu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1487,
+    "title" : "QUÁI THÚ - TRONG SƠN HẢI KINH - [PHẦN 5 - HẾT]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/son-hai-di-thu/1.mp3",
+    "title" : "DỊ THÚ TRONG SƠN HẢI KINH - [ PHẦN 1]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/son-hai-di-thu/2.mp3",
+    "title" : "DỊ THÚ TRONG SƠN HẢI KINH - [ PHẦN 2]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/son-hai-di-thu/3.mp3",
+    "title" : "QUÁI THÚ - TRONG SƠN HẢI KINH - [PHẦN 3]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/son-hai-di-thu/4.mp3",
+    "title" : "QUÁI THÚ - TRONG SƠN HẢI KINH - [PHẦN4]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/son-hai-di-thu/5.mp3",
+    "title" : "QUÁI THÚ - TRONG SƠN HẢI KINH - [PHẦN 5 - HẾT]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

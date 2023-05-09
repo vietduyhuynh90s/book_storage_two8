@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nu-hon-cua-soi-diep-lac-vo-tam_10345.html",
+    "title" : "Nụ Hôn của Sói - Diệp Lạc Vô Tâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diệp Lạc Vô Tâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 30198,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_e19118c6f202ca8b231c12e9dc4bcd25.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_e19118c6f202ca8b231c12e9dc4bcd25.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4167,
+    "title" : "Nụ hôn của sói [ Tập 1 ] - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3571,
+    "title" : "Nụ hôn của sói [ Tập 2 ] - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3606,
+    "title" : "Nụ hôn của sói [ Tập 3 ] - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3559,
+    "title" : "Nụ hôn của sói [ Tập 4 ] - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3773,
+    "title" : "Truyện ngôn tình hắc bang cuốn hút nghẹt thở - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3500,
+    "title" : "Truyện ngôn tình hắc bang cuốn hút nghẹt thở - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3915,
+    "title" : "Truyện ngôn tình hắc bang cuốn hút nghẹt thở - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4107,
+    "title" : "Truyện ngôn tình hắc bang cuốn hút nghẹt thở - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/1.mp3",
+    "title" : "Nụ hôn của sói [ Tập 1 ] - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/2.mp3",
+    "title" : "Nụ hôn của sói [ Tập 2 ] - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/3.mp3",
+    "title" : "Nụ hôn của sói [ Tập 3 ] - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/4.mp3",
+    "title" : "Nụ hôn của sói [ Tập 4 ] - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/5.mp3",
+    "title" : "Truyện ngôn tình hắc bang cuốn hút nghẹt thở - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/6.mp3",
+    "title" : "Truyện ngôn tình hắc bang cuốn hút nghẹt thở - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/7.mp3",
+    "title" : "Truyện ngôn tình hắc bang cuốn hút nghẹt thở - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nu-hon-cua-soi/8.mp3",
+    "title" : "Truyện ngôn tình hắc bang cuốn hút nghẹt thở - MC Bi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

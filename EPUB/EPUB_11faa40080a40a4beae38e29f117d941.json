@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/anh-se-doi-em-trong-hoi-uc_15150.html",
+    "title" : "Anh Sẽ Đợi Em Trong Hồi Ức",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tân Di Ổ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 64861,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_11faa40080a40a4beae38e29f117d941.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_11faa40080a40a4beae38e29f117d941.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4397,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3548,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2891,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3777,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4221,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3652,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3535,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3281,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3367,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3539,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2958,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3773,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3837,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4117,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3500,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3867,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3465,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3136,
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/1.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/10.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/11.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/12.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/13.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/14.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/15.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/16.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/17.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/18.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/2.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/3.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/4.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/5.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/6.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/7.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/8.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-se-doi-em-trong-hoi-uc/9.mp3",
+    "title" : "Truyện ngôn tình ANH SẼ ĐỢI EM TRONG HỒI ỨC tác giả: Tân Di Ổ tập 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,377 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tay-du-nhat-mong-tran-sau_10000.html",
+    "title" : "Tây Du Nhất Mộng - Trần Sấu.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Sấu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 90810,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_0210746b835c0995569aaa2dd0d0c090.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_0210746b835c0995569aaa2dd0d0c090.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 122,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2489,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4051,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 609,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2104,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3638,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4215,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3668,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3905,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3795,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1419,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3916,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2547,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3995,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5255,
+    "title" : "Trần Sấu (hết phần 6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3597,
+    "title" : "Trần Sấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4291,
+    "title" : "Trần Sấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4087,
+    "title" : "Trần Sấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3665,
+    "title" : "Trần Sấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2765,
+    "title" : "Trần Sấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4442,
+    "title" : "Trần Sấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4285,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3874,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4325,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2281,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2292,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3777,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1401,
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/1.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/10.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/11.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/12.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/13.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/14.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/15.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/16.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/17.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/18.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/19.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/2.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/20.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/21.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/22.mp3",
+    "title" : "Trần Sấu (hết phần 6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/23.mp3",
+    "title" : "Trần Sấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/24.mp3",
+    "title" : "Trần Sấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/25.mp3",
+    "title" : "Trần Sấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/26.mp3",
+    "title" : "Trần Sấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/27.mp3",
+    "title" : "Trần Sấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/28.mp3",
+    "title" : "Trần Sấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/3.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/4.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/5.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/6.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/7.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/8.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tdnm/9.mp3",
+    "title" : "Trần Sấu - Đô thị, võng du, huyền huyễn, hài",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

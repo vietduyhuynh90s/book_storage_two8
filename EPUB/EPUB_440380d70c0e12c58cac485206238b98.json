@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trung-chim-cuc-cu-nay-thuoc-ve-ai_18630.html",
+    "title" : "Trứng Chim Cúc Cu Này Thuộc Về Ai",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Higashino Keigo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 33490,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_440380d70c0e12c58cac485206238b98.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_440380d70c0e12c58cac485206238b98.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4980,
+    "title" : "Trứng chim cúc cu này thuộc về ai 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4800,
+    "title" : "Trứng chim cúc cu này thuộc về ai 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4140,
+    "title" : "Trứng chim cúc cu này thuộc về ai 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4440,
+    "title" : "Trứng chim cúc cu này thuộc về ai 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4980,
+    "title" : "Trứng chim cúc cu này thuộc về ai 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4090,
+    "title" : "Trứng chim cúc cu này thuộc về ai 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4140,
+    "title" : "Trứng chim cúc cu này thuộc về ai 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1920,
+    "title" : "Trứng chim cúc cu này thuộc về ai 08",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_01.mp3",
+    "title" : "Trứng chim cúc cu này thuộc về ai 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_02.mp3",
+    "title" : "Trứng chim cúc cu này thuộc về ai 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_03.mp3",
+    "title" : "Trứng chim cúc cu này thuộc về ai 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_04.mp3",
+    "title" : "Trứng chim cúc cu này thuộc về ai 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_05.mp3",
+    "title" : "Trứng chim cúc cu này thuộc về ai 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_06.mp3",
+    "title" : "Trứng chim cúc cu này thuộc về ai 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_07.mp3",
+    "title" : "Trứng chim cúc cu này thuộc về ai 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-chim-cuc-cu-nay-thuoc-ve-ai-05/Tr%E1%BB%A9ng%20chim%20c%C3%BAc%20cu%20n%C3%A0y%20thu%E1%BB%99c%20v%E1%BB%81%20ai_08.mp3",
+    "title" : "Trứng chim cúc cu này thuộc về ai 08",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
