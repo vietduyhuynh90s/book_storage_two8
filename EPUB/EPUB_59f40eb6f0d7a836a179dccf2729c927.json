@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tam-ngua_20190.html",
+    "title" : "Tâm Ngứa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thanh Cù",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-11",
+    "duration" : 48832,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_59f40eb6f0d7a836a179dccf2729c927.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_59f40eb6f0d7a836a179dccf2729c927.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tam-ngua/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7062,
+    "title" : "Mc QuQu Tâm ngứa – Nghe Truyện Ngôn Tình Chọn Lọc , Hay đặc sắc nhất 2019 – Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-ngua/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7501,
+    "title" : "Tâm ngứa – Nghe Truyện Ngôn Tình Chọn Lọc , Hay đặc sắc nhất 2019 – Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-ngua/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6858,
+    "title" : "Tâm ngứa – Nghe Truyện Ngôn Tình Chọn Lọc , Hay đặc sắc nhất 2019 – Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-ngua/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6375,
+    "title" : "Tâm ngứa – Nghe Truyện Ngôn Tình Chọn Lọc , Hay đặc sắc nhất 2019 – Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-ngua/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6360,
+    "title" : "Tâm ngứa – Nghe Truyện Hay 2019 – Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-ngua/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6801,
+    "title" : "Tâm ngứa – Nghe Truyện Ngôn Tình Chọn Lọ c2019 – Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-ngua/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7875,
+    "title" : "Tâm ngứa ( tập cuối ) – Nghe Truyện Ngôn Tình Chọn Lọc 2019",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tam-ngua/1.mp3",
+    "title" : "Mc QuQu Tâm ngứa – Nghe Truyện Ngôn Tình Chọn Lọc , Hay đặc sắc nhất 2019 – Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-ngua/2.mp3",
+    "title" : "Tâm ngứa – Nghe Truyện Ngôn Tình Chọn Lọc , Hay đặc sắc nhất 2019 – Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-ngua/3.mp3",
+    "title" : "Tâm ngứa – Nghe Truyện Ngôn Tình Chọn Lọc , Hay đặc sắc nhất 2019 – Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-ngua/4.mp3",
+    "title" : "Tâm ngứa – Nghe Truyện Ngôn Tình Chọn Lọc , Hay đặc sắc nhất 2019 – Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-ngua/5.mp3",
+    "title" : "Tâm ngứa – Nghe Truyện Hay 2019 – Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-ngua/6.mp3",
+    "title" : "Tâm ngứa – Nghe Truyện Ngôn Tình Chọn Lọ c2019 – Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-ngua/7.mp3",
+    "title" : "Tâm ngứa ( tập cuối ) – Nghe Truyện Ngôn Tình Chọn Lọc 2019",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

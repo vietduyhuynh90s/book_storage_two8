@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-da-san-sang-de-don-nhan-hanh-phuc-chua_20239.html",
+    "title" : "Bạn Đã Sẵn Sàng Để Đón Nhận Hạnh Phúc Chưa?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khenpo Tsultrim Lodro",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-11",
+    "duration" : 20458,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_558ada8d39f43c9e2dd233cb542f5338.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_558ada8d39f43c9e2dd233cb542f5338.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/noi-dau/dao-phat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4207,
+    "title" : "dao-phat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-dau/hanh-trang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2494,
+    "title" : "hanh-trang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-dau/kho-dau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2638,
+    "title" : "kho-dau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-dau/lam-the-nao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1925,
+    "title" : "09 Lam the nao de doi dien voi hanh phuc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-dau/noi-dau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4012,
+    "title" : "noi-dau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-dau/quan-niem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2490,
+    "title" : "quan-niem",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/noi-dau/tam-quan-trong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2692,
+    "title" : "tam-quan-trong",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/noi-dau/dao-phat.mp3",
+    "title" : "dao-phat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-dau/hanh-trang.mp3",
+    "title" : "hanh-trang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-dau/kho-dau.mp3",
+    "title" : "kho-dau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-dau/lam-the-nao.mp3",
+    "title" : "09 Lam the nao de doi dien voi hanh phuc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-dau/noi-dau.mp3",
+    "title" : "noi-dau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-dau/quan-niem.mp3",
+    "title" : "quan-niem",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-dau/tam-quan-trong.mp3",
+    "title" : "tam-quan-trong",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

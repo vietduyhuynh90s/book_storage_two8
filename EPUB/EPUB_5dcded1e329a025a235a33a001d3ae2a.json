@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuyen-linh-tay-nam_20301.html",
+    "title" : "Chuyện Lính Tây Nam",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trung Sỹ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-11",
+    "duration" : 37920,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_5dcded1e329a025a235a33a001d3ae2a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_5dcded1e329a025a235a33a001d3ae2a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1802,
+    "title" : "chuyen-linh-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1800,
+    "title" : "chuyen-linh-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1828,
+    "title" : "chuyen-linh-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1796,
+    "title" : "chuyen-linh-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1815,
+    "title" : "chuyen-linh-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1797,
+    "title" : "chuyen-linh-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1801,
+    "title" : "chuyen-linh-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1803,
+    "title" : "chuyen-linh-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1806,
+    "title" : "chuyen-linh-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1804,
+    "title" : "chuyen-linh-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1831,
+    "title" : "chuyen-linh-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1809,
+    "title" : "chuyen-linh-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1818,
+    "title" : "chuyen-linh-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1830,
+    "title" : "chuyen-linh-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1794,
+    "title" : "chuyen-linh-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1788,
+    "title" : "chuyen-linh-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1791,
+    "title" : "chuyen-linh-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1782,
+    "title" : "chuyen-linh-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1824,
+    "title" : "chuyen-linh-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1806,
+    "title" : "chuyen-linh-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1795,
+    "title" : "chuyen-linh-21",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-01.mp3",
+    "title" : "chuyen-linh-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-02.mp3",
+    "title" : "chuyen-linh-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-03.mp3",
+    "title" : "chuyen-linh-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-04.mp3",
+    "title" : "chuyen-linh-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-05.mp3",
+    "title" : "chuyen-linh-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-06.mp3",
+    "title" : "chuyen-linh-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-07.mp3",
+    "title" : "chuyen-linh-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-08.mp3",
+    "title" : "chuyen-linh-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-09.mp3",
+    "title" : "chuyen-linh-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-10.mp3",
+    "title" : "chuyen-linh-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-11.mp3",
+    "title" : "chuyen-linh-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-12.mp3",
+    "title" : "chuyen-linh-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-13.mp3",
+    "title" : "chuyen-linh-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-14.mp3",
+    "title" : "chuyen-linh-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-15.mp3",
+    "title" : "chuyen-linh-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-16.mp3",
+    "title" : "chuyen-linh-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-17.mp3",
+    "title" : "chuyen-linh-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-18.mp3",
+    "title" : "chuyen-linh-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-19.mp3",
+    "title" : "chuyen-linh-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-20.mp3",
+    "title" : "chuyen-linh-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-linh-11/chuyen-linh-21.mp3",
+    "title" : "chuyen-linh-21",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
