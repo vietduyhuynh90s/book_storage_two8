@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/80-chieu-thuc-kinh-doanh-thanh-cong_19555.html",
+    "title" : "80 Chiêu Thức Kinh Doanh Thành Công",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vương Chí Cương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 34428,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_75d3519afb76748ef3267d0fbf1b6c23.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_75d3519afb76748ef3267d0fbf1b6c23.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/01.%20P01_HC_80ChieuThucKinhDoanhThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3159,
+    "title" : "01. P01 HC 80ChieuThucKinhDoanhThanhCong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/01._P01_HC_80ChieuThucKinhDoanhThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3159,
+    "title" : "01. P01 HC 80ChieuThucKinhDoanhThanhCong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/02.%20P02_HC_80ChieuThucKinhDoanhThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3370,
+    "title" : "02. P02 HC 80ChieuThucKinhDoanhThanhCong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/02._P02_HC_80ChieuThucKinhDoanhThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3370,
+    "title" : "02. P02 HC 80ChieuThucKinhDoanhThanhCong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/03.%20P03_HC_80ChieuThucKinhDoanhThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "03. P03 HC 80ChieuThucKinhDoanhThanhCong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/03._P03_HC_80ChieuThucKinhDoanhThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "03. P03 HC 80ChieuThucKinhDoanhThanhCong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/04.%20P04_80ChieuThucKinhDoanhThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3540,
+    "title" : "04. P04 80ChieuThucKinhDoanhThanhCong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/04._P04_80ChieuThucKinhDoanhThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3540,
+    "title" : "04. P04 80ChieuThucKinhDoanhThanhCong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/05.%20P05_HET_80ChieuThucKinhDoanhThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3754,
+    "title" : "05. P05 HET 80ChieuThucKinhDoanhThanhCong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/05._P05_HET_80ChieuThucKinhDoanhThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3754,
+    "title" : "05. P05 HET 80ChieuThucKinhDoanhThanhCong",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/01.%20P01_HC_80ChieuThucKinhDoanhThanhCong.mp3",
+    "title" : "01. P01 HC 80ChieuThucKinhDoanhThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/01._P01_HC_80ChieuThucKinhDoanhThanhCong.mp3",
+    "title" : "01. P01 HC 80ChieuThucKinhDoanhThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/02.%20P02_HC_80ChieuThucKinhDoanhThanhCong.mp3",
+    "title" : "02. P02 HC 80ChieuThucKinhDoanhThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/02._P02_HC_80ChieuThucKinhDoanhThanhCong.mp3",
+    "title" : "02. P02 HC 80ChieuThucKinhDoanhThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/03.%20P03_HC_80ChieuThucKinhDoanhThanhCong.mp3",
+    "title" : "03. P03 HC 80ChieuThucKinhDoanhThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/03._P03_HC_80ChieuThucKinhDoanhThanhCong.mp3",
+    "title" : "03. P03 HC 80ChieuThucKinhDoanhThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/04.%20P04_80ChieuThucKinhDoanhThanhCong.mp3",
+    "title" : "04. P04 80ChieuThucKinhDoanhThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/04._P04_80ChieuThucKinhDoanhThanhCong.mp3",
+    "title" : "04. P04 80ChieuThucKinhDoanhThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/05.%20P05_HET_80ChieuThucKinhDoanhThanhCong.mp3",
+    "title" : "05. P05 HET 80ChieuThucKinhDoanhThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/80-chieu-thuc-kinh-doanh-thanh-cong.sna/05._P05_HET_80ChieuThucKinhDoanhThanhCong.mp3",
+    "title" : "05. P05 HET 80ChieuThucKinhDoanhThanhCong",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

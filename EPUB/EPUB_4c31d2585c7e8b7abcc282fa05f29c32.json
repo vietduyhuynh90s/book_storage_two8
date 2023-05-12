@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tam-tinh-lang_20259.html",
+    "title" : "Tâm Tĩnh Lặng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ajahn Chah",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 19259,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_4c31d2585c7e8b7abcc282fa05f29c32.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_4c31d2585c7e8b7abcc282fa05f29c32.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1903,
+    "title" : "tam-tinh-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1557,
+    "title" : "tam-tinh-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2118,
+    "title" : "tam-tinh-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1963,
+    "title" : "tam-tinh-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1601,
+    "title" : "tam-tinh-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1573,
+    "title" : "tam-tinh-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1631,
+    "title" : "tam-tinh-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1829,
+    "title" : "tam-tinh-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1527,
+    "title" : "tam-tinh-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1505,
+    "title" : "tam-tinh-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2052,
+    "title" : "tam-tinh-11",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-01.mp3",
+    "title" : "tam-tinh-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-02.mp3",
+    "title" : "tam-tinh-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-03.mp3",
+    "title" : "tam-tinh-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-04.mp3",
+    "title" : "tam-tinh-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-05.mp3",
+    "title" : "tam-tinh-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-06.mp3",
+    "title" : "tam-tinh-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-07.mp3",
+    "title" : "tam-tinh-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-08.mp3",
+    "title" : "tam-tinh-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-09.mp3",
+    "title" : "tam-tinh-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-10.mp3",
+    "title" : "tam-tinh-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-tinh-03/tam-tinh-11.mp3",
+    "title" : "tam-tinh-11",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

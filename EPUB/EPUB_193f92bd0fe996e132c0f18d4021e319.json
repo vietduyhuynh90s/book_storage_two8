@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-anh-sang-thanh-pho-loi-me-trinh-tham_3741.html",
+    "title" : "Ánh Sáng Thành Phố - Lôi Mễ.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lôi Mễ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 62347,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_193f92bd0fe996e132c0f18d4021e319.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_193f92bd0fe996e132c0f18d4021e319.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3147,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #1 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #10| Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2872,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #11| Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2674,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #12| Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3059,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #13 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3293,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #14 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3077,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #15 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #16 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2822,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #17 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2960,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #18 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3220,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #19 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #2 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4689,
+    "title" : "ÁNH SÁNG THÀNH PHỐ # 20 (end) | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3255,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #3 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3074,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #4 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3209,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #5 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3056,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #6 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2921,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #7 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2936,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #8 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2940,
+    "title" : "ÁNH SÁNG THÀNH PHỐ #9 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/1.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #1 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/10.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #10| Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/11.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #11| Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/12.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #12| Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/13.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #13 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/14.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #14 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/15.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #15 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/16.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #16 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/17.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #17 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/18.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #18 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/19.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #19 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/2.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #2 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/20.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ # 20 (end) | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/3.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #3 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/4.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #4 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/5.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #5 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/6.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #6 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/7.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #7 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/8.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #8 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhsangthanhpho_201903/9.mp3",
+    "title" : "ÁNH SÁNG THÀNH PHỐ #9 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

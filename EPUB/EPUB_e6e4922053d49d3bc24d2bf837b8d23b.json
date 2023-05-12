@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu_13995.html",
+    "title" : "Khí Chất Bao Nhiêu, Hạnh Phúc Bấy Nhiêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vãn Tình",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 28988,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_e6e4922053d49d3bc24d2bf837b8d23b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_e6e4922053d49d3bc24d2bf837b8d23b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2944,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3087,
+    "title" : "Vãn Tình - Audio Book - Listen & Feeling!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3082,
+    "title" : "Vãn Tình - Audio Book - Listen & Feeling!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4624,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4360,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4278,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3211,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3402,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/2.mp3",
+    "title" : "Vãn Tình - Audio Book - Listen & Feeling!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/3.mp3",
+    "title" : "Vãn Tình - Audio Book - Listen & Feeling!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-chat-bao-nhieu-hanh-phuc-bay-nhieu/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

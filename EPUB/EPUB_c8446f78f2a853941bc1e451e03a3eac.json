@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kinh-chanh-phap-dai-tap-hoi_19234.html",
+    "title" : "Kinh Chánh Pháp Đại Tập Hội",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồng Như",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 9577,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_c8446f78f2a853941bc1e451e03a3eac.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_c8446f78f2a853941bc1e451e03a3eac.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/kinh-chanh-1/kinh-chanh-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "kinh-chanh-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh-chanh-1/kinh-chanh-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "kinh-chanh-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinh-chanh-1/kinh-chanh-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2377,
+    "title" : "kinh-chanh-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/kinh-chanh-1/kinh-chanh-1.mp3",
+    "title" : "kinh-chanh-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh-chanh-1/kinh-chanh-2.mp3",
+    "title" : "kinh-chanh-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinh-chanh-1/kinh-chanh-3.mp3",
+    "title" : "kinh-chanh-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

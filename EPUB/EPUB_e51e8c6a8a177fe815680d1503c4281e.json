@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/99-dieu-khong-dang-ban-tam_16951.html",
+    "title" : "99 Điều Không Đáng Bận Tâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thử Nhị",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 15044,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_e51e8c6a8a177fe815680d1503c4281e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_e51e8c6a8a177fe815680d1503c4281e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn99DieuKhongDangBanTam/99DieuKhongDangBanTam-00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 639,
+    "title" : "99DieuKhongDangBanTam-00",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn99DieuKhongDangBanTam/99DieuKhongDangBanTam-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2349,
+    "title" : "99DieuKhongDangBanTam-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn99DieuKhongDangBanTam/99DieuKhongDangBanTam-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2740,
+    "title" : "99DieuKhongDangBanTam-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn99DieuKhongDangBanTam/99DieuKhongDangBanTam-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2722,
+    "title" : "99DieuKhongDangBanTam-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn99DieuKhongDangBanTam/99DieuKhongDangBanTam-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "99DieuKhongDangBanTam-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn99DieuKhongDangBanTam/99DieuKhongDangBanTam-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2626,
+    "title" : "99DieuKhongDangBanTam-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn99DieuKhongDangBanTam/99DieuKhongDangBanTam-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1127,
+    "title" : "99DieuKhongDangBanTam-06",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn99DieuKhongDangBanTam/99DieuKhongDangBanTam-00.mp3",
+    "title" : "99DieuKhongDangBanTam-00",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn99DieuKhongDangBanTam/99DieuKhongDangBanTam-01.mp3",
+    "title" : "99DieuKhongDangBanTam-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn99DieuKhongDangBanTam/99DieuKhongDangBanTam-02.mp3",
+    "title" : "99DieuKhongDangBanTam-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn99DieuKhongDangBanTam/99DieuKhongDangBanTam-03.mp3",
+    "title" : "99DieuKhongDangBanTam-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn99DieuKhongDangBanTam/99DieuKhongDangBanTam-04.mp3",
+    "title" : "99DieuKhongDangBanTam-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn99DieuKhongDangBanTam/99DieuKhongDangBanTam-05.mp3",
+    "title" : "99DieuKhongDangBanTam-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn99DieuKhongDangBanTam/99DieuKhongDangBanTam-06.mp3",
+    "title" : "99DieuKhongDangBanTam-06",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

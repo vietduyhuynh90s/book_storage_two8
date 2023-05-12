@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trinh-nu-bao-thu_12137.html",
+    "title" : "Trinh Nữ Báo Thù",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thế Trị",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 29967,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_27d4cbee97532ecaf6f896b37f0b8403.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_27d4cbee97532ecaf6f896b37f0b8403.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trinh_nu_bao_thu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3856,
+    "title" : "Truyện Ma - Trinh Nữ Báo Thù - Truyện Ma Có Thật Đáng Sợ Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trinh_nu_bao_thu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3831,
+    "title" : "Truyện Ma - Trinh Nữ Báo Thù Tập 2 - Truyện Ma Đáng Sợ Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trinh_nu_bao_thu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4942,
+    "title" : "Truyện Ma Có Thật - Trinh Nữ Báo Thù Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trinh_nu_bao_thu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4038,
+    "title" : "Truyện Ma Có Thật - Trinh Nữ Báo Thù Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trinh_nu_bao_thu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4753,
+    "title" : "Truyện Ma Có Thật - Trinh Nữ Báo Thù Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trinh_nu_bao_thu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3702,
+    "title" : "Truyện Ma Có Thật - Trinh Nữ Báo Thù Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trinh_nu_bao_thu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4845,
+    "title" : "Truyện Ma Có Thật - Trinh Nữ Báo Thù Tập Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trinh_nu_bao_thu/1.mp3",
+    "title" : "Truyện Ma - Trinh Nữ Báo Thù - Truyện Ma Có Thật Đáng Sợ Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trinh_nu_bao_thu/2.mp3",
+    "title" : "Truyện Ma - Trinh Nữ Báo Thù Tập 2 - Truyện Ma Đáng Sợ Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trinh_nu_bao_thu/3.mp3",
+    "title" : "Truyện Ma Có Thật - Trinh Nữ Báo Thù Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trinh_nu_bao_thu/4.mp3",
+    "title" : "Truyện Ma Có Thật - Trinh Nữ Báo Thù Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trinh_nu_bao_thu/5.mp3",
+    "title" : "Truyện Ma Có Thật - Trinh Nữ Báo Thù Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trinh_nu_bao_thu/6.mp3",
+    "title" : "Truyện Ma Có Thật - Trinh Nữ Báo Thù Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trinh_nu_bao_thu/7.mp3",
+    "title" : "Truyện Ma Có Thật - Trinh Nữ Báo Thù Tập Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

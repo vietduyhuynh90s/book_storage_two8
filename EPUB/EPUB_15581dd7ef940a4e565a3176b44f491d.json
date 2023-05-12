@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tan-nuong-moi-ga-da-tu-vu_10323.html",
+    "title" : "Tân Nương Mới Gả - Dạ Tử Vũ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dạ Tử Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 27350,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_15581dd7ef940a4e565a3176b44f491d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_15581dd7ef940a4e565a3176b44f491d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tan-nuong-moi-ga/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10821,
+    "title" : "Tân Nương Mới Gả ♥ Truyện ngôn tình xuyên không hay nhất cổ đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tan-nuong-moi-ga/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8822,
+    "title" : "[Phần 2] Tân Nương Mới Gả ♥ Truyện xuyên không hay không chê điểm nào",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tan-nuong-moi-ga/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7707,
+    "title" : "[Phần cuối 3/3] Tân Nương Mới Gả ♥ Truyện ngôn tình xuyên không cổ đại hoàn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tan-nuong-moi-ga/1.mp3",
+    "title" : "Tân Nương Mới Gả ♥ Truyện ngôn tình xuyên không hay nhất cổ đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tan-nuong-moi-ga/2.mp3",
+    "title" : "[Phần 2] Tân Nương Mới Gả ♥ Truyện xuyên không hay không chê điểm nào",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tan-nuong-moi-ga/3.mp3",
+    "title" : "[Phần cuối 3/3] Tân Nương Mới Gả ♥ Truyện ngôn tình xuyên không cổ đại hoàn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

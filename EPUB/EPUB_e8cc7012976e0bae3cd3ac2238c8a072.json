@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ao-anh-xanh-xua_20191.html",
+    "title" : "Ảo Ảnh Xanh Xưa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 35888,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_e8cc7012976e0bae3cd3ac2238c8a072.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_e8cc7012976e0bae3cd3ac2238c8a072.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3089,
+    "title" : "AO ANH XANH XUA 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3375,
+    "title" : "AO ANH XANH XUA 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "AO ANH XANH XUA 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "AO ANH XANH XUA 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2055,
+    "title" : "AO ANH XANH XUA 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3339,
+    "title" : "AO ANH XANH XUA 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2425,
+    "title" : "AO ANH XANH XUA 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4128,
+    "title" : "AO ANH XANH XUA 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4166,
+    "title" : "AO ANH XANH XUA 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2691,
+    "title" : "AO ANH XANH XUA 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2476,
+    "title" : "AO ANH XANH XUA 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2012,
+    "title" : "AO ANH XANH XUA 12",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_01.mp3",
+    "title" : "AO ANH XANH XUA 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_02.mp3",
+    "title" : "AO ANH XANH XUA 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_03.mp3",
+    "title" : "AO ANH XANH XUA 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_04.mp3",
+    "title" : "AO ANH XANH XUA 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_05.mp3",
+    "title" : "AO ANH XANH XUA 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_06.mp3",
+    "title" : "AO ANH XANH XUA 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_07.mp3",
+    "title" : "AO ANH XANH XUA 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_08.mp3",
+    "title" : "AO ANH XANH XUA 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_09.mp3",
+    "title" : "AO ANH XANH XUA 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_10.mp3",
+    "title" : "AO ANH XANH XUA 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_11.mp3",
+    "title" : "AO ANH XANH XUA 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-anh-xanh-xua.sna/AO_ANH_XANH_XUA_12.mp3",
+    "title" : "AO ANH XANH XUA 12",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

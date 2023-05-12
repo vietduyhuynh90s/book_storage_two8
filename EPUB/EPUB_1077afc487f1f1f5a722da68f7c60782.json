@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mat-ma-champa-gian-tu-hai_9585.html",
+    "title" : "Mật Mã Champa - Giản Tư Hải.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Giản Tư Hải",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 50777,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_1077afc487f1f1f5a722da68f7c60782.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_1077afc487f1f1f5a722da68f7c60782.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mat-ma-champa/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6808,
+    "title" : "Tập 01 | Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ma-champa/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2910,
+    "title" : "Tập 02 | Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ma-champa/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3280,
+    "title" : "Tập 03 | Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ma-champa/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13802,
+    "title" : "Tập 04 | Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ma-champa/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14980,
+    "title" : "Tập 05 | Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-ma-champa/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8997,
+    "title" : "Tập 06 (HẾT) | Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mat-ma-champa/1.mp3",
+    "title" : "Tập 01 | Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ma-champa/2.mp3",
+    "title" : "Tập 02 | Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ma-champa/3.mp3",
+    "title" : "Tập 03 | Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ma-champa/4.mp3",
+    "title" : "Tập 04 | Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ma-champa/5.mp3",
+    "title" : "Tập 05 | Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-ma-champa/6.mp3",
+    "title" : "Tập 06 (HẾT) | Nghiện Truyện",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

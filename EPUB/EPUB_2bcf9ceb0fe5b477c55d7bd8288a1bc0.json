@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chien-tranh-tien-te-song-hongbing_9597.html",
+    "title" : "Chiến Tranh Tiền Tệ - Song Hongbing.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Song Hongbing",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 54138,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_2bcf9ceb0fe5b477c55d7bd8288a1bc0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_2bcf9ceb0fe5b477c55d7bd8288a1bc0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chien-tranh-tien-te_202009/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "[Audio book] Chiến tranh tiền tệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-tien-te_202009/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "[Audio book] Chiến tranh tiền tệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-tien-te_202009/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "[Audio book] Chiến tranh tiền tệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-tien-te_202009/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "[Audio book] Chiến tranh tiền tệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-tien-te_202009/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "[Audio book] Chiến tranh tiền tệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-tien-te_202009/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "[Audio book] Chiến tranh tiền tệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-tien-te_202009/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10938,
+    "title" : "[Audio book] Chiến tranh tiền tệ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chien-tranh-tien-te_202009/1.mp3",
+    "title" : "[Audio book] Chiến tranh tiền tệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-tien-te_202009/2.mp3",
+    "title" : "[Audio book] Chiến tranh tiền tệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-tien-te_202009/3.mp3",
+    "title" : "[Audio book] Chiến tranh tiền tệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-tien-te_202009/4.mp3",
+    "title" : "[Audio book] Chiến tranh tiền tệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-tien-te_202009/5.mp3",
+    "title" : "[Audio book] Chiến tranh tiền tệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-tien-te_202009/6.mp3",
+    "title" : "[Audio book] Chiến tranh tiền tệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-tien-te_202009/7.mp3",
+    "title" : "[Audio book] Chiến tranh tiền tệ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

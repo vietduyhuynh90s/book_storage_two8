@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuyen-hoa-thanh-phuc-nhung-cau-chuyen-co-that-va-nguyen-ly-thay-doi-so-phan-chuyen-hoa-thanh-phuc_19171.html",
+    "title" : "Chuyển Họa Thành Phúc - Những Câu Chuyện Có Thật Và Nguyên Lý Thay Đổi Số Phận, Chuyển Họa Thành Phúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Minh Tiến",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 18424,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_025ce8f1c84f0a20f72b0992d22b4194.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_025ce8f1c84f0a20f72b0992d22b4194.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chuyen-hoa-1/chuyen-hoa-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3780,
+    "title" : "chuyen-hoa-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-hoa-1/chuyen-hoa-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3780,
+    "title" : "chuyen-hoa-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-hoa-1/chuyen-hoa-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3780,
+    "title" : "chuyen-hoa-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-hoa-1/chuyen-hoa-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3780,
+    "title" : "chuyen-hoa-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-hoa-1/chuyen-hoa-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3304,
+    "title" : "chuyen-hoa-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chuyen-hoa-1/chuyen-hoa-1.mp3",
+    "title" : "chuyen-hoa-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-hoa-1/chuyen-hoa-2.mp3",
+    "title" : "chuyen-hoa-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-hoa-1/chuyen-hoa-3.mp3",
+    "title" : "chuyen-hoa-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-hoa-1/chuyen-hoa-4.mp3",
+    "title" : "chuyen-hoa-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-hoa-1/chuyen-hoa-5.mp3",
+    "title" : "chuyen-hoa-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

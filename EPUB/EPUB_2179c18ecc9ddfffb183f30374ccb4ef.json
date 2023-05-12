@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-loi-cha-me-khong-nen-noi_20189.html",
+    "title" : "Những Lời Cha Mẹ Không Nên Nói",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Maki Shino",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 6803,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_2179c18ecc9ddfffb183f30374ccb4ef.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_2179c18ecc9ddfffb183f30374ccb4ef.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhung-loi/nhung-loi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6803,
+    "title" : "NHỮNG LỜI CHA MẸ KHÔNG NÊN NÓI | MAKI SHINO | KAM TRÒN | HẺM RADIO",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhung-loi/nhung-loi.mp3",
+    "title" : "NHỮNG LỜI CHA MẸ KHÔNG NÊN NÓI | MAKI SHINO | KAM TRÒN | HẺM RADIO",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

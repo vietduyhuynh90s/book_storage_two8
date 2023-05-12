@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/song-chung-sau-ly-hon-ho-tieu-mi_10535.html",
+    "title" : "Sống Chung Sau Ly Hôn - Hồ Tiểu Mị",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Tiểu Mị",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 35637,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_fd2fa453742ee81509f8e5dba87a107a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_fd2fa453742ee81509f8e5dba87a107a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/song-chung-sau-ly-hon/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11760,
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-chung-sau-ly-hon/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11488,
+    "title" : "Sống Chung Sau Ly Hôn [Phần 2] -Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-chung-sau-ly-hon/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12389,
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/song-chung-sau-ly-hon/1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-chung-sau-ly-hon/2.mp3",
+    "title" : "Sống Chung Sau Ly Hôn [Phần 2] -Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-chung-sau-ly-hon/3.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

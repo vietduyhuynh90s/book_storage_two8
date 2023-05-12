@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-kinh-thien-ky-an-ha-ma-trinh-tham_2320.html",
+    "title" : "Kinh Thiên Kỳ Án - Hà Mã",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà mã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 77417,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_70245699a29dd23a5d7e4e51f9398343.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_70245699a29dd23a5d7e4e51f9398343.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10306,
+    "title" : "Truyện ma kinh dị mới nghe cực hay và hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7570,
+    "title" : "Truyện trinh thám kinh dị hay nhất hiện nay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7741,
+    "title" : "Truyện trinh thám kinh dị Quyển 1: Tội phạm trí tuệ cao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10990,
+    "title" : "Truyện trinh thám kinh dị cực hay của Hà Mã",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7337,
+    "title" : "Truyện Trinh Thám Mới Cực Hay Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7349,
+    "title" : "Truyện trinh thám kinh dị hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7603,
+    "title" : "Truyện Trinh Thám Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7483,
+    "title" : "Truyện Trinh Thám Kinh Dị Hay Ởi Là Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11038,
+    "title" : "Nghe Truyện Trinh Thám Hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/1.mp3",
+    "title" : "Truyện ma kinh dị mới nghe cực hay và hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/2.mp3",
+    "title" : "Truyện trinh thám kinh dị hay nhất hiện nay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/3.mp3",
+    "title" : "Truyện trinh thám kinh dị Quyển 1: Tội phạm trí tuệ cao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/4.mp3",
+    "title" : "Truyện trinh thám kinh dị cực hay của Hà Mã",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/5.mp3",
+    "title" : "Truyện Trinh Thám Mới Cực Hay Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/6.mp3",
+    "title" : "Truyện trinh thám kinh dị hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/7.mp3",
+    "title" : "Truyện Trinh Thám Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/8.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị Hay Ởi Là Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kinhthienkyan_201903/9.mp3",
+    "title" : "Nghe Truyện Trinh Thám Hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

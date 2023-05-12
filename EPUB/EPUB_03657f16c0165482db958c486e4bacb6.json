@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/4-truyen-vua_19823.html",
+    "title" : "4 Truyện Vừa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sơn Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 27194,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_03657f16c0165482db958c486e4bacb6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_03657f16c0165482db958c486e4bacb6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam00_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 166,
+    "title" : "TapTruyenSonNam00 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam01_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2019,
+    "title" : "TapTruyenSonNam01 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam02_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2457,
+    "title" : "TapTruyenSonNam02 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam03_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1383,
+    "title" : "TapTruyenSonNam03 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam04_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2189,
+    "title" : "TapTruyenSonNam04 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam05_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2231,
+    "title" : "TapTruyenSonNam05 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam06_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2303,
+    "title" : "TapTruyenSonNam06 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam07_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1708,
+    "title" : "TapTruyenSonNam07 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam08_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1988,
+    "title" : "TapTruyenSonNam08 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam09_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1376,
+    "title" : "TapTruyenSonNam09 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam10_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1581,
+    "title" : "TapTruyenSonNam10 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam11_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1803,
+    "title" : "TapTruyenSonNam11 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam12_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1697,
+    "title" : "TapTruyenSonNam12 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam13_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1742,
+    "title" : "TapTruyenSonNam13 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam14_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2551,
+    "title" : "TapTruyenSonNam14 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam00_2.mp3",
+    "title" : "TapTruyenSonNam00 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam01_2.mp3",
+    "title" : "TapTruyenSonNam01 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam02_2.mp3",
+    "title" : "TapTruyenSonNam02 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam03_2.mp3",
+    "title" : "TapTruyenSonNam03 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam04_2.mp3",
+    "title" : "TapTruyenSonNam04 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam05_2.mp3",
+    "title" : "TapTruyenSonNam05 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam06_2.mp3",
+    "title" : "TapTruyenSonNam06 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam07_2.mp3",
+    "title" : "TapTruyenSonNam07 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam08_2.mp3",
+    "title" : "TapTruyenSonNam08 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam09_2.mp3",
+    "title" : "TapTruyenSonNam09 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam10_2.mp3",
+    "title" : "TapTruyenSonNam10 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam11_2.mp3",
+    "title" : "TapTruyenSonNam11 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam12_2.mp3",
+    "title" : "TapTruyenSonNam12 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam13_2.mp3",
+    "title" : "TapTruyenSonNam13 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-truyen-son-nam.sna/TapTruyenSonNam14_2.mp3",
+    "title" : "TapTruyenSonNam14 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

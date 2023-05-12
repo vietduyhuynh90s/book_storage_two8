@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trai-nghiem-tu-nhung-chuyen-di_16923.html",
+    "title" : "Trải Nghiệm Từ Những Chuyến Đi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 5727,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_ccd75d9bed4ec192e7b2933b3f38797c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_ccd75d9bed4ec192e7b2933b3f38797c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/01-con_duong_cua_tinh_bang_huu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 993,
+    "title" : "Con đường của tình bằng hữu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/02-hoan_toan_dung_lai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 88,
+    "title" : "Hoàn toàn dừng lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/03-chi_la_khoang_thoi_gian_nghi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 623,
+    "title" : "Chỉ là khoảng thời gian nghỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/04-chiem_nguong_nui_lua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 415,
+    "title" : "Chiêm ngưỡng núi lửa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/05-chuyen_di_hoa_binh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 337,
+    "title" : "Chuyến đi hòa bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/06-chuyen_di_va_loi_hua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 536,
+    "title" : "Chuyến đi và lời hứa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/07-loi_hua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 429,
+    "title" : "Lời hứa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/08-may_man.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 704,
+    "title" : "May mắn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/09-ngon_ngu_anh_mat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 328,
+    "title" : "Ngôn ngữ của ánh mắt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/10-toi_da_co_doi_canh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 285,
+    "title" : "Quan trọng hơn cuộc sống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/11-quan_trong_hon_cuoc_song.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 989,
+    "title" : "Quan trọng hơn cuộc sống",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/01-con_duong_cua_tinh_bang_huu.mp3",
+    "title" : "Con đường của tình bằng hữu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/02-hoan_toan_dung_lai.mp3",
+    "title" : "Hoàn toàn dừng lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/03-chi_la_khoang_thoi_gian_nghi.mp3",
+    "title" : "Chỉ là khoảng thời gian nghỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/04-chiem_nguong_nui_lua.mp3",
+    "title" : "Chiêm ngưỡng núi lửa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/05-chuyen_di_hoa_binh.mp3",
+    "title" : "Chuyến đi hòa bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/06-chuyen_di_va_loi_hua.mp3",
+    "title" : "Chuyến đi và lời hứa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/07-loi_hua.mp3",
+    "title" : "Lời hứa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/08-may_man.mp3",
+    "title" : "May mắn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/09-ngon_ngu_anh_mat.mp3",
+    "title" : "Ngôn ngữ của ánh mắt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/10-toi_da_co_doi_canh.mp3",
+    "title" : "Quan trọng hơn cuộc sống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss25-traiNghiemTuNhungChuyenDi/11-quan_trong_hon_cuoc_song.mp3",
+    "title" : "Quan trọng hơn cuộc sống",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

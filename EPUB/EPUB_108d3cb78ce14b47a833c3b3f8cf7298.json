@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khung-reu_20192.html",
+    "title" : "Khung Rêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thị Thụy Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 32116,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_108d3cb78ce14b47a833c3b3f8cf7298.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_108d3cb78ce14b47a833c3b3f8cf7298.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1297,
+    "title" : "KHUNG REU 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2428,
+    "title" : "KHUNG REU 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3111,
+    "title" : "KHUNG REU 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2962,
+    "title" : "KHUNG REU 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3227,
+    "title" : "KHUNG REU 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3038,
+    "title" : "KHUNG REU 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2570,
+    "title" : "KHUNG REU 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2035,
+    "title" : "KHUNG REU 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2706,
+    "title" : "KHUNG REU 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1908,
+    "title" : "KHUNG REU 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1793,
+    "title" : "KHUNG REU 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2451,
+    "title" : "KHUNG REU 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2590,
+    "title" : "KHUNG REU 13",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_01.mp3",
+    "title" : "KHUNG REU 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_02.mp3",
+    "title" : "KHUNG REU 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_03.mp3",
+    "title" : "KHUNG REU 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_04.mp3",
+    "title" : "KHUNG REU 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_05.mp3",
+    "title" : "KHUNG REU 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_06.mp3",
+    "title" : "KHUNG REU 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_07.mp3",
+    "title" : "KHUNG REU 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_08.mp3",
+    "title" : "KHUNG REU 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_09.mp3",
+    "title" : "KHUNG REU 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_10.mp3",
+    "title" : "KHUNG REU 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_11.mp3",
+    "title" : "KHUNG REU 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_12.mp3",
+    "title" : "KHUNG REU 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khung-reu.sna/KHUNG_REU_13.mp3",
+    "title" : "KHUNG REU 13",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
