@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/diem-tua-yeu-thuong_16924.html",
+    "title" : "Điểm Tựa Yêu Thương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 5915,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_cd894b2593950d34694cfda14230cd07.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_cd894b2593950d34694cfda14230cd07.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/01-gia_dinh_toi_bi_chia_cat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 504,
+    "title" : "01-gia dinh toi bi chia cat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/02-bo_nha_di.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 483,
+    "title" : "02-bo nha di",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/03-dua_tien_chi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 414,
+    "title" : "03-dua tien chi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/04-mon_qua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 488,
+    "title" : "04-mon qua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/05-loi_noi_doi_vo_hai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 91,
+    "title" : "05-loi noi doi vo hai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/06-nhung_bim_toc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 291,
+    "title" : "06-nhung bim toc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/07-lua_chon_dau_tien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 310,
+    "title" : "07-lua chon dau tien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/08-ke_ko_moi_ma_toi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 122,
+    "title" : "08-ke ko moi ma toi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/09-lo_hat_giong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 559,
+    "title" : "09-lo hat giong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/10-sinh_nhat_amanda.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 492,
+    "title" : "10-sinh nhat amanda",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/11-hai_mat_cua_mot_dong_xu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 535,
+    "title" : "11-hai mat cua mot dong xu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/12-em_gai_nho_cua_con.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 261,
+    "title" : "12-em gai nho cua con",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/13-loi_hua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 326,
+    "title" : "13-loi hua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/14-vuot_ngan_dam_xa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 298,
+    "title" : "14-vuot ngan dam xa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/15-vi_khach.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 324,
+    "title" : "15-vi khach",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/16-thay_doi_tinh_cam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 417,
+    "title" : "16-thay doi tinh cam",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/01-gia_dinh_toi_bi_chia_cat.mp3",
+    "title" : "01-gia dinh toi bi chia cat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/02-bo_nha_di.mp3",
+    "title" : "02-bo nha di",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/03-dua_tien_chi.mp3",
+    "title" : "03-dua tien chi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/04-mon_qua.mp3",
+    "title" : "04-mon qua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/05-loi_noi_doi_vo_hai.mp3",
+    "title" : "05-loi noi doi vo hai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/06-nhung_bim_toc.mp3",
+    "title" : "06-nhung bim toc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/07-lua_chon_dau_tien.mp3",
+    "title" : "07-lua chon dau tien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/08-ke_ko_moi_ma_toi.mp3",
+    "title" : "08-ke ko moi ma toi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/09-lo_hat_giong.mp3",
+    "title" : "09-lo hat giong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/10-sinh_nhat_amanda.mp3",
+    "title" : "10-sinh nhat amanda",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/11-hai_mat_cua_mot_dong_xu.mp3",
+    "title" : "11-hai mat cua mot dong xu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/12-em_gai_nho_cua_con.mp3",
+    "title" : "12-em gai nho cua con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/13-loi_hua.mp3",
+    "title" : "13-loi hua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/14-vuot_ngan_dam_xa.mp3",
+    "title" : "14-vuot ngan dam xa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/15-vi_khach.mp3",
+    "title" : "15-vi khach",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss24-diemTuaYeuThuong/16-thay_doi_tinh_cam.mp3",
+    "title" : "16-thay doi tinh cam",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

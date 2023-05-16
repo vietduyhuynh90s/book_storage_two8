@@ -1,0 +1,389 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/danh-cho-tuoi-teen-2_16980.html",
+    "title" : "Dành Cho Tuổi Teen 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 9050,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_bb1a9fc37e658eeb09911bdaa88332af.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_bb1a9fc37e658eeb09911bdaa88332af.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/02-ngon_den_van_sang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 230,
+    "title" : "Ngọn đèn vẫn sáng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/03-kieu_toc_dep_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 259,
+    "title" : "Kiểu tóc đẹp nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/04-thang_beo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 374,
+    "title" : "Thằng béo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/05-trong_van_dep_trai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 350,
+    "title" : "Trông vẫn đẹp trai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/06-torie_jay_va_toi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 327,
+    "title" : "Torrie, Jay và tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/07-danh_mat_tyler.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 390,
+    "title" : "Đánh mất Tyler",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/08-loi_nhac_nho_cua_thuong_de.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 219,
+    "title" : "Lời nhắc nhở của thượng đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/09-uoc_mo_ve_loai_gau_trang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 327,
+    "title" : "Ước mơ về loài gấu trắng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/10-cai_nut_do.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 422,
+    "title" : "Cái nút đỏ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/11-hoan_hao_o_dau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 341,
+    "title" : "Hoàn hảo ở đâu?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/12-thien_than_tren_chiec_xe_lan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 316,
+    "title" : "Thiên thần trên chiếc xe lăn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/13-lao_vao_ria.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 401,
+    "title" : "Lao vào rìa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/14-sac_mau_cuoc_song.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 138,
+    "title" : "Sắc màu cuộc sống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/15-lan_duong_giua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 372,
+    "title" : "Làn đường giữa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/16-nhung_cuoc_noi_chuyen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 219,
+    "title" : "Những cuộc nói chuyện trong xe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/17-nguoi_xa_la_than_thuoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 267,
+    "title" : "Người xa lạ thân thuộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/18-ngay_hoi_khieu_vu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 232,
+    "title" : "Ngày hội khiêu vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/19-ten_an_trom_lego.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 247,
+    "title" : "Tên ăn trộm lego",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/20-thanh_kien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 316,
+    "title" : "Thành kiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/21-mo_cua_trai_tim..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 170,
+    "title" : "Mở cửa trái tim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/22-ca_doi_oi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 300,
+    "title" : "Cá đối ơi, nhảy lên nào!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/23-niem_tin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 806,
+    "title" : "Niềm tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/24-cay_soi_gia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 426,
+    "title" : "Cây sồi già",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/25-chuyen_di_voi_chu_cuu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 330,
+    "title" : "Chuyến đi với chú cừu con Banner",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/26-tro_ve_thoi_tho_au.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 311,
+    "title" : "Trở về thời thơ ấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/27-trai_he_huyen_dieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 265,
+    "title" : "Trại hè huyền diệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/28-chinh_phuc_dinh_cao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 134,
+    "title" : "Chinh phục đỉnh cao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/29-loi_di_rieng_minh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 156,
+    "title" : "Lối đi riêng mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/30-huong_vi_cua_thanh_cong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 405,
+    "title" : "Hương vị của thành công",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/02-ngon_den_van_sang.mp3",
+    "title" : "Ngọn đèn vẫn sáng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/03-kieu_toc_dep_nhat.mp3",
+    "title" : "Kiểu tóc đẹp nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/04-thang_beo.mp3",
+    "title" : "Thằng béo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/05-trong_van_dep_trai.mp3",
+    "title" : "Trông vẫn đẹp trai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/06-torie_jay_va_toi.mp3",
+    "title" : "Torrie, Jay và tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/07-danh_mat_tyler.mp3",
+    "title" : "Đánh mất Tyler",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/08-loi_nhac_nho_cua_thuong_de.mp3",
+    "title" : "Lời nhắc nhở của thượng đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/09-uoc_mo_ve_loai_gau_trang.mp3",
+    "title" : "Ước mơ về loài gấu trắng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/10-cai_nut_do.mp3",
+    "title" : "Cái nút đỏ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/11-hoan_hao_o_dau.mp3",
+    "title" : "Hoàn hảo ở đâu?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/12-thien_than_tren_chiec_xe_lan.mp3",
+    "title" : "Thiên thần trên chiếc xe lăn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/13-lao_vao_ria.mp3",
+    "title" : "Lao vào rìa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/14-sac_mau_cuoc_song.mp3",
+    "title" : "Sắc màu cuộc sống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/15-lan_duong_giua.mp3",
+    "title" : "Làn đường giữa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/16-nhung_cuoc_noi_chuyen.mp3",
+    "title" : "Những cuộc nói chuyện trong xe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/17-nguoi_xa_la_than_thuoc.mp3",
+    "title" : "Người xa lạ thân thuộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/18-ngay_hoi_khieu_vu.mp3",
+    "title" : "Ngày hội khiêu vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/19-ten_an_trom_lego.mp3",
+    "title" : "Tên ăn trộm lego",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/20-thanh_kien.mp3",
+    "title" : "Thành kiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/21-mo_cua_trai_tim..mp3",
+    "title" : "Mở cửa trái tim",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/22-ca_doi_oi.mp3",
+    "title" : "Cá đối ơi, nhảy lên nào!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/23-niem_tin.mp3",
+    "title" : "Niềm tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/24-cay_soi_gia.mp3",
+    "title" : "Cây sồi già",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/25-chuyen_di_voi_chu_cuu.mp3",
+    "title" : "Chuyến đi với chú cừu con Banner",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/26-tro_ve_thoi_tho_au.mp3",
+    "title" : "Trở về thời thơ ấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/27-trai_he_huyen_dieu.mp3",
+    "title" : "Trại hè huyền diệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/28-chinh_phuc_dinh_cao.mp3",
+    "title" : "Chinh phục đỉnh cao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/29-loi_di_rieng_minh.mp3",
+    "title" : "Lối đi riêng mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vncss-hatGiongTamHonChoTuoiTeen2/30-huong_vi_cua_thanh_cong.mp3",
+    "title" : "Hương vị của thành công",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

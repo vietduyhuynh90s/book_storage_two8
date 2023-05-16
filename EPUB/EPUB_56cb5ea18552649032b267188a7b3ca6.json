@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cu-lanh-lung-di-roi-anh-se-mat-em-kevin-rz_10389.html",
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em - Kevin Rz",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kevin Rz",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 83044,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_56cb5ea18552649032b267188a7b3ca6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_56cb5ea18552649032b267188a7b3ca6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7201,
+    "title" : "Truyện Ngôn Tình Mới Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11250,
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần Cuối] Truyện Ngôn Tình Quá Thể Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8805,
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 2] Truyện Ngôn Tình Mới Hay Quá Thấm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7632,
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 3] Càng Ngày Càng Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7839,
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 4] Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7739,
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 5] Truyện Ngôn Tình Hay Vô Đối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7754,
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 6] Tập Hấp Dẫn Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8779,
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 7] Hay Hết Cỡ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7047,
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 8] Truyện Ngôn Tình hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8998,
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 9] Gần Đến Hồi Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/1.mp3",
+    "title" : "Truyện Ngôn Tình Mới Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/10.mp3",
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần Cuối] Truyện Ngôn Tình Quá Thể Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/2.mp3",
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 2] Truyện Ngôn Tình Mới Hay Quá Thấm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/3.mp3",
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 3] Càng Ngày Càng Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/4.mp3",
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 4] Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/5.mp3",
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 5] Truyện Ngôn Tình Hay Vô Đối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/6.mp3",
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 6] Tập Hấp Dẫn Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/7.mp3",
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 7] Hay Hết Cỡ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/8.mp3",
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 8] Truyện Ngôn Tình hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu-lanh-lung-di-roi-anh-se-mat-em/9.mp3",
+    "title" : "Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em [Phần 9] Gần Đến Hồi Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

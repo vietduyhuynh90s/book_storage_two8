@@ -1,0 +1,341 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bo-tre_17053.html",
+    "title" : "Bố Trẻ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Paul Reiser",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 7576,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_31773c665b8795262c1b272d9c58fc3e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_31773c665b8795262c1b272d9c58fc3e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 611,
+    "title" : "botre1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 163,
+    "title" : "botre10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 166,
+    "title" : "botre11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 169,
+    "title" : "botre12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 285,
+    "title" : "botre13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 303,
+    "title" : "botre14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 409,
+    "title" : "botre15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 238,
+    "title" : "botre16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 132,
+    "title" : "botre17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 581,
+    "title" : "botre18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 159,
+    "title" : "botre19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 147,
+    "title" : "botre2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 213,
+    "title" : "botre20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 269,
+    "title" : "botre21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 150,
+    "title" : "botre22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 495,
+    "title" : "botre23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 193,
+    "title" : "botre24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 493,
+    "title" : "botre25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 186,
+    "title" : "botre3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 231,
+    "title" : "botre4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 180,
+    "title" : "botre5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 182,
+    "title" : "botre6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 648,
+    "title" : "botre7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 661,
+    "title" : "botre8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 312,
+    "title" : "botre9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre1.mp3",
+    "title" : "botre1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre10.mp3",
+    "title" : "botre10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre11.mp3",
+    "title" : "botre11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre12.mp3",
+    "title" : "botre12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre13.mp3",
+    "title" : "botre13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre14.mp3",
+    "title" : "botre14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre15.mp3",
+    "title" : "botre15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre16.mp3",
+    "title" : "botre16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre17.mp3",
+    "title" : "botre17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre18.mp3",
+    "title" : "botre18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre19.mp3",
+    "title" : "botre19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre2.mp3",
+    "title" : "botre2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre20.mp3",
+    "title" : "botre20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre21.mp3",
+    "title" : "botre21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre22.mp3",
+    "title" : "botre22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre23.mp3",
+    "title" : "botre23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre24.mp3",
+    "title" : "botre24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre25.mp3",
+    "title" : "botre25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre3.mp3",
+    "title" : "botre3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre4.mp3",
+    "title" : "botre4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre5.mp3",
+    "title" : "botre5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre6.mp3",
+    "title" : "botre6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre7.mp3",
+    "title" : "botre7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre8.mp3",
+    "title" : "botre8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBotre/botre9.mp3",
+    "title" : "botre9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

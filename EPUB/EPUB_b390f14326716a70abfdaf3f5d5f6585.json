@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-hon-ma-dem-giang-sinh-charles-dickens-tieu-thuyet_2981.html",
+    "title" : "Hồn Ma Đêm Giáng Sinh - Charles Dickens",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Charles Dickens",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 10387,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_b390f14326716a70abfdaf3f5d5f6585.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_b390f14326716a70abfdaf3f5d5f6585.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hon-ma-dem-giang-sinh.sna/hon_ma_dem_giang_sinh_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5052,
+    "title" : "hon ma dem giang sinh 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hon-ma-dem-giang-sinh.sna/hon_ma_dem_giang_sinh_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5335,
+    "title" : "hon ma dem giang sinh 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hon-ma-dem-giang-sinh.sna/hon_ma_dem_giang_sinh_1.mp3",
+    "title" : "hon ma dem giang sinh 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hon-ma-dem-giang-sinh.sna/hon_ma_dem_giang_sinh_2.mp3",
+    "title" : "hon ma dem giang sinh 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

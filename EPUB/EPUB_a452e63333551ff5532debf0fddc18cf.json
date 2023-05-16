@@ -1,0 +1,425 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/doat-vo-99-dem_15162.html",
+    "title" : "Đoạt Vợ 99 Đêm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lý Lý",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 172824,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_a452e63333551ff5532debf0fddc18cf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_a452e63333551ff5532debf0fddc18cf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doat-vo-99-dem/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5964,
+    "title" : "Truyện Ngôn Tình Hắc Bang Sủng Rất Hay Và Ý Nghĩa Năm 2020 - MC Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5017,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 10] MỘT ĐÊM CHUNG PHÒNG | Truyện ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5822,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 11] Em Có Cảm Giác Với Ai? | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4634,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 12] EM YÊU ANH | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4840,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 13] Giải Trừ Hôn Ước | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4552,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 14] EM CHỦ ĐỘNG | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4926,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 15] MÀN CẦU HÔN CÓ 102 | Truyện Ngôn Tình Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4993,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 16] KHÔNG PHẢI NGƯỜI LÊ GIA | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5448,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 17] TRÁI TIM MÙA THU | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5372,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 18] NGƯỜI ĐÀN ÔNG CỦA EM | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4956,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 19] EM PHẢN BỘI ANH | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6097,
+    "title" : "Truyện Ngôn Tình Hay Tình Tiết Truyện Mới Mẻ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4768,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 20] EM SẼ PHẢI HỐI HẬN | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5726,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 21] HẸN HÒ BÍ MẬT | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5923,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 22] ANH BIẾT TẤT CẢ | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5326,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 23] CHÚNG TÔI LÀ VỢ CHỒNG | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6461,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 24] SÓNG GIÓ TỚI LÀ LÚC TA CẦN NHAU NHIỀU HƠN | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5792,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 25] THÂN PHẬN | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5836,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 26] THẾ THÂN | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4823,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 27] ANH KHÔNG LẤY AI KHÁC NGOÀI EM |Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4544,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 28] KẾT HÔN | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6327,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 29] ANH ĐÃ BỊ BẮT | Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5243,
+    "title" : "Truyện Ngôn Tình Hào Môn Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6200,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 30] KẺ KHÓC NGƯỜI CƯỜI |Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5307,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 31] SONG THAI |Truyện Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5971,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 32] Truyện Ngôn Tình Hắc Bang, Quân Nhân Hay 2020 - MC Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5739,
+    "title" : "Truyện Ngôn Tình Hay Nghe Mê Say",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5150,
+    "title" : "Truyện Ngôn Tình Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5500,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 6] ANH NGUYỆN Ý C.Ở.I | Truyện Ngôn Tình Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5059,
+    "title" : "Truyện Ngôn Tình #truyenngontinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5287,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 8] 9999 Đóa Hồng | Truyện Ngôn Tình #truyenngontinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5221,
+    "title" : "Đoạt Vợ 99 Đêm [Tập 9] EM THÍCH ANH RỒI SAO? | truyện ngôn tình #truyenngontinh",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doat-vo-99-dem/1.mp3",
+    "title" : "Truyện Ngôn Tình Hắc Bang Sủng Rất Hay Và Ý Nghĩa Năm 2020 - MC Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/10.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 10] MỘT ĐÊM CHUNG PHÒNG | Truyện ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/11.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 11] Em Có Cảm Giác Với Ai? | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/12.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 12] EM YÊU ANH | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/13.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 13] Giải Trừ Hôn Ước | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/14.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 14] EM CHỦ ĐỘNG | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/15.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 15] MÀN CẦU HÔN CÓ 102 | Truyện Ngôn Tình Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/16.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 16] KHÔNG PHẢI NGƯỜI LÊ GIA | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/17.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 17] TRÁI TIM MÙA THU | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/18.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 18] NGƯỜI ĐÀN ÔNG CỦA EM | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/19.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 19] EM PHẢN BỘI ANH | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/2.mp3",
+    "title" : "Truyện Ngôn Tình Hay Tình Tiết Truyện Mới Mẻ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/20.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 20] EM SẼ PHẢI HỐI HẬN | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/21.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 21] HẸN HÒ BÍ MẬT | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/22.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 22] ANH BIẾT TẤT CẢ | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/23.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 23] CHÚNG TÔI LÀ VỢ CHỒNG | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/24.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 24] SÓNG GIÓ TỚI LÀ LÚC TA CẦN NHAU NHIỀU HƠN | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/25.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 25] THÂN PHẬN | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/26.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 26] THẾ THÂN | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/27.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 27] ANH KHÔNG LẤY AI KHÁC NGOÀI EM |Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/28.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 28] KẾT HÔN | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/29.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 29] ANH ĐÃ BỊ BẮT | Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/3.mp3",
+    "title" : "Truyện Ngôn Tình Hào Môn Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/30.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 30] KẺ KHÓC NGƯỜI CƯỜI |Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/31.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 31] SONG THAI |Truyện Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/32.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 32] Truyện Ngôn Tình Hắc Bang, Quân Nhân Hay 2020 - MC Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/4.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nghe Mê Say",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/5.mp3",
+    "title" : "Truyện Ngôn Tình Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/6.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 6] ANH NGUYỆN Ý C.Ở.I | Truyện Ngôn Tình Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/7.mp3",
+    "title" : "Truyện Ngôn Tình #truyenngontinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/8.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 8] 9999 Đóa Hồng | Truyện Ngôn Tình #truyenngontinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-vo-99-dem/9.mp3",
+    "title" : "Đoạt Vợ 99 Đêm [Tập 9] EM THÍCH ANH RỒI SAO? | truyện ngôn tình #truyenngontinh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

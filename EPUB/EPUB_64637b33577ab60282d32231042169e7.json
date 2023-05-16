@@ -1,0 +1,2237 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-cuong-phi-tan-nhan-buu-han-vi-uong-truong-dau-ngon-tinh_3873.html",
+    "title" : "Cuồng Phi Tàn Nhẫn Bưu Hãn - Vị Ương Trương Dạ.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vị Ương Trương Dạ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 318262,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_64637b33577ab60282d32231042169e7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_64637b33577ab60282d32231042169e7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1358,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 1-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 893,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 19-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2393,
+    "title" : "100",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1548,
+    "title" : "101",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1259,
+    "title" : "102",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2505,
+    "title" : "103",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1841,
+    "title" : "104",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1215,
+    "title" : "105",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1813,
+    "title" : "106",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2700,
+    "title" : "107",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1025,
+    "title" : "108",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2521,
+    "title" : "109",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1031,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 21-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2429,
+    "title" : "110",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1451,
+    "title" : "111",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1308,
+    "title" : "112",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1529,
+    "title" : "113",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2635,
+    "title" : "114",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2599,
+    "title" : "115",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1049,
+    "title" : "116",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1661,
+    "title" : "117",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1692,
+    "title" : "118",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2044,
+    "title" : "119",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1046,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1814,
+    "title" : "120",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1353,
+    "title" : "121",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2108,
+    "title" : "122",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1225,
+    "title" : "123",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1722,
+    "title" : "124",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1093,
+    "title" : "125",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1811,
+    "title" : "126",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2594,
+    "title" : "127",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1557,
+    "title" : "128",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2588,
+    "title" : "129",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1096,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 25-26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1779,
+    "title" : "130",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1405,
+    "title" : "131",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1459,
+    "title" : "132",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "133",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1301,
+    "title" : "134",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2460,
+    "title" : "135",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1284,
+    "title" : "136",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1457,
+    "title" : "137",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2385,
+    "title" : "138",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1541,
+    "title" : "139",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1089,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 27-28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1020,
+    "title" : "140",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2208,
+    "title" : "141",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2493,
+    "title" : "142",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1174,
+    "title" : "143",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2301,
+    "title" : "144",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 998,
+    "title" : "145",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2297,
+    "title" : "146",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1681,
+    "title" : "147",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1423,
+    "title" : "148",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1015,
+    "title" : "149",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1051,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 29-30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2566,
+    "title" : "150",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2855,
+    "title" : "151",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1903,
+    "title" : "152",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1553,
+    "title" : "153",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2031,
+    "title" : "154",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2387,
+    "title" : "155",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1777,
+    "title" : "156",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1037,
+    "title" : "157",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1805,
+    "title" : "158",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1926,
+    "title" : "159",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1126,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 31-32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1659,
+    "title" : "160",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1256,
+    "title" : "161",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1134,
+    "title" : "162",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1274,
+    "title" : "163",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 910,
+    "title" : "164",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2245,
+    "title" : "165",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1777,
+    "title" : "166",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1573,
+    "title" : "167",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1628,
+    "title" : "168",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/169.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1247,
+    "title" : "169",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1162,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 33-34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/170.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2667,
+    "title" : "170",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/171.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2166,
+    "title" : "171",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/172.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2420,
+    "title" : "172",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/173.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2726,
+    "title" : "173",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/174.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2020,
+    "title" : "174",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/175.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1850,
+    "title" : "175",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/176.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2048,
+    "title" : "176",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/177.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1678,
+    "title" : "177",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/178.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2341,
+    "title" : "178",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/179.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1888,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn quyển 3 36-14-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1246,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 35-36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/180.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1059,
+    "title" : "180",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/181.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1572,
+    "title" : "181",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/182.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1504,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn quyển 3 39-40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/183.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1814,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn quyển 3 41-42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1084,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 37-38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1127,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 3-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1220,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 39-40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1270,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 41-42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1317,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 43-44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1118,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 45-46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1251,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 47-48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1176,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 49-50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1243,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 51-52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3844,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 53-54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2770,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2205,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1148,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 5-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2362,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1669,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2313,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1382,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2319,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1873,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2711,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2655,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1979,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1296,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1164,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 7-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1743,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1291,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2523,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1367,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1964,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1611,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1591,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1761,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1749,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2184,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1097,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 9-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1438,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn quyển 2- chương 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2017,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn quyển 2- chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2208,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn quyển 2- chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1759,
+    "title" : "chương 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1750,
+    "title" : "54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2048,
+    "title" : "55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3046,
+    "title" : "56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1649,
+    "title" : "57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1425,
+    "title" : "58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2279,
+    "title" : "59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1100,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 11-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1756,
+    "title" : "60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1408,
+    "title" : "61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1497,
+    "title" : "62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2757,
+    "title" : "63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2018,
+    "title" : "64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1969,
+    "title" : "65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2111,
+    "title" : "66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1321,
+    "title" : "67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1605,
+    "title" : "68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1462,
+    "title" : "69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1076,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 13-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1282,
+    "title" : "70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1538,
+    "title" : "71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1834,
+    "title" : "72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1315,
+    "title" : "73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1619,
+    "title" : "74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1292,
+    "title" : "75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2554,
+    "title" : "76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1632,
+    "title" : "77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2286,
+    "title" : "78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1792,
+    "title" : "79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1041,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 15-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1230,
+    "title" : "80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1472,
+    "title" : "81",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2226,
+    "title" : "82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1258,
+    "title" : "83",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1263,
+    "title" : "84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1650,
+    "title" : "85",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1485,
+    "title" : "86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2653,
+    "title" : "87",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1743,
+    "title" : "88",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1271,
+    "title" : "89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 926,
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 17-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1833,
+    "title" : "90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2170,
+    "title" : "91",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1759,
+    "title" : "92",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "93",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1820,
+    "title" : "94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1444,
+    "title" : "95",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1710,
+    "title" : "96",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2472,
+    "title" : "97",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1756,
+    "title" : "98",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2094,
+    "title" : "99",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/1.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 1-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/10.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 19-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/100.mp3",
+    "title" : "100",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/101.mp3",
+    "title" : "101",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/102.mp3",
+    "title" : "102",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/103.mp3",
+    "title" : "103",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/104.mp3",
+    "title" : "104",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/105.mp3",
+    "title" : "105",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/106.mp3",
+    "title" : "106",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/107.mp3",
+    "title" : "107",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/108.mp3",
+    "title" : "108",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/109.mp3",
+    "title" : "109",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/11.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 21-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/110.mp3",
+    "title" : "110",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/111.mp3",
+    "title" : "111",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/112.mp3",
+    "title" : "112",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/113.mp3",
+    "title" : "113",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/114.mp3",
+    "title" : "114",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/115.mp3",
+    "title" : "115",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/116.mp3",
+    "title" : "116",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/117.mp3",
+    "title" : "117",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/118.mp3",
+    "title" : "118",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/119.mp3",
+    "title" : "119",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/120.mp3",
+    "title" : "120",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/121.mp3",
+    "title" : "121",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/122.mp3",
+    "title" : "122",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/123.mp3",
+    "title" : "123",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/124.mp3",
+    "title" : "124",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/125.mp3",
+    "title" : "125",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/126.mp3",
+    "title" : "126",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/127.mp3",
+    "title" : "127",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/128.mp3",
+    "title" : "128",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/129.mp3",
+    "title" : "129",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/13.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 25-26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/130.mp3",
+    "title" : "130",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/131.mp3",
+    "title" : "131",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/132.mp3",
+    "title" : "132",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/133.mp3",
+    "title" : "133",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/134.mp3",
+    "title" : "134",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/135.mp3",
+    "title" : "135",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/136.mp3",
+    "title" : "136",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/137.mp3",
+    "title" : "137",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/138.mp3",
+    "title" : "138",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/139.mp3",
+    "title" : "139",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/14.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 27-28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/140.mp3",
+    "title" : "140",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/141.mp3",
+    "title" : "141",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/142.mp3",
+    "title" : "142",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/143.mp3",
+    "title" : "143",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/144.mp3",
+    "title" : "144",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/145.mp3",
+    "title" : "145",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/146.mp3",
+    "title" : "146",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/147.mp3",
+    "title" : "147",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/148.mp3",
+    "title" : "148",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/149.mp3",
+    "title" : "149",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/15.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 29-30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/150.mp3",
+    "title" : "150",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/151.mp3",
+    "title" : "151",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/152.mp3",
+    "title" : "152",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/153.mp3",
+    "title" : "153",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/154.mp3",
+    "title" : "154",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/155.mp3",
+    "title" : "155",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/156.mp3",
+    "title" : "156",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/157.mp3",
+    "title" : "157",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/158.mp3",
+    "title" : "158",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/159.mp3",
+    "title" : "159",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/16.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 31-32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/160.mp3",
+    "title" : "160",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/161.mp3",
+    "title" : "161",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/162.mp3",
+    "title" : "162",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/163.mp3",
+    "title" : "163",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/164.mp3",
+    "title" : "164",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/165.mp3",
+    "title" : "165",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/166.mp3",
+    "title" : "166",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/167.mp3",
+    "title" : "167",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/168.mp3",
+    "title" : "168",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/169.mp3",
+    "title" : "169",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/17.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 33-34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/170.mp3",
+    "title" : "170",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/171.mp3",
+    "title" : "171",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/172.mp3",
+    "title" : "172",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/173.mp3",
+    "title" : "173",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/174.mp3",
+    "title" : "174",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/175.mp3",
+    "title" : "175",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/176.mp3",
+    "title" : "176",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/177.mp3",
+    "title" : "177",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/178.mp3",
+    "title" : "178",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/179.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn quyển 3 36-14-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/18.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 35-36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/180.mp3",
+    "title" : "180",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/181.mp3",
+    "title" : "181",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/182.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn quyển 3 39-40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/183.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn quyển 3 41-42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/19.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 37-38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/2.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 3-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/20.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 39-40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/21.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 41-42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/22.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 43-44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/23.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 45-46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/24.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 47-48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/25.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 49-50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/26.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 51-52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/27.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 53-54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/28.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/29.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/3.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 5-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/30.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/31.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/32.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/33.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/34.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/35.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/36.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/37.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/38.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/39.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/4.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 7-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/40.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/41.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/42.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/43.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/44.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/45.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/46.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/47.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/48.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/49.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/5.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 9-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/50.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn quyển 2- chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/51.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn quyển 2- chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/52.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn quyển 2- chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/53.mp3",
+    "title" : "chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/54.mp3",
+    "title" : "54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/55.mp3",
+    "title" : "55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/56.mp3",
+    "title" : "56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/57.mp3",
+    "title" : "57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/58.mp3",
+    "title" : "58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/59.mp3",
+    "title" : "59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/6.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 11-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/60.mp3",
+    "title" : "60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/61.mp3",
+    "title" : "61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/62.mp3",
+    "title" : "62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/63.mp3",
+    "title" : "63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/64.mp3",
+    "title" : "64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/65.mp3",
+    "title" : "65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/66.mp3",
+    "title" : "66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/67.mp3",
+    "title" : "67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/68.mp3",
+    "title" : "68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/69.mp3",
+    "title" : "69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/7.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 13-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/70.mp3",
+    "title" : "70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/71.mp3",
+    "title" : "71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/72.mp3",
+    "title" : "72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/73.mp3",
+    "title" : "73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/74.mp3",
+    "title" : "74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/75.mp3",
+    "title" : "75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/76.mp3",
+    "title" : "76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/77.mp3",
+    "title" : "77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/78.mp3",
+    "title" : "78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/79.mp3",
+    "title" : "79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/8.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 15-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/80.mp3",
+    "title" : "80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/81.mp3",
+    "title" : "81",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/82.mp3",
+    "title" : "82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/83.mp3",
+    "title" : "83",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/84.mp3",
+    "title" : "84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/85.mp3",
+    "title" : "85",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/86.mp3",
+    "title" : "86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/87.mp3",
+    "title" : "87",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/88.mp3",
+    "title" : "88",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/89.mp3",
+    "title" : "89",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/9.mp3",
+    "title" : "Cuồng phi tàn nhẫn bưu hãn chương 17-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/90.mp3",
+    "title" : "90",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/91.mp3",
+    "title" : "91",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/92.mp3",
+    "title" : "92",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/93.mp3",
+    "title" : "93",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/94.mp3",
+    "title" : "94",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/95.mp3",
+    "title" : "95",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/96.mp3",
+    "title" : "96",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/97.mp3",
+    "title" : "97",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/98.mp3",
+    "title" : "98",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-phi-tan-nhan-buu-han/99.mp3",
+    "title" : "99",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

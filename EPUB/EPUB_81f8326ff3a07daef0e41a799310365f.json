@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/muc-than-ky_17811.html",
+    "title" : "Mục Thần Ký",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trạch Trư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 407669,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_81f8326ff3a07daef0e41a799310365f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_81f8326ff3a07daef0e41a799310365f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_001-010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 32240,
+    "title" : "Mục Thần Ký (Hắc tây du) 001-010",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_011-019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 33815,
+    "title" : "Mục Thần Ký (Hắc tây du) 011-019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_020-029.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 34416,
+    "title" : "Mục Thần Ký (Hắc tây du) 020-029",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_030-039.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 35822,
+    "title" : "Mục Thần Ký (Hắc tây du) 030-039",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_040-049.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 38376,
+    "title" : "Mục Thần Ký (Hắc tây du) 040-049",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_050-057.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 29084,
+    "title" : "Mục Thần Ký (Hắc tây du) 050-057",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_058-065.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 30379,
+    "title" : "Mục Thần Ký (Hắc tây du) 058-065",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_066-073.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 28331,
+    "title" : "Mục Thần Ký (Hắc tây du) 066-073",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_074-082.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 28642,
+    "title" : "Mục Thần Ký (Hắc tây du) 074-082",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_083-091.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 31739,
+    "title" : "Mục Thần Ký (Hắc tây du) 083-091",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_092-101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 28667,
+    "title" : "Mục Thần Ký (Hắc tây du) 092-101",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_102-110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 24901,
+    "title" : "Mục Thần Ký (Hắc tây du) 102-110",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3591,
+    "title" : "Mục Thần Ký (Hắc tây du) 111",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3656,
+    "title" : "Mục Thần Ký (Hắc tây du) 112",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3620,
+    "title" : "Mục Thần Ký (Hắc tây du) 113",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3245,
+    "title" : "Mục Thần Ký (Hắc tây du) 114",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3473,
+    "title" : "Mục Thần Ký (Hắc tây du) 115",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3382,
+    "title" : "Mục Thần Ký (Hắc tây du) 116",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3340,
+    "title" : "Mục Thần Ký (Hắc tây du) 117",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3664,
+    "title" : "Mục Thần Ký (Hắc tây du) 118",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3286,
+    "title" : "Mục Thần Ký (Hắc tây du) 119",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_001-010.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 001-010",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_011-019.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 011-019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_020-029.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 020-029",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_030-039.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 030-039",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_040-049.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 040-049",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_050-057.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 050-057",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_058-065.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 058-065",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_066-073.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 066-073",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_074-082.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 074-082",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_083-091.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 083-091",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_092-101.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 092-101",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_102-110.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 102-110",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_111.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 111",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_112.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 112",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_113.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 113",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_114.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 114",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_115.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 115",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_116.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 116",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_117.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 117",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_118.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 118",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-than-ky-hac-tay-du-040-049/M%E1%BB%A5c%20Th%E1%BA%A7n%20K%C3%BD%20%28H%E1%BA%AFc%20t%C3%A2y%20du%29_119.mp3",
+    "title" : "Mục Thần Ký (Hắc tây du) 119",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
