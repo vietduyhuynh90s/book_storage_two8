@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngay-tam-ta-an-song-gio-se-tan_20355.html",
+    "title" : "Ngày Tâm Ta An, Sóng Gió Sẽ Tan",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lý Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 15947,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_df051acc9c33e54b0e1e772cfd9bc73d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_df051acc9c33e54b0e1e772cfd9bc73d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngay-tam-1/ngay-tam-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4078,
+    "title" : "1 # Ngày tâm ta an, sóng gió sẽ tan # Thế giới tốt đẹp như thủa ban sơ thì hãy để tâm ta bình yên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-tam-1/ngay-tam-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2057,
+    "title" : "2 # Ngày tâm ta an, sóng gió sẽ tan # Nhớ mãi không quên, cuộc sống luôn có tiếng vọng ấm áp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-tam-1/ngay-tam-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2301,
+    "title" : "3 # Ngày tâm ta an, sóng gió sẽ tan # Đời người là một bữa tiệc thịnh soạn, hãy trân trọng tất cả...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-tam-1/ngay-tam-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "4 # Ngày tâm ta an, sóng gió sẽ tan # Lý Lê # Ngắm hết năm tháng huyên náo, C/đ bạn sẽ K mơ màng nữa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-tam-1/ngay-tam-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2516,
+    "title" : "5 # Ngày tâm ta an, Sóng gió sẽ tan # Ung dung đối mặt với ngày loạn lạc # Lý Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-tam-1/ngay-tam-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2154,
+    "title" : "6 # Ngày tâm ta an, Sóng gió sẽ tan # Thế gian không rời không bỏ, chỉ vì có bạn ở bên cạnh # Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngay-tam-1/ngay-tam-1.mp3",
+    "title" : "1 # Ngày tâm ta an, sóng gió sẽ tan # Thế giới tốt đẹp như thủa ban sơ thì hãy để tâm ta bình yên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-tam-1/ngay-tam-2.mp3",
+    "title" : "2 # Ngày tâm ta an, sóng gió sẽ tan # Nhớ mãi không quên, cuộc sống luôn có tiếng vọng ấm áp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-tam-1/ngay-tam-3.mp3",
+    "title" : "3 # Ngày tâm ta an, sóng gió sẽ tan # Đời người là một bữa tiệc thịnh soạn, hãy trân trọng tất cả...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-tam-1/ngay-tam-4.mp3",
+    "title" : "4 # Ngày tâm ta an, sóng gió sẽ tan # Lý Lê # Ngắm hết năm tháng huyên náo, C/đ bạn sẽ K mơ màng nữa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-tam-1/ngay-tam-5.mp3",
+    "title" : "5 # Ngày tâm ta an, Sóng gió sẽ tan # Ung dung đối mặt với ngày loạn lạc # Lý Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-tam-1/ngay-tam-6.mp3",
+    "title" : "6 # Ngày tâm ta an, Sóng gió sẽ tan # Thế gian không rời không bỏ, chỉ vì có bạn ở bên cạnh # Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

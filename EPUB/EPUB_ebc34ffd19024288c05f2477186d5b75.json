@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/huong-que-tay-dau-do-va-mot-so-truyen-ngan-khac_19827.html",
+    "title" : "Hương Quê, Tây Đầu Đỏ Và Một Số Truyện Ngắn Khác",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sơn Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 29320,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_ebc34ffd19024288c05f2477186d5b75.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_ebc34ffd19024288c05f2477186d5b75.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3347,
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2790,
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2450,
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2824,
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2772,
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3080,
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2222,
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3026,
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2583,
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2726,
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1500,
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 11",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_01.mp3",
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_02.mp3",
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_03.mp3",
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_04.mp3",
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_05.mp3",
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_06.mp3",
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_07.mp3",
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_08.mp3",
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_09.mp3",
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_10.mp3",
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-que-tay-dau-do-mot-so-truyen-ngan-khac.sna/HUONG_QUE_TAY_DAU_DO_VA_MOT_SO_TRUYEN_NGAN_KHAC_11.mp3",
+    "title" : "HUONG QUE TAY DAU DO VA MOT SO TRUYEN NGAN KHAC 11",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

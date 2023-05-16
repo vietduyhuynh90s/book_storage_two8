@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tha-thu-cho-nhau_20338.html",
+    "title" : "Tha Thứ Cho Nhau",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồng Bối",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 14767,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_8263fc15a5c171fc84e49014d9597980.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_8263fc15a5c171fc84e49014d9597980.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1517,
+    "title" : "Tha Thứ Cho Nhau -Sách Nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1453,
+    "title" : "Tha Thứ Cho Nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1487,
+    "title" : "Tha Thứ Cho Nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1531,
+    "title" : "Tha Thứ Cho Nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1155,
+    "title" : "Tha Thứ Cho Nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1705,
+    "title" : "Tha Thứ Cho Nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1841,
+    "title" : "Tha Thứ Cho Nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1351,
+    "title" : "Tha Thứ Cho Nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1506,
+    "title" : "Tha Thứ Cho Nhau (phần 9) Sách Nói _Giọng Đọc Thiên Thảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1221,
+    "title" : "Tha Thứ Cho Nhau (phần 10) Sách Nói _Giọng Đọc Thiên Thảo",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-01.mp3",
+    "title" : "Tha Thứ Cho Nhau -Sách Nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-02.mp3",
+    "title" : "Tha Thứ Cho Nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-03.mp3",
+    "title" : "Tha Thứ Cho Nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-04.mp3",
+    "title" : "Tha Thứ Cho Nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-05.mp3",
+    "title" : "Tha Thứ Cho Nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-06.mp3",
+    "title" : "Tha Thứ Cho Nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-07.mp3",
+    "title" : "Tha Thứ Cho Nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-08.mp3",
+    "title" : "Tha Thứ Cho Nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-09.mp3",
+    "title" : "Tha Thứ Cho Nhau (phần 9) Sách Nói _Giọng Đọc Thiên Thảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tha-thu-07/tha-thu-10.mp3",
+    "title" : "Tha Thứ Cho Nhau (phần 10) Sách Nói _Giọng Đọc Thiên Thảo",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cham-tay-hoa-vang_20256.html",
+    "title" : "Chạm Tay Hóa Vàng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Donald J. Trump",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 30197,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_db0cac233b5fa75d3c3282b7f3c149c5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_db0cac233b5fa75d3c3282b7f3c149c5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/01_LoiGioiThieu_ChamTayHoaVang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 367,
+    "title" : "01 LoiGioiThieu ChamTayHoaVang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/02_C01A_NgonCaiSucManhTinhCach_ChamTayHoaVang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2716,
+    "title" : "02 C01A NgonCaiSucManhTinhCach ChamTayHoaVang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/03_C01B_NgonCaiSucManhTinhCach_ChamTayHoaVang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3040,
+    "title" : "03 C01B NgonCaiSucManhTinhCach ChamTayHoaVang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/04_C02A_NgonTroTapTrung_ChamTayHoaVang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3192,
+    "title" : "04 C02A NgonTroTapTrung ChamTayHoaVang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/05_C02B_NgonTroTapTrung_ChamTayHoaVang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2929,
+    "title" : "05 C02B NgonTroTapTrung ChamTayHoaVang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/06_C03A_NgonGiuaThuongHieu_ChamTayHoaVang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2499,
+    "title" : "06 C03A NgonGiuaThuongHieu ChamTayHoaVang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/07_C03B_NgonGiuaThuongHieu_ChamTayHoaVang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3708,
+    "title" : "07 C03B NgonGiuaThuongHieu ChamTayHoaVang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/08_C04A_NgonDeoNhanCacMoiQuanHe_ChamTayHoaVang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2715,
+    "title" : "08 C04A NgonDeoNhanCacMoiQuanHe ChamTayHoaVang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/09_C04B_NgonDeoNhanCacMoiQuanHe_ChamTayHoaVang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2062,
+    "title" : "09 C04B NgonDeoNhanCacMoiQuanHe ChamTayHoaVang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/10_C05A_NgonUtNhungDieuNhoNhungQuanTrong_ChamTayHoaVang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2618,
+    "title" : "10 C05A NgonUtNhungDieuNhoNhungQuanTrong ChamTayHoaVang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/11_C05B_NgonUtNhungDieuNhoNhungQuanTrong_ChamTayHoaVang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3260,
+    "title" : "11 C05B NgonUtNhungDieuNhoNhungQuanTrong ChamTayHoaVang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/12_C05C_HET_NgonUtNhungDieuNhoNhungQuanTrong_LoiBat_ChamTayHoaVang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1091,
+    "title" : "12 C05C HET NgonUtNhungDieuNhoNhungQuanTrong LoiBat ChamTayHoaVang",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/01_LoiGioiThieu_ChamTayHoaVang.mp3",
+    "title" : "01 LoiGioiThieu ChamTayHoaVang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/02_C01A_NgonCaiSucManhTinhCach_ChamTayHoaVang.mp3",
+    "title" : "02 C01A NgonCaiSucManhTinhCach ChamTayHoaVang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/03_C01B_NgonCaiSucManhTinhCach_ChamTayHoaVang.mp3",
+    "title" : "03 C01B NgonCaiSucManhTinhCach ChamTayHoaVang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/04_C02A_NgonTroTapTrung_ChamTayHoaVang.mp3",
+    "title" : "04 C02A NgonTroTapTrung ChamTayHoaVang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/05_C02B_NgonTroTapTrung_ChamTayHoaVang.mp3",
+    "title" : "05 C02B NgonTroTapTrung ChamTayHoaVang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/06_C03A_NgonGiuaThuongHieu_ChamTayHoaVang.mp3",
+    "title" : "06 C03A NgonGiuaThuongHieu ChamTayHoaVang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/07_C03B_NgonGiuaThuongHieu_ChamTayHoaVang.mp3",
+    "title" : "07 C03B NgonGiuaThuongHieu ChamTayHoaVang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/08_C04A_NgonDeoNhanCacMoiQuanHe_ChamTayHoaVang.mp3",
+    "title" : "08 C04A NgonDeoNhanCacMoiQuanHe ChamTayHoaVang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/09_C04B_NgonDeoNhanCacMoiQuanHe_ChamTayHoaVang.mp3",
+    "title" : "09 C04B NgonDeoNhanCacMoiQuanHe ChamTayHoaVang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/10_C05A_NgonUtNhungDieuNhoNhungQuanTrong_ChamTayHoaVang.mp3",
+    "title" : "10 C05A NgonUtNhungDieuNhoNhungQuanTrong ChamTayHoaVang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/11_C05B_NgonUtNhungDieuNhoNhungQuanTrong_ChamTayHoaVang.mp3",
+    "title" : "11 C05B NgonUtNhungDieuNhoNhungQuanTrong ChamTayHoaVang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cham-tay-hoa-vang.sna/12_C05C_HET_NgonUtNhungDieuNhoNhungQuanTrong_LoiBat_ChamTayHoaVang.mp3",
+    "title" : "12 C05C HET NgonUtNhungDieuNhoNhungQuanTrong LoiBat ChamTayHoaVang",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

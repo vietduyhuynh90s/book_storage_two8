@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ong-thoi-ba-thiu_20135.html",
+    "title" : "Ông Thối Bà Thiu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Kim Trắc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 18342,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_8203765e8823724164e1ed165b9e2c19.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_8203765e8823724164e1ed165b9e2c19.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2489,
+    "title" : "ONG THOI BA THIU 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1797,
+    "title" : "ONG THOI BA THIU 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1621,
+    "title" : "ONG THOI BA THIU 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1869,
+    "title" : "ONG THOI BA THIU 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1811,
+    "title" : "ONG THOI BA THIU 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2345,
+    "title" : "ONG THOI BA THIU 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1904,
+    "title" : "ONG THOI BA THIU 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1435,
+    "title" : "ONG THOI BA THIU 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3071,
+    "title" : "ONG THOI BA THIU 09",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_01.mp3",
+    "title" : "ONG THOI BA THIU 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_02.mp3",
+    "title" : "ONG THOI BA THIU 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_03.mp3",
+    "title" : "ONG THOI BA THIU 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_04.mp3",
+    "title" : "ONG THOI BA THIU 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_05.mp3",
+    "title" : "ONG THOI BA THIU 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_06.mp3",
+    "title" : "ONG THOI BA THIU 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_07.mp3",
+    "title" : "ONG THOI BA THIU 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_08.mp3",
+    "title" : "ONG THOI BA THIU 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-thoi-ba-thiu.sna/ONG_THOI_BA_THIU_09.mp3",
+    "title" : "ONG THOI BA THIU 09",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

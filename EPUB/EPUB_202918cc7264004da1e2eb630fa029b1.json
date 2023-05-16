@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/leu-chong_20328.html",
+    "title" : "Lều Chõng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngô Tất Tố",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 31006,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_202918cc7264004da1e2eb630fa029b1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_202918cc7264004da1e2eb630fa029b1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 905,
+    "title" : "1/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1351,
+    "title" : "2/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1293,
+    "title" : "3/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1263,
+    "title" : "4/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1728,
+    "title" : "5/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1203,
+    "title" : "6/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1270,
+    "title" : "7/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2177,
+    "title" : "8/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1659,
+    "title" : "9/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1353,
+    "title" : "10/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1355,
+    "title" : "11/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2514,
+    "title" : "12/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1698,
+    "title" : "13/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1164,
+    "title" : "14/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1708,
+    "title" : "15/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1266,
+    "title" : "16/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1523,
+    "title" : "17/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1218,
+    "title" : "18/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1927,
+    "title" : "19/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1433,
+    "title" : "20/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 998,
+    "title" : "21/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-01.mp3",
+    "title" : "1/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-02.mp3",
+    "title" : "2/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-03.mp3",
+    "title" : "3/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-04.mp3",
+    "title" : "4/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-05.mp3",
+    "title" : "5/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-06.mp3",
+    "title" : "6/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-07.mp3",
+    "title" : "7/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-08.mp3",
+    "title" : "8/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-09.mp3",
+    "title" : "9/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-10.mp3",
+    "title" : "10/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-11.mp3",
+    "title" : "11/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-12.mp3",
+    "title" : "12/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-13.mp3",
+    "title" : "13/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-14.mp3",
+    "title" : "14/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-15.mp3",
+    "title" : "15/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-16.mp3",
+    "title" : "16/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-17.mp3",
+    "title" : "17/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-18.mp3",
+    "title" : "18/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-19.mp3",
+    "title" : "19/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-20.mp3",
+    "title" : "20/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/leu-chong-12/leu-chong-21.mp3",
+    "title" : "21/21 l Ngô Tất Tố l Audiobook VTC Now",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
