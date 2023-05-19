@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-canh-cua-deu-mo_20178.html",
+    "title" : "Những Cánh Cửa Đều Mở",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tiểu Quyên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 14795,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_f60dd72786bf922098a67d27aad2ee73.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_f60dd72786bf922098a67d27aad2ee73.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bay-1_202202/Ch%E1%BA%A1m%20tay%20v%C3%A0o%20s%C3%B4ng%20ng%E1%BA%A7m.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1829,
+    "title" : "Chạm tay vào sông ngầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-1_202202/M%E1%BB%99ng%20v%C3%A0%20th%E1%BB%B1c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2978,
+    "title" : "Mộng và thực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-1_202202/Ng%E1%BB%93i%20tr%C3%AAn%20m%C3%A1i%20nh%C3%A0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2135,
+    "title" : "Ngồi trên mái nhà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-1_202202/N%E1%BA%AFm%20b%C3%A0n%20tay%20nhau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1569,
+    "title" : "Nắm bàn tay nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-1_202202/V%E1%BB%81%20qu%C3%AA.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1743,
+    "title" : "Về quê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-1_202202/Y%C3%AAu%20m%C3%A8o%2C%20%C4%91%E1%BB%83%20th%E1%BA%A5y%20l%C3%B2ng%20nh%E1%BB%A7%20say.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2001,
+    "title" : "Yêu mèo, để thấy lòng nhủ say",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-1_202202/bay-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2540,
+    "title" : "bay-1",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bay-1_202202/Ch%E1%BA%A1m%20tay%20v%C3%A0o%20s%C3%B4ng%20ng%E1%BA%A7m.mp3",
+    "title" : "Chạm tay vào sông ngầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-1_202202/M%E1%BB%99ng%20v%C3%A0%20th%E1%BB%B1c.mp3",
+    "title" : "Mộng và thực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-1_202202/Ng%E1%BB%93i%20tr%C3%AAn%20m%C3%A1i%20nh%C3%A0.mp3",
+    "title" : "Ngồi trên mái nhà",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-1_202202/N%E1%BA%AFm%20b%C3%A0n%20tay%20nhau.mp3",
+    "title" : "Nắm bàn tay nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-1_202202/V%E1%BB%81%20qu%C3%AA.mp3",
+    "title" : "Về quê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-1_202202/Y%C3%AAu%20m%C3%A8o%2C%20%C4%91%E1%BB%83%20th%E1%BA%A5y%20l%C3%B2ng%20nh%E1%BB%A7%20say.mp3",
+    "title" : "Yêu mèo, để thấy lòng nhủ say",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-1_202202/bay-1.mp3",
+    "title" : "bay-1",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
