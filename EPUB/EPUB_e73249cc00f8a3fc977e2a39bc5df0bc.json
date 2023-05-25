@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/liet-tu-va-duong-tu_19480.html",
+    "title" : "Liệt Tử và Dương Tử",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hiến Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-25",
+    "duration" : 18961,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_e73249cc00f8a3fc977e2a39bc5df0bc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_e73249cc00f8a3fc977e2a39bc5df0bc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/liet-tu-1/liet-tu-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "liet-tu-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/liet-tu-1/liet-tu-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "liet-tu-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/liet-tu-1/liet-tu-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "liet-tu-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/liet-tu-1/liet-tu-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "liet-tu-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/liet-tu-1/liet-tu-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3361,
+    "title" : "liet-tu-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/liet-tu-1/liet-tu-1.mp3",
+    "title" : "liet-tu-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/liet-tu-1/liet-tu-2.mp3",
+    "title" : "liet-tu-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/liet-tu-1/liet-tu-3.mp3",
+    "title" : "liet-tu-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/liet-tu-1/liet-tu-4.mp3",
+    "title" : "liet-tu-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/liet-tu-1/liet-tu-5.mp3",
+    "title" : "liet-tu-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
