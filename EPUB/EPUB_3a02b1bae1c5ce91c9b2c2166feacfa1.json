@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hoc-tu-that-bai-739.html",
+    "title" : "HỌC TỪ THẤT BẠI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "John C. Maxwell",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Sách cùng tác giả JOHN C. MAXWELL MỤC LỤC Lời tác giả Lời giới thiệu của Huấn luyện viên John Wooden Lời cảm ơn 1-Khi bạn thất bại, mọi thứ thật đau đớn Bài học này quá đau đớn Đánh giá thất bại Tại sao thất bại lại đau đớn như vậy? Biến bại thành thắng 2-Khiêm tốn: Tinh thần của Học hỏi Kiêu hãnh đi trước thất bại Người “tốt” trở thành “rất tốt” là nhờ đức tính khiêm nhường Tinh thần đúng mực giúp bạn học hỏi bằng cách nào? Một tấm gương khiêm nhường 3-Thực tế: Nền tảng của Học hỏi Thực tại xấu xí xuất hiện Thân trẻ mồ côi Xây dựng trên nền tảng vững chắc Ba thực tế của cuộc sống Đừng để cuộc đời làm khó bạn 4-Trách nhiệm: Bước đầu tiên của Học hỏi Giọng đọc vàng Từ Giấc mơ đến Ác mộng Con đường đen tối Điều gì sẽ xảy ra khi ta không biết chịu trách nhiệm? Chuyện gì sẽ xảy ra khi ta học được cách biết chịu trách nhiệm? 5-Cải thiện: Tâm điểm của Học hỏi</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_3a02b1bae1c5ce91c9b2c2166feacfa1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_3a02b1bae1c5ce91c9b2c2166feacfa1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/739-hoc-tu-that-bai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/739-hoc-tu-that-bai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

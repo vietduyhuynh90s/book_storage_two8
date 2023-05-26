@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nguoi-nam-cham-bi-mat-cua-luat-hap-dan-383.html",
+    "title" : "NGƯỜI NAM CHÂM - BÍ MẬT CỦA LUẬT HẤP DẪN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>LỜI GIỚI THIỆU ôi có một số người bạn là những doanh nhân. Một trong số họ đôi khi bị khủng hoảng: khủng hoảng cả về vật chất lẫn tinh thần, cả sự nghiệp lẫn tình cảm. Có lúc, họ cảm thấy mình như bị gục ngã, hay đúng hơn, là bị quật ngã. Nhưng cuối cùng họ đã khám phá ra một bí mật. Bí mật này đến với họ từ cổ xưa. Bí mật này đã đi hàng thế kỷ để đến với họ. Và họ đã hiểu, đã thấu hiểu, đã đứng dậy và đã thành công. Họ đã lại thành công về mọi mặt, thành công toàn diện bởi họ có trong tay một bí mật cổ xưa. Tôi cũng vậy. Tôi đã có trong tay và đã đọc cuốn sách này. Tôi đọc như thể mình tìm được một báu vật. Tôi giữ gìn cuốn sách như bí mật của vũ trụ, của ngàn đời, cuốn sách là bí mật của tất cả mọi thứ: của sức khỏe và tiền bạc, của các mối quan hệ và tình yêu, của hạnh phúc và thành công, của ý tưởng và trí tuệ… của tất cả. Nhiều nhà lãnh đạo, doanh nhân, triết gia, nhà nghiên cứu, nhà khoa học… sau khi nghe tôi khuyên, đã đọc cuốn sách này. Cuối cùng, ai cũng hài lòng về những gì họ đọc được, những gì họ thu lượm được. Bí mật của tất cả là Luật Hấp dẫn. Mỗi chúng ta là một viên nam châm, hay nói đúng hơn, là một tảng nam châm. Tảng nam châm này là trí tuệ, là tâm hồn, là thể chất, là tinh thần của chúng ta. Tảng nam châm (chúng ta) luôn tỏa ra những rung cảm năng lượng, luôn hút năng lượng quanh chúng ta vào trong. Mỗi chúng ta là Gates và Abraham Lincoln, là Colombo và vua Solomon, là Chúa Jesus và Đức Phật Thích Ca Mâu Ni. Đã thành hoặc sẽ thành, trong tương lai gần hay tương lai xa. Tất cả phụ thuộc vào chính chúng ta, vào việc tạo ra sức hút, vào năng lượng mà chúng ta tỏa ra. Mỗi ngày, mỗi giờ. Bây giờ và mai sau. Những gì chúng ta cảm nhận, những hành động, cử chỉ của chúng ta: nụ cười, ánh mắt, tình yêu thương… đang ngày đêm tỏa ra những nguồn năng lượng vô cùng to lớn để hút, để hấp dẫn mọi thứ và mọi người xung quanh chúng ta. Chúng tôi đã rất nỗ lực để cuốn sách ra đời sớm, nhất là để kịp chào đón chuyến viếng thăm Việt Nam lần này của tác giả cuốn sách - Jack Canfield. Nguyễn Mạnh Hùng Giám đốc Thái Hà Books</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_4cef00f2712efc93804371e9f4477f5e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_4cef00f2712efc93804371e9f4477f5e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/383-nguoi-nam-cham-bi-mat-cua-luat-hap-dan-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/383-nguoi-nam-cham-bi-mat-cua-luat-hap-dan-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

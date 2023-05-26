@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/giang-ly-anh-sang-tren-duong-dao-1202.html",
+    "title" : "GIẢNG LÝ ÁNH SÁNG TRÊN ĐƯỜNG ĐẠO",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "C. W. Leadbeater",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong quyển sách nầy sưu tập những bài bình giảng của Ông C. W. Leadbeater hiện giờ là Giám Mục - và của tôi về ba tác phẩm nổi tiếng, khuôn khổ tuy nhỏ bé, nhưng nội dung thật quan trọng. Cả hai chúng tôi ước mong nó sẽ hữu ích cho những người chí nguyện và ngay cả những người đã vượt qua giai đoạn đó, vì người diễn giảng cao niên hơn thính giả và do kinh nghiệm, hiểu biết nhiều hơn về đời sống của người đệ tử. Những cuộc đàm luận nầy chẳng phải chỉ diễn ra ở tại một chỗ mà thôi. Chúng tôi đã nói chuyện với các bạn chúng tôi trong nhiều lúc, và nhiều nơi khác nhau, nhất là ở Adyar, Luân Ðôn (London) và Sydney. Rất nhiều chú thích đã được thính giả ghi lại. Tất cả những lời ghi chú có giá trị đều được sưu tập, và sắp xếp thứ tự rồi tập trung lại sau khi loại bỏ những phần trùng hợp với nhau. Rủi thay, vì chỉ còn có một số rất ít những chú giải thuộc phần I của quyển Tiếng Nói Vô Thinh, cho nên chúng tôi lấy những chú giải của một vị Thân hữu, bạn đồng nghiệp của chúng tôi, là Ông Ernest Wood đã dùng trong một khóa học ở Sydney. Những chú giải nầy nhập với những lời bình giảng của Giám Mục Leadbeater về đoạn đó. Không tìm lại được một ghi chú nào về những lời bình giảng của tôi, mặc dù tôi đã nói nhiều về quyển Tiếng Nói Vô Thinh song những lời diễn giảng đó không còn lưu lại. Tất cả những lời diễn giảng nầy đều chưa xuất bản, chỉ trừ vài bài diễn văn ngắn của Giám Mục Leadbeater nói với các sinh viên đã được chọn lựa về quyển Dưới Chơn Thầy. Một tác phẩm nhan đề \"Những lời bình giảng Dưới Chơn Thầy\" đã được xuất bản vài năm qua: Trong đó những lời chú thích của ông không được đúng như lời ông đã nói. Quyển nầy sẽ không in lại. Phần cốt yếu của quyển đó vẫn có trong quyển nầy, tất cả đều thu gọn lại rồi đem in. Cầu xin những trang sách nầy giúp cho vài huynh đệ trẻ tuổi của chúng ta hiểu biết rành rẽ những bài học vô giá nầy. Càng nghiên cứu, càng thực hành chúng nó thì càng nhận thức được nhiều hơn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_beb640b0f36b9fb24b0c2fef7cc284a0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_beb640b0f36b9fb24b0c2fef7cc284a0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1202-giang-ly-anh-sang-tren-duong-dao-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1202-giang-ly-anh-sang-tren-duong-dao-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dao-cua-vat-ly-986.html",
+    "title" : "ĐẠO CỦA VẬT LÝ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Fritjof Capra",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục Lục Giới thiệu cuốn sách 'Đạo của vật lý' Lời người dịch Lời nói đầu (bản in lần thứ nhất) Lời nói đầu (Bản in lần thứ hai) Phần I. Con đường của vật lý học Chương 1: Vật lý hiện đại - Một “tâm đạo”? Chương 2: Biết và thấy Chương 3: Bên Kia Ngôn Ngữ Chương 4: Nền Vật Lý Mới Phần II. Con Đường Đạo Học Phương Đông Chương 5: Ấn Độ Giáo Chương 6: Phật Giáo Chương 7: Tư Tưởng Trung Quốc Chương 8: Lão Giáo Chương 9: Thiền Tông Phần III. Các Tương Đồng Chương 10: Tính Nhất Thể Của Vạn Sự Chương 11: Vượt Trên Thế Giới Nhị Nguyên Chương 12: Không Gian - Thời Gian Chương 13: Vũ Trụ Động Chương 14: Không Và Sắc Chương 15: Điệu Múa Của Vũ Trụ Chương 16: Cấu Trúc Đối Xứng Quark - Một Công Án Mới Chương 17: Các Mẫu Hình Biến Dịch Chương 18: Sự Dung Thông Lời Cuối Điểm Lại Nền Vật Lý Mới Tương Lai của Nền Vật Lý Mới Tác động của cuốn sách Sự thay đổi mẫu hình Ảnh Hưởng của Heisenberg và Chew Những Mẫu Hình Mới Trong Tư Duy Khoa Học Phê Bình về Đạo của Vật Lý Sự Phát Triển Hiện Nay Và Khả Năng Của Tương Lai</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_4a7a65b082589327c932bb3a8d0496cd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_4a7a65b082589327c932bb3a8d0496cd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/986-dao-cua-vat-ly-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/986-dao-cua-vat-ly-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/noi-vay-ma-khong-phai-vay-1235.html",
+    "title" : "NÓI VẬY MÀ KHÔNG PHẢI VẬY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robert J. Samuelson",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Samuelson đã vẽ nên một bức tranh lớn về đất nước của ông xoay quanh bốn chủ đề lớn là văn hóa, chính trị, kinh tế và xã hội của nước Mỹ trong giai đoạn cuối thế kỷ XX, từ một góc nhìn rất khác so với những gì mà ông gọi là “quan niệm phổ biến” (conventional wisdom) - những gì mà số đông vẫn tin là đúng, được biện minh bằng các lập luận thông thường, theo “quán tính” của tư duy và được củng cố bởi giới truyền thông và báo chí. Người ta thường nói “một nửa cái bánh mì vẫn là bánh mì, nhưng một nửa sự thật thì không phải là sự thật”. Thật vậy, chỉ cần thông tin bị cắt xén, che giấu một phần (chứ chưa cần bị xuyên tạc, thổi phồng hay nói giảm, nói tránh) thì hậu quả đã là: bên tiếp nhận thông tin có định hướng tư duy sai lầm, dẫn đến những quan điểm, nhận định sai lầm. Là một người làm báo, hơn ai hết Samuelson hiểu rõ và phê phán gay gắt những hành vi này, cho dù là vô tình hay cố ý. Quan trọng hơn, tác giả muốn gửi đi một dấu hiệu cảnh báo về sự nguy hiểm của lối tư duy một chiều, theo lối mòn và / hoặc hùa theo số đông. Mà không chỉ giới hạn trong báo giới và độc giả của nó, tư duy đa chiều cộng với thái độ hoài nghi tích cực, khả năng phản biện, thách thức luôn luôn là những “điều kiện cần” cho năng lực cải tiến và sáng tạo trong mọi lĩnh vực của đời sống. Đó mới thực sự là động lực của các tiến bộ xã hội. Đã có bao giờ bạn muốn “nghĩ khác” so với những thành viên trong gia đình hay trong các nhóm xã hội của bạn chưa? Hoặc bạn cho rằng bản thân mình cũng cần xem xét một vấn đề từ nhiều quan điểm khác nhau? Tác phẩm này mang đến cho bạn nhiều cảm hứng và các gợi ý chỉ dẫn để bạn làm điều đó.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_548c811c3e9d9e98ee6bba9b05c3ae32.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_548c811c3e9d9e98ee6bba9b05c3ae32.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1235-noi-vay-ma-khong-phai-vay-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1235-noi-vay-ma-khong-phai-vay-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

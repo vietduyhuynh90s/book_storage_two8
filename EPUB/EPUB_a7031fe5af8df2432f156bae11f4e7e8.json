@@ -1,0 +1,629 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-13457.html",
+    "title" : "PHÀM NHÂN TU TIÊN CHI TIÊN GIỚI THIÊN - PHẦN 6",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vong Ngữ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Phàm Nhân Tu Tiên truyện là một truyện ký sự nhân vật, nói về một thiếu niên hết sức bình thường từng bước một tiến vào con đường tu tiên, không có tướng mạo tuyệt hảo, cũng không có tư chất kinh người. Kỳ thực trong Phàm Nhân Tu Tiên truyện là một xã hội tràn ngập hiểm ác phức tạp, tranh danh đoạt lợi, không hề có tình hữu nghị đơn thuần. Phàm Nhân Tu Tiên truyện không giống như những quyển tiểu thuyết khác trên mạng chỉ lo đánh quái rồi đột phá thăng cấp - theo đuổi thiên đạo, cũng không có những câu từ ngữ hoa mỹ trau chuốt, cũng chẳng có những pha tình cảm nhạt nhòe. Phàm Nhân Tu Tiên truyện là quyển đầu tay được viết bởi tác giả Vong Ngữ, lại không phải là truyện tái bản, thế nhưng fan hâm mộ đã đạt tới con số khó thể thống kê nổi, hơn nữa gần đây nhất còn đoạt được danh hiệu nằm trong một trăm truyện sáng giá nhất. Đối với một quyển truyện còn đang trong giai đoạn viết tiếp diễn như vầy, lại có nhiều người thích thú đến như vậy, chúng ta thật không ngại mà truy hỏi một câu: rốt cuộc Phàm Nhân Tu Tiên Truyện thu hút mọi người vì cái gì? ở điểm nào? Mời các bạn đón đọc Phàm Nhân Tu Tiên truyện của tác giả Vong Ngữ.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_a7031fe5af8df2432f156bae11f4e7e8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_a7031fe5af8df2432f156bae11f4e7e8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Tập 251 (Chương 1465 - 1469)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=3339",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:55:39 Tập 252 (Chương 1470 - 1475)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=6679",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:51:19 Tập 253 (Chương 1476 - 1479)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=9835",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:43:55 Tập 254 (Chương 1481 - 1485)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=12921",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:35:21 Tập 255 (Chương 1486 - 1490)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=16098",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:28:18 Tập 256 (Chương 1491 - 1495)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=19348",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:22:28 Tập 257 (Chương 1496 - 1500)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=22604",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:16:44 Tập 258 (Chương 1501 - 1505)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=25838",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:10:38 Tập 259 (Chương 1506 - 1510)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=28987",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:03:07 Tập 260 (Chương 1511 - 1515)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=32197",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:56:37 Tập 261 (Chương 1516 - 1520)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=35366",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:49:26 Tập 262 (Chương 1521 - 1525)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=38564",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:42:44 Tập 263 (Chương 1526 - 1530)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=41582",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:33:02 Tập 264 (Chương 1531 - 1535)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=44537",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:22:17 Tập 265 (Chương 1536 - 1540)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=47550",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:12:30 Tập 266 (Chương 1541 - 1545)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=51043",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:10:43 Tập 267 (Chương 1546 - 1549)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=54490",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:08:10 Tập 268 (Chương 1550 - 1554)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=57761",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:02:41 Tập 269 (Chương 1555 - 1559)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=61096",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:58:16 Tập 270 (Chương 1560 - 1564)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=64196",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:49:56 Tập 271 (Chương 1565 - 1569)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=67200",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:40:00 Tập 272 (Chương 1570 - 1574)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=70259",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:30:59 Tập 273 (Chương 1575 - 1579)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=73295",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:21:35 Tập 274 (Chương 1580 - 1584)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=76539",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:15:39 Tập 275 (Chương 1585 - 1589)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=79617",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:06:57 Tập 276 (Chương 1590 - 1595)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=83025",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:03:45 Tập 277 (Chương 1596 - 1600)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=86241",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:57:21 Tập 278 (Chương 1601 - 1605)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=89473",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:51:13 Tập 279 (Chương 1606 - 1610)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=92704",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:45:04 Tập 280 (Chương 1611 - 1615)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=95763",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:36:03 Tập 281 (Chương 1616 - 1618)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=98821",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "27:27:01 Tập 282 (Chương 1619 - 1623)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=102180",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "28:23:00 Tập 283 (Chương 1624 - 1628)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=105539",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "29:18:59 Tập 284 (Chương 1629 - 1633)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=108758",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "30:12:38 Tập 285 (Chương 1634 - 1638)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=112105",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "31:08:25 Tập 286 (Chương 1639 - 1643)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=115452",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "32:04:12 Tập 287 (Chương 1644 - 1648)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=118861",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "33:01:01 Tập 288 (Chương 1649 - 1653)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=122428",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:00:28 Tập 289 (Chương 1654 - 1658)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=125484",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:51:24 Tập 290 (Chương 1659 - 1663)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=128893",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "35:48:13 Tập 291 (Chương 1664 - 1668)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=131974",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "36:39:34 Tập 292 (Chương 1669 - 1674)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=135364",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "37:36:04 Tập 293 (Chương 1675 - 1679)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=138383",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "38:26:23 Tập 294 (Chương 1680 - 1684)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=141539",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "39:18:59 Tập 295 (Chương 1685 - 1689)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=144819",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "40:13:39 Tập 296 (Chương 1690 - 1694)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=147839",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "41:03:59 Tập 297 (Chương 1695 - 1699)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=151054",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "41:57:34 Tập 298 (Chương 1700 - 1703)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=154155",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "42:49:15 Tập 299 (Chương 1704 - 1708)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Tập 251 (Chương 1465 - 1469)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=3339",
+    "title" : "00:55:39 Tập 252 (Chương 1470 - 1475)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=6679",
+    "title" : "01:51:19 Tập 253 (Chương 1476 - 1479)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=9835",
+    "title" : "02:43:55 Tập 254 (Chương 1481 - 1485)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=12921",
+    "title" : "03:35:21 Tập 255 (Chương 1486 - 1490)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=16098",
+    "title" : "04:28:18 Tập 256 (Chương 1491 - 1495)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=19348",
+    "title" : "05:22:28 Tập 257 (Chương 1496 - 1500)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=22604",
+    "title" : "06:16:44 Tập 258 (Chương 1501 - 1505)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=25838",
+    "title" : "07:10:38 Tập 259 (Chương 1506 - 1510)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=28987",
+    "title" : "08:03:07 Tập 260 (Chương 1511 - 1515)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=32197",
+    "title" : "08:56:37 Tập 261 (Chương 1516 - 1520)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=35366",
+    "title" : "09:49:26 Tập 262 (Chương 1521 - 1525)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=38564",
+    "title" : "10:42:44 Tập 263 (Chương 1526 - 1530)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=41582",
+    "title" : "11:33:02 Tập 264 (Chương 1531 - 1535)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=44537",
+    "title" : "12:22:17 Tập 265 (Chương 1536 - 1540)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=47550",
+    "title" : "13:12:30 Tập 266 (Chương 1541 - 1545)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=51043",
+    "title" : "14:10:43 Tập 267 (Chương 1546 - 1549)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=54490",
+    "title" : "15:08:10 Tập 268 (Chương 1550 - 1554)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=57761",
+    "title" : "16:02:41 Tập 269 (Chương 1555 - 1559)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=61096",
+    "title" : "16:58:16 Tập 270 (Chương 1560 - 1564)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=64196",
+    "title" : "17:49:56 Tập 271 (Chương 1565 - 1569)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=67200",
+    "title" : "18:40:00 Tập 272 (Chương 1570 - 1574)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=70259",
+    "title" : "19:30:59 Tập 273 (Chương 1575 - 1579)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=73295",
+    "title" : "20:21:35 Tập 274 (Chương 1580 - 1584)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=76539",
+    "title" : "21:15:39 Tập 275 (Chương 1585 - 1589)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=79617",
+    "title" : "22:06:57 Tập 276 (Chương 1590 - 1595)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=83025",
+    "title" : "23:03:45 Tập 277 (Chương 1596 - 1600)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=86241",
+    "title" : "23:57:21 Tập 278 (Chương 1601 - 1605)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=89473",
+    "title" : "24:51:13 Tập 279 (Chương 1606 - 1610)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=92704",
+    "title" : "25:45:04 Tập 280 (Chương 1611 - 1615)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=95763",
+    "title" : "26:36:03 Tập 281 (Chương 1616 - 1618)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=98821",
+    "title" : "27:27:01 Tập 282 (Chương 1619 - 1623)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=102180",
+    "title" : "28:23:00 Tập 283 (Chương 1624 - 1628)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=105539",
+    "title" : "29:18:59 Tập 284 (Chương 1629 - 1633)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=108758",
+    "title" : "30:12:38 Tập 285 (Chương 1634 - 1638)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=112105",
+    "title" : "31:08:25 Tập 286 (Chương 1639 - 1643)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=115452",
+    "title" : "32:04:12 Tập 287 (Chương 1644 - 1648)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=118861",
+    "title" : "33:01:01 Tập 288 (Chương 1649 - 1653)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=122428",
+    "title" : "34:00:28 Tập 289 (Chương 1654 - 1658)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=125484",
+    "title" : "34:51:24 Tập 290 (Chương 1659 - 1663)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=128893",
+    "title" : "35:48:13 Tập 291 (Chương 1664 - 1668)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=131974",
+    "title" : "36:39:34 Tập 292 (Chương 1669 - 1674)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=135364",
+    "title" : "37:36:04 Tập 293 (Chương 1675 - 1679)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=138383",
+    "title" : "38:26:23 Tập 294 (Chương 1680 - 1684)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=141539",
+    "title" : "39:18:59 Tập 295 (Chương 1685 - 1689)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=144819",
+    "title" : "40:13:39 Tập 296 (Chương 1690 - 1694)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=147839",
+    "title" : "41:03:59 Tập 297 (Chương 1695 - 1699)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=151054",
+    "title" : "41:57:34 Tập 298 (Chương 1700 - 1703)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13457-pham-nhan-tu-tien-chi-tien-gioi-thien-phan-6-thuviensach.vn.mp3?t=154155",
+    "title" : "42:49:15 Tập 299 (Chương 1704 - 1708)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

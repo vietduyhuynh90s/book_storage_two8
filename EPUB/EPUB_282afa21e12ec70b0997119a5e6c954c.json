@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tuyen-tap-truyen-thieu-nhi-pham-ho-13582.html",
+    "title" : "TUYỂN TẬP TRUYỆN THIẾU NHI PHẠM HỔ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phạm Hổ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>\"Nếu tôi có chiếc đũa thầ Nếu chúng ta có chiếc đũa thầ Thực ra đây không chỉ là cách nói. Vì chiếc đũa thần còn tim đâu khác ngoài trái tim khối óc và hai bàn tay của tất cả chúng ta. Miễn là chúng ta cùng đồng tâm nhất trí sống và làm việc cho các em! Tất cả vì các em!\" Nhà văn Phạm Hổ “Những truyện hay viết cho thiếu nhi - Phạm Hổ” tuyển chọn những truyện đặc sắc viết cho thiếu nhi của nhà văn Phạm Hổ: “Bê và Sáo”, “Chú bé Người và ông trăng”, “Ngựa thần từ đâu đến”, “Bầu trời đêm trăng non”, “Em bé và rồng con”, “Ngôi đền đỏ”, “Cây bánh tét của người cô”, “Từ một cây bút của anh tôi”…</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_282afa21e12ec70b0997119a5e6c954c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_282afa21e12ec70b0997119a5e6c954c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Chú Bé Người Và Ông Trăng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=473",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:07:53 Cây Một Quả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=975",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:16:15 Cất Nhà Giữa Hồ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=1759",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:29:19 Chú Sẻ Con Và Bông Hoa Bằng Lăng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=2015",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:33:35 Ngôi Đền Đỏ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=2376",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:39:36 Ngựa Thần Từ Đâu Đến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=3123",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:52:03 Những Bàn Tay Nhiều Ngón",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=3425",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:57:05 Những Thanh Gươm Xanh",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Chú Bé Người Và Ông Trăng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=473",
+    "title" : "00:07:53 Cây Một Quả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=975",
+    "title" : "00:16:15 Cất Nhà Giữa Hồ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=1759",
+    "title" : "00:29:19 Chú Sẻ Con Và Bông Hoa Bằng Lăng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=2015",
+    "title" : "00:33:35 Ngôi Đền Đỏ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=2376",
+    "title" : "00:39:36 Ngựa Thần Từ Đâu Đến",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=3123",
+    "title" : "00:52:03 Những Bàn Tay Nhiều Ngón",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13582-tuyen-tap-truyen-thieu-nhi-pham-ho-thuviensach.vn.mp3?t=3425",
+    "title" : "00:57:05 Những Thanh Gươm Xanh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

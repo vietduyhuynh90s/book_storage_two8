@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thiet-lap-tinh-do-137.html",
+    "title" : "THIẾT LẬP TỊNH ĐỘ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Bụt tại mười phương. 3 Tịnh nhiễm do tâm. 7 Khổ vui tương tức. 14 Diệu dụng pháp thân. 25 Tích môn bản môn... 30 Đạo tràng lý tưởng... 34 Gió chim thuyết pháp... 41 Tạo lập Tịnh Độ.. 48 Nắm lấy danh hiệu.. 53 Đã về đã tới... 63 Hoa sen chín phẩm.. 69 Thiền tịnh không hai.. 77 Gạn đục khơi trong.. 83 Ba nguồn năng lượng. 95 Kinh A Di Đà... 97</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_37f3809fdc31e8e804a4b7a22f7eb72f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_37f3809fdc31e8e804a4b7a22f7eb72f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Bụt Tại Mười Phương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=1535",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:25:35 Khổ Vui Tương Tức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=3508",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:58:28 Diệu Dụng Pháp Thân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=4801",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:20:01 Đạo Tràng Lý Tưởng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=5859",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:37:39 Gió Chim Thuyết Phát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=7643",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:07:23 Nắm Lấy Danh Hiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=9273",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:34:33 Đã Về Đã Tới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=10172",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:49:32 Hoa Sen Chín Phẩm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=12240",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:24:00 Gạn Đục Khơi Trong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=14180",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:56:20 Ba Nguồn Năng Lượng",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Bụt Tại Mười Phương",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=1535",
+    "title" : "00:25:35 Khổ Vui Tương Tức",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=3508",
+    "title" : "00:58:28 Diệu Dụng Pháp Thân",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=4801",
+    "title" : "01:20:01 Đạo Tràng Lý Tưởng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=5859",
+    "title" : "01:37:39 Gió Chim Thuyết Phát",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=7643",
+    "title" : "02:07:23 Nắm Lấy Danh Hiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=9273",
+    "title" : "02:34:33 Đã Về Đã Tới",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=10172",
+    "title" : "02:49:32 Hoa Sen Chín Phẩm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=12240",
+    "title" : "03:24:00 Gạn Đục Khơi Trong",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/137-thiet-lap-tinh-do-thuviensach.vn.mp3?t=14180",
+    "title" : "03:56:20 Ba Nguồn Năng Lượng",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mot-linh-hon-nho-ve-hiroshima-1205.html",
+    "title" : "MỘT LINH HỒN NHỚ VỀ HIROSHIMA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dolores Cannon",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một lần Dolores gặp một phụ nữ đặc biệt. Thôi miên hồi quy của Dolores có thể đưa cô trở lại 25 kiếp sống, đầu mỗi kiếp cách nhau 100 năm. Tính cách người phụ nữ trong mỗi kiếp sống đều khác biệt nhau và điều đó rất đáng chú ý để Dolores khám phá lịch sử và cuộc sống trong những khoảng thời gian khác nhau. Bà đã viết hai cuốn sách dựa trên kết quả với thân chủ này. Cuốn đầu tiên ‘Một linh hồn nhớ về Hiroshima’ (A Soul Remember Hiroshima) (1993), về cuộc đời của người đàn ông Nhật trải nghiệm cuộc sống ở Hiroshima năm 1945 khi quả bom nguyên tử được thả xuống thành phố. Cuốn thứ hai là ‘Chúa Giê-su và những người Essenes’ (1992) (Jesus and the Essenes - Essene là một trong 3 tông phái lớn của Do Thái giáo mà Giê-su từng theo thời tuổi trẻ), tả cuộc đời của một chàng trai là thầy pháp trong phái Essenes của Giê-su. Nhiều sự thật về bản thân, tính cách, xuất thân, cuộc sống và thời gian Giê-su sống được tiết lộ trong cuốn sách này, đồng thời cuốn sách cũng tiết lộ mối quan hệ cá nhân của người thân chủ khi đó với Giê-su.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_ca176dd4adce67481213a5d030c4d242.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_ca176dd4adce67481213a5d030c4d242.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1205-mot-linh-hon-nho-ve-hiroshima-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1205-mot-linh-hon-nho-ve-hiroshima-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

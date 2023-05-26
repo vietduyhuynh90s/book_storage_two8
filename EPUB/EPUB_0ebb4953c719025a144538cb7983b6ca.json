@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-nguoi-thanh-cong-nhat-lam-gi-truoc-bua-sang-13524.html",
+    "title" : "NHỮNG NGƯỜI THÀNH CÔNG NHẤT LÀM GÌ TRƯỚC BỮA SÁNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Laura Vanderkam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bí quyết tận dụng thời gian hiệu quả của những cá nhân kiệt xuất Ai trong chúng ta cũng đều mong muốn sẽ thành công. Thế nhưng dù khao khát đó có mãnh liệt đến mấy, việc thay đổi thói quen cố hữu - một phương pháp hiệu quả để bước gần tới thành công - cũng là một nhiệm vụ thực sự khó khăn. Thật may mắn vì Laura Vanderkam đã mang tới cho chúng ta một giải pháp: thay vì phải sắp xếp lại toàn bộ cuộc sống của mình, bạn có thể thành công chỉ bằng việc thay đổi vài thói quen mỗi sáng. Nghe có vẻ là một lời đề nghị rất hấp dẫn phải không? Tôi tin rằng mỗi sự thay đổi đều có thể khiến bạn đạt được những thành công không ngờ tới. Chỉ cần dành vài phút mỗi sáng để suy nghĩ, sắp xếp những việc mình cần làm trong ngày trước khi phần còn lại của thế giới thức dậy, bạn có thể biến ngày làm việc của mình trở nên hiệu quả và tràn ngập năng lượng. Hãy luôn khẳng định với bản thân rằng mỗi ngày mới sẽ là một chuyến phiêu lưu kỳ thú đáng để bạn khám phá.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_0ebb4953c719025a144538cb7983b6ca.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_0ebb4953c719025a144538cb7983b6ca.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13524-nhung-nguoi-thanh-cong-nhat-lam-gi-truoc-bua-sang-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13524-nhung-nguoi-thanh-cong-nhat-lam-gi-truoc-bua-sang-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

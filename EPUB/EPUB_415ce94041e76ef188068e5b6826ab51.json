@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/lao-tu-dao-duc-kinh-291.html",
+    "title" : "LÃO TỬ ĐẠO ĐỨC KINH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Duy Cần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chương 1 Đạo khả đạo, phi thường đạo Danh khả danh, phi thường danh. Vô danh thiên địa chi thu ỷ Hữu danh v ạn v ật chi mẫu. Cố, thường vô dục, dĩ quan kì diệu Thường hữu dục, dĩ quan kì hiếu, Thử lưỡng gi ả, đồng xuất nhi dị danh, Đồng vị chi Huyền. Huyền chi hựu Huyền, chúng diệu chi môn Chương 1 Đạo có thể gọi được, không phải là Đạo \"thường\" Danh có thể gọi được, không phải là danh \"thường\" Không tên là gốc của Trời Đất; Có tên là mẹ của vạn vật. Bởi vậy, thường không tư dục, mới nhận được chỗ huyền diệu của đạo; Thường bị tư dục nên chỉ thấy chỗ chia lìa của Đạo. Hai cái đó, đồng với nhau; cùng một gốc tên khác Đồng, nên gọi là Huyền. Huyền rồi lại Huyền, Đó là cửa vào ra của mọi huyền diệu trong Trời Đất</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_415ce94041e76ef188068e5b6826ab51.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_415ce94041e76ef188068e5b6826ab51.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/291-lao-tu-dao-duc-kinh-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/291-lao-tu-dao-duc-kinh-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

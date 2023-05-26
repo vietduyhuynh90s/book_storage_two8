@@ -1,0 +1,269 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/seneca-nhung-buc-thu-dao-duc-1765.html",
+    "title" : "SENECA - NHỮNG BỨC THƯ ĐẠO ĐỨC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lucius Annaeus Seneca",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>AI NÊN ĐỌC CUỐN SÁCH NÀY?</p><p></p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_efb003760eea20b3cd7aa4190fb32690.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_efb003760eea20b3cd7aa4190fb32690.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Bức Thư Số 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=255",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:04:15 Bức Thư Số 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=490",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:08:10 Bức Thư Số 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=718",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:11:58 Bức Thư Số 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=1098",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:18:18 Bức Thư Số 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=1435",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:23:55 Bức Thư Số 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=1708",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:28:28 Bức Thư Số 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=2181",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:36:21 Bức Thư Số 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=2549",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:42:29 Bức Thư Số 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=3375",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:56:15 Bức Thư Số 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=3640",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:00:40 Bức Thư Số 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=4018",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:06:58 Bức Thư Số 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=4532",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:15:32 Bức Thư Số 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=5276",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:27:56 Bức Thư Số 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=6038",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:40:38 Bức Thư Số 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=6558",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:49:18 Bức Thư Số 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=6941",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:55:41 Bức Thư Số 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=7433",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:03:53 Bức Thư Số 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=8030",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:13:50 Bức Thư Số 19 -44",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Bức Thư Số 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=255",
+    "title" : "00:04:15 Bức Thư Số 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=490",
+    "title" : "00:08:10 Bức Thư Số 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=718",
+    "title" : "00:11:58 Bức Thư Số 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=1098",
+    "title" : "00:18:18 Bức Thư Số 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=1435",
+    "title" : "00:23:55 Bức Thư Số 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=1708",
+    "title" : "00:28:28 Bức Thư Số 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=2181",
+    "title" : "00:36:21 Bức Thư Số 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=2549",
+    "title" : "00:42:29 Bức Thư Số 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=3375",
+    "title" : "00:56:15 Bức Thư Số 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=3640",
+    "title" : "01:00:40 Bức Thư Số 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=4018",
+    "title" : "01:06:58 Bức Thư Số 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=4532",
+    "title" : "01:15:32 Bức Thư Số 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=5276",
+    "title" : "01:27:56 Bức Thư Số 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=6038",
+    "title" : "01:40:38 Bức Thư Số 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=6558",
+    "title" : "01:49:18 Bức Thư Số 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=6941",
+    "title" : "01:55:41 Bức Thư Số 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=7433",
+    "title" : "02:03:53 Bức Thư Số 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1765-seneca-nhung-buc-thu-dao-duc-thuviensach.vn.mp3?t=8030",
+    "title" : "02:13:50 Bức Thư Số 19 -44",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

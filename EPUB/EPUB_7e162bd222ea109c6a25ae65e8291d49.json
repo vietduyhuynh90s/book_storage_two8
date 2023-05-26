@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/gay-kim-cang-het-tap-2-1747.html",
+    "title" : "GẬY KIM CANG HÉT - TẬP 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tuyên Hóa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>\"1.Hỏi: Trong Thánh Kinh, Mã Thái Phúc Âm của Đạo Tin Lành có viết: Đến năm 2000 Tây lịch thì sẽ là ngày tận thế, lúc đó mọi người đều bị thẩm phán. Không biết Sư Phụ thấy thế nào về chuyện này? Đáp: Bất cứ lúc nào cũng đều là ngày thẩm phán và tận thế cả. 2. Hỏi: Đa số người Hồng Kông hiện đang hoang mang về tiền đồ tương lai của họ. Hòa Thượng có thể nào làm cho họ yên tâm không? Đáp: Vì tương lai tiền đồ thì chẳng bằng vì hậu đồ. Họ nên lo nghĩ về những chuyện mình đã làm trong quá khứ hơn là lo nghĩ về chuyện tương lai. Bởi phía sau có gì thì phía trước có nấy, phía trước có gì thì phía sau cũng sẽ có nấy. Thiên hạ vốn là vô sự, nhưng kẻ tầm thường thì tự chuốt lấy lo âu cho mình. Có đức sẽ gặp lành còn không có đức sẽ bị tai họa.\" - Trích đoạn -</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_7e162bd222ea109c6a25ae65e8291d49.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_7e162bd222ea109c6a25ae65e8291d49.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1747-gay-kim-cang-het-tap-2-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1747-gay-kim-cang-het-tap-2-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

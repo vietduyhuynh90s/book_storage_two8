@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/noi-voi-tre-ve-chu-de-kho-1103.html",
+    "title" : "NÓI VỚI TRẺ VỀ CHỦ ĐỀ KHÓ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nancy Schulman",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Khi con chào đời, cuộc sống của bạn sẽ thay đổi ngoài sức tưởng tượng. Làm cha mẹ, bạn sẽ phải đối mặt với biết bao thử thách khác nhau trong những hoàn cảnh khác nhau. Khi bé còn ẵm ngửa, lúc nào bạn cũng phải có mặt để đáp ứng các nhu cầu hàng ngày của con. Bạn phải biết nhận ra khi nào bé đói, bé mệt, bé muốn đi tè, hoặc khi nào bé cần được ôm ấp, vỗ về. Mọi nhu cầu của bản thân bạn trở thành thứ yếu sau khi sinh linh nhỏ bé này ra đời... Khi bé lớn dần lên, vai trò của bạn cũng dần thay đổi. Lớn lên, bé bắt đầu biết nhận thức và khám phá thế giới xung quanh, điều đó sẽ mang đến cho bạn những thử thách khác nhau. Bé có những cảm xúc nhất định, và bạn phải luôn để mắt tới những nguy cơ tiềm ẩn có thể xảy ra... Bạn đặt ra ranh giới kỷ luật với con bằng cách nào? Làm thể nào để trẻ biết chấp nhận bị từ chối? Bạn trả lời thế nào khi con hỏi: \"Con được sinh ra từ đâu?\" Giải thích như thế nào cho con về \"cái chết\", chuyện \"ly hôn\",...? Bạn sẽ tổ chức kỳ nghỉ như thế nào cho phù hợp với con trẻ? Cuốn sách này sẽ mang lại cho bạn những lời tư vấn thiết thực nhất!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_81e73fea1021a53c132f8e8a6dbc0c18.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_81e73fea1021a53c132f8e8a6dbc0c18.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1103-noi-voi-tre-ve-chu-de-kho-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1103-noi-voi-tre-ve-chu-de-kho-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/em-phai-den-harvard-hoc-kinh-te-1380.html",
+    "title" : "EM PHẢI ĐẾN HARVARD HỌC KINH TẾ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lưu Vệ Hoa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một giọt mực có thể làm vạn người suy nghĩ Một cuốn sách hay có thể thay đổi số phận biết bao người! Lord Byron (1878 - 1824) Ngay sau khi Em phải đến Harvard học kinh tế được công bố, bà Lưu Vệ Hoa và ông Trương Hán Vũ, ba mẹ của em Lưu Diệc Đình nhận được hàng nghìn các cú điện thoại và hàng vạn bức thư hỏi về cách thức nuôi dạy Lưu Diệc Đình, đồng thời đề nghị cho biết tại sao Trường Đại học Harvard lại coi trọng “khả năng nổi trội và năng lực tổng hợp” đến như vậy. Thậm chí có một Công ty lớn ở Thẩm Quyến còn “fax” cho họ đề nghị sau khi tốt nghiệp, Lưu Diệc Đình sẽ đến Công ty đó làm việc… Không thể trả lời hết các câu hỏi và những bức thư, bà Lưu Vệ Hoa đã cùng chồng là Trương Hân Vũ viết cuốn sách “Em nhất định sẽ học ở Harvard” mà bạn đang có trong tay, kể tỉ mỉ về quá trình nuôi dạy con của mình, do Tác gia Xuất bản xã ấn hành năm 2001, số lượng in tới 1 triệu 60 nghìn bản, chỉ trong vòng 1 năm tái bản với 32 lần. Em phải đến Harvard học kinh tế cung cấp cho chúng ta một ví dụ sinh động về con đường giáo dục các “thần đồng”. Cuốn sách Em phải đến Harvard học kinh tế đã tuân thủ chặt chẽ các nguyên tắc giáo dục của Carl Winter “Đối với sự trưởng thành của con trẻ, vấn đề tối quan trọng là ở giáo dục, chứ không phải ở tư chất. Trẻ em cuối cùng trở thành thiên tài hay người thường, không phải di tư chất thông minh nhiều hay ít quyết định, mà điểm mấu chốt là ở việc giáo dục trẻ từ lúc mới sinh cho tới 5 - 6 tuổi”. Các nhà giáo dục, các bậc cha mẹ hãy kịp thời nắm lấy giai đoạn phát triển tối quan trọng này, đừng để nó trôi đi không hình không bóng! Hãy ra sức làm cho trẻ trở thành chính nó ngay từ mốc “số 0”!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_5e7d10a2a6776b3f37f8c00a5ee0008a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_5e7d10a2a6776b3f37f8c00a5ee0008a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1380-em-phai-den-harvard-hoc-kinh-te-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1380-em-phai-den-harvard-hoc-kinh-te-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

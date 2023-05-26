@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/9-bi-quyet-van-dung-luat-hap-dan-de-thay-doi-van-menh-cuoc-doi-299.html",
+    "title" : "9 BÍ QUYẾT VẬN DỤNG LUẬT HẤP DẪN ĐỂ THAY ĐỔI VẬN MỆNH CUỘC ĐỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Pam Grout",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>LỜI TỰA Hồi nhỏ, đã có lần tôi hỏi giáo viên môn giáo lý ngày Chủ nhật rằng, tại sao những điều kỳ diệu chỉ xuất hiện ở Kinh thánh mà không phải là một phần trong cuộc sống hằng ngày của chúng ta. Cô đã không trả lời được câu hỏi của tôi và từ đó, tôi dần tin rằng Chúa trời, nhà thờ và những điều về tôn giáo không phù hợp và chẳng tồn tại trong cuộc sống của tôi (mặc dù tôi chưa bao giờ ngừng mong đợi một điều gì đó). Tôi đã từ bỏ thuyết tâm linh để theo đuổi khoa học, lĩnh vực mà ít ra cũng giúp tôi giải thích được thế giới vận hành như thế nào. Vì thế, cuốn sách của Pam Grout đã mang đến cho tôi một điều thú vị, khiến những người hay hoài nghi như tôi thỏa mãn được những kỳ vọng về vấn đề tâm linh. Tác giả đã cho thấy (theo cách đầy thú vị, hài hước và dễ hiểu) rằng năng lượng, quyền lực và những điều kỳ diệu đều hiện hữu ở đây, bây giờ và cho tất cả mọi người. Những ý tưởng và thử nghiệm trong cuốn sách này đã giúp tôi “tóm” được (theo đúng nghĩa đen của từ này) nhiều chỉ dẫn mà những người giảng đạo đã nói từ hàng ngàn năm nay. Cuốn sách này rất phù hợp với những bạn đọc đang mong muốn tìm hiểu những ý tưởng tâm linh và cách áp dụng những ý tưởng đó vào cuộc sống của bản thân, thậm chí cả với những người luôn hoài nghi về các tôn giáo như tôi. Như tác giả đã chỉ ra, huấn luyện tâm trí cũng giống như huấn luyện một chú chó con. Bạn phải đưa nó ra ngoài trời và chỉ cho nó thấy những điều đẹp đẽ, hùng vĩ và cả thực tế nữa. Qua những dẫn dắt giản đơn và đầy hứng khởi, tác giả đã giúp người đọc nhận thức được rằng điều kỳ diệu có thể xảy ra và luôn tồn tại một nguồn năng lượng kỳ diệu trong mỗi chúng ta. - Tiến sĩ Joyce Barrett, nguyên là nhà nghiên cứu sinh học của NASA</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_3e0918c29581174575372e15955a6be0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_3e0918c29581174575372e15955a6be0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/299-9-bi-quyet-van-dung-luat-hap-dan-de-thay-doi-van-menh-cuoc-doi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/299-9-bi-quyet-van-dung-luat-hap-dan-de-thay-doi-van-menh-cuoc-doi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

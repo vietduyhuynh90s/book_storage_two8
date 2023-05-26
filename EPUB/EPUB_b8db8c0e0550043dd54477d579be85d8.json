@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/loi-ngo-tu-coi-tam-linh-60.html",
+    "title" : "LỜI NGỎ TỪ CÕI TÂM LINH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Brian L. Weiss",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC Lời tựa Chương một. Sự khởi đầu Chương hai. Vòng luân hồi Chương ba. Tái sinh Chương bốn. Tạo nên mối quan hệ đầy yêu thương Chương năm. Chuyển hóa những chướng ngại thành niềm vui và hạnh phúc Chương sáu. Sự thấu hiểu chữa lành mọi vết thương Chương bảy. Yêu thương và lòng từ Chương tám. Từ bỏ bạo lực và thù hận Chương chín. Đi tìm nguồn ánh sáng Chương mười. Người thầy thuốc Chương mười một. Các bậc thầy Chương mười hai. Siêu linh và đồng cốt Chương mười ba. Lời nhắn gởi lạ thường Chương mười bốn. Vượt qua chính mình Chương mười lăm. Thượng đế và tôn giáo Chương mười sáu. Tìm đường về nhà</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_b8db8c0e0550043dd54477d579be85d8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_b8db8c0e0550043dd54477d579be85d8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/60-loi-ngo-tu-coi-tam-linh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/60-loi-ngo-tu-coi-tam-linh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

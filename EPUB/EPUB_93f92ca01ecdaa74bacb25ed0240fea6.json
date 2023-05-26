@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bo-di-ma-song-400.html",
+    "title" : "BƠ ĐI MÀ SỐNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mèo Xù",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Phần 1 Nếu Không Đẹp Thì Hãy Thơm Phần 2-Nơi Bình Yên Nhất Là Nhà Phần 3 - Rồi Ai Cũng Bận S ống Cuộc Đời Người Ta Phần 4 - Tôi Chọn Lạc Quan 1. Đừng bận tâm tới người luôn vô tâm với mình... Vì điều đó sẽ khiến bản thân mình bị tổn thương... 2. Đừng suy diễn... Vì cuộc đời ngoài kia vốn đã đủ bao khó khăn bão gió, thế nên hãy để tâm can mình được thảnh thơi... 3. Đừng tự trách... Vì trách móc không thay đổi được sự gì trên đời, có chăng chỉ khiến thời gian bị mất đi một cách hoài phí... 4. Đừng mất niềm tin ở bản thân mình... Vì niềm tin là điều bao dung nhất, cho dù có thất bại bao nhiêu lần thì niềm tin vẫn sẽ mỉm cười, cho ta thêm cơ hội để thay đổi. 5. Đừng, đừng bao giờ mất niềm tin ở bản thân mình... Vì niềm tin là điều thủy chung nhất không bao giờ phản bội, sẽ luôn kiên nhẫn ở bên cạnh ngay cả khi mình chẳng còn gì cả. 6. Đừng, nhất định đừng bao giờ mất niềm tin ở bản thân mình. 7. Mãi mãi đừng bao giờ mất niềm tin ở bản thân mình. 8...9...10...1000... Vạn lần cũng ĐỪNG MẤT NIỀM TIN Ở BẢN THÂN MÌNH!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_93f92ca01ecdaa74bacb25ed0240fea6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_93f92ca01ecdaa74bacb25ed0240fea6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/400-bo-di-ma-song-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/400-bo-di-ma-song-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

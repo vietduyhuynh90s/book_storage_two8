@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tam-thuc-cua-nguyen-tu-282.html",
+    "title" : "TÂM THỨC CỦA NGUYÊN TỬ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alice Bailey",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>L?I NĨI Ð?U Các bài trần thuyết trình bày nơi đây được đưa ra tại New York vào khoảng mùa đông năm qua. Mục đích của loạt bài này là để trình bày với thính giả các bằng chứng của khoa học về sự liên quan của vật chất và của tâm thức; để giúp cho thính giả quan sát được sự biểu lộ giống nhau của các mối liên hệ này và của một số định luật căn bản theo các trạng thái hiện tồn lần lượt cao hơn, và như thế, mang lại cho thính giả một nhận thức về tính phổ cập của diễn trình tiến hóa và tính chất có thực của nó; và để bàn đến phần nào bản chất của các trạng thái tâm thức được khai mở và sự sống mở rộng mà toàn thể nhân loại đang hướng đến. Như vậy, các bài này được dự định dùng như là một mở đầu cho việc nghiên cứu tỉ mỉ hơn cùng với việc áp dụng các định luật của sự sống và sự phát triển của con người nói chung bao gồm trong thuật ngữ “huyền linh học” (“occultism”). Người ta cũng thấy trong loạt bài này có sự lặp lại khá nhiều, vì mỗi bài thuyết trình ôn lại ngắn gọn các vấn đề đã được nói đến trong các bài trước. Với tư cách là kẻ mới đến dự ở mỗi buổi trong loạt thuyết trình nói trên, người ta sẽ thấy là trước mỗi lần trình bày, cần có bảng tóm tắt về đề tài đã được nói đến và các lý do khiến cho người ta có lập trường đó. Thêm một cái lợi nữa là việc lặp lại như thế sẽ giúp ghi sâu vào trí của thính giả, mà đối với nhiều người, một số trong các ý niệm căn bản này hãy còn là mới mẻ, giúp cho họ hiểu được và dễ dàng tiếp thu khi chủ đề được mở rộng thêm. Khi trình bày các bài thuyết trình dưới hình thức sách vở thì người ta cho rằng làm thế là khôn ngoan vì nhờ thế, toàn bộ các bài giảng sẽ được giữ lại đầy đủ. Những ai đã từng là các nhà nghiên cứu minh triết nội môn sẽ có thể noi theo đường lối biện luận của các bài thuyết giảng này không chút khó khăn. Tuy nhiên, đối với những ai lần đầu tiên tiến đến việc nghiên cứu các vấn đề được bàn ở đây thì việc thỉnh thoảng lặp lại các điểm căn bản có thể giúp cho họ dễ hiểu hơn, và quyển sách này trước tiên được dành cho hạng độc giả này vậy. ALICE A. BAILEY</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_5baa747e30a6a8400800420833d828bf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_5baa747e30a6a8400800420833d828bf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/282-tam-thuc-cua-nguyen-tu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/282-tam-thuc-cua-nguyen-tu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

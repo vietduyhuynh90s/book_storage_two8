@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/lanh-dao-ban-hang-chuyen-nghiep-13484.html",
+    "title" : "LÃNH ĐẠO BÁN HÀNG CHUYÊN NGHIỆP",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Eith Rosen",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lãnh đạo bán hàng chuyên nghiệp là kết quả của việc tìm hiểu vòng quanh thế giới mười năm của tác giả nhằm khám phá cách khơi ngòi tạo ra những thành tựu chưa từng có của con người bằng cách phát triển những người lãnh đạo khổng lồ. Cuốn sách Lãnh đạo bán hàng chuyên nghiệp sẽ hỗ trợ thêm cho bạn trong hành trình trở thành một nhà lãnh đạo ưu tú và một huấn luyện viên tiên phong bởi nó đã được thêm vào những câu chuyện từ khắp nơi trên thế giới. Thực tế, bạn sẽ rất vui mừng khi biết rằng cuốn sách này và khuôn khổ huấn luyện L.E.A.D.S đã được sửa đổi, sẽ cho phép mọi quản lí bận rộn nhưng cẩn thận có những cuộc trò chuyện huấn luyện hiệu quả trong mười phút hoặc ít hơn! Lãnh Đạo Bán Hàng Chuyên Nghiệp - Bí Mật Để Xây Dựng Đội Nhóm Bán Hàng Chiến Thắng Trong cuốn sách đặc biệt này, bạn sẽ học cách làm chủ khả năng: Thúc đẩy doanh số mạnh mẽ, năng suất, hiệu quả, cũng như các cơ hội bán chéo và tăng giá Cải thiện độ chính xác dự báo, đạt được mục tiêu kinh doanh, giành được doanh số nhanh hơn và giữ được nhiều khách hàng hơn Giảm khối lượng công việc của bạn và tiết kiệm hơn 20 giờ mỗi tuần cho các hoạt động lãng phí, không hiệu quả Tự tin, cải thiện việc quay vòng kém hiệu quả trong 30 ngày hoặc ít hơn Đánh giá sự sẵn sang của công ty và đảm bảo thực hiện một sáng kiến huấn luyện bền vững, thành công để tạo ra một nơi làm việc lành mạnh, hạnh phúc và văn hóa hiệu suất hàng đầu Tạo sự liên kết nhóm và thay đổi chiến lược để cải thiện doanh số hàng ngày. Dù có đang ở vị trí nào, có kinh nghiệm ra sao, làm ngành nghề gì thì việc thực hiện các chiến lược xuyên suốt trong cuốn sách này vẫn sẽ khiến bạn trở thành một phần của thế hệ lãnh đạo tiếp theo, những người làm nên những điều đáng chú ý, xây dựng đội nhóm \"bất khả chiến bại\" để vươn tới những mục tiêu mới.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_1fa31e93d2d0d5cb2a59f6f54478e044.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_1fa31e93d2d0d5cb2a59f6f54478e044.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13484-lanh-dao-ban-hang-chuyen-nghiep-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13484-lanh-dao-ban-hang-chuyen-nghiep-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
