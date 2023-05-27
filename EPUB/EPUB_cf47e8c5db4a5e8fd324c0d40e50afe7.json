@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/10-loi-day-quy-hon-vang-cua-duc-khong-tu-se-thay-doi-cuoc-doi-ban-13887.html",
+    "title" : "10 LỜI DẠY QUÝ HƠN VÀNG CỦA ĐỨC KHỔNG TỬ SẼ THAY ĐỔI CUỘC ĐỜI BẠN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Khổng Tử là nhà tư tưởng, nhà triết học, nhà giáo dục và chính trị nổi tiếng của Trung Hoa. Triết học của ông nhấn mạnh trên sự tu dưỡng đức hạnh cá nhân và cai trị bằng đạo đức: \"Tu thân, tề gia, trị quốc, bình thiên hạ\". Chính vì thế mà các bài giảng và lời dạy của ông có ảnh hưởng sâu rộng tới đời sống và tư tưởng của các dân tộc Đông Á. Những chân lý giản dị của Khổng Tử đi vào lòng người một cách tự nhiên như xuất phát từ chính tiếng gọi bên trong tâm tưởng mỗi người. Dù thời gian trôi qua bao nhiêu năm, thế giới có biến chuyển thế nào, thì những giá trị tinh túy nhất của Khổng Tử vẫn luôn tồn tại theo năm tháng. Giọng đọc: Hằng Nga</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_cf47e8c5db4a5e8fd324c0d40e50afe7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_cf47e8c5db4a5e8fd324c0d40e50afe7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13887-10-loi-day-quy-hon-vang-cua-duc-khong-tu-se-thay-doi-cuoc-doi-ban-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13887-10-loi-day-quy-hon-vang-cua-duc-khong-tu-se-thay-doi-cuoc-doi-ban-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/lang-nghe-4-loi-khuyen-cua-danh-y-hoa-da-ve-giac-ngu-13932.html",
+    "title" : "LẮNG NGHE 4 LỜI KHUYÊN CỦA DANH Y HOA ĐÀ VỀ GIẤC NGỦ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Ăn, ngủ, hít thở,… là những nhu cầu rất tự nhiên của con người. Ấy vậy mà ngày nay có khá nhiều bạn trẻ đang đi ngược lại những quy luật tự nhiên đó, thức khuya, nghiện đồ công nghệ, thường xuyên dùng đồ ăn nhanh, họ đang tự hủy hoại sức khỏe theo cách nhanh nhất có thể. Danh y Hoa Đà, trong suốt cuộc đời làm thầy thuốc của mình đã đúc kết ra bốn lời khuyên quý giá về giấc ngủ mà ai cũng cần lưu tâm. Hoa Đà vốn là một vị lương y nổi tiếng thời Đông Hán trong lịch sử Trung Hoa, được xem như thần y, cũng là một trong những ông tổ của Đông y, do đó cách trị bệnh của ông từ xưa đến nay luôn được nhiều người coi trọng. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_b1d90816b233f6965341313ca7562b21.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_b1d90816b233f6965341313ca7562b21.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13932-lang-nghe-4-loi-khuyen-cua-danh-y-hoa-da-ve-giac-ngu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13932-lang-nghe-4-loi-khuyen-cua-danh-y-hoa-da-ve-giac-ngu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

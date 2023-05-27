@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/phat-do-nguoi-huu-duyen-la-nhu-the-nao-13922.html",
+    "title" : "PHẬT ĐỘ NGƯỜI HỮU DUYÊN LÀ NHƯ THẾ NÀO?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Phật tổ có câu rằng: “Phật độ người hữu duyên”. Vậy rốt cuộc độ người “hữu duyên” là độ người như thế nào? Chữ Duyên trong nhà Phật nói lên toàn bộ mối tương duyên tương quan giữa mình và mọi người từ nhiều đời đến nay. Nếu không có duyên gặp nhau cũng không thân thích. Như vậy là sao? Ðúng là có duyên thì thiên lý ngộ, mà vô duyên thì đối diện bất tương phùng. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_1f3ce0d975f30a2e70a33fd7f3582aaf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_1f3ce0d975f30a2e70a33fd7f3582aaf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13922-phat-do-nguoi-huu-duyen-la-nhu-the-nao-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13922-phat-do-nguoi-huu-duyen-la-nhu-the-nao-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

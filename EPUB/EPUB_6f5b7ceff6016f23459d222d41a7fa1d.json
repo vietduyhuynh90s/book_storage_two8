@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/6-chan-ly-cua-hanh-phuc-tu-nhung-dieu-phat-day-13877.html",
+    "title" : "6 CHÂN LÝ CỦA HẠNH PHÚC TỪ NHỮNG ĐIỀU PHẬT DẠY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hãy thử tưởng tượng mà xem: Chuyến bay của bạn vừa bị delay và bạn phải ngồi chờ ở sân bay hàng giờ liền. Lúc này bạn thường có 2 dòng cảm xúc: chán nản, tức giận với việc phải chờ đợi, hoặc bạn có thêm thời gian nghỉ ngơi thay vì bị lắc lư trên một chuyến bay đông người, và điều đó khiến bạn hạnh phúc. Từ tình huống trên, chúng ta dễ nhận thấy bản chất của chuyến bay bị trễ chỉ có một nhưng lại có nhiều cách để ứng xử với nó. Không phải chuyến bay, mà cách bạn lựa chọn để đón nhận nó sẽ quyết định đến cảm xúc và sự hạnh phúc của bạn. Trong cuộc sống, sẽ có những hoàn cảnh khó khăn, bất lợi mà chúng ta không thể thay đổi, điều chúng ta có thể thay đổi chính là cách nhìn nhận vấn đề của bản thân. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_6f5b7ceff6016f23459d222d41a7fa1d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_6f5b7ceff6016f23459d222d41a7fa1d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13877-6-chan-ly-cua-hanh-phuc-tu-nhung-dieu-phat-day-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13877-6-chan-ly-cua-hanh-phuc-tu-nhung-dieu-phat-day-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

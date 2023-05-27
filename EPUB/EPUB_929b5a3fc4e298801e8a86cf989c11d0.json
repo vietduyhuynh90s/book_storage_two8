@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/17-triet-ly-cuoc-song-dat-gia-khien-ai-cung-phai-gat-gu-khen-dung-13902.html",
+    "title" : "17 TRIẾT LÝ CUỘC SỐNG ĐẮT GIÁ KHIẾN AI CŨNG PHẢI GẬT GÙ KHEN ĐÚNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Không quan trọng bạn phạm bao nhiêu sai lầm, hoặc bạn bước đi chậm chạp đến đâu, bạn vẫn chiến thắng những kẻ không bao giờ biết đến 2 từ “cố gắng” và mang một bộ óc “tự phụ”. Đừng quên cuối cùng rùa vẫn là người về đích trước thỏ nhé! Nếu bạn muốn có được những điều chưa bao giờ có, thì hãy làm điều chưa bao giờ làm. Cuộc sống của bạn sẽ mãi mãi đứng im một chỗ, nếu bản thân không chịu bước đi. Đừng bao giờ hối tiếc những gì xảy ra trong quá khứ, vì thời điểm ấy, đó chính xác là những gì bạn muốn. Mỗi điều đến và đi trong cuộc sống, nhất định sẽ cho bạn những bài học vô cùng đắt giá. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_929b5a3fc4e298801e8a86cf989c11d0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_929b5a3fc4e298801e8a86cf989c11d0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13902-17-triet-ly-cuoc-song-dat-gia-khien-ai-cung-phai-gat-gu-khen-dung-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13902-17-triet-ly-cuoc-song-dat-gia-khien-ai-cung-phai-gat-gu-khen-dung-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

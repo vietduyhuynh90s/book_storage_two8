@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/khi-lac-buoc-hay-lang-tham-suy-nghi-nhieu-viec-tren-doi-dau-dang-phai-ban-tam-13926.html",
+    "title" : "KHI LẠC BƯỚC HÃY LẶNG THẦM SUY NGHĨ, NHIỀU VIỆC TRÊN ĐỜI ĐÂU ĐÁNG PHẢI BẬN TÂM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lão Tử từng nói: “Con người sống trên đời chẳng thể vui vẻ quá 3 ngày”. Con người sống thật chẳng dễ dàng gì: sự phức tạp của xã hội, những trách nhiệm chẳng thể buông bỏ, những quan ải không dứt, sự bất lực chẳng thể vượt qua, ngày hôm nay bận rộn, chẳng kịp suy nghĩ tới ngày mai… Đây đều là những điều chúng ta phải đối mặt. Những khung cảnh mỹ hảo và nỗi thống khổ, những nỗi xót xa khi phải khoanh tay bất lực… Tuy nhiên, hãy lạc quan để làm nên cuộc đời hoàn mỹ của chúng ta. Đến một độ tuổi nào đó, hãy ngừng truy cầu những thứ hư ảo và giả dối. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_b8f9f8573b36cc33f0583694c8be90a7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_b8f9f8573b36cc33f0583694c8be90a7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13926-khi-lac-buoc-hay-lang-tham-suy-nghi-nhieu-viec-tren-doi-dau-dang-phai-ban-tam-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13926-khi-lac-buoc-hay-lang-tham-suy-nghi-nhieu-viec-tren-doi-dau-dang-phai-ban-tam-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

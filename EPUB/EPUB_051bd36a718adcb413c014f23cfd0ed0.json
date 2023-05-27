@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/loi-day-cua-khong-tu-tao-thao-giup-ban-biet-doi-nhan-xu-the-thay-doi-thai-do-song-13917.html",
+    "title" : "LỜI DẠY CỦA KHỔNG TỬ, TÀO THÁO GIÚP BẠN BIẾT ĐỐI NHÂN XỬ THẾ, THAY ĐỔI THÁI ĐỘ SỐNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Người xưa có câu: Học làm người trước, làm việc sau. Nhưng làm việc ra sao, học làm người như thế nào không phải là điều ai cũng biết. Con người hiện đại có cuộc sống vật chất đầy đủ, song đôi khi lại thiếu sự tinh tế trong đạo đối nhân xử thế. Khi ấy những bài học làm người của cổ nhân chính là cứu cánh cho chúng ta trong cuộc sống bộn bề này. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_051bd36a718adcb413c014f23cfd0ed0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_051bd36a718adcb413c014f23cfd0ed0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13917-loi-day-cua-khong-tu-tao-thao-giup-ban-biet-doi-nhan-xu-the-thay-doi-thai-do-song-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13917-loi-day-cua-khong-tu-tao-thao-giup-ban-biet-doi-nhan-xu-the-thay-doi-thai-do-song-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

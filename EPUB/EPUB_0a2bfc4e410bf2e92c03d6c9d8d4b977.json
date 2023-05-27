@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/10-chan-ly-song-tham-thuy-tu-dong-vat-ai-cung-nen-doc-mot-lan-trong-doi-13901.html",
+    "title" : "10 CHÂN LÝ SỐNG THÂM THÚY TỪ ĐỘNG VẬT AI CŨNG NÊN ĐỌC MỘT LẦN TRONG ĐỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một đám động vật đi du lịch, cuối cùng chỉ có ốc sên là trở về, bởi vì nó cõng cả một mái nhà trên người. Lời bình Trong mắt bạn, có thể đó chỉ là gánh nặng nhưng với người khác, đó có thể là ưu thế và sự đảm bảo lớn nhất. Vì thế, đừng vội vã yêu cầu người khác vứt bỏ trách nhiệm, gánh nặng trên vai, bởi làm như vậy, có thể bạn sẽ hại chết họ. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_0a2bfc4e410bf2e92c03d6c9d8d4b977.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_0a2bfc4e410bf2e92c03d6c9d8d4b977.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13901-10-chan-ly-song-tham-thuy-tu-dong-vat-ai-cung-nen-doc-mot-lan-trong-doi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13901-10-chan-ly-song-tham-thuy-tu-dong-vat-ai-cung-nen-doc-mot-lan-trong-doi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
