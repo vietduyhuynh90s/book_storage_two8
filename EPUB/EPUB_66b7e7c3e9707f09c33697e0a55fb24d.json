@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tam-gioi-toan-thu-quyen-2-1137.html",
+    "title" : "TAM GIỚI TOÀN THƯ - QUYỂN 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thủy Liên Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tam Giới Toàn Thư quyển 2 được hoàn tất vào dịp lễ Vu Lan năm 2016. Nhân dịp đặc biệt này, tác giả xin được gửi tặng kèm theo mỗi quyển một Linh Phù Bạch Liên Thanh Khí Trận Đồ giúp cho việc tinh luyện Thánh Thủy, nước năng lượng thanh khiết được thuận tiện. Người uống nước này, sẽ được xoa dịu và chữa lành các vết thương của thân tâm, phiền não tiêu tan, an lạc. Vì cuộc sống hiện tại có quá nhiều sự ô nhiễm, bệnh tật rình rập tấn công bất kỳ ai và bất kỳ lúc nào. Tác giả mong rằng, món quà nhỏ xuất phát từ tận sâu thẳm sự quý mến với quý bạn bè, anh chị em độc giả hữu duyên xem qua quyển sách này sẽ thực sự hữu ích cho mọi người. Người dùng nước năng lượng này, tùy vào niềm tin, tâm tình yêu quý trân trọng với thiên nhiên, muôn sinh quanh mình, sự tinh khiết của thân tâm khi ăn chay, nước Thánh Thủy sẽ có sự cảm ứng, diệu dụng khác nhau vậy. Giữa cuộc đời ta trao nhau tiếng cười Một mối duyên đan kết chốn trần gian Dù hữu ý hay vô tình cảm mến Trải tin yêu lặng lẽ trân trọng nhau... Lặng lẽ trân trọng trong sự tỉnh thức, an yên.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_66b7e7c3e9707f09c33697e0a55fb24d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_66b7e7c3e9707f09c33697e0a55fb24d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1137-tam-gioi-toan-thu-quyen-2-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1137-tam-gioi-toan-thu-quyen-2-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

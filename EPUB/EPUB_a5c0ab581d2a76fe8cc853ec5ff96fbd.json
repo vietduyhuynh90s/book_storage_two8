@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/sao-phai-buon-vi-nhung-dieu-da-cu-13951.html",
+    "title" : "SAO PHẢI BUỒN VÌ NHỮNG ĐIỀU ĐÃ CŨ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chào bạn ngày hôm nay của bạn như thế nào? Vui vẻ hay âu lo dù có thế nào thì cũng mong rằng bạn của ngày mai sẽ luôn là phiên bản tốt hơn bạn của hôm này nhé. Dù cho cuộc đời không vì nước mắt của bạn mà dịu dàng hơn, bão giông lại càng không vì những bước chân trốn chạy của bạn mà nhường cho mặt trời hửng nắng. Cuộc đời đâu phải một giấc ngủ, để sau một đêm dài với những cơn ác mộng, bình minh sẽ rạng phía đằng đông. Tất cả sẽ ổn thôi mãi chỉ là một lời trấn an vô nghĩa - nếu hôm nay bạn lựa chọn buông xuôi.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_a5c0ab581d2a76fe8cc853ec5ff96fbd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_a5c0ab581d2a76fe8cc853ec5ff96fbd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13951-sao-phai-buon-vi-nhung-dieu-da-cu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13951-sao-phai-buon-vi-nhung-dieu-da-cu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

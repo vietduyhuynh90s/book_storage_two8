@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dao-phat-qua-nhan-thuc-moi-100.html",
+    "title" : "ĐẠO PHẬT QUA NHẬN THỨC MỚI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Yếu Mục Lời giới thiệu. 3 Ðạo Phật là triết học hay là một tôn giáo?.. 4 Phật học với các môn học khác... 8 Vấn đề đức tin trong đạo Phật.. 14 Vấn đề chân lý trong đạo Phật.. 18 1. - Sự hiểu biết bằng hiện lượng. 18 2. - Sự hiểu biết bằng tỷ lượng.. 19 3. - Sự hiểu biết bằng thánh giáo lượng. 21 Vấn đề khổ vui trong đạo Phật. 24 Vấn đề giải thoát trong đạo Phật. 29 Vấn đề tâm vật trong đạo Phật. 34 Vấn đề linh hồn trong đạo Phật.. 39 Vấn đề nguyên nhân đầu tiên trong đạo Phật.. 44 Vấn đề nhân vị trong đạo Phật. 50 Lời giới thiệu Lâu nay, trên mặt báo chí, thỉnh thoảng thấy xuất hiện vài ba bài viết về đạo Phật. Có bài nói đúng mà cũng có bài chứa nhiều sai lạc, dễ làm lầm độc giả. Không phải chỉ đọc một vài quyển kinh sách mà gọi là đủ điều kiện để viết về đạo Phật. Tuy nhiên, nếu đã tự nhận là tu theo đạo Phật, mỗi Phật tử không thể không nên biết qua đại cương Phật học. Ðể giúp ích về phương diện này, và cũng để cho mọi người khỏi hiểu sai lạc vì những bài báo nói trên, thầy Thạc Ðức, giáo sư tại Phật Học Ðường Việt Nam, đã viết một loạt mười bài về đạo Phật trên báo Dân Chủ. Nay thể theo ý muốn của nhiều giáo hữu chưa đọc, hoặc đã đọc rồi mà muốn cho nhiều người khác cùng được đọc, chúng tôi đã góp nhặt những bài ấy và cho in ra thành sách, mong rằng lối trình bày sáng suốt và mạch lạc của tác giả sẽ giúp độc giả có một nhận thức rõ rệt về đạo Phật là một đạo đang chinh phục hàng trí thức Âu Mỹ, sau khi đã thấm nhuần tâm hồn người Châu Á. Viết tại Sài Gòn, ngày 20/1/57 Hội trưởng Hội Phật Học Nam Việt Cư sĩ Chánh Trí Mai Thọ Truyền</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_8a3879c51669b7d493fbe7791f5ac3a6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_8a3879c51669b7d493fbe7791f5ac3a6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/100-dao-phat-qua-nhan-thuc-moi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/100-dao-phat-qua-nhan-thuc-moi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

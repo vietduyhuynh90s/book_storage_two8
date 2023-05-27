@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hoa-tu-mieng-ma-ra-hay-luon-can-trong-voi-loi-noi-cua-minh-13930.html",
+    "title" : "HỌA TỪ MIỆNG MÀ RA - HÃY LUÔN CẨN TRỌNG VỚI LỜI NÓI CỦA MÌNH!",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Sở dĩ mật thành, ngôn dĩ lậu bại” chuyện thành do giữa bí mật, tiết lộ chuyện dễ gây thất bại. Đối với chuyện của người khác, tuyệt đối không được tiết lộ, đây chính là nhân phẩm và nguyên tắc làm người. Khi sự việc chưa chắc chắn cũng không nên nói những lời quả quyết, tránh tạo ảnh hưởng không tốt. Giọng đọc: Hằng Nga</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_7666dac25ca0e1e0699102875ee33535.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_7666dac25ca0e1e0699102875ee33535.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13930-hoa-tu-mieng-ma-ra-hay-luon-can-trong-voi-loi-noi-cua-minh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13930-hoa-tu-mieng-ma-ra-hay-luon-can-trong-voi-loi-noi-cua-minh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/9-loi-khuyen-quy-cua-gia-cat-luong-ve-tu-than-lap-chi-nen-ghi-nho-ca-doi-13904.html",
+    "title" : "9 LỜI KHUYÊN QUÝ CỦA GIA CÁT LƯỢNG VỀ ‘TU THÂN LẬP CHÍ’ NÊN GHI NHỚ CẢ ĐỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chúng ta biết câu cổ ngữ \"Vạn sự khởi đầu nan\", nhưng chính xác thì phải là câu \"Đại sự khởi đầu nan, tiểu sự khởi đầu dị\" của Gia Cát Lượng. Những việc nhỏ hầu như không phải chuẩn bị nhiều, mà làm liền đạt, dễ như trở bàn tay. Những việc lớn thì trái lại, sẽ gặp muôn vàn trắc trở. Khi chúng ta gặp khó khăn chồng chất, điều đó có nghĩa việc chúng ta đang làm ắt không phải việc nhỏ, nên cần hun đúc ý chí, kiên định bền lòng, đạp bằng khó khăn, vững bước tiến lên, mới có thể thành đại nghiệp. Hiểu được như vậy chúng ta sẽ không sợ khó khăn, coi khó khăn là cơ hội Trời cho để rèn ý chí, để thành tựu sự nghiệp mai sau. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_560635cc93db5dab978d1b221aed592f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_560635cc93db5dab978d1b221aed592f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13904-9-loi-khuyen-quy-cua-gia-cat-luong-ve-tu-than-lap-chi-nen-ghi-nho-ca-doi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13904-9-loi-khuyen-quy-cua-gia-cat-luong-ve-tu-than-lap-chi-nen-ghi-nho-ca-doi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

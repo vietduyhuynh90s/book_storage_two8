@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/coi-trung-gioi-261.html",
+    "title" : "CÕI TRUNG GIỚI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "C. W. Leadbeater",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>LỜI TỰA LỜI GIỚI THIỆU SỰ PHÁT TRIỂN KHÔNG NGỜ HUẤN LUYỆN TÂM LINH CHƯƠNG I QUAN SÁT TỔNG QUÁT CHƯƠNG II QUANG CẢNH CÕI TRUNG GIỚI CHƯƠNG III CƯ DÂN CÕI TRUNG GIỚI A. NHÂN LOẠI a) NGƯỜI CÒN GIỮ XÁC THÂN 1. Chân Sư và những đệ tử 2. Người đã phát triển khả năng tâm linh, nhưng chưa được Chân Sư hướng dẫn. 3. Người bình thường. 4. Nhà hắc thuật và đệ tử của họ. b) NGƯỜI KHÔNG CÒN GIỮ XÁC THÂN 1. Vị Ứng Thân (Nirmanakaya). 2. Đệ tử chờ tái sinh. 3. Người bình thường sau khi chết. 4. U Hồn (The shade) 5. Ma hình (The shell) 6. Ma hình được làm sinh động (Vitalized shell) 7. Người tự tử và ngưòi chết bất thần. 8. Ma cà rồng và ma sói (Vampire and Werewolf) 9. Người ở thế giới xám (The man in the Grey World) 10. Nhà hắc thuật và đệ tử của họ B. KHÔNG THUỘC NHÂN LOẠI 1. Loài tinh hoa chất thuộc đường tiến hóa của chúng ta (The Elemental Essence belonging to our own evolution) 2. Thể vía của loài thú 3. Loài tinh linh thiên nhiên 4. Các Thiên Thần (The Devas) C. NHÂN TẠO 1. Loài tinh linh do vô ý tạo ra 2. Loài tinh linh do cố ý tạo ra 3. Con người nhân tạo CHƯƠNG IV NHỮNG HIỆN TƯỢNG A. HIỆN TƯỢNG MA 1. Ma ở nghĩa địa 2. Người đang hấp hối hiện hình 3. Những nơi bị ma ám open in browser PRO version Are you a developer? Try out the HTML to PDF API pdfcrowd.com 4. Ma trong gia đình 5. Rung chuông, liệng đá, v.v… B. TINH LINH VÀ CÁC THỰC THỂ LIÊN LẠC 1. Các nàng tiên (Fairies) 2. Các thực thể liên lạc (Communicating entities) C. SỬ DỤNG NĂNG LỰC CÕI TRUNG GIỚI 1. Sự hiểu biết về năng lực và rung động 2. Nhãn Thông 3. Tiên tri và nhãn quan thứ hai 4. Năng lực cõi trung giới (Astral forces) 5. Sự phân tán vật thể (Disintegration) 6. Sự hiện hình (Materialiazation) 7. Chụp ảnh bóng ma 8. Nhân đôi vật thể (Reduplication) 9. Sự kết tụ (Precipitation) 10. Viết lên bảng đá (Slate-writing) 11. Thuật khinh thân (Levitation) 12. Ánh sáng ma (Spirit lights) 13. Nắm lửa trong tay (Handling fire) 14. Biến chất (Transmutation) 15. Sự phản hưởng (Repercussion) CHƯƠNG V KẾT LUẬN</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_26068bc28d4fefec10a1a208531c8577.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_26068bc28d4fefec10a1a208531c8577.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/261-coi-trung-gioi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/261-coi-trung-gioi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

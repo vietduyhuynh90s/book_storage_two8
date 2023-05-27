@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nguoi-cu-di-roi-thuong-nhieu-cung-chi-den-the-thoi-13955.html",
+    "title" : "NGƯỜI CŨ ĐI RỒI, THƯƠNG NHIỀU CŨNG CHỈ ĐẾN THẾ THÔI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Người rời đi không có lỗi, lỗi là ở mình khi còn thương. Có một nỗi buồn mang tên người cũ Có một nỗi đau là người từng thương Nhưng mà nỗi đau nhất không phải người dưng từng thương mà là còn thương người cũ. Người cũ đi, dại gì ta ở lại. Không thể cùng nhau tiếp tục thì coi như “nợ” đã trả cho nhau hết. Thương cũng được, dù gì cũng là người thương, không thương cũng được vì nỗi đau dặn mình như thế. Không cùng nhau, nhưng lâu lâu nhớ nhau cũng được, nhớ nhau như nhớ về một khoảng thời gian bên nhau vui, buồn có đủ. Nhưng mà nhớ, mà thương cũng chỉ đến thế thôi, đừng vì nhau mà làm tổn thương người sau. Nợ đã hết thì còn duyên, nhưng dù duyên có còn cũng đừng làm người sau phải khổ vì mình nữa. Kí ức đã chỉ còn là mảnh ghép mờ nhạt, chạm khẽ thôi là sẽ tan biến. Hoặc giữ gìn thật kĩ, hoặc để nó nhấn chìm trong vòng xoáy trầm luân. Người đã cũ thì vẫn là cũ, dù thương rất nhiều nhưng chỉ nhận lại những đắng cay. Có lẽ nên từ bỏ, hoặc vẫn thương người ấy của sau này. Quá khứ ấy đơn giản là cơn mưa mùa hạ, dạo đầu cho những tiếng lòng lần đầu được gọi tên. Người cũ còn thương, đã sớm hoá hoài niệm thanh xuân, vẳng về trong những thanh âm mùa hạ, khi cơn mưa rào ướt cả con đường ấy... Giọng đọc: Hà Diễm Thực hiện: Hằng Nga Thiết kế: Hương Giang</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_9a18212324551e202e299dc127d9a4b6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_9a18212324551e202e299dc127d9a4b6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13955-nguoi-cu-di-roi-thuong-nhieu-cung-chi-den-the-thoi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13955-nguoi-cu-di-roi-thuong-nhieu-cung-chi-den-the-thoi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
