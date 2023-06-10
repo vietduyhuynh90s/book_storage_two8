@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/gap-lai-anh-tren-thien-duong-13998.html",
+    "title" : "GẶP LẠI ANH TRÊN THIÊN ĐƯỜNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Audio8X",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-10",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_8dac035b567bfbf55319c2d67bc40edf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_8dac035b567bfbf55319c2d67bc40edf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13998-gap-lai-anh-tren-thien-duong-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Gặp Lại Anh Trên Thiên Đường (Phần 1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13998-gap-lai-anh-tren-thien-duong-thuviensach.vn.mp3?t=753",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:12:33 Gặp Lại Anh Trên Thiên Đường (Phần 2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13998-gap-lai-anh-tren-thien-duong-thuviensach.vn.mp3?t=1254",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:20:54 Gặp Lại Anh Trên Thiên Đường (Phần 3)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13998-gap-lai-anh-tren-thien-duong-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Gặp Lại Anh Trên Thiên Đường (Phần 1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13998-gap-lai-anh-tren-thien-duong-thuviensach.vn.mp3?t=753",
+    "title" : "00:12:33 Gặp Lại Anh Trên Thiên Đường (Phần 2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13998-gap-lai-anh-tren-thien-duong-thuviensach.vn.mp3?t=1254",
+    "title" : "00:20:54 Gặp Lại Anh Trên Thiên Đường (Phần 3)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
