@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doi-du-nu-1006.html",
+    "title" : "ĐỜI DU NỮ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ihara Saikaku",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nhân vật trung tâm trong tiểu thuyết này là một du nữ và đây là câu chuyện của thân xác nàng. Đó là một thân xác liên kết mọi biến cố trong đời nàng và vì vậy trở nên một thân xác “có tính cách”. Tuy tên thật của nhân vật không hề được nêu lên, nhưng nàng là nhân vật tiểu thuyết được tạo dựng sinh động nhất của Saikaku, một chân dung mang nhiều màu sắc hiện thực tâm lý nhất của văn học Nhật Bản đương thời. “Nghe lời đồn, ta tìm đến hỏi thăm Người phụ nữ xinh đẹp nơi kinh thành Hỏi chuyện xưa để được nghe người kể Một cuộc đời chìm đắm trong cõi phù sinh.” Năm 1952, tác phẩm được đạo diễn nổi tiếng Kenji Mizoguchi chuyển thể thành bộ phim điện ảnh The Life of Oharu, đạt được Giải thưởng Quốc tế tại Liên hoan phim Quốc tế Venice và nằm trong danh sách đề cử Giải Sư Tử Vàng. “Cuộc đời du nữ không còn là bức tranh nhuộm sắc tươi hồng mà đã được bộc lộ toàn vẹn bởi chủ nghĩa hiện thực, ở nơi bạc tiền làm chủ cuộc chơi và chất mong manh làm nhẹ đi dục vọng.” (Ivan Morris) “Những gì Saikaku sáng tạo vào cuối thế kỷ XVII giữa một xứ Phù Tang đóng kín đến nay vẫn còn tràn đầy một niềm vui sống say nồng. Con người thời đại, cho dù ở xa Nhật Bản, vẫn tìm thấy hình bóng mình trong các tác phẩm của Saikaku, cả vẻ đẹp lẫn thói xấu, cả sắc lẫn tình, cả chơi đùa và bán buôn, cả trang trọng và khôi hài. Và nhất là đọc ông, ta chợt nhận ra thế gian quanh ta đa tình biết mấy!” (Nhật Chiêu)</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_cb60c2126bacb0363ee704a889375f71.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_cb60c2126bacb0363ee704a889375f71.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1006-doi-du-nu-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Đời Du Nữ - Chương 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1006-doi-du-nu-thuviensach.vn.mp3?t=2159",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:35:59 Đời Du Nữ - Chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1006-doi-du-nu-thuviensach.vn.mp3?t=3630",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:00:30 Đời Du Nữ - Chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1006-doi-du-nu-thuviensach.vn.mp3?t=5480",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:31:20 Đời Du Nữ - Chương 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1006-doi-du-nu-thuviensach.vn.mp3?t=7117",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:58:37 Đời Du Nữ - Chương 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1006-doi-du-nu-thuviensach.vn.mp3?t=8660",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:24:20 Đời Du Nữ - Chương 6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1006-doi-du-nu-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Đời Du Nữ - Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1006-doi-du-nu-thuviensach.vn.mp3?t=2159",
+    "title" : "00:35:59 Đời Du Nữ - Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1006-doi-du-nu-thuviensach.vn.mp3?t=3630",
+    "title" : "01:00:30 Đời Du Nữ - Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1006-doi-du-nu-thuviensach.vn.mp3?t=5480",
+    "title" : "01:31:20 Đời Du Nữ - Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1006-doi-du-nu-thuviensach.vn.mp3?t=7117",
+    "title" : "01:58:37 Đời Du Nữ - Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1006-doi-du-nu-thuviensach.vn.mp3?t=8660",
+    "title" : "02:24:20 Đời Du Nữ - Chương 6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nghe-thuat-noi-truoc-cong-chung-11066.html",
+    "title" : "NGHỆ THUẬT NÓI TRƯỚC CÔNG CHÚNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dale Carnegie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bạn có một ý tưởng rất hay nhưng không thể trình bày với sếp của mình? Bạn rất yêu một cô gái nhưng không biết tỏ tình làm sao? Bạn muốn xin một sự giúp đỡ? Rất nhiều tình huống trong cuộc sống mà khả năng trình bày của bạn có thể cứu sống chính bạn. Theo nghiên cứu thì con người ta còn sợ thuyết trình trước đám đông hơn là sợ chết? Người ta thà chết con hơn phải là đứng trước đám đông. Đơn giản vì bạn có thể nghĩ mọi người đang dò xét bạn. Bạn không tốt chỗ này, không tốt chỗ kia. Một tỉ câu chuyện cổ tích mà bạn có thể tự vẽ ra. Mà bạn quên mất một điều rằng mọi thứ đều có chiến lược, phương pháp để làm nó. Trong cuốn sách này tác giả sẽ chỉ cho bạn các bước chi tiết để có thể tạo ra một bài thuyết trình ấn tượng, mở ra nhiều cơ hội cho bạn. Giúp bạn quy phục lòng người, chinh phục thành công. Dale Carnegie sẽ chỉ cho bạn cách làm thế nào để: - Phát huy tính tự chủ - Lấy lại tự tin - Tăng cường trí nhớ - Bắt đầu và kết thúc một bài nói - Hấp dẫn và lôi cuốn người nghe - Hoàn thiện phong cách diễn đạt Nghệ Thuật Nói Trước Công Chúng: Đưa ra nhiều cách có giá trị thực tiễn trong việc cảm hóa những người đóng vai trò quan trọng trong cuộc sống của bạn như: Bạn bè, khách hàng, đồng nghiệp và cấp trên của bạn... Những kiến thức trong cuốn sách này đã được hơn một triệu học sinh các khóa học Dale Carnegie nổi tiếng thế giới đào tạo \"nghệ thuật nói trước công chúng\" và đã sử dụng thành công. Đây là cuốn sách cho tất cả những ai muốn tiến lên phía trước. Như những gì tác giả đã thể hiện trong cuốn sách, các kỹ xảo giúp bạn vượt qua sự e ngại khán giả, sẽ giúp bạn trong mọi tình huống trong cuộc sống.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_7d08aff41756ca22061f12db19f34674.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_7d08aff41756ca22061f12db19f34674.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/11066-nghe-thuat-noi-truoc-cong-chung-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/11066-nghe-thuat-noi-truoc-cong-chung-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

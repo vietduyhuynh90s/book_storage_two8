@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/vong-luan-hoi-288.html",
+    "title" : "VÒNG LUÂN HỒI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "H. K. Challoner",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chú giải mở đầu cho Ấn bản thứ nhất của Cyril Scott Tôi cảm thấy tác giả của quyển Các Vị Cai Quản Bảy Cõi (Regents of the Seven Spheres) chỉ cần một ít lời giới thiệu của tôi; tuy nhiên, tôi được yêu cầu viết một vài nhận xét mở đầu về chủ đích chính của quyển sách mới này. Trong tác phẩm trước đây, các minh họa về tương lai được các Thiên Thần (Devas) tạo ấn tượng; còn “Vòng Luân Hồi” đặc biệt bàn nhiều về quá khứ, liên quan đến chân lý căn bản của huyền linh học, tức Thuyết Nghiệp Quả và Luân Hồi, mà chỉ có một mình thuyết đó mới giải thích được các bất bình đẳng về cá tính và số phận con người một cách hợp lý nhất. Tuy nhiên mặc dù là đạo sinh huyền linh học và thậm chí người thế tục đi nữa, cũng đều có thể chấp nhận các triết lý này như các sự kiện hiển nhiên, chúng thường gây bối rối về căn nguyên đối với các tác động của chúng. Thực ra các nguyên nhân đặc biệt gì đã tạo ra các hậu quả đặc biệt đó? Tại sao cái quả đặc biệt này lại xảy đến do cái nhân đặc biệt nọ? Các giải bày về vấn đề này sẽ được tìm thấy trong kho tàng minh triết thiêng liêng (theosophical literature). Hiện nay, lần đầu tiên, có nhiều điều bí ẩn và rắc rối luôn luôn nảy sinh liên quan với ý tưởng về sự luân hồi, gây hoang mang cho tâm trí của các tư tưởng gia đủ hạng, và được giải đáp một cách rõ ràng. Nhờ được sự hướng dẫn thích hợp, tâm thức cao của tác giả được hồi cố trở lại qua một loạt các kiếp sống đã được mô tả với sự sống động của kinh nghiệm hiện tại và được chỉ ra cho thấy mối liên hệ đích thực của chúng với nhau về nhân và quả. Một số trong các kiếp sống này, có thể nói đã diễn ra rất tàn khốc, hãi hùng, đáng để ý nhất là những kiếp sống nào được mô tả là có các thực hành về ma thuật (black magic). Nhưng ở đây tôi xin nhắc độc giả nhớ rằng nhiều nhà trước tác ở lĩnh vực huyền linh học thực ra có hàm ý cho thấy rằng lòng can đảm và sức mạnh của ý chí, dù theo các đường lối sai trái, cũng có thể có sức mạnh đáng kể đối với điều thiện khi được đổi thành việc phụng sự vị tha cho nhân loại dưới sự dẫn dắt của các Huấn sư. Còn những ai, qua suốt các kiếp sống của mình, do thiếu quyền biến (initiative) ngay cả đối với tội lỗi đi nữa, cũng có thể trở thành thiếu các tính chất đáp ứng, chính các tính chất này sẽ làm cho họ trở thành những kẻ đồng cộng tác (Co-workers) dũng cảm với các Đấng Cao Cả. Tóm lại, đây là một quyển sách có thể được xem như sự sống của Từng Cá Nhân (Everyman), và nếu các tội lỗi cùng với các sai hỏng thuộc kiếp trước của cá nhân đó được tiết lộ một cách trung thực, thì tiềm năng mở ra từ lúc người đó đặt chân lên Thánh Đạo được chỉ rõ bởi nhân vật có thẩm quyền về kinh nghiệm cá nhân đã nói ra</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_8bfe23550f65be886d69cca8c9f4ee92.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_8bfe23550f65be886d69cca8c9f4ee92.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/288-vong-luan-hoi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/288-vong-luan-hoi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

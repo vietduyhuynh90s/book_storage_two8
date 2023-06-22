@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/le-hoi-dan-gian-mien-nam-14038.html",
+    "title" : "LỄ HỘI DÂN GIAN MIỀN NAM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sơn Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong công cuộc đổi mới, mở cửa nền kinh tế, việc bảo tồn và phát huy vốn quý của các di sản văn hoá tinh thần của dân tộc ta đang là vấn đề hết sức bức thiết. Và cuốn Đình miếu và lễ hội dân gian miền Nam của nhà văn, nhà khảo cứu Sơn Nam góp phần giới thiệu những di sản văn hoá tinh thần trên vùng đất Nam Bộ góp thêm tư liệu cho các nhà nghiên cứu trong khi nghiên cứu về văn hoá dân gian Nam Bộ. Đồng thời, sách cũng là tài liệu tham khảo bổ ích cho đối tượng độc giả trong nước cũng như kiều bào nước ngoài khi muốn tìm hiểu về truyền thống văn hoá của dân tộc Việt Nam.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_ca850297277e41fb9b89e2566af75957.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_ca850297277e41fb9b89e2566af75957.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14038-le-hoi-dan-gian-mien-nam-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14038-le-hoi-dan-gian-mien-nam-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

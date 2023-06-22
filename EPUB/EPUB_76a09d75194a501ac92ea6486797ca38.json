@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ba-nguoi-linh-ngu-lam-8150.html",
+    "title" : "BA NGƯỜI LÍNH NGỰ LÂM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alexandre Dumas",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Ba chàng lính ngự lâm là tiểu thuyết của nhà văn người Pháp Alexandre Dumas, là cuốn đầu tiên của bộ ba tập truyện gồm Les Trois Mousquetaires, Vingt Ans après (Hai mươi năm sau), và Le Vicomte de Bragelonne (Tử tước de Bragelonne). Bộ tiểu thuyết kể về những cuộc phiêu lưu của chàng lính ngự lâm d'Artagnan, từ lúc anh còn trẻ cho đến lúc già. Ba người lính ngự lâm là cuốn nổi tiếng nhất, đã được dựng thành phim truyền hình, phim hoạt hình. Câu chuyện hấp dẫn người đọc bởi các tình tiết ly kỳ, cảm giác hồi hộp và bất ngờ thú vị. Tác phẩm không chỉ tái hiện cả một thời kỳ lịch sử nước Pháp mà còn làm sống dậy cả một thời tuổi trẻ hoạt động sôi nổi, hào hứng với những tình cảm trong sáng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_76a09d75194a501ac92ea6486797ca38.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_76a09d75194a501ac92ea6486797ca38.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8150-ba-nguoi-linh-ngu-lam-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Ba Người Lính Ngự Lâm - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8150-ba-nguoi-linh-ngu-lam-thuviensach.vn.mp3?t=24503",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:48:23 Ba Người Lính Ngự Lâm - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8150-ba-nguoi-linh-ngu-lam-thuviensach.vn.mp3?t=48443",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:27:23 Ba Người Lính Ngự Lâm - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8150-ba-nguoi-linh-ngu-lam-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Ba Người Lính Ngự Lâm - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8150-ba-nguoi-linh-ngu-lam-thuviensach.vn.mp3?t=24503",
+    "title" : "06:48:23 Ba Người Lính Ngự Lâm - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8150-ba-nguoi-linh-ngu-lam-thuviensach.vn.mp3?t=48443",
+    "title" : "13:27:23 Ba Người Lính Ngự Lâm - Phần 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

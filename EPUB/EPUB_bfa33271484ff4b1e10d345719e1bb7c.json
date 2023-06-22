@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dinh-duong-chua-benh-trai-cay-1097.html",
+    "title" : "DINH DƯỠNG CHỮA BỆNH - TRÁI CÂY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Susan Curtis",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Việc cân bằng dinh dưỡng cho cơ thể mỗi người là điều thiết yếu, đặc biệt đối với Trái cây - rau - củ - quả tươi là điều không thể bỏ qua. Vì những thực phẩm chúng ta ăn hàng ngày không chỉ ảnh hưởng đến sức khỏe thể chất, mà còn tác động đến trạng thái lành mạnh về cảm xúc, tinh thần. Nhận thức rõ về chế độ dinh dưỡng đang áp dụng và đặc tính chữa bệnh của các loại thực phẩm sẽ giúp bạn có những điều chỉnh cần thiết để đáp ứng nhu cấu cơ thể, tạo nên sự thay đổi kỳ diệu nhằm duy trì và cải thiện tình trạng sức khỏe. Chính vì vậy cuốn sách Dinh Dưỡng Chữa Bệnh Trái Cây do Susan Curtis & Pat Thomas & Dragana Vilinac biên soạn thực sự cần thiết cho các bạn tham khảo, giúp các bạn lựa chọn được các loại trái cây phù hợp với đặc tính cơ thể và những lợi điểm mà chúng mang lại. Những loại thực phẩm, trái cây chữa bệnh này luôn là nguồn dinh dưỡng tự nhiên dồi dào nhất và chứa những bài thuốc quý đối với cơ thể con người, đặc biệt đối với các chị em phụ nữ thì đây còn là nguồn thực phẩm làm đẹp quan trọng. Vì vậy, một chế độ ăn uống khoa học và an toàn thì rau xanh và các loại hoa quả là nguồn thực phẩm không thể thiếu.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_bfa33271484ff4b1e10d345719e1bb7c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_bfa33271484ff4b1e10d345719e1bb7c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1097-dinh-duong-chua-benh-bang-trai-cay-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Hãy Tận Dụng Những Đặc Tính Kỳ Diệu Từ Các Loại Thực Phẩm Để Đem Lại Lợi Ích Cho Sức Khỏe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1097-dinh-duong-chua-benh-bang-trai-cay-thuviensach.vn.mp3?t=3073",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:51:13 Nam Việt Quất (Cranberries)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1097-dinh-duong-chua-benh-bang-trai-cay-thuviensach.vn.mp3?t=4366",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:12:46 Chuối - Giúp Xương Chắc Khỏe",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1097-dinh-duong-chua-benh-bang-trai-cay-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Hãy Tận Dụng Những Đặc Tính Kỳ Diệu Từ Các Loại Thực Phẩm Để Đem Lại Lợi Ích Cho Sức Khỏe",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1097-dinh-duong-chua-benh-bang-trai-cay-thuviensach.vn.mp3?t=3073",
+    "title" : "00:51:13 Nam Việt Quất (Cranberries)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1097-dinh-duong-chua-benh-bang-trai-cay-thuviensach.vn.mp3?t=4366",
+    "title" : "01:12:46 Chuối - Giúp Xương Chắc Khỏe",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

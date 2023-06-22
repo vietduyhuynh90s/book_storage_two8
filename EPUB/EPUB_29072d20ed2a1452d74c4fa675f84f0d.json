@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hoi-the-14040.html",
+    "title" : "HỘI THỀ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Quang Thân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Sau chiến thắng lẫy lừng tại Xương Giang, vòng vây Đông Quan của nghĩa quân Lam Sơn càng được siết chặt. Quân Minh trong thành như cá nằm trên thớt. Thay vì tiếp tục nạn can qua giữa đôi bên, Lê Lợi đã chủ động cho Tổng binh Vương Thông ra hàng, mở Hội thề Đông Quan lịch sử, đất nước từ đây sạch bóng quân thù trong gần 400 năm. Không phải là một cuốn sách kể truyện lịch sử đơn thuần, Hội thề đem đến cho độc giả góc nhìn mới, kiến giải mới về những nhân vật cách đây sáu thế kỷ: Lê Lợi anh hùng cái thế, nhà lãnh đạo xuất sắc nhưng trong thâm tâm ông mãi là một hào trưởng chân chất xứ Mường. Phạm Vấn, Lê Sát, Lê Ngân xông pha trận mạc, kiêu dũng có thừa song lại hiếu sát, mưu quyền đoạt lợi. Trần Nguyên Hãn là một mưu sĩ hết lòng vì nước tuy nhiên vẫn ngấm ngầm nhúng tay vào việc tranh ngôi Thái tử, hay Nguyễn Trãi và Nguyễn Thị Lộ phải kìm nén tình yêu trong thời bão lửa dù được nhà vui ưu ái hết lòng… Không khô khan và hào hùng như những gì ta vẫn liên tưởng về lịch sử, Hội thề đã vẽ nên những bức chân dung sinh động về tiền nhân. Họ hiện lên trước mắt chúng ta không phải những hình tượng điển phạm về cá nhân anh hùng lịch sử mà rất “người” với hỉ nộ ái ố, với tham vọng toan tính và cả những ham muốn trần trụi nhất. Qua chân dung từng nhân vật, Hội thề khắc hoạ cuộc xung đột gay gắt về danh lợi ngay giữa lòng nghĩa quân Lam Sơn trong những ngày cuối của cuộc khởi nghĩa, nỗi dằn vặt thể xác lẫn tinh thần của người chủ soái trước khi đưa ra quyết định lịch sử, tình yêu cùng đức hy sinh vì chồng vì con của người phụ nữ, và hơn cả là số phận của người trí thức trước guồng quay của thời cuộc.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_29072d20ed2a1452d74c4fa675f84f0d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_29072d20ed2a1452d74c4fa675f84f0d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14040-hoi-the-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14040-hoi-the-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

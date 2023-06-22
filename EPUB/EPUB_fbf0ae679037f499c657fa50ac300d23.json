@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mua-thu-la-bay-7828.html",
+    "title" : "MÙA THU LÁ BAY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quỳnh Dao",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một buổi chiều mùa đông tại thị xã Đài Bắc. Mẫn Vân Lâu thẫn thờ lê bước. Mưa rơi trên mái tóc, trên mặt, trên áo, thấm qua làn vải tê buốt thịt da. Những bước chân hoang bất định, chàng không muốn nghĩ đến bất cứ một cái gì! Những vũng nước dưới chân, những chiếc xe phóng vút qua, tiếng còi, tiếng người chửi rửa... Mặc, đầu óc chảng bây giờ là một khoảng trống tối mò! Gió rít bên tai, ánh đèn màu chói chang trước mắt... Tất cả đều vô nghĩa trước một bóng dáng, một... Mùa Thu Lá Bay Quỳnh Dao Mù</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_fbf0ae679037f499c657fa50ac300d23.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_fbf0ae679037f499c657fa50ac300d23.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7828-mua-thu-la-bay-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7828-mua-thu-la-bay-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

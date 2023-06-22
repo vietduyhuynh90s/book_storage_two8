@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mien-tay-14035.html",
+    "title" : "MIỀN TÂY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tô Hoài",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong làng văn học Việt Nam rất hiếm có nhà văn nào nhận được sự yêu thương, mến mộ từ nhiều thế hệ độc giả khác nhau như nhà văn Tô Hoài. Nếu các bạn nhỏ biết đến ông như một người bạn dí dỏm, đáng yêu qua kiệt tác Dế mèn phiêu lưu ký và series truyện ngộ nghĩnh về loài vật, thì độc giả lớn tuổi biết đến ông như một cây đại thụ của làng văn với nhiều tác phẩm đã trở thành những tượng đài bất tử như Vợ chồng A Phủ, Cứu đất cứu mường, Chuyện đầm sen đền Đồng Cổ… Bộ sách tập hợp những tuyệt phẩm để đời của Tô Hoài để tưởng nhớ một năm ngày Cụ trở về với cát bụi gồm 9 tác phẩm, bao gồm 4 tiểu thuyết, 3 truyện ngắn và 2 bút ký: Được viết năm 1965, Miền Tây là tác phẩm tiếp nối cho đề tài về vùng đất Tây Bắc “để thương để nhớ” cho Tô Hoài trong suốt cuộc đời cầm bút của mình. Tô Hoài đã dành cho cuốn tiểu thuyết những nét vẽ chân thật và sinh động nhất, với hình ảnh những người con đất Phiềng Sa tình nghĩa đã sống qua hết những vất vả, đau thương, đấu tranh và dựng xây. Khai thác nhiều tư liệu lịch sử, chính trị, quân sự, tác phẩm đã tạo nên những bức tranh đối lập xưa và nay trong cuộc sống, số phận con người Phiềng Sa. Ở đó, hình ảnh con người chưa bao giờ được tác giả tạo nên bằng bút pháp lí tưởng hóa, mà họ luôn chân thật và gần gũi, mang đầy đủ mặt tốt và mặt xấu của một con người bình thường trong đời sống. Chính vì thế, họ đã sống rất lâu và vững bền trong trái tim rất nhiều độc giả Việt.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_091cc1b6cc3d730e990f20facd16542b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_091cc1b6cc3d730e990f20facd16542b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14035-mien-tay-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14035-mien-tay-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

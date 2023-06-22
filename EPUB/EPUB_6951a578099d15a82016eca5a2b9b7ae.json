@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/do-nuong-nuong-bao-oan-2125.html",
+    "title" : "ĐỖ NƯƠNG NƯƠNG BÁO OÁN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thử lật Việt-Nam Quốc-Sử mà xem, chúng ta sẽ nhận thấy rõ-ràng cuộc thạnh-trị với cuộc loạn ly cứ tiếp mà diễn ra hoài hoài. Nếu người cầm-quyền hẫng-hờ để thất chánh thì tự-nhiên rối-rắm khắp mọi nơi. Nếu muốn non-nước được thanh-bình thì phải nhờ bực anh-hùng chí-sĩ có đại đức đại tài, thâu-phục dân tâm, hướng-dẫn quần-chúng, mới có thể đánh dẹp trong ngoài mà xây dựng an-ninh lại bá-tánh. Kìa như thuở xưa, sau một cơn bị trị kéo dài đến trót một ngàn năm, nước non nghiêng-ngửa, quốc-hồn lu-lờ, dân-chúng khóc than, cỏ cây khô héo. Trong thời-gian đau khổ ấy tuy có Trưng Nữ Vương, có Bà Tiệu-Ẩu, có Lý Nam-Đế, có Triệu Việt-Vương có Mai Hắc-Đế, có Khúc-Thừa Dũ lần-lượt nổi lên quyết ra tay bình-định sơn-hà và đem chủ-quyền quốc-gia về cho dân-tộc. Rất tiếc thay các đứng tiền-nhơn ấy có hào-khí chói-lòa, có hùng-tâm mãnh-liệt, nhưng chưa phải là người lật ngược thời-cuộc, bởi vậy công-nghiệp không thành-tựu được hoàn-toàn, chỉ lưu lại danh thơm chí cả cho hậu nhơn sùng-bái muôn đời mà thôi. Mãi đến thế-kỷ thứ 10, mới có Ngô-Quyền xuất-hiện, quét sạch ở trong, đánh dẹp ở ngoài, xây nền quốc-gia tự-chủ cho Việt-Nam rạng-rỡ ở góc trời Đông-Á. Non nước được hưởng thanh bình có 5 năm rồi Ngô-Vương lại băng. Người sau nối nghiệp lại không đủ tài đủ đức, để cho thất chánh đi, nên mới sanh phản loạn Thập-Nhị Sứ-Quân, làm lung-tung một lúc.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_6951a578099d15a82016eca5a2b9b7ae.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_6951a578099d15a82016eca5a2b9b7ae.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2125-do-nuong-nuong-bao-oan-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2125-do-nuong-nuong-bao-oan-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

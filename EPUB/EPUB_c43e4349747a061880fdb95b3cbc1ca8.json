@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dia-tang-vuong-bo-tat-bon-nguyen-kinh-9375.html",
+    "title" : "ĐỊA TẠNG VƯƠNG BỒ TÁT BỔN NGUYỆN KINH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kinh Phật",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Địa Tạng Vương Bồ Tát có hồng nguyện cứu độ tất cả chúng sinh trong lục đạo luân hồi vào thời kỳ sau khi Phật Thích Ca Mâu Ni nhập Niết Bàn cho đến khi Phật Di Lặc giáng thế. Ngài còn có nguyện không chứng Phật quả nếu địa ngục chưa trống không. Chắc hẳn đối với các bạn theo Phật pháp chắc chắn có ít nhất một lần nghe nhắc tới Địa Tạng Vương Bồ Tát. Vậy Địa Tạng Vương Bồ Tát là ai? Đây là một trong tứ đại Bồ Tát bao gồm Quan Thế Âm Bồ Tát, Phổ Hiền Bồ Tát và Văn Thù Sư Lợi Bồ Tát. Ngài dùng pháp lực và lòng từ bi của mình để phổ độ chúng sinh, cứu độ những người sa vào địa ngục. Người ta thường nói rằng Địa Tạng Vương xuất thế nhằm cứu giúp phàm trần, với mong muốn giúp mọi người đều được lên cõi Vĩnh Hằng. Địa Tạng Bồ Tát được mô tả là một tỳ kheo với vầng hào quang, một tay cầm tích trượng để mở cửa địa ngục, tay kia cầm ngọc Như Ý tượng trưng cho ánh sáng xua tan bóng đêm. Nguồn gốc tên gọi Địa Tạng Vương Bồ Tát Địa Tạng Vương Bồ Tát hay Địa Tạng Bồ Tát được phiên âm từ tiếng Phạn, danh xưng này toát lên lòng từ bi và nguyện lực vững vàng của ngài trên con đường tu Phật. Ngài mong muốn độ hóa chúng sinh và đưa con người thoát khỏi bể khổ địa ngục. Địa là dày chắc, Tạng là đủ chứa, Địa Tạng là sâu dày, đủ chứa muôn vàn khổ đau của sinh linh. Sức mạnh Địa Tạng Vương Bồ Tát Được tôn xưng là một trong tứ đại Bồ Tát với pháp lực vô biên, từ bi vô hạn. Ngài có khả năng phổ độ và cứu vớt chúng sinh. Sự tích nổi bật về ngài chính là lời nguyện cứu độ chúng sinh trong lục đạo luân hồi vào thời kỳ Phật Thích Ca Mâu Ni nhập Niết Bàn và trước khi Di Lặc Bồ Tát hạ sinh. Ngài là người có nhân duyên sâu nặng với chúng sinh, gánh trọng trách giáo chủ toàn cõi. Điều này đã chứng tỏ sức mạnh và đức độ của Ngài. Đại Tạng Vương Bồ Tát có lòng cảm hóa chúng sinh, từ bi cùng với phẩm chất đạo hạnh tu hành ít ai bì kịp ở cõi trần. Chỉ khi hội tụ các yếu tố này, mới có thể đứng ra thuyết giảng Phật pháp, dẫn dắt chúng sinh đến cõi Phật.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_c43e4349747a061880fdb95b3cbc1ca8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_c43e4349747a061880fdb95b3cbc1ca8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9375-dia-tang-vuong-bo-tat-bon-nguyen-kinh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9375-dia-tang-vuong-bo-tat-bon-nguyen-kinh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

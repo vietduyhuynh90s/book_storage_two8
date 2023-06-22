@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doa-hoa-tan-7840.html",
+    "title" : "ĐÓA HOA TÀN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nhằm tiết tháng sáu. Một buổi chiều, bầu trời sơn màu xanh lét, ngọn gió động lá phất phơ, gây ra cái không khí mát mẻ phi thường, làm cho cây cỏ tốt tươi, mà cũng làm cho con người khỏe khoắn. Trên khúc lộ Vĩnh Long xuống Trà Vinh ngang qua xóm Mê Phốp, là xóm nhà cửa đông đặc, cách chợ Vũng Liêm chừng ba ngàn thước, người đi đường qua lại dập dìu, lại người trong xóm cũng chòm nhom trên lề, kẻ đứng người ngồi mà hứng mát, nên cảnh xem có vẻ náo nhiệt, mà mặt người nào coi cũng có sắc hân hoan. Cái không khí mát mẻ khỏe khoắn ấy nó làm cho người ta đã vui vẻ mà lại hăng hái về nẻo lợi đường danh, bởi vậy trong nhà thầy Cai tổng Lê Thái Bình, ở dựa lộ, nhằm chánh giữa xóm Mê Phốp, có tiếng nói om sòm xen lộn với tiếng cười inh ỏi. Nhà nầy cất đã trên mười lăm năm rồi, ngói bị rong rêu đóng nên trỗ màu đen, tường bị nắng mưa táp hoá ra màu xám; nhưng mà nền đúc thật cao, cửa cuốn bán nguyệt, bên tay mặt có cất một cái lẫm lúa rộng lớn, bên tay trái có cất một cái nhà để xe ngựa, phía sau có cất nhà bếp sạch sẽ, phía trước có dọn một cái sân, trong sắp kiểng mấy hàng, ngoài trồng bông đủ thứ, giữa sân lại có trồng một cây huỳnh mai gốc lớn nhánh nhiều, hễ qua tiết xuân nó đơm bông vàng khè, chung quanh cuộc đất lại có trồng dừa bao vòng, làm cho thêm vẻ trù mật, bởi vậy ai đi ngang ngoài lộ dòm thấy cũng biết đó là chỗ ở của một người giàu có.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_fc37497600ecd1742debfe9b4dcd102c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_fc37497600ecd1742debfe9b4dcd102c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7840-doa-hoa-tan-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7840-doa-hoa-tan-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

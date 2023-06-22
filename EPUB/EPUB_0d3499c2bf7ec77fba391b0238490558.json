@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hang-dong-cua-cac-lat-ma-14013.html",
+    "title" : "HANG ĐỘNG CỦA CÁC LẠT MA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lobsang Rampa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Có rất nhiều người bị lạc lối trong những mê cung của sự khoác lác và bịa đặt. Quy luật của đời sống là đơn giản, vì vậy quả là vô ích khi bóp méo chúng dưới những tín ngưỡng thần bí hoặc những tôn giáo giả trá. Cuốn Hang Động Của Các Lạt Ma này là thành quả của cả một cuộc đời. T. Lobsang Rampa hăm hở đón nhận sự rèn luyện vừa lạ lẫm vừa kỳ bí với những năm tháng lặng lẽ trải qua trong những tu viện Lạt ma lớn nhất Tây Tạng. Và cũng từ đó, nhận được cả một thành quả của những quyền năng đạt được nhờ biết tuân thủ nghiêm ngặt giới luật. Những điều ấy chính là khoa học đã được giảng dạy bởi các tổ tiên chúng ta ngày trước, đã được ghi lại trong các khu kim tự tháp Ai Cập, trong những ngôi Đền lớn ở núi Andes và ở nơi lưu giữ những tri thức thuộc khoa học huyền bí quan trọng nhất: cao nguyên Tây Tạng. Độc giả sẽ cảm nhận một cách thích thú dường như chính mình đã vừa trải nghiệm qua những thời điểm và không gian đó sau khi đọc xong cuốn sách Hang Động Của Các Lạt Ma!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_0d3499c2bf7ec77fba391b0238490558.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_0d3499c2bf7ec77fba391b0238490558.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14013-hang-dong-cua-cac-lat-ma-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14013-hang-dong-cua-cac-lat-ma-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chuyen-ve-nhung-nguoi-co-don-14023.html",
+    "title" : "CHUYỆN VỀ NHỮNG NGƯỜI CÔ ĐƠN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hạ Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Cứ mở lòng với một người, bước vào một cuộc tình là xảy ra chuyện. Dù biết rằng không hạnh phúc nào dễ có, không bình yên nào là êm đềm, chẳng đánh đổi bao xót xa, nhưng dù họ có đánh đổi, cố gắng thế nào thì kết cục vẫn là sự chia ly và trở về với sự cô đơn. Thật đáng buồn! Vậy nên câu chuyện về những người cô đơn sẽ còn nữa… Vì trên thế giới này có rất nhiều những người cô đơn…”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_ff06f07b23fd7f5191cc4b99ee148be0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_ff06f07b23fd7f5191cc4b99ee148be0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14023-chuyen-ve-nhung-nguoi-co-don-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14023-chuyen-ve-nhung-nguoi-co-don-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
