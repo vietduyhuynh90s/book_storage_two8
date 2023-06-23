@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/noi-sao-cho-tre-chiu-hoc-o-nha-va-o-truong-14089.html",
+    "title" : "NÓI SAO CHO TRẺ CHỊU HỌC Ở NHÀ VÀ Ở TRƯỜNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Adele Faber",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bọn trẻ con bây giờ… - Bảo làm bài tập - khất lần rồi không chịu làm - Bảo không được thức khuya - chơi game đến 1h đêm - Bảo không được nói chuyện trong lớp - càng ồn ào hơn - Bảo không được cải cha mẹ, thầy cô - trả treo ngay lập tức… Đó chỉ là số ít trong rất nhiều hành động ương bướng mà trẻ cố tình làm để chống lại ý muốn của phụ huynh và giáo viên. Thế nhưng, tất cả những hành động ấy đều có nguyên do. Và việc của người lớn là tìm hiểu, lắng nghe những gì trẻ muốn nói. Khác với những quyển sách cùng đề tài. Nói sao cho trẻ chịu học ở nhà và ở trường có lối kể chuyện độc đáo với tranh minh họa sinh động đã chỉ ra những sai lầm lớn của người lớn: - Bắt trẻ nghe theo mình - Không cần lắng nghe chúng - Nổi giận và trừng phạt ngay… - Và sau cùng là cách giải quyết những sai lầm đó Cha mẹ và thầy cô nói với trẻ như thế nào, trẻ sẽ cảm nhận về bản thân như thế ấy. Lời nói của họ ảnh hưởng đến lòng tự trọng và cách trẻ tự đánh giá bản thân. Hay nói rộng ra, cách nói của cha mẹ và thầy cô giữ vai trò quyết định đối với số phận của trẻ.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_e6ddb8a9521b2a694f4c5ad4489962af.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_e6ddb8a9521b2a694f4c5ad4489962af.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14089-noi-sao-cho-tre-chiu-hoc-o-nha-va-o-truong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14089-noi-sao-cho-tre-chiu-hoc-o-nha-va-o-truong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
