@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dieu-ly-co-nhan.html",
+    "title" : "Điệu Lý Cố Nhân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoài Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 25016,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_6383b58fba156e4f40213cd5de8da925.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_6383b58fba156e4f40213cd5de8da925.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dieu-ly-co-nhan/dieu-ly-co-nhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3797,
+    "title" : "dieu-ly-co-nhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-ly-co-nhan/dieu-ly-co-nhan-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3689,
+    "title" : "dieu-ly-co-nhan-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-ly-co-nhan/dieu-ly-co-nhan-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3617,
+    "title" : "dieu-ly-co-nhan-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-ly-co-nhan/dieu-ly-co-nhan-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3833,
+    "title" : "dieu-ly-co-nhan-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-ly-co-nhan/dieu-ly-co-nhan-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3426,
+    "title" : "dieu-ly-co-nhan-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-ly-co-nhan/dieu-ly-co-nhan-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3644,
+    "title" : "dieu-ly-co-nhan-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-ly-co-nhan/dieu-ly-co-nhan-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3010,
+    "title" : "dieu-ly-co-nhan-tap-7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dieu-ly-co-nhan/dieu-ly-co-nhan.mp3",
+    "title" : "dieu-ly-co-nhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-ly-co-nhan/dieu-ly-co-nhan-tap-2.mp3",
+    "title" : "dieu-ly-co-nhan-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-ly-co-nhan/dieu-ly-co-nhan-tap-3.mp3",
+    "title" : "dieu-ly-co-nhan-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-ly-co-nhan/dieu-ly-co-nhan-tap-4.mp3",
+    "title" : "dieu-ly-co-nhan-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-ly-co-nhan/dieu-ly-co-nhan-tap-5.mp3",
+    "title" : "dieu-ly-co-nhan-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-ly-co-nhan/dieu-ly-co-nhan-tap-6.mp3",
+    "title" : "dieu-ly-co-nhan-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-ly-co-nhan/dieu-ly-co-nhan-tap-7.mp3",
+    "title" : "dieu-ly-co-nhan-tap-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/hoang-hon-cua-chu-than.html",
+    "title" : "Hoàng Hôn Của Chư Thần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hải Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 9097,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_11b302333c799cea44a98c5a97f7caf6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_11b302333c799cea44a98c5a97f7caf6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoang-hon-cua-chu-than/hoang-hon-cua-chu-than.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4684,
+    "title" : "hoang-hon-cua-chu-than",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-hon-cua-chu-than/hoang-hon-cua-chu-than-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4413,
+    "title" : "hoang-hon-cua-chu-than-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoang-hon-cua-chu-than/hoang-hon-cua-chu-than.mp3",
+    "title" : "hoang-hon-cua-chu-than",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-hon-cua-chu-than/hoang-hon-cua-chu-than-tap-2.mp3",
+    "title" : "hoang-hon-cua-chu-than-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

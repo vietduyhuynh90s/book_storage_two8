@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/quy-quyet.html",
+    "title" : "Quỷ Quyệt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chiến Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 13144,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_88259b035d2526fa2052ecacf40ff72c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_88259b035d2526fa2052ecacf40ff72c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quy-quyet/quy-quyet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3126,
+    "title" : "quy-quyet",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-quyet/quy-quyet-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3169,
+    "title" : "quy-quyet-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-quyet/quy-quyet-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3204,
+    "title" : "quy-quyet-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-quyet/quy-quyet-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3645,
+    "title" : "quy-quyet-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quy-quyet/quy-quyet.mp3",
+    "title" : "quy-quyet",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-quyet/quy-quyet-tap-2.mp3",
+    "title" : "quy-quyet-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-quyet/quy-quyet-tap-3.mp3",
+    "title" : "quy-quyet-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-quyet/quy-quyet-tap-4.mp3",
+    "title" : "quy-quyet-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/mai-toc-bi-n-guyen-r-ua.html",
+    "title" : "Mái Tóc Bị N.guyền R.ủa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Luna Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 14832,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_399772e397f2d894097599d9921fafdf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_399772e397f2d894097599d9921fafdf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mai-toc-bi-nguyen-rua/mai-toc-bi-nguyen-rua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3783,
+    "title" : "mai-toc-bi-nguyen-rua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mai-toc-bi-nguyen-rua/mai-toc-bi-nguyen-rua-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3755,
+    "title" : "mai-toc-bi-nguyen-rua-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mai-toc-bi-nguyen-rua/mai-toc-bi-nguyen-rua-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3694,
+    "title" : "mai-toc-bi-nguyen-rua-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mai-toc-bi-nguyen-rua/mai-toc-bi-nguyen-rua-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "mai-toc-bi-nguyen-rua-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mai-toc-bi-nguyen-rua/mai-toc-bi-nguyen-rua.mp3",
+    "title" : "mai-toc-bi-nguyen-rua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-toc-bi-nguyen-rua/mai-toc-bi-nguyen-rua-tap-2.mp3",
+    "title" : "mai-toc-bi-nguyen-rua-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-toc-bi-nguyen-rua/mai-toc-bi-nguyen-rua-tap-3.mp3",
+    "title" : "mai-toc-bi-nguyen-rua-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-toc-bi-nguyen-rua/mai-toc-bi-nguyen-rua-tap-4.mp3",
+    "title" : "mai-toc-bi-nguyen-rua-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
