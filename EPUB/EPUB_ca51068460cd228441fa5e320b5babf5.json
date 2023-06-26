@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/phap-su-hoc-duong.html",
+    "title" : "Pháp Sư Học Đường",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngọc Sơn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 95783,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_ca51068460cd228441fa5e320b5babf5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_ca51068460cd228441fa5e320b5babf5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phapsu--hocduong/i%2BsFgKETZaos0Ef%2BsJKyMA%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4372,
+    "title" : "i+sFgKETZaos0Ef+sJKyMA==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/uEF0KFjQiXcrgvZ3vyLIuA%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4641,
+    "title" : "uEF0KFjQiXcrgvZ3vyLIuA==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/G3px%2BQlMDkhXwKoWzT5apA%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4311,
+    "title" : "G3px+QlMDkhXwKoWzT5apA==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/cqa~wUZLqbP3fUqU6%2BKdLg%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4181,
+    "title" : "cqa~wUZLqbP3fUqU6+KdLg==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/azMEktJmvMDcDtCYh47bjw%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4074,
+    "title" : "azMEktJmvMDcDtCYh47bjw==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/aXDw6vqKvaCU%2BfphEw9vzw%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4392,
+    "title" : "aXDw6vqKvaCU+fphEw9vzw==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/8GTAFYqi6wVBubOwRxTXYA%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4717,
+    "title" : "8GTAFYqi6wVBubOwRxTXYA==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/XZg1ibkrk2xX2KMlvYspKQ%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4170,
+    "title" : "XZg1ibkrk2xX2KMlvYspKQ==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/2gFNMzOWc4LmNxCWEf2%2Bew%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4479,
+    "title" : "2gFNMzOWc4LmNxCWEf2+ew==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/iqEv~twF8zlQWN2OKXKL0g%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4601,
+    "title" : "iqEv~twF8zlQWN2OKXKL0g==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/QW%2B17fwopehrMJh~04~IEw%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4219,
+    "title" : "QW+17fwopehrMJh~04~IEw==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/lsz%2BsX4yvBvD5PGNWQ59gQ%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4170,
+    "title" : "lsz+sX4yvBvD5PGNWQ59gQ==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/QQa5igm2aDP6X4tGRvnCBw%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4435,
+    "title" : "QQa5igm2aDP6X4tGRvnCBw==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/lFjTxMKyzz5JCh38XK1OZQ%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4611,
+    "title" : "lFjTxMKyzz5JCh38XK1OZQ==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/5tD4cDtAH5Qla%2B6xT%2BGojw%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4331,
+    "title" : "5tD4cDtAH5Qla+6xT+Gojw==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/V~6q5sVg9zerbIA9~TpjYg%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4170,
+    "title" : "V~6q5sVg9zerbIA9~TpjYg==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/hPX7B%2Bjzz0v0WaK%2BkL7cLw%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4208,
+    "title" : "hPX7B+jzz0v0WaK+kL7cLw==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/1nDxmku79nJzuaWk%2B11wBg%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4308,
+    "title" : "1nDxmku79nJzuaWk+11wBg==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/G3ZFKEklCy73~6szAdOe0Q%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4476,
+    "title" : "G3ZFKEklCy73~6szAdOe0Q==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/4EoX7ym5BK3M2ETCaU7sDg%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4313,
+    "title" : "4EoX7ym5BK3M2ETCaU7sDg==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/9FBpi2jt6o4wNLKHO81aVA%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4340,
+    "title" : "9FBpi2jt6o4wNLKHO81aVA==",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/GdwUcK2afR5Ip092Q94pVQ%3D%3D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4264,
+    "title" : "GdwUcK2afR5Ip092Q94pVQ==",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phapsu--hocduong/i%2BsFgKETZaos0Ef%2BsJKyMA%3D%3D.mp3",
+    "title" : "i+sFgKETZaos0Ef+sJKyMA==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/uEF0KFjQiXcrgvZ3vyLIuA%3D%3D.mp3",
+    "title" : "uEF0KFjQiXcrgvZ3vyLIuA==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/G3px%2BQlMDkhXwKoWzT5apA%3D%3D.mp3",
+    "title" : "G3px+QlMDkhXwKoWzT5apA==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/cqa~wUZLqbP3fUqU6%2BKdLg%3D%3D.mp3",
+    "title" : "cqa~wUZLqbP3fUqU6+KdLg==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/azMEktJmvMDcDtCYh47bjw%3D%3D.mp3",
+    "title" : "azMEktJmvMDcDtCYh47bjw==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/aXDw6vqKvaCU%2BfphEw9vzw%3D%3D.mp3",
+    "title" : "aXDw6vqKvaCU+fphEw9vzw==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/8GTAFYqi6wVBubOwRxTXYA%3D%3D.mp3",
+    "title" : "8GTAFYqi6wVBubOwRxTXYA==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/XZg1ibkrk2xX2KMlvYspKQ%3D%3D.mp3",
+    "title" : "XZg1ibkrk2xX2KMlvYspKQ==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/2gFNMzOWc4LmNxCWEf2%2Bew%3D%3D.mp3",
+    "title" : "2gFNMzOWc4LmNxCWEf2+ew==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/iqEv~twF8zlQWN2OKXKL0g%3D%3D.mp3",
+    "title" : "iqEv~twF8zlQWN2OKXKL0g==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/QW%2B17fwopehrMJh~04~IEw%3D%3D.mp3",
+    "title" : "QW+17fwopehrMJh~04~IEw==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/lsz%2BsX4yvBvD5PGNWQ59gQ%3D%3D.mp3",
+    "title" : "lsz+sX4yvBvD5PGNWQ59gQ==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/QQa5igm2aDP6X4tGRvnCBw%3D%3D.mp3",
+    "title" : "QQa5igm2aDP6X4tGRvnCBw==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/lFjTxMKyzz5JCh38XK1OZQ%3D%3D.mp3",
+    "title" : "lFjTxMKyzz5JCh38XK1OZQ==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/5tD4cDtAH5Qla%2B6xT%2BGojw%3D%3D.mp3",
+    "title" : "5tD4cDtAH5Qla+6xT+Gojw==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/V~6q5sVg9zerbIA9~TpjYg%3D%3D.mp3",
+    "title" : "V~6q5sVg9zerbIA9~TpjYg==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/hPX7B%2Bjzz0v0WaK%2BkL7cLw%3D%3D.mp3",
+    "title" : "hPX7B+jzz0v0WaK+kL7cLw==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/1nDxmku79nJzuaWk%2B11wBg%3D%3D.mp3",
+    "title" : "1nDxmku79nJzuaWk+11wBg==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/G3ZFKEklCy73~6szAdOe0Q%3D%3D.mp3",
+    "title" : "G3ZFKEklCy73~6szAdOe0Q==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/4EoX7ym5BK3M2ETCaU7sDg%3D%3D.mp3",
+    "title" : "4EoX7ym5BK3M2ETCaU7sDg==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/9FBpi2jt6o4wNLKHO81aVA%3D%3D.mp3",
+    "title" : "9FBpi2jt6o4wNLKHO81aVA==",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsu--hocduong/GdwUcK2afR5Ip092Q94pVQ%3D%3D.mp3",
+    "title" : "GdwUcK2afR5Ip092Q94pVQ==",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

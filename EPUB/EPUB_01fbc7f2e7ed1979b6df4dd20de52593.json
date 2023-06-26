@@ -1,0 +1,893 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/than-con.html",
+    "title" : "Thần Côn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phượng Kim",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 205437,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_01fbc7f2e7ed1979b6df4dd20de52593.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_01fbc7f2e7ed1979b6df4dd20de52593.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thancon/ThanCon_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2878,
+    "title" : "ThanCon_01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1857,
+    "title" : "ThanCon_02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1996,
+    "title" : "ThanCon_03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2247,
+    "title" : "ThanCon_04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1990,
+    "title" : "ThanCon_05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2166,
+    "title" : "ThanCon_06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2369,
+    "title" : "ThanCon_07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2137,
+    "title" : "ThanCon_08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1815,
+    "title" : "ThanCon_09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1762,
+    "title" : "ThanCon_10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1907,
+    "title" : "ThanCon_11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2454,
+    "title" : "ThanCon_12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2169,
+    "title" : "ThanCon_13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1775,
+    "title" : "ThanCon_14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2237,
+    "title" : "ThanCon_15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3430,
+    "title" : "ThanCon_16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1930,
+    "title" : "ThanCon_17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2807,
+    "title" : "ThanCon_18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3475,
+    "title" : "ThanCon_19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2393,
+    "title" : "ThanCon_20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2661,
+    "title" : "ThanCon_21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2769,
+    "title" : "ThanCon_22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3088,
+    "title" : "ThanCon_23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2924,
+    "title" : "ThanCon_24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2739,
+    "title" : "ThanCon_25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2826,
+    "title" : "ThanCon_26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2729,
+    "title" : "ThanCon_27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3187,
+    "title" : "ThanCon_28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2794,
+    "title" : "ThanCon_29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2969,
+    "title" : "ThanCon_30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2547,
+    "title" : "ThanCon_31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2594,
+    "title" : "ThanCon_32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2684,
+    "title" : "ThanCon_33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3912,
+    "title" : "ThanCon_34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3263,
+    "title" : "ThanCon_35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2638,
+    "title" : "ThanCon_36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3469,
+    "title" : "ThanCon_37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2188,
+    "title" : "ThanCon_38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2885,
+    "title" : "ThanCon_39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3249,
+    "title" : "ThanCon_40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4804,
+    "title" : "ThanCon_41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2822,
+    "title" : "ThanCon_42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3208,
+    "title" : "ThanCon_43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3384,
+    "title" : "ThanCon_44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3070,
+    "title" : "ThanCon_45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2517,
+    "title" : "ThanCon_46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2337,
+    "title" : "ThanCon_47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3289,
+    "title" : "ThanCon_48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3230,
+    "title" : "ThanCon_49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3360,
+    "title" : "ThanCon_50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4276,
+    "title" : "ThanCon_51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4238,
+    "title" : "ThanCon_52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3818,
+    "title" : "ThanCon_53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2202,
+    "title" : "ThanCon_54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3051,
+    "title" : "ThanCon_55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2864,
+    "title" : "ThanCon_56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2379,
+    "title" : "ThanCon_57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2991,
+    "title" : "ThanCon_58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2804,
+    "title" : "ThanCon_59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2593,
+    "title" : "ThanCon_60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2979,
+    "title" : "ThanCon_61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2659,
+    "title" : "ThanCon_62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2688,
+    "title" : "ThanCon_63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3728,
+    "title" : "ThanCon_64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2939,
+    "title" : "ThanCon_65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3104,
+    "title" : "ThanCon_66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_66b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3972,
+    "title" : "ThanCon_66b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2755,
+    "title" : "ThanCon_68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3672,
+    "title" : "ThanCon_69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5488,
+    "title" : "ThanCon_70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4307,
+    "title" : "ThanCon_97",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thancon/ThanCon_01.mp3",
+    "title" : "ThanCon_01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_02.mp3",
+    "title" : "ThanCon_02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_03.mp3",
+    "title" : "ThanCon_03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_04.mp3",
+    "title" : "ThanCon_04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_05.mp3",
+    "title" : "ThanCon_05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_06.mp3",
+    "title" : "ThanCon_06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_07.mp3",
+    "title" : "ThanCon_07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_08.mp3",
+    "title" : "ThanCon_08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_09.mp3",
+    "title" : "ThanCon_09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_10.mp3",
+    "title" : "ThanCon_10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_11.mp3",
+    "title" : "ThanCon_11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_12.mp3",
+    "title" : "ThanCon_12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_13.mp3",
+    "title" : "ThanCon_13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_14.mp3",
+    "title" : "ThanCon_14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_15.mp3",
+    "title" : "ThanCon_15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_16.mp3",
+    "title" : "ThanCon_16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_17.mp3",
+    "title" : "ThanCon_17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_18.mp3",
+    "title" : "ThanCon_18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_19.mp3",
+    "title" : "ThanCon_19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_20.mp3",
+    "title" : "ThanCon_20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_21.mp3",
+    "title" : "ThanCon_21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_22.mp3",
+    "title" : "ThanCon_22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_23.mp3",
+    "title" : "ThanCon_23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_24.mp3",
+    "title" : "ThanCon_24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_25.mp3",
+    "title" : "ThanCon_25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_26.mp3",
+    "title" : "ThanCon_26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_27.mp3",
+    "title" : "ThanCon_27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_28.mp3",
+    "title" : "ThanCon_28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_29.mp3",
+    "title" : "ThanCon_29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_30.mp3",
+    "title" : "ThanCon_30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_31.mp3",
+    "title" : "ThanCon_31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_32.mp3",
+    "title" : "ThanCon_32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_33.mp3",
+    "title" : "ThanCon_33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_34.mp3",
+    "title" : "ThanCon_34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_35.mp3",
+    "title" : "ThanCon_35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_36.mp3",
+    "title" : "ThanCon_36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_37.mp3",
+    "title" : "ThanCon_37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_38.mp3",
+    "title" : "ThanCon_38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_39.mp3",
+    "title" : "ThanCon_39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_40.mp3",
+    "title" : "ThanCon_40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_41.mp3",
+    "title" : "ThanCon_41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_42.mp3",
+    "title" : "ThanCon_42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_43.mp3",
+    "title" : "ThanCon_43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_44.mp3",
+    "title" : "ThanCon_44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_45.mp3",
+    "title" : "ThanCon_45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_46.mp3",
+    "title" : "ThanCon_46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_47.mp3",
+    "title" : "ThanCon_47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_48.mp3",
+    "title" : "ThanCon_48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_49.mp3",
+    "title" : "ThanCon_49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_50.mp3",
+    "title" : "ThanCon_50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_51.mp3",
+    "title" : "ThanCon_51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_52.mp3",
+    "title" : "ThanCon_52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_53.mp3",
+    "title" : "ThanCon_53",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_54.mp3",
+    "title" : "ThanCon_54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_55.mp3",
+    "title" : "ThanCon_55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_56.mp3",
+    "title" : "ThanCon_56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_57.mp3",
+    "title" : "ThanCon_57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_58.mp3",
+    "title" : "ThanCon_58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_59.mp3",
+    "title" : "ThanCon_59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_60.mp3",
+    "title" : "ThanCon_60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_61.mp3",
+    "title" : "ThanCon_61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_62.mp3",
+    "title" : "ThanCon_62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_63.mp3",
+    "title" : "ThanCon_63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_64.mp3",
+    "title" : "ThanCon_64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_65.mp3",
+    "title" : "ThanCon_65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_66.mp3",
+    "title" : "ThanCon_66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_66b.mp3",
+    "title" : "ThanCon_66b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_68.mp3",
+    "title" : "ThanCon_68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_69.mp3",
+    "title" : "ThanCon_69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_70.mp3",
+    "title" : "ThanCon_70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thancon/ThanCon_97.mp3",
+    "title" : "ThanCon_97",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
