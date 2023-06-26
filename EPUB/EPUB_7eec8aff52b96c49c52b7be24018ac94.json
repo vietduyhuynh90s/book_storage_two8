@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/quan-tai-quy-tren-song.html",
+    "title" : "Quan Tài Quỷ Trên Sông",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thanh Hồ Tiên Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_7eec8aff52b96c49c52b7be24018ac94.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_7eec8aff52b96c49c52b7be24018ac94.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801503.us.archive.org/21/items/quan-tai-quy-tren-song/quan-tai-quy-tren-song-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Quan Tài Quỷ Trên Sông Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801503.us.archive.org/21/items/quan-tai-quy-tren-song/quan-tai-quy-tren-song-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Quan Tài Quỷ Trên Sông Tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801503.us.archive.org/21/items/quan-tai-quy-tren-song/quan-tai-quy-tren-song-tap-1.mp3",
+    "title" : "Quan Tài Quỷ Trên Sông Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801503.us.archive.org/21/items/quan-tai-quy-tren-song/quan-tai-quy-tren-song-tap-2.mp3",
+    "title" : "Quan Tài Quỷ Trên Sông Tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

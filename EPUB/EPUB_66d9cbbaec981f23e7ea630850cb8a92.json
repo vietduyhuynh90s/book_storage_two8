@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nha-tro-quy-am.html",
+    "title" : "Nhà Trọ Quỷ Ám",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diệp Lâm Khánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_66d9cbbaec981f23e7ea630850cb8a92.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_66d9cbbaec981f23e7ea630850cb8a92.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801505.us.archive.org/1/items/nha-tro-quy-am/nha-tro-quy-am-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nhà trọ quỷ ám tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801505.us.archive.org/1/items/nha-tro-quy-am/nha-tro-quy-am-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nhà trọ quỷ ám tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801505.us.archive.org/1/items/nha-tro-quy-am/nha-tro-quy-am-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nhà trọ quỷ ám tập 3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801505.us.archive.org/1/items/nha-tro-quy-am/nha-tro-quy-am-tap-1.mp3",
+    "title" : "Nhà trọ quỷ ám tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801505.us.archive.org/1/items/nha-tro-quy-am/nha-tro-quy-am-tap-2.mp3",
+    "title" : "Nhà trọ quỷ ám tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801505.us.archive.org/1/items/nha-tro-quy-am/nha-tro-quy-am-tap-3.mp3",
+    "title" : "Nhà trọ quỷ ám tập 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

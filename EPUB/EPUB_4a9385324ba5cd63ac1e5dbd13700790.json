@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/doc-su-tam-linh-ky.html",
+    "title" : "Độc Sư Tâm Linh Ký",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Độc Sư - Nhật lệ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_4a9385324ba5cd63ac1e5dbd13700790.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_4a9385324ba5cd63ac1e5dbd13700790.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801408.us.archive.org/33/items/doc-su-tam-linh-ky/doc-su-am-linh-ky-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Độc sư tâm linh ký tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801408.us.archive.org/33/items/doc-su-tam-linh-ky/doc-su-am-linh-ky-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Độc sư tâm linh ký tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801408.us.archive.org/33/items/doc-su-tam-linh-ky/doc-su-am-linh-ky-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Độc sư tâm linh ký tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801408.us.archive.org/33/items/doc-su-tam-linh-ky/doc-su-am-linh-ky-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Độc sư tâm linh ký tập 4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801408.us.archive.org/33/items/doc-su-tam-linh-ky/doc-su-am-linh-ky-tap-1.mp3",
+    "title" : "Độc sư tâm linh ký tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801408.us.archive.org/33/items/doc-su-tam-linh-ky/doc-su-am-linh-ky-tap-2.mp3",
+    "title" : "Độc sư tâm linh ký tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801408.us.archive.org/33/items/doc-su-tam-linh-ky/doc-su-am-linh-ky-tap-3.mp3",
+    "title" : "Độc sư tâm linh ký tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801408.us.archive.org/33/items/doc-su-tam-linh-ky/doc-su-am-linh-ky-tap-4.mp3",
+    "title" : "Độc sư tâm linh ký tập 4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

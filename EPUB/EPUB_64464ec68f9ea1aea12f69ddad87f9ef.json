@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/vi-toi-la-me.html",
+    "title" : "Vì Tôi Là Mẹ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thụy Du",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 12202,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_64464ec68f9ea1aea12f69ddad87f9ef.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_64464ec68f9ea1aea12f69ddad87f9ef.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vi-toi-la-me/vi-toi-la-me.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5946,
+    "title" : "vi-toi-la-me",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-toi-la-me/vi-toi-la-me-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6256,
+    "title" : "vi-toi-la-me-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vi-toi-la-me/vi-toi-la-me.mp3",
+    "title" : "vi-toi-la-me",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-toi-la-me/vi-toi-la-me-tap-2.mp3",
+    "title" : "vi-toi-la-me-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

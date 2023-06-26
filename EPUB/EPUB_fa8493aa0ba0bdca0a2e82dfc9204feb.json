@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/mieu-cuong-co-trung.html",
+    "title" : "Miêu cương cổ trùng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoa Hồng Đen",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_fa8493aa0ba0bdca0a2e82dfc9204feb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_fa8493aa0ba0bdca0a2e82dfc9204feb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801503.us.archive.org/32/items/mieu-cuong-co-trung/MieuCuongCoTrung_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Miêu cương cổ trùng tập 1 - MC Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801503.us.archive.org/32/items/mieu-cuong-co-trung/MieuCuongCoTrung_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Miêu cương cổ trùng tập 2 - MC Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801503.us.archive.org/32/items/mieu-cuong-co-trung/MieuCuongCoTrung_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Miêu cương cổ trùng tập 3 - MC Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801503.us.archive.org/32/items/mieu-cuong-co-trung/MieuCuongCoTrung_01.mp3",
+    "title" : "Miêu cương cổ trùng tập 1 - MC Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801503.us.archive.org/32/items/mieu-cuong-co-trung/MieuCuongCoTrung_02.mp3",
+    "title" : "Miêu cương cổ trùng tập 2 - MC Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801503.us.archive.org/32/items/mieu-cuong-co-trung/MieuCuongCoTrung_03.mp3",
+    "title" : "Miêu cương cổ trùng tập 3 - MC Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

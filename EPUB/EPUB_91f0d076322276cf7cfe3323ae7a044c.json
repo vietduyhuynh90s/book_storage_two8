@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cuu-long-quai-su-ky-phan-8-thien-nguc-duong-dong.html",
+    "title" : "Cửu Long Quái Sự Ký Phần 8 – Thiên Ngục Dương Đông",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lâm Gia - Thái Bảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 72322,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_91f0d076322276cf7cfe3323ae7a044c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_91f0d076322276cf7cfe3323ae7a044c.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3370,
+    "title" : "cuu-long-quai-su-ky-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3949,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3569,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3517,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3361,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3461,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3478,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3604,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3411,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3716,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3466,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3842,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3536,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3774,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-ong-quai-su-ky-phan-8-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3575,
+    "title" : "cuu-ong-quai-su-ky-phan-8-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3561,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3906,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3652,
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-qua-su-ky-phan-8-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4183,
+    "title" : "cuu-long-qua-su-ky-phan-8-tap-20",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-tap-13.mp3",
+    "title" : "cuu-long-quai-su-ky-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-1.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-2.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-3.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-4.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-5.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-6.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-7.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-8.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-9.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-10.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-11.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-12.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-14.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-15.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-ong-quai-su-ky-phan-8-tap-16.mp3",
+    "title" : "cuu-ong-quai-su-ky-phan-8-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-17.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-18.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-quai-su-ky-phan-8-tap-19.mp3",
+    "title" : "cuu-long-quai-su-ky-phan-8-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-long-quai-su-ky-phan-8/cuu-long-qua-su-ky-phan-8-tap-20.mp3",
+    "title" : "cuu-long-qua-su-ky-phan-8-tap-20",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
