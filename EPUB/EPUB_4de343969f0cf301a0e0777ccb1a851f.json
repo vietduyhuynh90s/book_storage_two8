@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cau-tay-tran-yem-dat-nghich-hung-yen.html",
+    "title" : "Cậu Tẩy Trấn Yểm Đất Nghịch Hưng Yên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Cơ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 26785,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_4de343969f0cf301a0e0777ccb1a851f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_4de343969f0cf301a0e0777ccb1a851f.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cau-tay-tran-yem-dat-nghich-hung-yen/cau-tay-tran-yem-dat-nghich-hung-yen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5190,
+    "title" : "cau-tay-tran-yem-dat-nghich-hung-yen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-tay-tran-yem-dat-nghich-hung-yen/cau-tay-tran-yem-dat-nghich-hung-yen-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5810,
+    "title" : "cau-tay-tran-yem-dat-nghich-hung-yen-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-tay-tran-yem-dat-nghich-hung-yen/cau-tay-tran-yem-dat-nghich-hung-yen-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4920,
+    "title" : "cau-tay-tran-yem-dat-nghich-hung-yen-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-tay-tran-yem-dat-nghich-hung-yen/cau-tay-tran-yem-dat-nghich-hung-yen-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5125,
+    "title" : "cau-tay-tran-yem-dat-nghich-hung-yen-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-tay-tran-yem-dat-nghich-hung-yen/cau-tay-tran-yem-dat-nghich-hung-yen-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5740,
+    "title" : "cau-tay-tran-yem-dat-nghich-hung-yen-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cau-tay-tran-yem-dat-nghich-hung-yen/cau-tay-tran-yem-dat-nghich-hung-yen.mp3",
+    "title" : "cau-tay-tran-yem-dat-nghich-hung-yen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-tay-tran-yem-dat-nghich-hung-yen/cau-tay-tran-yem-dat-nghich-hung-yen-tap-2.mp3",
+    "title" : "cau-tay-tran-yem-dat-nghich-hung-yen-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-tay-tran-yem-dat-nghich-hung-yen/cau-tay-tran-yem-dat-nghich-hung-yen-tap-3.mp3",
+    "title" : "cau-tay-tran-yem-dat-nghich-hung-yen-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-tay-tran-yem-dat-nghich-hung-yen/cau-tay-tran-yem-dat-nghich-hung-yen-tap-4.mp3",
+    "title" : "cau-tay-tran-yem-dat-nghich-hung-yen-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-tay-tran-yem-dat-nghich-hung-yen/cau-tay-tran-yem-dat-nghich-hung-yen-tap-5.mp3",
+    "title" : "cau-tay-tran-yem-dat-nghich-hung-yen-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

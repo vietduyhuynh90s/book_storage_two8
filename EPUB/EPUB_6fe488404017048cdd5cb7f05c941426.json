@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dao-si-tham-an.html",
+    "title" : "Đạo Sĩ Tham Ăn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phi Hưng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 11775,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_6fe488404017048cdd5cb7f05c941426.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_6fe488404017048cdd5cb7f05c941426.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/daosithaman_202108/daosithaman.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7070,
+    "title" : "daosithaman",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/daosithaman_202108/daosithaman_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4705,
+    "title" : "daosithaman_2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/daosithaman_202108/daosithaman.mp3",
+    "title" : "daosithaman",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/daosithaman_202108/daosithaman_2.mp3",
+    "title" : "daosithaman_2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/chiec-guong-mo-va-cay-oi-coi.html",
+    "title" : "Chiếc Gương Mờ Và Cây Ổi Cỗi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhà Văn Bố Láo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 6875,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_ce9c866068a8b99d4032c010cd541484.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_ce9c866068a8b99d4032c010cd541484.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chiec-guong-mo-va-cay-oi-coi/chiec-guong-mo-va-cay-oi-coi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6875,
+    "title" : "chiec-guong-mo-va-cay-oi-coi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chiec-guong-mo-va-cay-oi-coi/chiec-guong-mo-va-cay-oi-coi.mp3",
+    "title" : "chiec-guong-mo-va-cay-oi-coi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

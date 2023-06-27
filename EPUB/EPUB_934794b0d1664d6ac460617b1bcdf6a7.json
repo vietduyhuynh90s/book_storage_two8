@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/huyen-linh-di-gioi.html",
+    "title" : "Huyền Linh Dị Giới",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 72934,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_934794b0d1664d6ac460617b1bcdf6a7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_934794b0d1664d6ac460617b1bcdf6a7.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3501,
+    "title" : "huyen-linh-di-gioi-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3476,
+    "title" : "huyen-linh-di-gioi-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3339,
+    "title" : "huyen-linh-di-gioi-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3275,
+    "title" : "huyen-linh-di-gioi-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3292,
+    "title" : "huyen-linh-di-gioi-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3112,
+    "title" : "huyen-linh-di-gioi-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3249,
+    "title" : "huyen-linh-di-gioi-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3170,
+    "title" : "huyen-linh-di-gioi-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "huyen-linh-di-gioi-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3299,
+    "title" : "huyen-linh-di-gioi-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3399,
+    "title" : "huyen-linh-di-gioi-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3359,
+    "title" : "huyen-linh-di-gioi-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3549,
+    "title" : "huyen-linh-di-gioi-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3427,
+    "title" : "huyen-linh-di-gioi-tap-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3192,
+    "title" : "huyen-linh-di-gioi-tap-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3192,
+    "title" : "huyen-linh-di-gioi-tap-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-phan-5-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3303,
+    "title" : "huyen-linh-di-gioi-phan-5-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-phan-5-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3170,
+    "title" : "huyen-linh-di-gioi-phan-5-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-phan-5-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3443,
+    "title" : "huyen-linh-di-gioi-phan-5-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-phan-5-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3276,
+    "title" : "huyen-linh-di-gioi-phan-5-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-phan-5-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3356,
+    "title" : "huyen-linh-di-gioi-phan-5-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-phan-5-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3315,
+    "title" : "huyen-linh-di-gioi-phan-5-tap-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-7.mp3",
+    "title" : "huyen-linh-di-gioi-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-8.mp3",
+    "title" : "huyen-linh-di-gioi-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-9.mp3",
+    "title" : "huyen-linh-di-gioi-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-10.mp3",
+    "title" : "huyen-linh-di-gioi-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-11.mp3",
+    "title" : "huyen-linh-di-gioi-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-12.mp3",
+    "title" : "huyen-linh-di-gioi-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-13.mp3",
+    "title" : "huyen-linh-di-gioi-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-14.mp3",
+    "title" : "huyen-linh-di-gioi-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-15.mp3",
+    "title" : "huyen-linh-di-gioi-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-16.mp3",
+    "title" : "huyen-linh-di-gioi-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-17.mp3",
+    "title" : "huyen-linh-di-gioi-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-18.mp3",
+    "title" : "huyen-linh-di-gioi-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-19.mp3",
+    "title" : "huyen-linh-di-gioi-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-20.mp3",
+    "title" : "huyen-linh-di-gioi-tap-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-21.mp3",
+    "title" : "huyen-linh-di-gioi-tap-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-tap-22.mp3",
+    "title" : "huyen-linh-di-gioi-tap-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-phan-5-tap-1.mp3",
+    "title" : "huyen-linh-di-gioi-phan-5-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-phan-5-tap-2.mp3",
+    "title" : "huyen-linh-di-gioi-phan-5-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-phan-5-tap-3.mp3",
+    "title" : "huyen-linh-di-gioi-phan-5-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-phan-5-tap-4.mp3",
+    "title" : "huyen-linh-di-gioi-phan-5-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-phan-5-tap-5.mp3",
+    "title" : "huyen-linh-di-gioi-phan-5-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-linh-di-gioi-phan-5-full/huyen-linh-di-gioi-phan-5-tap-6.mp3",
+    "title" : "huyen-linh-di-gioi-phan-5-tap-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

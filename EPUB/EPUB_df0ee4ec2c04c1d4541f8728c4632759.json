@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/o-quy-o-thach-that.html",
+    "title" : "Ổ Quỷ Ở Thạch Thất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khắc Hiếu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 10614,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_df0ee4ec2c04c1d4541f8728c4632759.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_df0ee4ec2c04c1d4541f8728c4632759.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/o-quy-o-thach-that_202303/o-quy-o-thach-that-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4992,
+    "title" : "o-quy-o-thach-that-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/o-quy-o-thach-that_202303/o-quy-o-thach-that-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5622,
+    "title" : "o-quy-o-thach-that-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/o-quy-o-thach-that_202303/o-quy-o-thach-that-tap-1.mp3",
+    "title" : "o-quy-o-thach-that-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/o-quy-o-thach-that_202303/o-quy-o-thach-that-tap-2.mp3",
+    "title" : "o-quy-o-thach-that-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

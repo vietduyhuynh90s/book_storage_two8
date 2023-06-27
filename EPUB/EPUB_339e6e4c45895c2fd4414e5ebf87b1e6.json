@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ngo-nha-ma-o-da-lat.html",
+    "title" : "Ngô Nhà Ma Ở Đà Lạt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngô Đồng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 4508,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_339e6e4c45895c2fd4414e5ebf87b1e6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_339e6e4c45895c2fd4414e5ebf87b1e6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngoi-nha-ma-o-da-lat/ngoi-nha-ma-o-da-lat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4508,
+    "title" : "ngoi-nha-ma-o-da-lat",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngoi-nha-ma-o-da-lat/ngoi-nha-ma-o-da-lat.mp3",
+    "title" : "ngoi-nha-ma-o-da-lat",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/co-dong-huong-giai-tran-yem.html",
+    "title" : "Cô Đồng Hương Giải Trấn Yểm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hồng Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 15968,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_0ff65d9f3e880d2246bee6f264c67e6b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_0ff65d9f3e880d2246bee6f264c67e6b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-dong-huong-gia-tran-yem/co-dong-huong-gia-tran-yem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5814,
+    "title" : "co-dong-huong-gia-tran-yem",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dong-huong-gia-tran-yem/co-dong-huong-giai-tran-yem-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4324,
+    "title" : "co-dong-huong-giai-tran-yem-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dong-huong-gia-tran-yem/co-dong-huong-gia-tran-yem-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5830,
+    "title" : "co-dong-huong-gia-tran-yem-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-dong-huong-gia-tran-yem/co-dong-huong-gia-tran-yem.mp3",
+    "title" : "co-dong-huong-gia-tran-yem",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dong-huong-gia-tran-yem/co-dong-huong-giai-tran-yem-tap-2.mp3",
+    "title" : "co-dong-huong-giai-tran-yem-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dong-huong-gia-tran-yem/co-dong-huong-gia-tran-yem-tap-3.mp3",
+    "title" : "co-dong-huong-gia-tran-yem-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

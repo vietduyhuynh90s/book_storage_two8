@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/giac-mo-mau.html",
+    "title" : "Giấc mơ máu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoài Thu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_85245a118bc60d3d7ea0e9c8bf8660d4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_85245a118bc60d3d7ea0e9c8bf8660d4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801501.us.archive.org/1/items/giac-mo-mau_202007/GiacMoMau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Giấc mơ máu tập 1 - MC Đình Soạn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801501.us.archive.org/1/items/giac-mo-mau_202007/giac-mo-mau-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Giấc mơ máu tập 2 - MC Đình Soạn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801501.us.archive.org/1/items/giac-mo-mau_202007/GiacMoMau.mp3",
+    "title" : "Giấc mơ máu tập 1 - MC Đình Soạn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801501.us.archive.org/1/items/giac-mo-mau_202007/giac-mo-mau-tap-2.mp3",
+    "title" : "Giấc mơ máu tập 2 - MC Đình Soạn - Nghetruyenma.net",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

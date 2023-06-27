@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/san-mo.html",
+    "title" : "Săn Mộ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Yến",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 22669,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_5958a6a0dfe67da8a9a822952aabba1f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_5958a6a0dfe67da8a9a822952aabba1f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2251,
+    "title" : "san-mo-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "san-mo-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2575,
+    "title" : "san-mo-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2317,
+    "title" : "san-mo-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2191,
+    "title" : "san-mo-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2293,
+    "title" : "san-mo-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2390,
+    "title" : "san-mo-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2736,
+    "title" : "san-mo-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "san-mo-tap-9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-1.mp3",
+    "title" : "san-mo-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-2.mp3",
+    "title" : "san-mo-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-3.mp3",
+    "title" : "san-mo-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-4.mp3",
+    "title" : "san-mo-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-5.mp3",
+    "title" : "san-mo-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-6.mp3",
+    "title" : "san-mo-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-7.mp3",
+    "title" : "san-mo-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-8.mp3",
+    "title" : "san-mo-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/san-mo/san-mo-tap-9.mp3",
+    "title" : "san-mo-tap-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

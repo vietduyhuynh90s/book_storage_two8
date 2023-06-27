@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ta-ao-truyen-ky.html",
+    "title" : "Tả ao truyền kỳ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nam King",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 15075,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_2b9f9a9baa8d90d7a1a23288108d10b7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_2b9f9a9baa8d90d7a1a23288108d10b7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/TaAoTruyenKy/TaAoTruyenKy_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4840,
+    "title" : "TaAoTruyenKy_01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TaAoTruyenKy/TaAoTruyenKy_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5085,
+    "title" : "TaAoTruyenKy_02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TaAoTruyenKy/TaAoTruyenKy_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5150,
+    "title" : "TaAoTruyenKy_03",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/TaAoTruyenKy/TaAoTruyenKy_01.mp3",
+    "title" : "TaAoTruyenKy_01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TaAoTruyenKy/TaAoTruyenKy_02.mp3",
+    "title" : "TaAoTruyenKy_02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TaAoTruyenKy/TaAoTruyenKy_03.mp3",
+    "title" : "TaAoTruyenKy_03",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ac-nghiep-thay-bua.html",
+    "title" : "Ác Nghiệp Thầy Bùa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Việt Gia",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 11516,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_0cb49ffdafe2585b0de69416c5d12342.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_0cb49ffdafe2585b0de69416c5d12342.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ac-nghiep-thay-bua/ac-nghiep-thay-bua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3633,
+    "title" : "ac-nghiep-thay-bua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ac-nghiep-thay-bua/ac-nghiep-thay-bua-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3656,
+    "title" : "ac-nghiep-thay-bua-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ac-nghiep-thay-bua/ac-nghiep-thay-bua-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4227,
+    "title" : "ac-nghiep-thay-bua-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ac-nghiep-thay-bua/ac-nghiep-thay-bua.mp3",
+    "title" : "ac-nghiep-thay-bua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ac-nghiep-thay-bua/ac-nghiep-thay-bua-tap-2.mp3",
+    "title" : "ac-nghiep-thay-bua-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ac-nghiep-thay-bua/ac-nghiep-thay-bua-tap-3.mp3",
+    "title" : "ac-nghiep-thay-bua-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

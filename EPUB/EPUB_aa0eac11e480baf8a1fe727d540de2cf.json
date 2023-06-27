@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ban-tay-cua-quy-2.html",
+    "title" : "Bàn Tay Của Quỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Ngà",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 16751,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_aa0eac11e480baf8a1fe727d540de2cf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_aa0eac11e480baf8a1fe727d540de2cf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ban-tay-cua-quy_202201/ban-tay-cua-quy-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3800,
+    "title" : "ban-tay-cua-quy-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-tay-cua-quy_202201/ban-tay-cua-quy-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3071,
+    "title" : "ban-tay-cua-quy-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-tay-cua-quy_202201/ban-tay-cua-quy-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2412,
+    "title" : "ban-tay-cua-quy-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-tay-cua-quy_202201/ban-tay-cua-quy-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2513,
+    "title" : "ban-tay-cua-quy-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-tay-cua-quy_202201/ban-tay-cua-quy-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2392,
+    "title" : "ban-tay-cua-quy-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-tay-cua-quy_202201/ban-tay-cua-quy-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2563,
+    "title" : "ban-tay-cua-quy-tap-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ban-tay-cua-quy_202201/ban-tay-cua-quy-tap-1.mp3",
+    "title" : "ban-tay-cua-quy-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-tay-cua-quy_202201/ban-tay-cua-quy-tap-2.mp3",
+    "title" : "ban-tay-cua-quy-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-tay-cua-quy_202201/ban-tay-cua-quy-tap-3.mp3",
+    "title" : "ban-tay-cua-quy-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-tay-cua-quy_202201/ban-tay-cua-quy-tap-4.mp3",
+    "title" : "ban-tay-cua-quy-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-tay-cua-quy_202201/ban-tay-cua-quy-tap-5.mp3",
+    "title" : "ban-tay-cua-quy-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-tay-cua-quy_202201/ban-tay-cua-quy-tap-6.mp3",
+    "title" : "ban-tay-cua-quy-tap-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

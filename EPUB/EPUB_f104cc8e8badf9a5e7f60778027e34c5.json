@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/tham-tu-am-duong.html",
+    "title" : "Thám Tử Âm Dương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Đạt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 14445,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_f104cc8e8badf9a5e7f60778027e34c5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_f104cc8e8badf9a5e7f60778027e34c5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tham-tu-am-duong/tham-tu-am-duong-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4040,
+    "title" : "tham-tu-am-duong-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-tu-am-duong/tham-tu-am-duong-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5264,
+    "title" : "tham-tu-am-duong-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-tu-am-duong/tham-tu-am-duong-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5141,
+    "title" : "tham-tu-am-duong-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tham-tu-am-duong/tham-tu-am-duong-tap-1.mp3",
+    "title" : "tham-tu-am-duong-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-tu-am-duong/tham-tu-am-duong-tap-2.mp3",
+    "title" : "tham-tu-am-duong-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-tu-am-duong/tham-tu-am-duong-tap-3.mp3",
+    "title" : "tham-tu-am-duong-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

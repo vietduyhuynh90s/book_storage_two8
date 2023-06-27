@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/biet-thu-nhuom-mau.html",
+    "title" : "Biệt Thự Nhuốm Máu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phi Hưng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 7550,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_2204177338f92256e78ef8f1c03cee23.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_2204177338f92256e78ef8f1c03cee23.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/biet-thu-nhuom-mau/biet-thu-nhuom-mau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3624,
+    "title" : "biet-thu-nhuom-mau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/biet-thu-nhuom-mau/biet-thu-nhuom-mau-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3926,
+    "title" : "biet-thu-nhuom-mau-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/biet-thu-nhuom-mau/biet-thu-nhuom-mau.mp3",
+    "title" : "biet-thu-nhuom-mau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-thu-nhuom-mau/biet-thu-nhuom-mau-tap-2.mp3",
+    "title" : "biet-thu-nhuom-mau-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

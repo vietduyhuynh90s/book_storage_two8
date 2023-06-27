@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ma-da-song-ben-tuan.html",
+    "title" : "Ma Da Sông Bến Tuần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khắc Hiếu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 19071,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_2e50bd37333ee3a8487a61a363474618.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_2e50bd37333ee3a8487a61a363474618.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ma-da-song-ben-tuan/ma-da-song-ben-tuan-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5644,
+    "title" : "ma-da-song-ben-tuan-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-da-song-ben-tuan/ma-da-song-ben-tuan-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7542,
+    "title" : "ma-da-song-ben-tuan-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-da-song-ben-tuan/ma-da-song-ben-tuan-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5885,
+    "title" : "ma-da-song-ben-tuan-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ma-da-song-ben-tuan/ma-da-song-ben-tuan-tap-1.mp3",
+    "title" : "ma-da-song-ben-tuan-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-da-song-ben-tuan/ma-da-song-ben-tuan-tap-2.mp3",
+    "title" : "ma-da-song-ben-tuan-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-da-song-ben-tuan/ma-da-song-ben-tuan-tap-3.mp3",
+    "title" : "ma-da-song-ben-tuan-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/bong-trang-trang-nga.html",
+    "title" : "Bóng Trăng Trắng Ngà",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thục Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 20734,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_178618e0f0293c804951034248bbdfc5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_178618e0f0293c804951034248bbdfc5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2748,
+    "title" : "bong-trang-trang-nga-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2544,
+    "title" : "bong-trang-trang-nga-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2322,
+    "title" : "bong-trang-trang-nga-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2558,
+    "title" : "bong-trang-trang-nga-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2715,
+    "title" : "bong-trang-trang-nga-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2543,
+    "title" : "bong-trang-trang-nga-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2526,
+    "title" : "bong-trang-trang-nga-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2778,
+    "title" : "bong-trang-trang-nga-tap-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-1.mp3",
+    "title" : "bong-trang-trang-nga-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-2.mp3",
+    "title" : "bong-trang-trang-nga-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-3.mp3",
+    "title" : "bong-trang-trang-nga-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-4.mp3",
+    "title" : "bong-trang-trang-nga-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-5.mp3",
+    "title" : "bong-trang-trang-nga-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-6.mp3",
+    "title" : "bong-trang-trang-nga-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-7.mp3",
+    "title" : "bong-trang-trang-nga-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-trang-trang-nga/bong-trang-trang-nga-tap-8.mp3",
+    "title" : "bong-trang-trang-nga-tap-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

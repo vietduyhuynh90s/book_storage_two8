@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/doan-tau-xu-bac.html",
+    "title" : "Đoàn Tàu Xứ Bắc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mộc Mộc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 9649,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_c5584d5fff9c08d519c78299b512a371.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_c5584d5fff9c08d519c78299b512a371.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doan-tau-xu-bac/doan-tau-xu-bac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3622,
+    "title" : "doan-tau-xu-bac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doan-tau-xu-bac/doan-tau-xu-bac-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2990,
+    "title" : "doan-tau-xu-bac-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doan-tau-xu-bac/doan-tau-xu-bac-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3037,
+    "title" : "doan-tau-xu-bac-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doan-tau-xu-bac/doan-tau-xu-bac.mp3",
+    "title" : "doan-tau-xu-bac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doan-tau-xu-bac/doan-tau-xu-bac-tap-2.mp3",
+    "title" : "doan-tau-xu-bac-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doan-tau-xu-bac/doan-tau-xu-bac-tap-3.mp3",
+    "title" : "doan-tau-xu-bac-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

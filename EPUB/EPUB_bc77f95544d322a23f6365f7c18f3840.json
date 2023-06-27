@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ac-nghiep-ke-lam-tien.html",
+    "title" : "Ác Nghiệp Kẻ Lắm Tiền",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Đan Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 11363,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_bc77f95544d322a23f6365f7c18f3840.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_bc77f95544d322a23f6365f7c18f3840.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ac-nghiep-ke-lam-tien/ac-nghiep-ke-lam-tien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5609,
+    "title" : "ac-nghiep-ke-lam-tien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ac-nghiep-ke-lam-tien/ac-nghiep-ke-lam-tien-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5754,
+    "title" : "ac-nghiep-ke-lam-tien-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ac-nghiep-ke-lam-tien/ac-nghiep-ke-lam-tien.mp3",
+    "title" : "ac-nghiep-ke-lam-tien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ac-nghiep-ke-lam-tien/ac-nghiep-ke-lam-tien-tap-2.mp3",
+    "title" : "ac-nghiep-ke-lam-tien-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

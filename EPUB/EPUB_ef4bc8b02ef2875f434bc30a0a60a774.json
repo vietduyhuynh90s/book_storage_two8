@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cau-co-gap-quy-1-gio.html",
+    "title" : "Cầu Cơ Gặp Quỷ 1 Giò",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Huy Rùi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 12106,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_ef4bc8b02ef2875f434bc30a0a60a774.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_ef4bc8b02ef2875f434bc30a0a60a774.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cau-co-gap-quy-1-gio/cau-co-gap-quy-1-gio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4036,
+    "title" : "cau-co-gap-quy-1-gio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-co-gap-quy-1-gio/cau-co-gap-quy-1-gio-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4016,
+    "title" : "cau-co-gap-quy-1-gio-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-co-gap-quy-1-gio/cau-co-gap-quy-1-gio-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4054,
+    "title" : "cau-co-gap-quy-1-gio-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cau-co-gap-quy-1-gio/cau-co-gap-quy-1-gio.mp3",
+    "title" : "cau-co-gap-quy-1-gio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-co-gap-quy-1-gio/cau-co-gap-quy-1-gio-tap-2.mp3",
+    "title" : "cau-co-gap-quy-1-gio-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-co-gap-quy-1-gio/cau-co-gap-quy-1-gio-tap-3.mp3",
+    "title" : "cau-co-gap-quy-1-gio-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

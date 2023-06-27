@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/quy-ngu.html",
+    "title" : "Quỷ Ngự",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Johnny Trần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 27740,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_e8c0b1053822924213dff85a8833a6e9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_e8c0b1053822924213dff85a8833a6e9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quy-ngu/quy-ngu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3570,
+    "title" : "quy-ngu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-ngu/quy-ngu-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3911,
+    "title" : "quy-ngu-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-ngu/quy-ngu-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4061,
+    "title" : "quy-ngu-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-ngu/quy-ngu-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3775,
+    "title" : "quy-ngu-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-ngu/quy-ngu-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3831,
+    "title" : "quy-ngu-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-ngu/quy-ngu-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4007,
+    "title" : "quy-ngu-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-ngu/quy-ngu-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4585,
+    "title" : "quy-ngu-tap-7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quy-ngu/quy-ngu.mp3",
+    "title" : "quy-ngu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-ngu/quy-ngu-tap-2.mp3",
+    "title" : "quy-ngu-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-ngu/quy-ngu-tap-3.mp3",
+    "title" : "quy-ngu-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-ngu/quy-ngu-tap-4.mp3",
+    "title" : "quy-ngu-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-ngu/quy-ngu-tap-5.mp3",
+    "title" : "quy-ngu-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-ngu/quy-ngu-tap-6.mp3",
+    "title" : "quy-ngu-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-ngu/quy-ngu-tap-7.mp3",
+    "title" : "quy-ngu-tap-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
