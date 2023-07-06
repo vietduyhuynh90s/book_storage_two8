@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=Hs7LwfuU_vI&list=PLzWlUB0IZ2yPSOMdoI_ZH_OX_8xURRCdw",
+    "title" : "Từ IQ đến EQ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trương Manh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "“Từ IQ đến EQ” là cuốn sách sẽ giúp bạn nhận biết và bồi dưỡng trí tuệ cảm xúc của bản thân, định hình và phát triển bản thân, mở rộng mối quan hệ xã giao, cách phá vỡ những cục diện bế tắc, khai thác và vận dụng mối quan hệ xã giao và những kỹ năng để nâng cấp mối quan hệ này một cách tốt đẹp hơn",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-06",
+    "duration" : 18215,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_c76ff562784ef79ad96d06588c2351ba.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_c76ff562784ef79ad96d06588c2351ba.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_f78542572c12507a9fa14ec2cb4607e2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Chương 1: Kĩ năng biến \"yêu quý\" trở thành \"coi trọng\" P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_4a3bc0db50789a8313cdc5588b44629c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Chương 1: Kĩ năng biến \"yêu quý\" trở thành \"coi trọng\" P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_3b17081e00610318e32cd51113c61bf4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Chương 2: Khả năng quản lý thương hiệu của chính bản thân P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_5ccb12ebfdb95652ec49051190f10066.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Chương 2: Khả năng quản lý thương hiệu của chính bản thân P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_7619b962c21ee403ed82d9f1a3224081.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Chương 3: Hai bàn tay trắng của bạn chỉ là một góc nhìn P1",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_f78542572c12507a9fa14ec2cb4607e2.mp3",
+    "title" : "Chương 1: Kĩ năng biến \"yêu quý\" trở thành \"coi trọng\" P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_4a3bc0db50789a8313cdc5588b44629c.mp3",
+    "title" : "Chương 1: Kĩ năng biến \"yêu quý\" trở thành \"coi trọng\" P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_3b17081e00610318e32cd51113c61bf4.mp3",
+    "title" : "Chương 2: Khả năng quản lý thương hiệu của chính bản thân P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_5ccb12ebfdb95652ec49051190f10066.mp3",
+    "title" : "Chương 2: Khả năng quản lý thương hiệu của chính bản thân P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_7619b962c21ee403ed82d9f1a3224081.mp3",
+    "title" : "Chương 3: Hai bàn tay trắng của bạn chỉ là một góc nhìn P1",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
