@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chiec-lu-dong-mat-cua_20877.html",
+    "title" : "Chiếc Lư Đồng Mắt Cua",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Tuân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-18",
+    "duration" : 14884,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_6a0cd66370282d226dac0afb003f4cc5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_6a0cd66370282d226dac0afb003f4cc5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_6a0cd66370282d226dac0afb003f4cc5_d78061dbd77faffdbb8c44de87c58ae2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1788,
+    "title" : "CHIEC LU DONG MAT CUA 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_6a0cd66370282d226dac0afb003f4cc5_c1bc58b5d614ab7032e058c99d4097b6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1720,
+    "title" : "CHIEC LU DONG MAT CUA 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_6a0cd66370282d226dac0afb003f4cc5_7dcb1068fa6f43f11808292bb434de99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1964,
+    "title" : "CHIEC LU DONG MAT CUA 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_6a0cd66370282d226dac0afb003f4cc5_ab92a4b210fa1ff9faf02a5fb73f30e3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2382,
+    "title" : "CHIEC LU DONG MAT CUA 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_6a0cd66370282d226dac0afb003f4cc5_f7dfa0a7579e3d1bd6eb7c8894260ff6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2576,
+    "title" : "CHIEC LU DONG MAT CUA 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_6a0cd66370282d226dac0afb003f4cc5_d1715e21d7c93c13686d8e91024443c5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2574,
+    "title" : "CHIEC LU DONG MAT CUA 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_6a0cd66370282d226dac0afb003f4cc5_9539f6cc8c5463395222d9b909daf04a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1880,
+    "title" : "CHIEC LU DONG MAT CUA 07",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_6a0cd66370282d226dac0afb003f4cc5_d78061dbd77faffdbb8c44de87c58ae2.mp3",
+    "title" : "CHIEC LU DONG MAT CUA 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_6a0cd66370282d226dac0afb003f4cc5_c1bc58b5d614ab7032e058c99d4097b6.mp3",
+    "title" : "CHIEC LU DONG MAT CUA 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_6a0cd66370282d226dac0afb003f4cc5_7dcb1068fa6f43f11808292bb434de99.mp3",
+    "title" : "CHIEC LU DONG MAT CUA 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_6a0cd66370282d226dac0afb003f4cc5_ab92a4b210fa1ff9faf02a5fb73f30e3.mp3",
+    "title" : "CHIEC LU DONG MAT CUA 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_6a0cd66370282d226dac0afb003f4cc5_f7dfa0a7579e3d1bd6eb7c8894260ff6.mp3",
+    "title" : "CHIEC LU DONG MAT CUA 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_6a0cd66370282d226dac0afb003f4cc5_d1715e21d7c93c13686d8e91024443c5.mp3",
+    "title" : "CHIEC LU DONG MAT CUA 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_6a0cd66370282d226dac0afb003f4cc5_9539f6cc8c5463395222d9b909daf04a.mp3",
+    "title" : "CHIEC LU DONG MAT CUA 07",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
