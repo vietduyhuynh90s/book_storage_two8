@@ -1,0 +1,641 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-trung-bo-tap-3-14114.html",
+    "title" : "KINH TRUNG BỘ - TẬP 3",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Minh Châu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Ba tập Toát yếu Kinh Trung Bộ I, II và III này, tôi đã làm ít nhất ba lần, và mỗi lần đều làm sau khi đã đọc kỹ bản dịch của Hòa thượng Thích Minh Châu. Thế nhưng mỗi lần tôi đều toát yếu một cách khác, nhất là sau khi được đọc bản phiên dịch và chú thích bằng Anh ngữ của Đại đức Ñaṇamoli và Đại đức Bodhi. Như vậy đủ biết, những lời Phật dạy như núi cao, biển cả, mà sự học hiểu của mình chỉ như một cái xẻng đào đất hay cái muỗng múc canh, mỗi lúc chỉ lấy được một ít và rất phiến diện. Bởi thế mà Hòa thượng thường dạy, ngài không bao giờ “giải thích” lời Phật dạy, mà chỉ cố gắng dịch cho đúng nguyên văn của Người xưa dù có tối nghĩa đến đâu. Đấy là cái đức khiêm cung của ngài, trong vô số đức tính mà tôi ngưỡng mộ.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_8416ad25c514b633bd28ece843b220e8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_8416ad25c514b633bd28ece843b220e8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Kinh Devadaha",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=2584",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:43:04 Kinh Năm Ba",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=4348",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:12:28 Kinh Như Thế Nào",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=5171",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:26:11 Kinh Làng Sama",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=6513",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:48:33 Kinh Thiện Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=8009",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:13:29 Kinh Bất Động Lợi Ích",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=8812",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:26:52 Kinh Ganaka Moggallana",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=10957",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:02:37 Đại Kinh Mãn Nguyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=11752",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:15:52 Tiểu Kinh Mãn Nguyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=12467",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:27:47 Kinh Bất Đoạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=13307",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:41:47 Sáu Thanh Tịnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=14779",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:06:19 Kinh Chân Nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=16343",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:32:23 Kinh Nên Hành Trì - Không Nên Hành Trì",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=18886",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:14:46 Kinh Đa Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=20112",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:35:12 Kinh Thôn Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=20565",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:42:45 Đại Kinh Bốn Mươi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=21782",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:03:02 Kinh Nhập Tức Xuất Tức Niệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=23309",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:28:29 Kinh Thân Hành Niệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=24929",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:55:29 Kinh Hành Sanh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=25579",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:06:19 Kinh Tiểu Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=26414",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:20:14 Kinh Đại Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=27790",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:43:10 Kinh Hy Hữu Vị Tằng Hữu Pháp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=28802",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:00:02 Kinh Bạc Câu La",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=29277",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:07:57 Kinh Điều Ngự Địa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=30707",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:31:47 Kinh Phù Di",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=31675",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:47:55 Kinh A Na Luật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=32794",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:06:34 Kinh Tùy Phiền Não",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=34126",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:28:46 Kinh Hiền Ngu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=37381",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:23:01 Kinh Thiên Sứ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=38705",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:45:05 Kinh Nhứt Dạ Hiền Giả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=39092",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:51:32 Kinh A Nan Nhứt Dạ Hiền Giả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=39390",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:56:30 Kinh Đại Ca Chiên Diên Nhứt Dạ Hiền Giả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=40456",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:14:16 Kinh Lomasakangiya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=40844",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:20:44 Kinh Tiểu Nghiệp Phân Biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=41570",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:32:50 Kinh Đại Nghiệp Phân Biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=42997",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:56:37 Kinh Phân Biệt Sáu Xứ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=44211",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:16:51 Kinh Tổng Thuyết Và Biệt Thuyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=45378",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:36:18 Kinh Vô Tránh Phân Biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=46651",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:57:31 Kinh Giới Phân Biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=48486",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:28:06 Kinh Phân Biệt Về Sự Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=49242",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:40:42 Kinh Phân Biệt Cúng Dường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=50073",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:54:33 Kinh Giáo Giới Cấp Cô Độc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=50996",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:09:56 Kinh Giáo Giới Channa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=52427",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:33:47 Kinh Giáo Giới Nandaka",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=53673",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:54:33 Tiểu Kinh Giáo Giới La Hầu La",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=54089",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:01:29 Kinh Sáu Sáu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=55548",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:25:48 Đại Kinh Sáu Xứ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=56028",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:33:48 Kinh Nói Cho Dân Chúng Nagaravinda",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=56471",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:41:11 Kinh Khất Thực Thanh Tịnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=57124",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:52:04 Kinh Căn Tu Tập",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Kinh Devadaha",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=2584",
+    "title" : "00:43:04 Kinh Năm Ba",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=4348",
+    "title" : "01:12:28 Kinh Như Thế Nào",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=5171",
+    "title" : "01:26:11 Kinh Làng Sama",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=6513",
+    "title" : "01:48:33 Kinh Thiện Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=8009",
+    "title" : "02:13:29 Kinh Bất Động Lợi Ích",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=8812",
+    "title" : "02:26:52 Kinh Ganaka Moggallana",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=10957",
+    "title" : "03:02:37 Đại Kinh Mãn Nguyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=11752",
+    "title" : "03:15:52 Tiểu Kinh Mãn Nguyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=12467",
+    "title" : "03:27:47 Kinh Bất Đoạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=13307",
+    "title" : "03:41:47 Sáu Thanh Tịnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=14779",
+    "title" : "04:06:19 Kinh Chân Nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=16343",
+    "title" : "04:32:23 Kinh Nên Hành Trì - Không Nên Hành Trì",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=18886",
+    "title" : "05:14:46 Kinh Đa Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=20112",
+    "title" : "05:35:12 Kinh Thôn Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=20565",
+    "title" : "05:42:45 Đại Kinh Bốn Mươi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=21782",
+    "title" : "06:03:02 Kinh Nhập Tức Xuất Tức Niệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=23309",
+    "title" : "06:28:29 Kinh Thân Hành Niệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=24929",
+    "title" : "06:55:29 Kinh Hành Sanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=25579",
+    "title" : "07:06:19 Kinh Tiểu Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=26414",
+    "title" : "07:20:14 Kinh Đại Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=27790",
+    "title" : "07:43:10 Kinh Hy Hữu Vị Tằng Hữu Pháp",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=28802",
+    "title" : "08:00:02 Kinh Bạc Câu La",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=29277",
+    "title" : "08:07:57 Kinh Điều Ngự Địa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=30707",
+    "title" : "08:31:47 Kinh Phù Di",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=31675",
+    "title" : "08:47:55 Kinh A Na Luật",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=32794",
+    "title" : "09:06:34 Kinh Tùy Phiền Não",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=34126",
+    "title" : "09:28:46 Kinh Hiền Ngu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=37381",
+    "title" : "10:23:01 Kinh Thiên Sứ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=38705",
+    "title" : "10:45:05 Kinh Nhứt Dạ Hiền Giả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=39092",
+    "title" : "10:51:32 Kinh A Nan Nhứt Dạ Hiền Giả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=39390",
+    "title" : "10:56:30 Kinh Đại Ca Chiên Diên Nhứt Dạ Hiền Giả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=40456",
+    "title" : "11:14:16 Kinh Lomasakangiya",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=40844",
+    "title" : "11:20:44 Kinh Tiểu Nghiệp Phân Biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=41570",
+    "title" : "11:32:50 Kinh Đại Nghiệp Phân Biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=42997",
+    "title" : "11:56:37 Kinh Phân Biệt Sáu Xứ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=44211",
+    "title" : "12:16:51 Kinh Tổng Thuyết Và Biệt Thuyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=45378",
+    "title" : "12:36:18 Kinh Vô Tránh Phân Biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=46651",
+    "title" : "12:57:31 Kinh Giới Phân Biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=48486",
+    "title" : "13:28:06 Kinh Phân Biệt Về Sự Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=49242",
+    "title" : "13:40:42 Kinh Phân Biệt Cúng Dường",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=50073",
+    "title" : "13:54:33 Kinh Giáo Giới Cấp Cô Độc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=50996",
+    "title" : "14:09:56 Kinh Giáo Giới Channa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=52427",
+    "title" : "14:33:47 Kinh Giáo Giới Nandaka",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=53673",
+    "title" : "14:54:33 Tiểu Kinh Giáo Giới La Hầu La",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=54089",
+    "title" : "15:01:29 Kinh Sáu Sáu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=55548",
+    "title" : "15:25:48 Đại Kinh Sáu Xứ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=56028",
+    "title" : "15:33:48 Kinh Nói Cho Dân Chúng Nagaravinda",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=56471",
+    "title" : "15:41:11 Kinh Khất Thực Thanh Tịnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14114-kinh-trung-bo-tap-3-thuviensach.vn.mp3?t=57124",
+    "title" : "15:52:04 Kinh Căn Tu Tập",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

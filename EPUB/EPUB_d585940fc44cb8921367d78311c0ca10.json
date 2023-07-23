@@ -1,0 +1,797 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/the-gia-danh-mon-14390.html",
+    "title" : "THẾ GIA DANH MÔN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thập Tam Xuân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Người ta xuyên không về làm đệ nhất mĩ nhân quốc sắc thiên hương vạn người si mê, trăm người sủng ái. Tưởng Nhược Nam nàng lại xuyên không về làm một cô nàng đanh đá người người ghét bỏ, làm một nàng dâu thất sủng chẳng ai ưa, bảo nàng phải làm sao đây? Bảo nàng nhịn để người khác ức hiếp? Không bao giờ! Tìm cách ly hôn? Đây là hôn nhân được đương kim Thánh thượng ban! Nàng chưa muốn mất cái đầu này. Phải chung chồng với kẻ khác, phải nhìn mặt “hắn” để tìm sự sủng hạnh? Không đời nào! Tưởng Nhược Nam nàng không tin không có cách tồn tại ở thế giới này, nàng sẽ sống, thậm chí sống tốt, rất tốt cho hắn, cho những người từng ghét bỏ, hãm hại “cơ thể” này phải chống mắt lên xem!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_d585940fc44cb8921367d78311c0ca10.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_d585940fc44cb8921367d78311c0ca10.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Thế Gia Danh Môn - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=1303",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:21:43 Thế Gia Danh Môn - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=3956",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:05:56 Thế Gia Danh Môn - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=7009",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:56:49 Thế Gia Danh Môn - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=9712",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:41:52 Thế Gia Danh Môn - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=12615",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:30:15 Thế Gia Danh Môn - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=15288",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:14:48 Thế Gia Danh Môn - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=17891",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:58:11 Thế Gia Danh Môn - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=20724",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:45:24 Thế Gia Danh Môn - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=23627",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:33:47 Thế Gia Danh Môn - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=26130",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:15:30 Thế Gia Danh Môn - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=29133",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:05:33 Thế Gia Danh Môn - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=32036",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:53:56 Thế Gia Danh Môn - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=34899",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:41:39 Thế Gia Danh Môn - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=37942",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:32:22 Thế Gia Danh Môn - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=40845",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:20:45 Thế Gia Danh Môn - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=43468",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:04:28 Thế Gia Danh Môn - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=45971",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:46:11 Thế Gia Danh Môn - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=48774",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:32:54 Thế Gia Danh Môn - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=51317",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:15:17 Thế Gia Danh Môn - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=54380",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:06:20 Thế Gia Danh Môn - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=57083",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:51:23 Thế Gia Danh Môn - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=60066",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:41:06 Thế Gia Danh Môn - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=63079",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:31:19 Thế Gia Danh Môn - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=66042",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:20:42 Thế Gia Danh Môn - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=68355",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:59:15 Thế Gia Danh Môn - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=71258",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:47:38 Thế Gia Danh Môn - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=74261",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:37:41 Thế Gia Danh Môn - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=77215",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:26:55 Thế Gia Danh Môn - Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=79598",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:06:38 Thế Gia Danh Môn - Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=82601",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:56:41 Thế Gia Danh Môn - Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=85654",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:47:34 Thế Gia Danh Môn - Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=88647",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:37:27 Thế Gia Danh Môn - Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=91850",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:30:50 Thế Gia Danh Môn - Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=95003",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:23:23 Thế Gia Danh Môn - Phần 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=97106",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:58:26 Thế Gia Danh Môn - Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=99232",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "27:33:52 Thế Gia Danh Môn - Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=102115",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "28:21:55 Thế Gia Danh Môn - Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=104638",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "29:03:58 Thế Gia Danh Môn - Phần 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=107666",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "29:54:26 Thế Gia Danh Môn - Phần 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=110669",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "30:44:29 Thế Gia Danh Môn - Phần 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=113681",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "31:34:41 Thế Gia Danh Môn - Phần 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=116624",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "32:23:44 Thế Gia Danh Môn - Phần 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=119634",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "33:13:54 Thế Gia Danh Môn - Phần 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=122588",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:03:08 Thế Gia Danh Môn - Phần 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=125546",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:52:26 Thế Gia Danh Môn - Phần 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=127799",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "35:29:59 Thế Gia Danh Môn - Phần 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=130427",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "36:13:47 Thế Gia Danh Môn - Phần 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=133305",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "37:01:45 Thế Gia Danh Môn - Phần 49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=135468",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "37:37:48 Thế Gia Danh Môn - Phần 50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=138931",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "38:35:31 Thế Gia Danh Môn - Phần 51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=141934",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "39:25:34 Thế Gia Danh Môn - Phần 52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=144551",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "40:09:11 Thế Gia Danh Môn - Phần 53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=148036",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "41:07:16 Thế Gia Danh Môn - Phần 54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=151699",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "42:08:19 Thế Gia Danh Môn - Phần 55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=155412",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "43:10:12 Thế Gia Danh Môn - Phần 56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=159333",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "44:15:33 Thế Gia Danh Môn - Phần 57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=164886",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "45:48:06 Thế Gia Danh Môn - Phần 58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=168681",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "46:51:21 Thế Gia Danh Môn - Phần 59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=172684",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "47:58:04 Thế Gia Danh Môn - Phần 60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=176432",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "49:00:32 Thế Gia Danh Môn - Phần 61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=180440",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "50:07:20 Thế Gia Danh Môn - Phần 62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=184543",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "51:15:43 Thế Gia Danh Môn - Phần 63 (End)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Thế Gia Danh Môn - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=1303",
+    "title" : "00:21:43 Thế Gia Danh Môn - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=3956",
+    "title" : "01:05:56 Thế Gia Danh Môn - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=7009",
+    "title" : "01:56:49 Thế Gia Danh Môn - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=9712",
+    "title" : "02:41:52 Thế Gia Danh Môn - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=12615",
+    "title" : "03:30:15 Thế Gia Danh Môn - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=15288",
+    "title" : "04:14:48 Thế Gia Danh Môn - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=17891",
+    "title" : "04:58:11 Thế Gia Danh Môn - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=20724",
+    "title" : "05:45:24 Thế Gia Danh Môn - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=23627",
+    "title" : "06:33:47 Thế Gia Danh Môn - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=26130",
+    "title" : "07:15:30 Thế Gia Danh Môn - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=29133",
+    "title" : "08:05:33 Thế Gia Danh Môn - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=32036",
+    "title" : "08:53:56 Thế Gia Danh Môn - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=34899",
+    "title" : "09:41:39 Thế Gia Danh Môn - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=37942",
+    "title" : "10:32:22 Thế Gia Danh Môn - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=40845",
+    "title" : "11:20:45 Thế Gia Danh Môn - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=43468",
+    "title" : "12:04:28 Thế Gia Danh Môn - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=45971",
+    "title" : "12:46:11 Thế Gia Danh Môn - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=48774",
+    "title" : "13:32:54 Thế Gia Danh Môn - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=51317",
+    "title" : "14:15:17 Thế Gia Danh Môn - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=54380",
+    "title" : "15:06:20 Thế Gia Danh Môn - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=57083",
+    "title" : "15:51:23 Thế Gia Danh Môn - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=60066",
+    "title" : "16:41:06 Thế Gia Danh Môn - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=63079",
+    "title" : "17:31:19 Thế Gia Danh Môn - Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=66042",
+    "title" : "18:20:42 Thế Gia Danh Môn - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=68355",
+    "title" : "18:59:15 Thế Gia Danh Môn - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=71258",
+    "title" : "19:47:38 Thế Gia Danh Môn - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=74261",
+    "title" : "20:37:41 Thế Gia Danh Môn - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=77215",
+    "title" : "21:26:55 Thế Gia Danh Môn - Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=79598",
+    "title" : "22:06:38 Thế Gia Danh Môn - Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=82601",
+    "title" : "22:56:41 Thế Gia Danh Môn - Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=85654",
+    "title" : "23:47:34 Thế Gia Danh Môn - Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=88647",
+    "title" : "24:37:27 Thế Gia Danh Môn - Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=91850",
+    "title" : "25:30:50 Thế Gia Danh Môn - Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=95003",
+    "title" : "26:23:23 Thế Gia Danh Môn - Phần 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=97106",
+    "title" : "26:58:26 Thế Gia Danh Môn - Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=99232",
+    "title" : "27:33:52 Thế Gia Danh Môn - Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=102115",
+    "title" : "28:21:55 Thế Gia Danh Môn - Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=104638",
+    "title" : "29:03:58 Thế Gia Danh Môn - Phần 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=107666",
+    "title" : "29:54:26 Thế Gia Danh Môn - Phần 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=110669",
+    "title" : "30:44:29 Thế Gia Danh Môn - Phần 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=113681",
+    "title" : "31:34:41 Thế Gia Danh Môn - Phần 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=116624",
+    "title" : "32:23:44 Thế Gia Danh Môn - Phần 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=119634",
+    "title" : "33:13:54 Thế Gia Danh Môn - Phần 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=122588",
+    "title" : "34:03:08 Thế Gia Danh Môn - Phần 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=125546",
+    "title" : "34:52:26 Thế Gia Danh Môn - Phần 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=127799",
+    "title" : "35:29:59 Thế Gia Danh Môn - Phần 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=130427",
+    "title" : "36:13:47 Thế Gia Danh Môn - Phần 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=133305",
+    "title" : "37:01:45 Thế Gia Danh Môn - Phần 49",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=135468",
+    "title" : "37:37:48 Thế Gia Danh Môn - Phần 50",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=138931",
+    "title" : "38:35:31 Thế Gia Danh Môn - Phần 51",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=141934",
+    "title" : "39:25:34 Thế Gia Danh Môn - Phần 52",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=144551",
+    "title" : "40:09:11 Thế Gia Danh Môn - Phần 53",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=148036",
+    "title" : "41:07:16 Thế Gia Danh Môn - Phần 54",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=151699",
+    "title" : "42:08:19 Thế Gia Danh Môn - Phần 55",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=155412",
+    "title" : "43:10:12 Thế Gia Danh Môn - Phần 56",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=159333",
+    "title" : "44:15:33 Thế Gia Danh Môn - Phần 57",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=164886",
+    "title" : "45:48:06 Thế Gia Danh Môn - Phần 58",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=168681",
+    "title" : "46:51:21 Thế Gia Danh Môn - Phần 59",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=172684",
+    "title" : "47:58:04 Thế Gia Danh Môn - Phần 60",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=176432",
+    "title" : "49:00:32 Thế Gia Danh Môn - Phần 61",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=180440",
+    "title" : "50:07:20 Thế Gia Danh Môn - Phần 62",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14390-the-gia-danh-mon-thuviensach.vn.mp3?t=184543",
+    "title" : "51:15:43 Thế Gia Danh Môn - Phần 63 (End)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

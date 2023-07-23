@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-tuong-ung-bo-tap-6-14123.html",
+    "title" : "KINH TƯƠNG ƯNG BỘ - TẬP 6",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Minh Châu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tương Ưng Bộ (Samyutta Nikàya) là bộ kinh thứ ba trong kinh tạng Pàli (Trường bộ, Trung bộ, Tương Ưng bộ, Tăng Chi bộ, và Tiểu bộ). Bộ kinh là một tập hợp các bài kinh dài ngắn không đều, nhưng đa số là các bài kinh ngắn, được sắp xếp và kết nhóm theo từng loại chủ đề, gọi là Tương Ưng (Samyutta). Có tất cả là 56 Tương Ưng được bố trí vào 5 tập, gọi là 5 Thiên (Vagga): 1. Thiên Có Kệ (Sagàthàvagga Samyuttapàli): 11 Tương Ưng 2. Thiên Nhân Duyên (Nidànavagga Samyuttapàli): 10 Tương Ưng 3. Thiên Uẩn (Khandavagga Samyuttapàli): 13 Tương Ưng 4. Thiên Sáu Xứ (Salàyatanavagga Samyuttapàli): 10 Tương Ưng 5. Thiên Đại Phẩm (Mahàvagga Samyuttapàli): 12 Tương Ưng Bộ kinh đã được Hòa thượng Thích Minh Châu dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên 1980. Sau đó, trong chương trình phiên dịch và ấn hành Đại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16. Trong hệ A-hàm của Hán tạng, bộ kinh tương ứng là Tạp A-hàm, đã được Hòa thượng Thích Thiện Siêu và Hòa thượng Thích Thanh Từ dịch và ấn hành năm 1993-1995, Đại tạng kinh Việt Nam số 17 đến 20.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_2b1883593a27d334bfed106d943fa3ea.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_2b1883593a27d334bfed106d943fa3ea.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Tập 5 - Chương 3: Tương Ưng Niệm Xứ - Phẩm 1 Ambapali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=2370",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:39:30 Tập 5 - Chương 3: Tương Ưng Niệm Xứ - Phẩm 2 Dananda",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=4125",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:08:45 Tập 5 - Chương 3: Tương Ưng Niệm Xứ - Phẩm 3 - 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=5657",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:34:17 Tập 5 - Chương 3: Tương Ưng Niệm Xứ - Phẩm 5 - 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=6677",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:51:17 Tập 5 - Chương 4: Tương Ưng Căn - Phẩm 1 - 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=7724",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:08:44 Tập 5 - Chương 4: Tương Ưng Căn - Phẩm 3 - 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=8709",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:25:09 Tập 5 - Chương 4: Tương Ưng Căn - Phẩm 5 - 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=10859",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:00:59 Tập 5 - Chương 4: Tương Ưng Căn - Phẩm 7 - 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=11393",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:09:53 Tập 5 - Chương 5: Tương Ưng Chánh Cần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=11726",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:15:26 Tập 5 - Chương 6: Tương Ưng Lực_Chương 7 - Tương Ưng Như Ý Túc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=15627",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:20:27 Tập 5 - Chương 8: Tương Ưng Anuruddha_Chương 9 - Tương Ưng Thiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=17069",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:44:29 Tập 5 - Chương 10: Tương Ưng Hơi Thở Vô, Hơi Thở Ra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=19154",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:19:14 Tập 5 - Chương 10: Tương Ưng Hơi Thở Vô, Hơi Thở Ra - Tiếp Theo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=20100",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:35:00 Tập 5 - Chương 11: Tương Ưng Dự Lưu - Phẩm 1 Veludvara",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=22298",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:11:38 Tập 5 - Chương 11: Tương Ưng Dự Lưu - Phẩm 2 Một Ngày Hay Vườn Vua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=23028",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:23:48 Tập 5 - Chương 11: Tương Ưng Dự Lưu - Phẩm 3 Saranani",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=25282",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:01:22 Tập 5 - Chương 11: Tương Ưng Dự Lưu - Phẩm 4 Phước Đức Sung Mãn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=26184",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:16:24 Tập 5 - Chương 11: Tương Ưng Dự Lưu - Phẩm 5 - 6 - 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=27432",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:37:12 Tập 5 - Chương 12: Tương Ưng Sự Thật - Phẩm 1 - 2 - 3 - 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=30728",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:32:08 Tập 5 - Chương 12: Tương Ưng Sự Thật - Phẩm 5 Đến Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Tập 5 - Chương 3: Tương Ưng Niệm Xứ - Phẩm 1 Ambapali",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=2370",
+    "title" : "00:39:30 Tập 5 - Chương 3: Tương Ưng Niệm Xứ - Phẩm 2 Dananda",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=4125",
+    "title" : "01:08:45 Tập 5 - Chương 3: Tương Ưng Niệm Xứ - Phẩm 3 - 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=5657",
+    "title" : "01:34:17 Tập 5 - Chương 3: Tương Ưng Niệm Xứ - Phẩm 5 - 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=6677",
+    "title" : "01:51:17 Tập 5 - Chương 4: Tương Ưng Căn - Phẩm 1 - 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=7724",
+    "title" : "02:08:44 Tập 5 - Chương 4: Tương Ưng Căn - Phẩm 3 - 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=8709",
+    "title" : "02:25:09 Tập 5 - Chương 4: Tương Ưng Căn - Phẩm 5 - 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=10859",
+    "title" : "03:00:59 Tập 5 - Chương 4: Tương Ưng Căn - Phẩm 7 - 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=11393",
+    "title" : "03:09:53 Tập 5 - Chương 5: Tương Ưng Chánh Cần",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=11726",
+    "title" : "03:15:26 Tập 5 - Chương 6: Tương Ưng Lực_Chương 7 - Tương Ưng Như Ý Túc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=15627",
+    "title" : "04:20:27 Tập 5 - Chương 8: Tương Ưng Anuruddha_Chương 9 - Tương Ưng Thiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=17069",
+    "title" : "04:44:29 Tập 5 - Chương 10: Tương Ưng Hơi Thở Vô, Hơi Thở Ra",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=19154",
+    "title" : "05:19:14 Tập 5 - Chương 10: Tương Ưng Hơi Thở Vô, Hơi Thở Ra - Tiếp Theo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=20100",
+    "title" : "05:35:00 Tập 5 - Chương 11: Tương Ưng Dự Lưu - Phẩm 1 Veludvara",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=22298",
+    "title" : "06:11:38 Tập 5 - Chương 11: Tương Ưng Dự Lưu - Phẩm 2 Một Ngày Hay Vườn Vua",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=23028",
+    "title" : "06:23:48 Tập 5 - Chương 11: Tương Ưng Dự Lưu - Phẩm 3 Saranani",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=25282",
+    "title" : "07:01:22 Tập 5 - Chương 11: Tương Ưng Dự Lưu - Phẩm 4 Phước Đức Sung Mãn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=26184",
+    "title" : "07:16:24 Tập 5 - Chương 11: Tương Ưng Dự Lưu - Phẩm 5 - 6 - 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=27432",
+    "title" : "07:37:12 Tập 5 - Chương 12: Tương Ưng Sự Thật - Phẩm 1 - 2 - 3 - 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14123-kinh-tuong-ung-bo-tap-6-thuviensach.vn.mp3?t=30728",
+    "title" : "08:32:08 Tập 5 - Chương 12: Tương Ưng Sự Thật - Phẩm 5 Đến Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

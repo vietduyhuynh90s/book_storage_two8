@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hoa-vong-vang-14453.html",
+    "title" : "HOA VÔNG VANG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đỗ Tốn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Xuất bản lần đầu năm 1945 và được tái bản vào năm 1961, Hoa vông vang là truyện ngắn đầu tay của Đỗ Tốn. Cũng như hầu hết các sáng tác thời kỳ ấy, cái chất lãng mạn Tây học với cách nhìn phóng khoáng về cuộc sống của các nhân vật là hiện trưng của truyện.Nhất Linh rất thích truyện Ðỗ Tốn, có lần so Ðỗ Tốn với Thạch Lam: “Tôi thấy hai nhà văn này có nhiều chỗ giống nhau và tôi tin Ðỗ Tốn sẽ là một Thạch Lam thứ hai trong văn giới nước ta.”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_81f44a4b612b00d171da10dc3914a3fa.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_81f44a4b612b00d171da10dc3914a3fa.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14453-hoa-vong-vang-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Điệu Thu Ca (Trích Hoa Vông Vang)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14453-hoa-vong-vang-thuviensach.vn.mp3?t=2471",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:41:11 Một Kiếp Sống/ Duyên Số (Trích Hoa Vông Vang)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14453-hoa-vong-vang-thuviensach.vn.mp3?t=4631",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:17:11 Chú Tôi/ Hoa Vông Vang (Trích Hoa Vông Vang)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14453-hoa-vong-vang-thuviensach.vn.mp3?t=7156",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:59:16 Giáo Huấn (Trích Hoa Vông Vang). Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14453-hoa-vong-vang-thuviensach.vn.mp3?t=9291",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:34:51 Định Mệnh (Trích Hoa Vông Vang). Tập 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14453-hoa-vong-vang-thuviensach.vn.mp3?t=11304",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:08:24 Tình Quê Hương (Trích Hoa Vông Vang). Tập 06 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14453-hoa-vong-vang-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Điệu Thu Ca (Trích Hoa Vông Vang)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14453-hoa-vong-vang-thuviensach.vn.mp3?t=2471",
+    "title" : "00:41:11 Một Kiếp Sống/ Duyên Số (Trích Hoa Vông Vang)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14453-hoa-vong-vang-thuviensach.vn.mp3?t=4631",
+    "title" : "01:17:11 Chú Tôi/ Hoa Vông Vang (Trích Hoa Vông Vang)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14453-hoa-vong-vang-thuviensach.vn.mp3?t=7156",
+    "title" : "01:59:16 Giáo Huấn (Trích Hoa Vông Vang). Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14453-hoa-vong-vang-thuviensach.vn.mp3?t=9291",
+    "title" : "02:34:51 Định Mệnh (Trích Hoa Vông Vang). Tập 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14453-hoa-vong-vang-thuviensach.vn.mp3?t=11304",
+    "title" : "03:08:24 Tình Quê Hương (Trích Hoa Vông Vang). Tập 06 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/100-truyen-cuoi-dan-gian-dac-sac-tuyen-chon-14219.html",
+    "title" : "100 TRUYỆN CƯỜI DÂN GIAN ĐẶC SẮC TUYỂN CHỌN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mến chào quý cô chú anh chị. Cảm ơn cả nhà đã dành thời gian yêu mến và ủng hộ cho sự phát triển của kênh. Kính chúc cả nhà vạn sự hanh thông, bình an hạnh phúc. Vân Vân xin gởi đến cả nhà 100 truyện cười dân gian ý nhị, trào phúng và sâu sắc; góp thêm tiếng cười đến quý vị sau những giờ phút bận rộn hối hả trong cuộc sống thường nhật cũng như hi vọng góp sức chút sức nhỏ bé giữ gìn một vài câu chuyện hay mang ý nghĩa giáo dục trong kho tàng rộng lớn văn học dân gian. Cảm ơn cô chú anh chị và các em, chúc tất cả sức khỏe dồi dào, công tác tốt! Truyện Cười Dân Gian Việt Nam NXB Giáo dục 1985 Kể chọn lọc Trương Chính Truyện cười, truyện tiếu lâm, truyện cười dân gian, truyện cười trào phúng, truyện hài hước, truyện ngụ ngôn, truyện cười ngắn... Truyện cười là một lĩnh vực truyện kể dân gian rộng lớn, đa dạng, phức tạp bao gồm những hình thức được gọi bằng những danh từ khác nhau như truyện tiếu lâm, truyện khôi hài, truyện trào phúng, truyện trạng, giai thoại hài hước. Tiếng cười trong sinh học mang tính bản năng, vô thức phát ra do phản ứng của cơ thể một cách đơn thuần. Trong khi, tiếng cười tâm lý xã hội biểu thị thái độ, bộc lộ tư tưởng, tình cảm con người. Tiếng cười tâm lý xã hội có hai loại nhỏ: tiếng cười tán thưởng và tiếng cười phê phán. Tiếng cười tán thưởng biểu thị niềm vui, sự yêu mến. Tiếng cười phê phán biểu thị sự khinh ghét, sự phủ nhận. Tiếng cười phê phán là cái cười trong truyện cười. Cái cười phát ra từ cái đáng cười. Cái đáng cười chứa đựng cái hài hiểu theo nghĩa triết học, nghĩa là có mâu thuẫn bên trong. Ðó là mâu thuẫn giữa cái xấu và cái đẹp, giữa hình tượng và ý niệm, giữa sinh động và máy móc.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_3fb60fd8b285f1052501cd8a27ae2271.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_3fb60fd8b285f1052501cd8a27ae2271.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14219-100-truyen-cuoi-dan-gian-dac-sac-tuyen-chon-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14219-100-truyen-cuoi-dan-gian-dac-sac-tuyen-chon-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

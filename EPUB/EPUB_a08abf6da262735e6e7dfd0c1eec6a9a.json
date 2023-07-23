@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-loi-day-tu-cac-thien-su-viet-nam-xua-14141.html",
+    "title" : "NHỮNG LỜI DẠY TỪ CÁC THIỀN SƯ VIỆT NAM XƯA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyên Giác",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>BÌNH: Khi niệm hơi thở, bạn cũng đang niệm tâm của bạn. Sau đó, bạn sẽ thấy tâm bạn trở thành một với hơi thở. Khi niệm các hành động của thân, như lúc này là ngồi, bạn cũng đang niệm tâm bạn. Rồi bạn sẽ thấy thân và tâm là một. Nhìn vào tâm bạn, bạn thấy các niệm đến rồi đi, hệt như sóng lên rồi xuống. Khi bạn thấy không niệm nào khởi, tâm bạn sẽ an tĩnh như mặt hồ phẳng lặng. BÌNH: Hãy tự thấy vạn pháp là vô thường, và vô ngã. Nhìn vào chính bạn bây giờ, bạn thấy nó khác với hàng triệu con người của bạn hôm qua, và bạn thấy bạn chỉ là một dòng suối chảy xiết, hiển lộ vô tận trong các thân khác nhau, hệt như sóng sinh rồi diệt, như bọt sóng trào lên rồi vỡ tan. Sóng và bọt sóng cứ liên tục xuất hiện, lớn hay nhỏ, cao hay thấp, nóng hay lạnh, sạch hay dơ; nhưng luôn luôn, nước thì không có sắc tướng, bất động, không bị tạo tác. Sau cái trực nhận đó, bạn dễ dàng hành động, nói, và suy nghĩ một cách tỉnh thức, không phân biệt. Hãy thẳng đường tới giải thoát; đừng bám vào thế giới đau khổ này nữa, trong đời này hay đời sau. BÌNH: Pháp thiền niệm hơi thở giúp tịnh tâm dễ dàng; nó cũng là một phần của thiền quán niệm. Có nhiều pháp niệm hơi thở. Vài vị thầy ưa cách đếm hay theo dõi hơi thở. Bạn cũng nên thử cách này: Với mắt mở nửa chừng, đừng đếm, đừng theo dõi, mà hãy cảm nhận hơi thở; Hãy tỉnh táo, và cảm nhận hơi thở. Hãy hệt như một em bé sơ sinh, và cảm nhận hơi thở. Em bé không thể suy nghĩ, không thể đếm, không thể chú tâm vào hơi thở, nhưng em bé sống hầu hết là bằng cảm thức, và bé sẽ khóc khi trong phòng quá nóng, hay khi bé đói bụng. Hãy cảm nhận hơi thở, đừng đếm hay theo dõi nó. Hãy nhớ rằng tất cả phương pháp niệm hơi thở đều tốt, và bạn có thể thử tập nhiều pháp niệm hơi thở khác nhau. Đức Phật nói pháp thiền hơi thở cũng chữa được nhiều bệnh. BÌNH: Thiền tập y hệt như chăn trâu. Làm sao bạn giữ tâm bất động trong khi sống trong cõi này? Hãy sống như nước, chứ đừng như sóng trào hay bọt nổi; nước thì bất động, vô tác, vô vi trong khi các đợt sóng sinh rồi diệt, bọt nổi rồi tan hoài thôi. Hãy nhìn vào tâm bạn - một dòng suối bất tận của các niệm. Hãy cứ nhìn vào tâm hoài, và cứ sống như nước, bình đẳng cuốn trôi hết tất cả những gì ném vào suối.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_a08abf6da262735e6e7dfd0c1eec6a9a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_a08abf6da262735e6e7dfd0c1eec6a9a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14141-nhung-loi-day-tu-cac-thien-su-viet-nam-xua-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14141-nhung-loi-day-tu-cac-thien-su-viet-nam-xua-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

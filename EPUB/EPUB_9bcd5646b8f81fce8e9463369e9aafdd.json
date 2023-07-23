@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-tuong-ung-bo-tap-1-14118.html",
+    "title" : "KINH TƯƠNG ƯNG BỘ - TẬP 1",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Minh Châu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tương Ưng Bộ (Samyutta Nikàya) là bộ kinh thứ ba trong kinh tạng Pàli (Trường bộ, Trung bộ, Tương Ưng bộ, Tăng Chi bộ, và Tiểu bộ). Bộ kinh là một tập hợp các bài kinh dài ngắn không đều, nhưng đa số là các bài kinh ngắn, được sắp xếp và kết nhóm theo từng loại chủ đề, gọi là Tương Ưng (Samyutta). Có tất cả là 56 Tương Ưng được bố trí vào 5 tập, gọi là 5 Thiên (Vagga): 1. Thiên Có Kệ (Sagàthàvagga Samyuttapàli): 11 Tương Ưng 2. Thiên Nhân Duyên (Nidànavagga Samyuttapàli): 10 Tương Ưng 3. Thiên Uẩn (Khandavagga Samyuttapàli): 13 Tương Ưng 4. Thiên Sáu Xứ (Salàyatanavagga Samyuttapàli): 10 Tương Ưng 5. Thiên Đại Phẩm (Mahàvagga Samyuttapàli): 12 Tương Ưng Bộ kinh đã được Hòa thượng Thích Minh Châu dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên 1980. Sau đó, trong chương trình phiên dịch và ấn hành Đại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16. Trong hệ A-hàm của Hán tạng, bộ kinh tương ứng là Tạp A-hàm, đã được Hòa thượng Thích Thiện Siêu và Hòa thượng Thích Thanh Từ dịch và ấn hành năm 1993-1995, Đại tạng kinh Việt Nam số 17 đến 20.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_9bcd5646b8f81fce8e9463369e9aafdd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_9bcd5646b8f81fce8e9463369e9aafdd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Chương 1: Phẩm Cây Lau - Phẩm Vườn Hoan Hỷ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=1456",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:24:16 Chương 1: Phẩm Kiến - Phẩm Quần Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=3420",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:57:00 Chương 1: Phẩm Cháy - Phẩm Giả - Phẩm Thắng - Phẩm Đoạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=4943",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:22:23 Chương 2: Phẩm Thứ Nhất - Phẩm Cấp Cô Độc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=6431",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:47:11 Chương 2: Phẩm Các Ngoại Đạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=8301",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:18:21 Chương 3: Tương Ưng Kosala - Phẩm Thứ Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=9650",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:40:50 Chương 3: Tương Ưng Kosala - Phẩm Thứ Hai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=11933",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:18:53 Chương 3: Tương Ưng Kosala - Phẩm Thứ Ba",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=13359",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:42:39 Chương 4: Tương Ưng Ác Ma - Phẩm Thứ Nhất - Thứ Hai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=15338",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:15:38 Chương 4: Tương Ưng Ác Ma - Phẩm Thứ Ba",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=16893",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:41:33 Chương 5: Tương Ưng Tỳ Kheo Ni",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=17881",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:58:01 Chương 6: Tương Ưng Phạm Thiên - Phẩm Thứ Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=20426",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:40:26 Chương 6: Tương Ưng Phạm Thiên - Phẩm Thứ Hai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=21327",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:55:27 Chương 7: Tương Ưng Bà La Môn - Phẩm A La Hán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=23162",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:26:02 Chương 7: Tương Ưng Bà La Môn - Phẩm Cư Sĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=25268",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:01:08 Chương 8: Tương Ưng - Phẩm Trưởng Lão Vangisa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=27060",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:31:00 Chương 9: Tương Ưng Rừng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=28241",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:50:41 Chương 10: Tương Ưng Dạ Xoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=29722",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:15:22 Chương 11: Tương Ưng Sakka - Phẩm Thứ Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=31741",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:49:01 Chương 11: Tương Ưng Sakka - Phẩm Thứ Hai - Thứ Ba",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Chương 1: Phẩm Cây Lau - Phẩm Vườn Hoan Hỷ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=1456",
+    "title" : "00:24:16 Chương 1: Phẩm Kiến - Phẩm Quần Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=3420",
+    "title" : "00:57:00 Chương 1: Phẩm Cháy - Phẩm Giả - Phẩm Thắng - Phẩm Đoạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=4943",
+    "title" : "01:22:23 Chương 2: Phẩm Thứ Nhất - Phẩm Cấp Cô Độc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=6431",
+    "title" : "01:47:11 Chương 2: Phẩm Các Ngoại Đạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=8301",
+    "title" : "02:18:21 Chương 3: Tương Ưng Kosala - Phẩm Thứ Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=9650",
+    "title" : "02:40:50 Chương 3: Tương Ưng Kosala - Phẩm Thứ Hai",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=11933",
+    "title" : "03:18:53 Chương 3: Tương Ưng Kosala - Phẩm Thứ Ba",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=13359",
+    "title" : "03:42:39 Chương 4: Tương Ưng Ác Ma - Phẩm Thứ Nhất - Thứ Hai",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=15338",
+    "title" : "04:15:38 Chương 4: Tương Ưng Ác Ma - Phẩm Thứ Ba",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=16893",
+    "title" : "04:41:33 Chương 5: Tương Ưng Tỳ Kheo Ni",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=17881",
+    "title" : "04:58:01 Chương 6: Tương Ưng Phạm Thiên - Phẩm Thứ Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=20426",
+    "title" : "05:40:26 Chương 6: Tương Ưng Phạm Thiên - Phẩm Thứ Hai",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=21327",
+    "title" : "05:55:27 Chương 7: Tương Ưng Bà La Môn - Phẩm A La Hán",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=23162",
+    "title" : "06:26:02 Chương 7: Tương Ưng Bà La Môn - Phẩm Cư Sĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=25268",
+    "title" : "07:01:08 Chương 8: Tương Ưng - Phẩm Trưởng Lão Vangisa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=27060",
+    "title" : "07:31:00 Chương 9: Tương Ưng Rừng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=28241",
+    "title" : "07:50:41 Chương 10: Tương Ưng Dạ Xoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=29722",
+    "title" : "08:15:22 Chương 11: Tương Ưng Sakka - Phẩm Thứ Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14118-kinh-tuong-ung-bo-tap-1-thuviensach.vn.mp3?t=31741",
+    "title" : "08:49:01 Chương 11: Tương Ưng Sakka - Phẩm Thứ Hai - Thứ Ba",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

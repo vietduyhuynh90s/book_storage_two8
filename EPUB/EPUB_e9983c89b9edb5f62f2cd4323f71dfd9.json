@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dat-bang-sam-day-14444.html",
+    "title" : "ĐẤT BẰNG SẤM DẬY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cẩm Vân Nữ Sĩ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_e9983c89b9edb5f62f2cd4323f71dfd9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_e9983c89b9edb5f62f2cd4323f71dfd9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14444-dat-bang-sam-day-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Đất Bằng Sấm Dậy. Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14444-dat-bang-sam-day-thuviensach.vn.mp3?t=4152",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:09:12 Đất Bằng Sấm Dậy. Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14444-dat-bang-sam-day-thuviensach.vn.mp3?t=6376",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:46:16 Đất Bằng Sấm Dậy. Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14444-dat-bang-sam-day-thuviensach.vn.mp3?t=9434",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:37:14 Đất Bằng Sấm Dậy. Tập 04 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14444-dat-bang-sam-day-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Đất Bằng Sấm Dậy. Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14444-dat-bang-sam-day-thuviensach.vn.mp3?t=4152",
+    "title" : "01:09:12 Đất Bằng Sấm Dậy. Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14444-dat-bang-sam-day-thuviensach.vn.mp3?t=6376",
+    "title" : "01:46:16 Đất Bằng Sấm Dậy. Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14444-dat-bang-sam-day-thuviensach.vn.mp3?t=9434",
+    "title" : "02:37:14 Đất Bằng Sấm Dậy. Tập 04 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

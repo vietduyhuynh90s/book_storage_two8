@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-tuong-ung-bo-tap-4-14121.html",
+    "title" : "KINH TƯƠNG ƯNG BỘ - TẬP 4",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Minh Châu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tương Ưng Bộ (Samyutta Nikàya) là bộ kinh thứ ba trong kinh tạng Pàli (Trường bộ, Trung bộ, Tương Ưng bộ, Tăng Chi bộ, và Tiểu bộ). Bộ kinh là một tập hợp các bài kinh dài ngắn không đều, nhưng đa số là các bài kinh ngắn, được sắp xếp và kết nhóm theo từng loại chủ đề, gọi là Tương Ưng (Samyutta). Có tất cả là 56 Tương Ưng được bố trí vào 5 tập, gọi là 5 Thiên (Vagga): 1. Thiên Có Kệ (Sagàthàvagga Samyuttapàli): 11 Tương Ưng 2. Thiên Nhân Duyên (Nidànavagga Samyuttapàli): 10 Tương Ưng 3. Thiên Uẩn (Khandavagga Samyuttapàli): 13 Tương Ưng 4. Thiên Sáu Xứ (Salàyatanavagga Samyuttapàli): 10 Tương Ưng 5. Thiên Đại Phẩm (Mahàvagga Samyuttapàli): 12 Tương Ưng Bộ kinh đã được Hòa thượng Thích Minh Châu dịch sang Việt ngữ và Thiền viện Vạn Hạnh phát hành trong đầu thập niên 1980. Sau đó, trong chương trình phiên dịch và ấn hành Đại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993 và có số thứ tự từ 12 đến 16. Trong hệ A-hàm của Hán tạng, bộ kinh tương ứng là Tạp A-hàm, đã được Hòa thượng Thích Thiện Siêu và Hòa thượng Thích Thanh Từ dịch và ấn hành năm 1993-1995, Đại tạng kinh Việt Nam số 17 đến 20.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_86e3441aedfa0591219ef4e39edeaf3d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_86e3441aedfa0591219ef4e39edeaf3d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Chương 1: Tương Ưng Sáu Xứ - Phẩm Vô Thường - Song Đôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=1891",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:31:31 Chương 1: Tương Ưng Sáu Xứ - Phẩm Tất Cả - Sanh Pháp - Vô Thường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=4084",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:08:04 Phần 2: Phẩm Vô Minh - Migajala",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=6161",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:42:41 Phần 2: Phẩm Bệnh - Channa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=7963",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:12:43 Phần 2: Phẩm 4 Channa - Tiếp Theo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=9368",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:36:08 Phần 2: Phẩm 5 Từ Bỏ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=11467",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:11:07 Phần 3: Phẩm 1 An Ổn - Phẩm 2 Thế Giới Dục Công Đức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=13358",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:42:38 Phần 3: Phẩm 2 Thế Giới Dục Công Đức - Tiếp Theo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=14843",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:07:23 Phần 3: Phẩm 3 Gia Chủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=17117",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:45:17 Phần 3: Phẩm 4 Devadaha - Phẩm 5 Mới Và Cũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=19052",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:17:32 Phần 4: Phẩm 1 Duyệt Hỷ Tiêu Tận - Phẩm 2 60 Lược Thuyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=20661",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:44:21 Phần 4: Phẩm 3 Biến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=22762",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:19:22 Phần 4: Phẩm 4 Rắn Độc 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=24059",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:40:59 Phần 4: Phẩm 4 Rắn Độc 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=26051",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:14:11 Phần 4: Phẩm 4 Rắn Độc 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=27543",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:39:03 Chương 2: Tương Ưng Thọ - Phẩm Có Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=29236",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:07:16 Chương 2: Tương Ưng Thọ - Phẩm Sống Một Mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=30977",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:36:17 Chương 2: Tương Ưng Thọ - Phần 3 Phẩm 108 Pháp Môn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=32212",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:56:52 Chương 3: Tương Ưng Nữ Nhân - Phần 1 - 2 - 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=33549",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:19:09 Chương 4: Tương Ưng Jambukhadaka - Chương 5 - Tương Ưng Samandaka",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Chương 1: Tương Ưng Sáu Xứ - Phẩm Vô Thường - Song Đôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=1891",
+    "title" : "00:31:31 Chương 1: Tương Ưng Sáu Xứ - Phẩm Tất Cả - Sanh Pháp - Vô Thường",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=4084",
+    "title" : "01:08:04 Phần 2: Phẩm Vô Minh - Migajala",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=6161",
+    "title" : "01:42:41 Phần 2: Phẩm Bệnh - Channa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=7963",
+    "title" : "02:12:43 Phần 2: Phẩm 4 Channa - Tiếp Theo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=9368",
+    "title" : "02:36:08 Phần 2: Phẩm 5 Từ Bỏ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=11467",
+    "title" : "03:11:07 Phần 3: Phẩm 1 An Ổn - Phẩm 2 Thế Giới Dục Công Đức",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=13358",
+    "title" : "03:42:38 Phần 3: Phẩm 2 Thế Giới Dục Công Đức - Tiếp Theo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=14843",
+    "title" : "04:07:23 Phần 3: Phẩm 3 Gia Chủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=17117",
+    "title" : "04:45:17 Phần 3: Phẩm 4 Devadaha - Phẩm 5 Mới Và Cũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=19052",
+    "title" : "05:17:32 Phần 4: Phẩm 1 Duyệt Hỷ Tiêu Tận - Phẩm 2 60 Lược Thuyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=20661",
+    "title" : "05:44:21 Phần 4: Phẩm 3 Biến",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=22762",
+    "title" : "06:19:22 Phần 4: Phẩm 4 Rắn Độc 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=24059",
+    "title" : "06:40:59 Phần 4: Phẩm 4 Rắn Độc 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=26051",
+    "title" : "07:14:11 Phần 4: Phẩm 4 Rắn Độc 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=27543",
+    "title" : "07:39:03 Chương 2: Tương Ưng Thọ - Phẩm Có Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=29236",
+    "title" : "08:07:16 Chương 2: Tương Ưng Thọ - Phẩm Sống Một Mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=30977",
+    "title" : "08:36:17 Chương 2: Tương Ưng Thọ - Phần 3 Phẩm 108 Pháp Môn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=32212",
+    "title" : "08:56:52 Chương 3: Tương Ưng Nữ Nhân - Phần 1 - 2 - 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14121-kinh-tuong-ung-bo-tap-4-thuviensach.vn.mp3?t=33549",
+    "title" : "09:19:09 Chương 4: Tương Ưng Jambukhadaka - Chương 5 - Tương Ưng Samandaka",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
