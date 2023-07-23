@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/duong-mot-chieu-9617.html",
+    "title" : "ĐƯỜNG MỘT CHIỀU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Mộng Giác",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đây là một vụ án xảy ra trong tưởng tượng. Cho nên tất cả nhân vật, sự kiện, tình tiết, cũng như thủ tục phiên tòa đều liên hệ quá ít với thực tại. Thành thực xin lỗi các luật gia cùng các bạn đọc giàu trí liên tưởng</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_67c8a2e1331c5160d3a0de4a566d1d9e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_67c8a2e1331c5160d3a0de4a566d1d9e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9617-duong-mot-chieu-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Đường Một Chiều. Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9617-duong-mot-chieu-thuviensach.vn.mp3?t=2936",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:48:56 Đường Một Chiều. Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9617-duong-mot-chieu-thuviensach.vn.mp3?t=6381",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:46:21 Đường Một Chiều. Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9617-duong-mot-chieu-thuviensach.vn.mp3?t=10364",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:52:44 Đường Một Chiều. Tập 04 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9617-duong-mot-chieu-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Đường Một Chiều. Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9617-duong-mot-chieu-thuviensach.vn.mp3?t=2936",
+    "title" : "00:48:56 Đường Một Chiều. Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9617-duong-mot-chieu-thuviensach.vn.mp3?t=6381",
+    "title" : "01:46:21 Đường Một Chiều. Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9617-duong-mot-chieu-thuviensach.vn.mp3?t=10364",
+    "title" : "02:52:44 Đường Một Chiều. Tập 04 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
