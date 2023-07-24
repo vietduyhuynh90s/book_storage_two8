@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/doi-ngan-dung-ngu-dai_19432.html",
+    "title" : "Đời Ngắn Đừng Ngủ Dài",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robin Sharma",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-24",
+    "duration" : 9240,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_c13e941abf21d181ccdb1b4fb2745f06.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_c13e941abf21d181ccdb1b4fb2745f06.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c13e941abf21d181ccdb1b4fb2745f06_e05abb6f55d28a191eab533ffd9970c4_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đời Ngắn Đừng Ngủ Dài (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c13e941abf21d181ccdb1b4fb2745f06_e05abb6f55d28a191eab533ffd9970c4_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đời Ngắn Đừng Ngủ Dài (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c13e941abf21d181ccdb1b4fb2745f06_e05abb6f55d28a191eab533ffd9970c4_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đời Ngắn Đừng Ngủ Dài (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c13e941abf21d181ccdb1b4fb2745f06_e05abb6f55d28a191eab533ffd9970c4_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đời Ngắn Đừng Ngủ Dài (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c13e941abf21d181ccdb1b4fb2745f06_e05abb6f55d28a191eab533ffd9970c4_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đời Ngắn Đừng Ngủ Dài (5)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c13e941abf21d181ccdb1b4fb2745f06_e05abb6f55d28a191eab533ffd9970c4_1.mp3",
+    "title" : "Đời Ngắn Đừng Ngủ Dài (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c13e941abf21d181ccdb1b4fb2745f06_e05abb6f55d28a191eab533ffd9970c4_2.mp3",
+    "title" : "Đời Ngắn Đừng Ngủ Dài (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c13e941abf21d181ccdb1b4fb2745f06_e05abb6f55d28a191eab533ffd9970c4_3.mp3",
+    "title" : "Đời Ngắn Đừng Ngủ Dài (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c13e941abf21d181ccdb1b4fb2745f06_e05abb6f55d28a191eab533ffd9970c4_4.mp3",
+    "title" : "Đời Ngắn Đừng Ngủ Dài (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c13e941abf21d181ccdb1b4fb2745f06_e05abb6f55d28a191eab533ffd9970c4_5.mp3",
+    "title" : "Đời Ngắn Đừng Ngủ Dài (5)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
