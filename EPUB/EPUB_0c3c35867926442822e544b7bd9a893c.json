@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vo-doi-mon_4544.html",
+    "title" : "Vô Đối Môn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lý Tứ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-25",
+    "duration" : 40902,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/EPUB/EPUB_0c3c35867926442822e544b7bd9a893c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/IMAGE/IMAGE_0c3c35867926442822e544b7bd9a893c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1936,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1901,
+    "title" : "SACH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1952,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2040,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2241,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1637,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1738,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2396,
+    "title" : "SACH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2047,
+    "title" : "SACH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1732,
+    "title" : "SACH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1656,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1703,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2163,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1818,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2324,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2108,
+    "title" : "SACH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1555,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2110,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1972,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2114,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1759,
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-01.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-02.mp3",
+    "title" : "SACH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-03.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-04.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-05.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-06.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-07.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-08.mp3",
+    "title" : "SACH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-09.mp3",
+    "title" : "SACH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-10.mp3",
+    "title" : "SACH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-11.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-12.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-13.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-14.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-15.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-16.mp3",
+    "title" : "SACH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-17.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-18.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-19.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-20.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-doi-08/vo-doi-21.mp3",
+    "title" : "SÁCH NÓI VÔ ĐỐI MÔN",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
