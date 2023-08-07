@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-25",
+    "published" : "2023-08-07",
     "duration" : 132456,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,6 +36,14 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/01.Audio%20S%C3%A1ch%20N%C3%B3i%20Trinh%20Th%C3%A1m%20L%C3%A3ng%20M%E1%BA%A1n%20-%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20-%20C%E1%BB%ADu%20Nguy%E1%BB%87t%20Hi%20Ph%E1%BA%A7n%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16742,
+    "title" : "01.Audio Sách Nói Trinh Thám Lãng Mạn - Archimedes Thân Yêu - Cửu Nguyệt Hi Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_7b8d6020798dca83107a5bb899b75a15_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
@@ -52,11 +60,35 @@
     "properties" : null,
     "alternate" : null
   }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/02.Audio%20S%C3%A1ch%20N%C3%B3i%20Trinh%20Th%C3%A1m%20L%C3%A3ng%20M%E1%BA%A1n%20-%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20-%20C%E1%BB%ADu%20Nguy%E1%BB%87t%20Hi%20Ph%E1%BA%A7n%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16402,
+    "title" : "02.Audio Sách Nói Trinh Thám Lãng Mạn - Archimedes Thân Yêu - Cửu Nguyệt Hi Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/03.Audio%20S%C3%A1ch%20N%C3%B3i%20Trinh%20Th%C3%A1m%20L%C3%A3ng%20M%E1%BA%A1n%20-%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20-%20C%E1%BB%ADu%20Nguy%E1%BB%87t%20Hi%20Ph%E1%BA%A7n%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16309,
+    "title" : "03.Audio Sách Nói Trinh Thám Lãng Mạn - Archimedes Thân Yêu - Cửu Nguyệt Hi Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_fc5248197cbd77be7215aaed9396b646_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
     "title" : "02.Audio Sách Nói Trinh Thám Lãng Mạn - Archimedes Thân Yêu - Cửu Nguyệt Hi Phần 2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/04.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P7%20-%20MC%20JinDo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8268,
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P7 - MC JinDo",
     "properties" : null,
     "alternate" : null
   }, {
@@ -68,6 +100,14 @@
     "properties" : null,
     "alternate" : null
   }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/05.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P8%20-%20MC%20JinDo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8574,
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P8 - MC JinDo",
+    "properties" : null,
+    "alternate" : null
+  }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_5f9b658b02ebdaed11dbd6140a0ee5a0_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
@@ -76,11 +116,27 @@
     "properties" : null,
     "alternate" : null
   }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/06.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P9%20-%20MC%20JinDo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9141,
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P9 - MC JinDo",
+    "properties" : null,
+    "alternate" : null
+  }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_5f9b658b02ebdaed11dbd6140a0ee5a0_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
     "title" : "03.Audio Sách Nói Trinh Thám Lãng Mạn - Archimedes Thân Yêu - Cửu Nguyệt Hi Phần 3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/07.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P10%20-%20MC%20JinDo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7527,
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P10 - MC JinDo",
     "properties" : null,
     "alternate" : null
   }, {
@@ -100,11 +156,27 @@
     "properties" : null,
     "alternate" : null
   }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/08.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P11%20-%20MC%20JinDo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7731,
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P11 - MC JinDo",
+    "properties" : null,
+    "alternate" : null
+  }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_72bc609d3ba162246fa83abf9c6b68a5_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
     "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P7 - MC JinDo (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/09.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P12%20-%20MC%20JinDo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7588,
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P12 - MC JinDo",
     "properties" : null,
     "alternate" : null
   }, {
@@ -116,11 +188,35 @@
     "properties" : null,
     "alternate" : null
   }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/10.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P13%20-%20MC%20JinDo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6231,
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P13 - MC JinDo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/11.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P14%20-%20MC%20JinDo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6081,
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P14 - MC JinDo",
+    "properties" : null,
+    "alternate" : null
+  }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_d2d57e3e51ef2cc5c3ca2f29b4b79279_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
     "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P8 - MC JinDo (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/12.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P15%20-%20MC%20JinDo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7242,
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P15 - MC JinDo",
     "properties" : null,
     "alternate" : null
   }, {
@@ -132,11 +228,27 @@
     "properties" : null,
     "alternate" : null
   }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/13.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P16%20-%20MC%20JinDo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7250,
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P16 - MC JinDo",
+    "properties" : null,
+    "alternate" : null
+  }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_454ab73cbe0ebcf198c7add3b5e4d2e5_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
     "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P9 - MC JinDo (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/14.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P17%20%28END%29%20-%20MC%20JinDo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7370,
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P17 (END) - MC JinDo",
     "properties" : null,
     "alternate" : null
   }, {
@@ -341,6 +453,10 @@
     "alternate" : null
   } ],
   "toc" : [ {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/01.Audio%20S%C3%A1ch%20N%C3%B3i%20Trinh%20Th%C3%A1m%20L%C3%A3ng%20M%E1%BA%A1n%20-%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20-%20C%E1%BB%ADu%20Nguy%E1%BB%87t%20Hi%20Ph%E1%BA%A7n%201.mp3",
+    "title" : "01.Audio Sách Nói Trinh Thám Lãng Mạn - Archimedes Thân Yêu - Cửu Nguyệt Hi Phần 1",
+    "children" : [ ]
+  }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_7b8d6020798dca83107a5bb899b75a15_1.mp3",
     "title" : "01.Audio Sách Nói Trinh Thám Lãng Mạn - Archimedes Thân Yêu - Cửu Nguyệt Hi Phần 1 (1)",
     "children" : [ ]
@@ -349,20 +465,44 @@
     "title" : "01.Audio Sách Nói Trinh Thám Lãng Mạn - Archimedes Thân Yêu - Cửu Nguyệt Hi Phần 1 (2)",
     "children" : [ ]
   }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/02.Audio%20S%C3%A1ch%20N%C3%B3i%20Trinh%20Th%C3%A1m%20L%C3%A3ng%20M%E1%BA%A1n%20-%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20-%20C%E1%BB%ADu%20Nguy%E1%BB%87t%20Hi%20Ph%E1%BA%A7n%202.mp3",
+    "title" : "02.Audio Sách Nói Trinh Thám Lãng Mạn - Archimedes Thân Yêu - Cửu Nguyệt Hi Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/03.Audio%20S%C3%A1ch%20N%C3%B3i%20Trinh%20Th%C3%A1m%20L%C3%A3ng%20M%E1%BA%A1n%20-%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20-%20C%E1%BB%ADu%20Nguy%E1%BB%87t%20Hi%20Ph%E1%BA%A7n%203.mp3",
+    "title" : "03.Audio Sách Nói Trinh Thám Lãng Mạn - Archimedes Thân Yêu - Cửu Nguyệt Hi Phần 3",
+    "children" : [ ]
+  }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_fc5248197cbd77be7215aaed9396b646_1.mp3",
     "title" : "02.Audio Sách Nói Trinh Thám Lãng Mạn - Archimedes Thân Yêu - Cửu Nguyệt Hi Phần 2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/04.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P7%20-%20MC%20JinDo.mp3",
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P7 - MC JinDo",
     "children" : [ ]
   }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_fc5248197cbd77be7215aaed9396b646_2.mp3",
     "title" : "02.Audio Sách Nói Trinh Thám Lãng Mạn - Archimedes Thân Yêu - Cửu Nguyệt Hi Phần 2 (2)",
     "children" : [ ]
   }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/05.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P8%20-%20MC%20JinDo.mp3",
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P8 - MC JinDo",
+    "children" : [ ]
+  }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_5f9b658b02ebdaed11dbd6140a0ee5a0_1.mp3",
     "title" : "03.Audio Sách Nói Trinh Thám Lãng Mạn - Archimedes Thân Yêu - Cửu Nguyệt Hi Phần 3 (1)",
     "children" : [ ]
   }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/06.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P9%20-%20MC%20JinDo.mp3",
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P9 - MC JinDo",
+    "children" : [ ]
+  }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_5f9b658b02ebdaed11dbd6140a0ee5a0_2.mp3",
     "title" : "03.Audio Sách Nói Trinh Thám Lãng Mạn - Archimedes Thân Yêu - Cửu Nguyệt Hi Phần 3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/07.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P10%20-%20MC%20JinDo.mp3",
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P10 - MC JinDo",
     "children" : [ ]
   }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_72bc609d3ba162246fa83abf9c6b68a5_1.mp3",
@@ -373,24 +513,52 @@
     "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P7 - MC JinDo (2)",
     "children" : [ ]
   }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/08.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P11%20-%20MC%20JinDo.mp3",
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P11 - MC JinDo",
+    "children" : [ ]
+  }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_72bc609d3ba162246fa83abf9c6b68a5_3.mp3",
     "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P7 - MC JinDo (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/09.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P12%20-%20MC%20JinDo.mp3",
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P12 - MC JinDo",
     "children" : [ ]
   }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_d2d57e3e51ef2cc5c3ca2f29b4b79279_1.mp3",
     "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P8 - MC JinDo (1)",
     "children" : [ ]
   }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/10.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P13%20-%20MC%20JinDo.mp3",
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P13 - MC JinDo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/11.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P14%20-%20MC%20JinDo.mp3",
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P14 - MC JinDo",
+    "children" : [ ]
+  }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_d2d57e3e51ef2cc5c3ca2f29b4b79279_2.mp3",
     "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P8 - MC JinDo (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/12.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P15%20-%20MC%20JinDo.mp3",
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P15 - MC JinDo",
     "children" : [ ]
   }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_d2d57e3e51ef2cc5c3ca2f29b4b79279_3.mp3",
     "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P8 - MC JinDo (3)",
     "children" : [ ]
   }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/13.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P16%20-%20MC%20JinDo.mp3",
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P16 - MC JinDo",
+    "children" : [ ]
+  }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_454ab73cbe0ebcf198c7add3b5e4d2e5_1.mp3",
     "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P9 - MC JinDo (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.AudioSachNoiTrinhThamLangManArchimedesThanYeuCuuNguyetHiPhan1/14.Audio%20Ng%C3%B4n%20T%C3%ACnh%20Trinh%20Th%C3%A1m%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202017%20%20%20%20Archimedes%20Th%C3%A2n%20Y%C3%AAu%20P17%20%28END%29%20-%20MC%20JinDo.mp3",
+    "title" : "Audio Ngôn Tình Trinh Thám Mới Nhất 2017 Archimedes Thân Yêu P17 (END) - MC JinDo",
     "children" : [ ]
   }, {
     "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_a03f08abd348f4651c3b0fc137281015_454ab73cbe0ebcf198c7add3b5e4d2e5_2.mp3",
