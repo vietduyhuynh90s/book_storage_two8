@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-16",
     "duration" : 4646,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nhe-ganh/nhe-ganh.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ed56a3bc1174a8bedc16f8c2e2e4b543_60ac0a6c77c9eff22588ad188729c1e9_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4646,
-    "title" : "nhe-ganh",
+    "duration" : 0,
+    "title" : "nhe-ganh (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ed56a3bc1174a8bedc16f8c2e2e4b543_60ac0a6c77c9eff22588ad188729c1e9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nhe-ganh (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nhe-ganh/nhe-ganh.mp3",
-    "title" : "nhe-ganh",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ed56a3bc1174a8bedc16f8c2e2e4b543_60ac0a6c77c9eff22588ad188729c1e9_1.mp3",
+    "title" : "nhe-ganh (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ed56a3bc1174a8bedc16f8c2e2e4b543_60ac0a6c77c9eff22588ad188729c1e9_2.mp3",
+    "title" : "nhe-ganh (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
