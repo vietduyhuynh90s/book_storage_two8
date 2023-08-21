@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 21471,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/du-sinh/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_0f18351ed7ebf2105c3afbfceb145230_4e5748deb85f887f5726ad4c7837593c_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 10728,
-    "title" : "Truyện Ngôn Tình Hot Tháng 5/2019",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hot Tháng 5/2019 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/du-sinh/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_0f18351ed7ebf2105c3afbfceb145230_4e5748deb85f887f5726ad4c7837593c_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 10743,
-    "title" : "Dư Sinh [Tập Cuối] Truyện Ngôn Tình Hấp Dẫn Nhiều Cảm Xúc Với Kết Thúc Ngọt Ngào (Bối Bối)",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hot Tháng 5/2019 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_0f18351ed7ebf2105c3afbfceb145230_4e5748deb85f887f5726ad4c7837593c_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hot Tháng 5/2019 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_0f18351ed7ebf2105c3afbfceb145230_1a1d395feb56e2ae7ee354a7ef6d7c53_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Dư Sinh [Tập Cuối] Truyện Ngôn Tình Hấp Dẫn Nhiều Cảm Xúc Với Kết Thúc Ngọt Ngào (Bối Bối) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_0f18351ed7ebf2105c3afbfceb145230_1a1d395feb56e2ae7ee354a7ef6d7c53_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Dư Sinh [Tập Cuối] Truyện Ngôn Tình Hấp Dẫn Nhiều Cảm Xúc Với Kết Thúc Ngọt Ngào (Bối Bối) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_0f18351ed7ebf2105c3afbfceb145230_1a1d395feb56e2ae7ee354a7ef6d7c53_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Dư Sinh [Tập Cuối] Truyện Ngôn Tình Hấp Dẫn Nhiều Cảm Xúc Với Kết Thúc Ngọt Ngào (Bối Bối) (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/du-sinh/1.mp3",
-    "title" : "Truyện Ngôn Tình Hot Tháng 5/2019",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_0f18351ed7ebf2105c3afbfceb145230_4e5748deb85f887f5726ad4c7837593c_1.mp3",
+    "title" : "Truyện Ngôn Tình Hot Tháng 5/2019 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/du-sinh/2.mp3",
-    "title" : "Dư Sinh [Tập Cuối] Truyện Ngôn Tình Hấp Dẫn Nhiều Cảm Xúc Với Kết Thúc Ngọt Ngào (Bối Bối)",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_0f18351ed7ebf2105c3afbfceb145230_4e5748deb85f887f5726ad4c7837593c_2.mp3",
+    "title" : "Truyện Ngôn Tình Hot Tháng 5/2019 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_0f18351ed7ebf2105c3afbfceb145230_4e5748deb85f887f5726ad4c7837593c_3.mp3",
+    "title" : "Truyện Ngôn Tình Hot Tháng 5/2019 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_0f18351ed7ebf2105c3afbfceb145230_1a1d395feb56e2ae7ee354a7ef6d7c53_1.mp3",
+    "title" : "Dư Sinh [Tập Cuối] Truyện Ngôn Tình Hấp Dẫn Nhiều Cảm Xúc Với Kết Thúc Ngọt Ngào (Bối Bối) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_0f18351ed7ebf2105c3afbfceb145230_1a1d395feb56e2ae7ee354a7ef6d7c53_2.mp3",
+    "title" : "Dư Sinh [Tập Cuối] Truyện Ngôn Tình Hấp Dẫn Nhiều Cảm Xúc Với Kết Thúc Ngọt Ngào (Bối Bối) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_0f18351ed7ebf2105c3afbfceb145230_1a1d395feb56e2ae7ee354a7ef6d7c53_3.mp3",
+    "title" : "Dư Sinh [Tập Cuối] Truyện Ngôn Tình Hấp Dẫn Nhiều Cảm Xúc Với Kết Thúc Ngọt Ngào (Bối Bối) (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

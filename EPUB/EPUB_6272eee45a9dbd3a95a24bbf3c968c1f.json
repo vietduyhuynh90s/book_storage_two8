@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 11752,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cont-tsv/Tra%CC%A3i%20Su%CC%81c%20Va%CC%A3%CC%82t%20%28Animal%20Farm%29%20-%20George%20Orwell%20-%20audio%20book%20%28128kbit_AAC%29.m4a",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6272eee45a9dbd3a95a24bbf3c968c1f_41ec43ddd8386ab628869ac8e9b7fbbd_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 11752,
-    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book",
+    "duration" : 0,
+    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6272eee45a9dbd3a95a24bbf3c968c1f_41ec43ddd8386ab628869ac8e9b7fbbd_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6272eee45a9dbd3a95a24bbf3c968c1f_41ec43ddd8386ab628869ac8e9b7fbbd_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6272eee45a9dbd3a95a24bbf3c968c1f_41ec43ddd8386ab628869ac8e9b7fbbd_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6272eee45a9dbd3a95a24bbf3c968c1f_41ec43ddd8386ab628869ac8e9b7fbbd_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6272eee45a9dbd3a95a24bbf3c968c1f_41ec43ddd8386ab628869ac8e9b7fbbd_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book (6)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cont-tsv/Tra%CC%A3i%20Su%CC%81c%20Va%CC%A3%CC%82t%20%28Animal%20Farm%29%20-%20George%20Orwell%20-%20audio%20book%20%28128kbit_AAC%29.m4a",
-    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6272eee45a9dbd3a95a24bbf3c968c1f_41ec43ddd8386ab628869ac8e9b7fbbd_1.mp3",
+    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6272eee45a9dbd3a95a24bbf3c968c1f_41ec43ddd8386ab628869ac8e9b7fbbd_2.mp3",
+    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6272eee45a9dbd3a95a24bbf3c968c1f_41ec43ddd8386ab628869ac8e9b7fbbd_3.mp3",
+    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6272eee45a9dbd3a95a24bbf3c968c1f_41ec43ddd8386ab628869ac8e9b7fbbd_4.mp3",
+    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6272eee45a9dbd3a95a24bbf3c968c1f_41ec43ddd8386ab628869ac8e9b7fbbd_5.mp3",
+    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_6272eee45a9dbd3a95a24bbf3c968c1f_41ec43ddd8386ab628869ac8e9b7fbbd_6.mp3",
+    "title" : "Trại Súc Vật (Animal Farm) - George Orwell - audio book (6)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

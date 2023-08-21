@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-16",
+    "published" : "2023-08-19",
     "duration" : 2182,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/hamlet_202203/hamlet.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_2fcc689d6f924eba3351da9f7f9321ab_ecd4cd4b02c954b1599a2cf6267de55d.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2182,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/hamlet_202203/hamlet.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_2fcc689d6f924eba3351da9f7f9321ab_ecd4cd4b02c954b1599a2cf6267de55d.mp3",
     "title" : "hamlet",
     "children" : [ ]
   } ],

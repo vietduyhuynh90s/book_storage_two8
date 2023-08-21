@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 8670,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/phapsudietmadachettroi/PhapSuDietMaDaChetTroi_01.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_01e1731a76bd93c764b2504ed50f174b_10210874f5c33d92e15f18ce88fc5d2b_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4100,
-    "title" : "PhapSuDietMaDaChetTroi 01",
+    "duration" : 0,
+    "title" : "PhapSuDietMaDaChetTroi 01 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/phapsudietmadachettroi/PhapSuDietMaDaChetTroi_02.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_01e1731a76bd93c764b2504ed50f174b_10210874f5c33d92e15f18ce88fc5d2b_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4570,
-    "title" : "PhapSuDietMaDaChetTroi 02",
+    "duration" : 0,
+    "title" : "PhapSuDietMaDaChetTroi 01 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_01e1731a76bd93c764b2504ed50f174b_db0a03c7c0b695232f76d581a18c9906_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "PhapSuDietMaDaChetTroi 02 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_01e1731a76bd93c764b2504ed50f174b_db0a03c7c0b695232f76d581a18c9906_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "PhapSuDietMaDaChetTroi 02 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/phapsudietmadachettroi/PhapSuDietMaDaChetTroi_01.mp3",
-    "title" : "PhapSuDietMaDaChetTroi 01",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_01e1731a76bd93c764b2504ed50f174b_10210874f5c33d92e15f18ce88fc5d2b_1.mp3",
+    "title" : "PhapSuDietMaDaChetTroi 01 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/phapsudietmadachettroi/PhapSuDietMaDaChetTroi_02.mp3",
-    "title" : "PhapSuDietMaDaChetTroi 02",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_01e1731a76bd93c764b2504ed50f174b_10210874f5c33d92e15f18ce88fc5d2b_2.mp3",
+    "title" : "PhapSuDietMaDaChetTroi 01 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_01e1731a76bd93c764b2504ed50f174b_db0a03c7c0b695232f76d581a18c9906_1.mp3",
+    "title" : "PhapSuDietMaDaChetTroi 02 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_01e1731a76bd93c764b2504ed50f174b_db0a03c7c0b695232f76d581a18c9906_2.mp3",
+    "title" : "PhapSuDietMaDaChetTroi 02 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
