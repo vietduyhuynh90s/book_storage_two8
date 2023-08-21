@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-16",
+    "published" : "2023-08-21",
     "duration" : 10929,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,15 +36,23 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/bat-duoc-truong-phu-nhu-y/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_7d422aa351c7d914e9fbfa95cefebdfe_357478dc1c53e1b63c95b73f8aad9711_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6852,
-    "title" : "1",
+    "duration" : 0,
+    "title" : "1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bat-duoc-truong-phu-nhu-y/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_7d422aa351c7d914e9fbfa95cefebdfe_357478dc1c53e1b63c95b73f8aad9711_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_7d422aa351c7d914e9fbfa95cefebdfe_a2aae1a63fb3a3438a5b2bf50b8eb04b.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4077,
@@ -53,11 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/bat-duoc-truong-phu-nhu-y/1.mp3",
-    "title" : "1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_7d422aa351c7d914e9fbfa95cefebdfe_357478dc1c53e1b63c95b73f8aad9711_1.mp3",
+    "title" : "1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bat-duoc-truong-phu-nhu-y/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_7d422aa351c7d914e9fbfa95cefebdfe_357478dc1c53e1b63c95b73f8aad9711_2.mp3",
+    "title" : "1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_7d422aa351c7d914e9fbfa95cefebdfe_a2aae1a63fb3a3438a5b2bf50b8eb04b.mp3",
     "title" : "TRUYỆN NGÔN TÌNH CỔ ĐẠI NHẸ NHÀNG SÂU LẮNG - MC THÚY NGA",
     "children" : [ ]
   } ],
