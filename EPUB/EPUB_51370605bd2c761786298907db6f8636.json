@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-21",
     "duration" : 8575,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/bai-hoc-vo-gia-tu-nhung-dieu-binh-di.sna/BAI_HOC_VO_GIA_TU_NHUNG_DIEU_BINH_DI_01.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_51370605bd2c761786298907db6f8636_67ade654ee2957fa5c35a78356612a32.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2386,
@@ -44,33 +44,57 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bai-hoc-vo-gia-tu-nhung-dieu-binh-di.sna/BAI_HOC_VO_GIA_TU_NHUNG_DIEU_BINH_DI_02.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_51370605bd2c761786298907db6f8636_cb56b8d270d9dee2906544daed6c488f_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3133,
-    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 02",
+    "duration" : 0,
+    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 02 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bai-hoc-vo-gia-tu-nhung-dieu-binh-di.sna/BAI_HOC_VO_GIA_TU_NHUNG_DIEU_BINH_DI_03.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_51370605bd2c761786298907db6f8636_cb56b8d270d9dee2906544daed6c488f_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3056,
-    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 03",
+    "duration" : 0,
+    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 02 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_51370605bd2c761786298907db6f8636_5e76128fbf29e7f9a4d9905679aa17c6_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 03 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_51370605bd2c761786298907db6f8636_5e76128fbf29e7f9a4d9905679aa17c6_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 03 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/bai-hoc-vo-gia-tu-nhung-dieu-binh-di.sna/BAI_HOC_VO_GIA_TU_NHUNG_DIEU_BINH_DI_01.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_51370605bd2c761786298907db6f8636_67ade654ee2957fa5c35a78356612a32.mp3",
     "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bai-hoc-vo-gia-tu-nhung-dieu-binh-di.sna/BAI_HOC_VO_GIA_TU_NHUNG_DIEU_BINH_DI_02.mp3",
-    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 02",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_51370605bd2c761786298907db6f8636_cb56b8d270d9dee2906544daed6c488f_1.mp3",
+    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 02 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bai-hoc-vo-gia-tu-nhung-dieu-binh-di.sna/BAI_HOC_VO_GIA_TU_NHUNG_DIEU_BINH_DI_03.mp3",
-    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 03",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_51370605bd2c761786298907db6f8636_cb56b8d270d9dee2906544daed6c488f_2.mp3",
+    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 02 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_51370605bd2c761786298907db6f8636_5e76128fbf29e7f9a4d9905679aa17c6_1.mp3",
+    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 03 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_51370605bd2c761786298907db6f8636_5e76128fbf29e7f9a4d9905679aa17c6_2.mp3",
+    "title" : "BAI HOC VO GIA TU NHUNG DIEU BINH DI 03 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
