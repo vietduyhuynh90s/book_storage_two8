@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-22",
     "duration" : 40581,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,137 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/ho_ly_hao_sac/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_986e6b6a4a2344df3d3785772870f45b_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 14236,
-    "title" : "Truyện Ngôn Tình Mới Nhất",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Mới Nhất (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ho_ly_hao_sac/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_986e6b6a4a2344df3d3785772870f45b_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 14381,
-    "title" : "Truyện Ngôn Tình Mới Nhất",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Mới Nhất (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ho_ly_hao_sac/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_986e6b6a4a2344df3d3785772870f45b_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 11964,
-    "title" : "Truyện Ngôn Tình Mới Nhất",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Mới Nhất (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_986e6b6a4a2344df3d3785772870f45b_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Mới Nhất (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_46ed031e27c8a0837ea9f703009cd474_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Mới Nhất (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_46ed031e27c8a0837ea9f703009cd474_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Mới Nhất (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_46ed031e27c8a0837ea9f703009cd474_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Mới Nhất (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_46ed031e27c8a0837ea9f703009cd474_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Mới Nhất (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_be48bf716e0ae0e46a44fb834effd132_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Mới Nhất (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_be48bf716e0ae0e46a44fb834effd132_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Mới Nhất (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_be48bf716e0ae0e46a44fb834effd132_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Mới Nhất (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/ho_ly_hao_sac/1.mp3",
-    "title" : "Truyện Ngôn Tình Mới Nhất",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_986e6b6a4a2344df3d3785772870f45b_1.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ho_ly_hao_sac/2.mp3",
-    "title" : "Truyện Ngôn Tình Mới Nhất",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_986e6b6a4a2344df3d3785772870f45b_2.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ho_ly_hao_sac/3.mp3",
-    "title" : "Truyện Ngôn Tình Mới Nhất",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_986e6b6a4a2344df3d3785772870f45b_3.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_986e6b6a4a2344df3d3785772870f45b_4.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_46ed031e27c8a0837ea9f703009cd474_1.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_46ed031e27c8a0837ea9f703009cd474_2.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_46ed031e27c8a0837ea9f703009cd474_3.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_46ed031e27c8a0837ea9f703009cd474_4.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_be48bf716e0ae0e46a44fb834effd132_1.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_be48bf716e0ae0e46a44fb834effd132_2.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_e51c1a62ba5508f3ab50755870ea640a_be48bf716e0ae0e46a44fb834effd132_3.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
