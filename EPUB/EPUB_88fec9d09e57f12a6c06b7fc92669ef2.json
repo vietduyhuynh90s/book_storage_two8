@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-24",
     "duration" : 24923,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,89 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/canh-hoa-chum-gui/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_88fec9d09e57f12a6c06b7fc92669ef2_7be6cd1e3cd6b8fe5fe485cda410d232_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7200,
-    "title" : "1",
+    "duration" : 0,
+    "title" : "1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/canh-hoa-chum-gui/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_88fec9d09e57f12a6c06b7fc92669ef2_7be6cd1e3cd6b8fe5fe485cda410d232_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7200,
-    "title" : "2",
+    "duration" : 0,
+    "title" : "1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/canh-hoa-chum-gui/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_88fec9d09e57f12a6c06b7fc92669ef2_182caae9f5e05bc6af9a38d773b845c3_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 10523,
-    "title" : "3",
+    "duration" : 0,
+    "title" : "2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_88fec9d09e57f12a6c06b7fc92669ef2_182caae9f5e05bc6af9a38d773b845c3_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_88fec9d09e57f12a6c06b7fc92669ef2_6666b9b142f45acc03d8155a0a3425e0_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_88fec9d09e57f12a6c06b7fc92669ef2_6666b9b142f45acc03d8155a0a3425e0_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_88fec9d09e57f12a6c06b7fc92669ef2_6666b9b142f45acc03d8155a0a3425e0_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/canh-hoa-chum-gui/1.mp3",
-    "title" : "1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_88fec9d09e57f12a6c06b7fc92669ef2_7be6cd1e3cd6b8fe5fe485cda410d232_1.mp3",
+    "title" : "1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/canh-hoa-chum-gui/2.mp3",
-    "title" : "2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_88fec9d09e57f12a6c06b7fc92669ef2_7be6cd1e3cd6b8fe5fe485cda410d232_2.mp3",
+    "title" : "1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/canh-hoa-chum-gui/3.mp3",
-    "title" : "3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_88fec9d09e57f12a6c06b7fc92669ef2_182caae9f5e05bc6af9a38d773b845c3_1.mp3",
+    "title" : "2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_88fec9d09e57f12a6c06b7fc92669ef2_182caae9f5e05bc6af9a38d773b845c3_2.mp3",
+    "title" : "2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_88fec9d09e57f12a6c06b7fc92669ef2_6666b9b142f45acc03d8155a0a3425e0_1.mp3",
+    "title" : "3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_88fec9d09e57f12a6c06b7fc92669ef2_6666b9b142f45acc03d8155a0a3425e0_2.mp3",
+    "title" : "3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_88fec9d09e57f12a6c06b7fc92669ef2_6666b9b142f45acc03d8155a0a3425e0_3.mp3",
+    "title" : "3 (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
