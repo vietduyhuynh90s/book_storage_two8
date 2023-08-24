@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-23",
     "duration" : 35459,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,245 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mctt_20230124/Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%201984%20_%20George%20Orwell%20_%20Pha%CC%82%CC%80n%201%20%28128kbit_AAC%29.m4a",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_c8ce56ec7ce39d6aaba7bbe4473e6451_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 11906,
-    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC)",
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC) (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mctt_20230124/Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%201984%20_%20George%20Orwell%20_%20Pha%CC%82%CC%80n%202%20%28192kbit_AAC%29.m4a",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_c8ce56ec7ce39d6aaba7bbe4473e6451_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 14256,
-    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC)",
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC) (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mctt_20230124/Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%201984%20_%20George%20Orwell%20_%20Pha%CC%82%CC%80n%203%20END%20%28192kbit_AAC%29.m4a",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_c8ce56ec7ce39d6aaba7bbe4473e6451_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 9297,
-    "title" : "Tiểu thuyết 1984   George Orwell   Phần 3 END (192kbit AAC)",
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_c8ce56ec7ce39d6aaba7bbe4473e6451_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC) (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_c8ce56ec7ce39d6aaba7bbe4473e6451_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC) (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_c8ce56ec7ce39d6aaba7bbe4473e6451_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC) (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_c8ce56ec7ce39d6aaba7bbe4473e6451_7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC) (7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (8)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_8b46a68996880526302a5058f90f3cc3_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 3 END (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_8b46a68996880526302a5058f90f3cc3_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 3 END (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_8b46a68996880526302a5058f90f3cc3_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 3 END (192kbit AAC) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_8b46a68996880526302a5058f90f3cc3_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 3 END (192kbit AAC) (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_8b46a68996880526302a5058f90f3cc3_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 3 END (192kbit AAC) (5)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mctt_20230124/Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%201984%20_%20George%20Orwell%20_%20Pha%CC%82%CC%80n%201%20%28128kbit_AAC%29.m4a",
-    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC)",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_c8ce56ec7ce39d6aaba7bbe4473e6451_1.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mctt_20230124/Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%201984%20_%20George%20Orwell%20_%20Pha%CC%82%CC%80n%202%20%28192kbit_AAC%29.m4a",
-    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC)",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_c8ce56ec7ce39d6aaba7bbe4473e6451_2.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mctt_20230124/Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%201984%20_%20George%20Orwell%20_%20Pha%CC%82%CC%80n%203%20END%20%28192kbit_AAC%29.m4a",
-    "title" : "Tiểu thuyết 1984   George Orwell   Phần 3 END (192kbit AAC)",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_c8ce56ec7ce39d6aaba7bbe4473e6451_3.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_c8ce56ec7ce39d6aaba7bbe4473e6451_4.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC) (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_c8ce56ec7ce39d6aaba7bbe4473e6451_5.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC) (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_c8ce56ec7ce39d6aaba7bbe4473e6451_6.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC) (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_c8ce56ec7ce39d6aaba7bbe4473e6451_7.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 1 (128kbit AAC) (7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_1.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_2.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_3.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_4.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_5.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_6.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_7.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_78d87c2cc0b4bf595aaf9e08fe316622_8.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 2 (192kbit AAC) (8)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_8b46a68996880526302a5058f90f3cc3_1.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 3 END (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_8b46a68996880526302a5058f90f3cc3_2.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 3 END (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_8b46a68996880526302a5058f90f3cc3_3.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 3 END (192kbit AAC) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_8b46a68996880526302a5058f90f3cc3_4.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 3 END (192kbit AAC) (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_3cb7478dbd6888779e73a8a894bcaa9b_8b46a68996880526302a5058f90f3cc3_5.mp3",
+    "title" : "Tiểu thuyết 1984   George Orwell   Phần 3 END (192kbit AAC) (5)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
