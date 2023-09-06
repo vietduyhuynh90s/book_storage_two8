@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 20781,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1d8f7c6f1bd539859461548814e7b984_81732c93355c77b33202050fe11c8e9d_1.mp3",
+    "href" : "https://archive.org/download/dhp_20200509/D%C3%A1m%20h%E1%BA%A1nh%20ph%C3%BAc%20-%20Koga%20Fumitake%20%26%20Kishimi%20Ichiro%20%28128kbit_AAC%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Dám hạnh phúc - Koga Fumitake & Kishimi Ichiro (128kbit AAC) (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1d8f7c6f1bd539859461548814e7b984_81732c93355c77b33202050fe11c8e9d_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Dám hạnh phúc - Koga Fumitake & Kishimi Ichiro (128kbit AAC) (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1d8f7c6f1bd539859461548814e7b984_81732c93355c77b33202050fe11c8e9d_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Dám hạnh phúc - Koga Fumitake & Kishimi Ichiro (128kbit AAC) (3)",
+    "duration" : 20781,
+    "title" : "Dám hạnh phúc - Koga Fumitake & Kishimi Ichiro (128kbit AAC)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1d8f7c6f1bd539859461548814e7b984_81732c93355c77b33202050fe11c8e9d_1.mp3",
-    "title" : "Dám hạnh phúc - Koga Fumitake & Kishimi Ichiro (128kbit AAC) (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1d8f7c6f1bd539859461548814e7b984_81732c93355c77b33202050fe11c8e9d_2.mp3",
-    "title" : "Dám hạnh phúc - Koga Fumitake & Kishimi Ichiro (128kbit AAC) (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1d8f7c6f1bd539859461548814e7b984_81732c93355c77b33202050fe11c8e9d_3.mp3",
-    "title" : "Dám hạnh phúc - Koga Fumitake & Kishimi Ichiro (128kbit AAC) (3)",
+    "href" : "https://archive.org/download/dhp_20200509/D%C3%A1m%20h%E1%BA%A1nh%20ph%C3%BAc%20-%20Koga%20Fumitake%20%26%20Kishimi%20Ichiro%20%28128kbit_AAC%29.mp3",
+    "title" : "Dám hạnh phúc - Koga Fumitake & Kishimi Ichiro (128kbit AAC)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

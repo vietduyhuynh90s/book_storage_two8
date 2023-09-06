@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
-    "duration" : 11592,
+    "published" : "2023-09-06",
+    "duration" : 23184,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0953c40317f0fd60caef6d8d02f645b2_636ad1d24590c490956ace30a10f4132.mp3",
+    "href" : "https://archive.org/download/mot-thien-nam-mong/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3962,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0953c40317f0fd60caef6d8d02f645b2_a30ba43205ad064fbee9b9307a0e9bb3.mp3",
+    "href" : "https://archive.org/download/mot-thien-nam-mong/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4102,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0953c40317f0fd60caef6d8d02f645b2_f93597db5a424cbdb9d02f94bd0c57a9.mp3",
+    "href" : "https://archive.org/download/mot-thien-nam-mong/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3528,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0953c40317f0fd60caef6d8d02f645b2_636ad1d24590c490956ace30a10f4132.mp3",
+    "href" : "https://archive.org/download/mot-thien-nam-mong/1.mp3",
     "title" : "1 - Nguyễn Ngọc Thuần và giấc mơ tuổi thơ không dứt, Chuyện Bà cả Sề kéo dài",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0953c40317f0fd60caef6d8d02f645b2_a30ba43205ad064fbee9b9307a0e9bb3.mp3",
+    "href" : "https://archive.org/download/mot-thien-nam-mong/2.mp3",
     "title" : "2 - Sợ gì cái giống la đà, Khi em chạy...nhưng mà thôi",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0953c40317f0fd60caef6d8d02f645b2_f93597db5a424cbdb9d02f94bd0c57a9.mp3",
+    "href" : "https://archive.org/download/mot-thien-nam-mong/3.mp3",
     "title" : "3 - Lại một ngày không có thiên thần nào, Và những giấc mơ cuối cùng trên dây",
     "children" : [ ]
   } ],

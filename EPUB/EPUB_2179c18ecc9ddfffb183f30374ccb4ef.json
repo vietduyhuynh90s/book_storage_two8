@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 6803,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_2179c18ecc9ddfffb183f30374ccb4ef_5a06009d6f85e9426a41ff637580f05b_1.mp3",
+    "href" : "https://archive.org/download/nhung-loi/nhung-loi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "NHỮNG LỜI CHA MẸ KHÔNG NÊN NÓI | MAKI SHINO | KAM TRÒN | HẺM RADIO (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_2179c18ecc9ddfffb183f30374ccb4ef_5a06009d6f85e9426a41ff637580f05b_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "NHỮNG LỜI CHA MẸ KHÔNG NÊN NÓI | MAKI SHINO | KAM TRÒN | HẺM RADIO (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_2179c18ecc9ddfffb183f30374ccb4ef_5a06009d6f85e9426a41ff637580f05b_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "NHỮNG LỜI CHA MẸ KHÔNG NÊN NÓI | MAKI SHINO | KAM TRÒN | HẺM RADIO (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_2179c18ecc9ddfffb183f30374ccb4ef_5a06009d6f85e9426a41ff637580f05b_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "NHỮNG LỜI CHA MẸ KHÔNG NÊN NÓI | MAKI SHINO | KAM TRÒN | HẺM RADIO (4)",
+    "duration" : 6803,
+    "title" : "NHỮNG LỜI CHA MẸ KHÔNG NÊN NÓI | MAKI SHINO | KAM TRÒN | HẺM RADIO",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_2179c18ecc9ddfffb183f30374ccb4ef_5a06009d6f85e9426a41ff637580f05b_1.mp3",
-    "title" : "NHỮNG LỜI CHA MẸ KHÔNG NÊN NÓI | MAKI SHINO | KAM TRÒN | HẺM RADIO (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_2179c18ecc9ddfffb183f30374ccb4ef_5a06009d6f85e9426a41ff637580f05b_2.mp3",
-    "title" : "NHỮNG LỜI CHA MẸ KHÔNG NÊN NÓI | MAKI SHINO | KAM TRÒN | HẺM RADIO (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_2179c18ecc9ddfffb183f30374ccb4ef_5a06009d6f85e9426a41ff637580f05b_3.mp3",
-    "title" : "NHỮNG LỜI CHA MẸ KHÔNG NÊN NÓI | MAKI SHINO | KAM TRÒN | HẺM RADIO (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_2179c18ecc9ddfffb183f30374ccb4ef_5a06009d6f85e9426a41ff637580f05b_4.mp3",
-    "title" : "NHỮNG LỜI CHA MẸ KHÔNG NÊN NÓI | MAKI SHINO | KAM TRÒN | HẺM RADIO (4)",
+    "href" : "https://archive.org/download/nhung-loi/nhung-loi.mp3",
+    "title" : "NHỮNG LỜI CHA MẸ KHÔNG NÊN NÓI | MAKI SHINO | KAM TRÒN | HẺM RADIO",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

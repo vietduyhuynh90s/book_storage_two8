@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
+    "published" : "2023-09-06",
     "duration" : 18382,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,77 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0f75940ed44d1d1c9717e7d4ad1b749d_dacaab42936a9c6995edd8014c0eefe1_1.mp3",
+    "href" : "https://archive.org/download/co-vo-be-nho-cua-tong-giam-doc/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện ngôn tình hay Cảm động & Đáng yêu (1)",
+    "duration" : 6918,
+    "title" : "Truyện ngôn tình hay Cảm động & Đáng yêu",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0f75940ed44d1d1c9717e7d4ad1b749d_dacaab42936a9c6995edd8014c0eefe1_2.mp3",
+    "href" : "https://archive.org/download/co-vo-be-nho-cua-tong-giam-doc/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện ngôn tình hay Cảm động & Đáng yêu (2)",
+    "duration" : 5830,
+    "title" : "Truyện ngôn tình mới hay thật là hay",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0f75940ed44d1d1c9717e7d4ad1b749d_c49d1ac9ff7bbe7cf3116f78ae3e8cdc_1.mp3",
+    "href" : "https://archive.org/download/co-vo-be-nho-cua-tong-giam-doc/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện ngôn tình mới hay thật là hay (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0f75940ed44d1d1c9717e7d4ad1b749d_c49d1ac9ff7bbe7cf3116f78ae3e8cdc_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện ngôn tình mới hay thật là hay (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0f75940ed44d1d1c9717e7d4ad1b749d_467f05b19fe2cf57cf1a67965c2eda7e_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện ngôn tình mới hay và ngọt ngào (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0f75940ed44d1d1c9717e7d4ad1b749d_467f05b19fe2cf57cf1a67965c2eda7e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện ngôn tình mới hay và ngọt ngào (2)",
+    "duration" : 5634,
+    "title" : "Truyện ngôn tình mới hay và ngọt ngào",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0f75940ed44d1d1c9717e7d4ad1b749d_dacaab42936a9c6995edd8014c0eefe1_1.mp3",
-    "title" : "Truyện ngôn tình hay Cảm động & Đáng yêu (1)",
+    "href" : "https://archive.org/download/co-vo-be-nho-cua-tong-giam-doc/1.mp3",
+    "title" : "Truyện ngôn tình hay Cảm động & Đáng yêu",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0f75940ed44d1d1c9717e7d4ad1b749d_dacaab42936a9c6995edd8014c0eefe1_2.mp3",
-    "title" : "Truyện ngôn tình hay Cảm động & Đáng yêu (2)",
+    "href" : "https://archive.org/download/co-vo-be-nho-cua-tong-giam-doc/2.mp3",
+    "title" : "Truyện ngôn tình mới hay thật là hay",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0f75940ed44d1d1c9717e7d4ad1b749d_c49d1ac9ff7bbe7cf3116f78ae3e8cdc_1.mp3",
-    "title" : "Truyện ngôn tình mới hay thật là hay (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0f75940ed44d1d1c9717e7d4ad1b749d_c49d1ac9ff7bbe7cf3116f78ae3e8cdc_2.mp3",
-    "title" : "Truyện ngôn tình mới hay thật là hay (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0f75940ed44d1d1c9717e7d4ad1b749d_467f05b19fe2cf57cf1a67965c2eda7e_1.mp3",
-    "title" : "Truyện ngôn tình mới hay và ngọt ngào (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_0f75940ed44d1d1c9717e7d4ad1b749d_467f05b19fe2cf57cf1a67965c2eda7e_2.mp3",
-    "title" : "Truyện ngôn tình mới hay và ngọt ngào (2)",
+    "href" : "https://archive.org/download/co-vo-be-nho-cua-tong-giam-doc/3.mp3",
+    "title" : "Truyện ngôn tình mới hay và ngọt ngào",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
