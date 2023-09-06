@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
+    "published" : "2023-09-06",
     "duration" : 13713,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_c617844e09a3efc8c0ace05d9087c43c_6722b03460f867d46ece57df7440395b_1.mp3",
+    "href" : "https://archive.org/download/covobotron_201903/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện ngôn tình hay cảm động trái tim triệu người (1)",
+    "duration" : 7272,
+    "title" : "Truyện ngôn tình hay cảm động trái tim triệu người",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_c617844e09a3efc8c0ace05d9087c43c_6722b03460f867d46ece57df7440395b_2.mp3",
+    "href" : "https://archive.org/download/covobotron_201903/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện ngôn tình hay cảm động trái tim triệu người (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_c617844e09a3efc8c0ace05d9087c43c_31f2bce0c38a80631aeae24d397f7ed5_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Cô Vợ Bỏ Trốn [Phần cuối] Truyện ngôn tình hay cảm động lòng người (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_c617844e09a3efc8c0ace05d9087c43c_31f2bce0c38a80631aeae24d397f7ed5_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Cô Vợ Bỏ Trốn [Phần cuối] Truyện ngôn tình hay cảm động lòng người (2)",
+    "duration" : 6441,
+    "title" : "Cô Vợ Bỏ Trốn [Phần cuối] Truyện ngôn tình hay cảm động lòng người",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_c617844e09a3efc8c0ace05d9087c43c_6722b03460f867d46ece57df7440395b_1.mp3",
-    "title" : "Truyện ngôn tình hay cảm động trái tim triệu người (1)",
+    "href" : "https://archive.org/download/covobotron_201903/1.mp3",
+    "title" : "Truyện ngôn tình hay cảm động trái tim triệu người",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_c617844e09a3efc8c0ace05d9087c43c_6722b03460f867d46ece57df7440395b_2.mp3",
-    "title" : "Truyện ngôn tình hay cảm động trái tim triệu người (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_c617844e09a3efc8c0ace05d9087c43c_31f2bce0c38a80631aeae24d397f7ed5_1.mp3",
-    "title" : "Cô Vợ Bỏ Trốn [Phần cuối] Truyện ngôn tình hay cảm động lòng người (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_c617844e09a3efc8c0ace05d9087c43c_31f2bce0c38a80631aeae24d397f7ed5_2.mp3",
-    "title" : "Cô Vợ Bỏ Trốn [Phần cuối] Truyện ngôn tình hay cảm động lòng người (2)",
+    "href" : "https://archive.org/download/covobotron_201903/2.mp3",
+    "title" : "Cô Vợ Bỏ Trốn [Phần cuối] Truyện ngôn tình hay cảm động lòng người",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

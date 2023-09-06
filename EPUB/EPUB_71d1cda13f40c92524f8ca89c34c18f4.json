@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-25",
+    "published" : "2023-09-06",
     "duration" : 14201,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,101 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_5e2639ebc828eb4f5b1b3ccc6f720cab_1.mp3",
+    "href" : "https://archive.org/download/thang-quy-1/thang-quy-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thang-quy-1 (1)",
+    "duration" : 3600,
+    "title" : "thang-quy-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_5e2639ebc828eb4f5b1b3ccc6f720cab_2.mp3",
+    "href" : "https://archive.org/download/thang-quy-1/thang-quy-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thang-quy-1 (2)",
+    "duration" : 3600,
+    "title" : "thang-quy-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_e197e0edc1a66ddf8f7156ce6c9fc01a_1.mp3",
+    "href" : "https://archive.org/download/thang-quy-1/thang-quy-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thang-quy-2 (1)",
+    "duration" : 3600,
+    "title" : "thang-quy-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_e197e0edc1a66ddf8f7156ce6c9fc01a_2.mp3",
+    "href" : "https://archive.org/download/thang-quy-1/thang-quy-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thang-quy-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_6d0f45bd64cab8db52be0459032962d9_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thang-quy-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_6d0f45bd64cab8db52be0459032962d9_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thang-quy-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_bcaad6e05ba9399b4af9c16965105719_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thang-quy-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_bcaad6e05ba9399b4af9c16965105719_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thang-quy-4 (2)",
+    "duration" : 3401,
+    "title" : "thang-quy-4",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_5e2639ebc828eb4f5b1b3ccc6f720cab_1.mp3",
-    "title" : "thang-quy-1 (1)",
+    "href" : "https://archive.org/download/thang-quy-1/thang-quy-1.mp3",
+    "title" : "thang-quy-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_5e2639ebc828eb4f5b1b3ccc6f720cab_2.mp3",
-    "title" : "thang-quy-1 (2)",
+    "href" : "https://archive.org/download/thang-quy-1/thang-quy-2.mp3",
+    "title" : "thang-quy-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_e197e0edc1a66ddf8f7156ce6c9fc01a_1.mp3",
-    "title" : "thang-quy-2 (1)",
+    "href" : "https://archive.org/download/thang-quy-1/thang-quy-3.mp3",
+    "title" : "thang-quy-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_e197e0edc1a66ddf8f7156ce6c9fc01a_2.mp3",
-    "title" : "thang-quy-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_6d0f45bd64cab8db52be0459032962d9_1.mp3",
-    "title" : "thang-quy-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_6d0f45bd64cab8db52be0459032962d9_2.mp3",
-    "title" : "thang-quy-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_bcaad6e05ba9399b4af9c16965105719_1.mp3",
-    "title" : "thang-quy-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_71d1cda13f40c92524f8ca89c34c18f4_bcaad6e05ba9399b4af9c16965105719_2.mp3",
-    "title" : "thang-quy-4 (2)",
+    "href" : "https://archive.org/download/thang-quy-1/thang-quy-4.mp3",
+    "title" : "thang-quy-4",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

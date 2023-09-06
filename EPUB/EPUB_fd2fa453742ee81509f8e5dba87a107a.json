@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-24",
+    "published" : "2023-09-06",
     "duration" : 35637,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,149 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_d1de7d11da5f838807fd29374a65853e_1.mp3",
+    "href" : "https://archive.org/download/song-chung-sau-ly-hon/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (1)",
+    "duration" : 11760,
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_d1de7d11da5f838807fd29374a65853e_2.mp3",
+    "href" : "https://archive.org/download/song-chung-sau-ly-hon/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (2)",
+    "duration" : 11488,
+    "title" : "Sống Chung Sau Ly Hôn [Phần 2] -Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_d1de7d11da5f838807fd29374a65853e_3.mp3",
+    "href" : "https://archive.org/download/song-chung-sau-ly-hon/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_d1de7d11da5f838807fd29374a65853e_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_cc9a07d6ca1a0bf50ede04b99152b84c_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Sống Chung Sau Ly Hôn [Phần 2] -Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_cc9a07d6ca1a0bf50ede04b99152b84c_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Sống Chung Sau Ly Hôn [Phần 2] -Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_cc9a07d6ca1a0bf50ede04b99152b84c_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Sống Chung Sau Ly Hôn [Phần 2] -Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_cc9a07d6ca1a0bf50ede04b99152b84c_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Sống Chung Sau Ly Hôn [Phần 2] -Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_4d674fcc0b2505fd446bc7b1e44ecd6f_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_4d674fcc0b2505fd446bc7b1e44ecd6f_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_4d674fcc0b2505fd446bc7b1e44ecd6f_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_4d674fcc0b2505fd446bc7b1e44ecd6f_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (4)",
+    "duration" : 12389,
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_d1de7d11da5f838807fd29374a65853e_1.mp3",
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (1)",
+    "href" : "https://archive.org/download/song-chung-sau-ly-hon/1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_d1de7d11da5f838807fd29374a65853e_2.mp3",
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (2)",
+    "href" : "https://archive.org/download/song-chung-sau-ly-hon/2.mp3",
+    "title" : "Sống Chung Sau Ly Hôn [Phần 2] -Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_d1de7d11da5f838807fd29374a65853e_3.mp3",
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_d1de7d11da5f838807fd29374a65853e_4.mp3",
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_cc9a07d6ca1a0bf50ede04b99152b84c_1.mp3",
-    "title" : "Sống Chung Sau Ly Hôn [Phần 2] -Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_cc9a07d6ca1a0bf50ede04b99152b84c_2.mp3",
-    "title" : "Sống Chung Sau Ly Hôn [Phần 2] -Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_cc9a07d6ca1a0bf50ede04b99152b84c_3.mp3",
-    "title" : "Sống Chung Sau Ly Hôn [Phần 2] -Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_cc9a07d6ca1a0bf50ede04b99152b84c_4.mp3",
-    "title" : "Sống Chung Sau Ly Hôn [Phần 2] -Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_4d674fcc0b2505fd446bc7b1e44ecd6f_1.mp3",
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_4d674fcc0b2505fd446bc7b1e44ecd6f_2.mp3",
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_4d674fcc0b2505fd446bc7b1e44ecd6f_3.mp3",
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_fd2fa453742ee81509f8e5dba87a107a_4d674fcc0b2505fd446bc7b1e44ecd6f_4.mp3",
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu (4)",
+    "href" : "https://archive.org/download/song-chung-sau-ly-hon/3.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Ly Hôn Nhận Ra Yêu",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

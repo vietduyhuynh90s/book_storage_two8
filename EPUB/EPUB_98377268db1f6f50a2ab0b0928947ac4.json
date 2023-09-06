@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-16",
+    "published" : "2023-09-06",
     "duration" : 9959,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_98377268db1f6f50a2ab0b0928947ac4_87de5ba5f24537cb559a4cf71f04d674_1.mp3",
+    "href" : "https://archive.org/download/noi-nhieu-khong-bang-noi-dung-sachnoiviet/NOi-nhieu-khong-bang-noi-dung.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nói nhiều không bằng nói đúng (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_98377268db1f6f50a2ab0b0928947ac4_87de5ba5f24537cb559a4cf71f04d674_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nói nhiều không bằng nói đúng (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_98377268db1f6f50a2ab0b0928947ac4_87de5ba5f24537cb559a4cf71f04d674_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nói nhiều không bằng nói đúng (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_98377268db1f6f50a2ab0b0928947ac4_87de5ba5f24537cb559a4cf71f04d674_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nói nhiều không bằng nói đúng (4)",
+    "duration" : 9959,
+    "title" : "Nói nhiều không bằng nói đúng",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_98377268db1f6f50a2ab0b0928947ac4_87de5ba5f24537cb559a4cf71f04d674_1.mp3",
-    "title" : "Nói nhiều không bằng nói đúng (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_98377268db1f6f50a2ab0b0928947ac4_87de5ba5f24537cb559a4cf71f04d674_2.mp3",
-    "title" : "Nói nhiều không bằng nói đúng (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_98377268db1f6f50a2ab0b0928947ac4_87de5ba5f24537cb559a4cf71f04d674_3.mp3",
-    "title" : "Nói nhiều không bằng nói đúng (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_98377268db1f6f50a2ab0b0928947ac4_87de5ba5f24537cb559a4cf71f04d674_4.mp3",
-    "title" : "Nói nhiều không bằng nói đúng (4)",
+    "href" : "https://archive.org/download/noi-nhieu-khong-bang-noi-dung-sachnoiviet/NOi-nhieu-khong-bang-noi-dung.mp3",
+    "title" : "Nói nhiều không bằng nói đúng",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

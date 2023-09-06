@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
-    "duration" : 10387,
+    "published" : "2023-09-06",
+    "duration" : 15439,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b390f14326716a70abfdaf3f5d5f6585_5dc93e56092b3d72de046d47dd7ab82d.mp3",
+    "href" : "https://archive.org/download/hon-ma-dem-giang-sinh.sna/hon_ma_dem_giang_sinh_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5052,
@@ -44,45 +44,21 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b390f14326716a70abfdaf3f5d5f6585_2d862cbb2c2ffe306cc1ceccdd1311ff_1.mp3",
+    "href" : "https://archive.org/download/hon-ma-dem-giang-sinh.sna/hon_ma_dem_giang_sinh_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hon ma dem giang sinh 2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b390f14326716a70abfdaf3f5d5f6585_2d862cbb2c2ffe306cc1ceccdd1311ff_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hon ma dem giang sinh 2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b390f14326716a70abfdaf3f5d5f6585_2d862cbb2c2ffe306cc1ceccdd1311ff_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hon ma dem giang sinh 2 (3)",
+    "duration" : 5335,
+    "title" : "hon ma dem giang sinh 2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b390f14326716a70abfdaf3f5d5f6585_5dc93e56092b3d72de046d47dd7ab82d.mp3",
+    "href" : "https://archive.org/download/hon-ma-dem-giang-sinh.sna/hon_ma_dem_giang_sinh_1.mp3",
     "title" : "hon ma dem giang sinh 1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b390f14326716a70abfdaf3f5d5f6585_2d862cbb2c2ffe306cc1ceccdd1311ff_1.mp3",
-    "title" : "hon ma dem giang sinh 2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b390f14326716a70abfdaf3f5d5f6585_2d862cbb2c2ffe306cc1ceccdd1311ff_2.mp3",
-    "title" : "hon ma dem giang sinh 2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_b390f14326716a70abfdaf3f5d5f6585_2d862cbb2c2ffe306cc1ceccdd1311ff_3.mp3",
-    "title" : "hon ma dem giang sinh 2 (3)",
+    "href" : "https://archive.org/download/hon-ma-dem-giang-sinh.sna/hon_ma_dem_giang_sinh_2.mp3",
+    "title" : "hon ma dem giang sinh 2",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-16",
+    "published" : "2023-09-06",
     "duration" : 4156,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e60933e245c0a406d5847ee0fe3e1adb_1c07fd22e6b81367c14d4d5c0efa2f86_1.mp3",
+    "href" : "https://archive.org/download/dieu-ky/dieu-ky.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "dieu-ky (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e60933e245c0a406d5847ee0fe3e1adb_1c07fd22e6b81367c14d4d5c0efa2f86_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "dieu-ky (2)",
+    "duration" : 4156,
+    "title" : "dieu-ky",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e60933e245c0a406d5847ee0fe3e1adb_1c07fd22e6b81367c14d4d5c0efa2f86_1.mp3",
-    "title" : "dieu-ky (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_e60933e245c0a406d5847ee0fe3e1adb_1c07fd22e6b81367c14d4d5c0efa2f86_2.mp3",
-    "title" : "dieu-ky (2)",
+    "href" : "https://archive.org/download/dieu-ky/dieu-ky.mp3",
+    "title" : "dieu-ky",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

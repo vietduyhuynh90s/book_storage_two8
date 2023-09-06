@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
-    "duration" : 10809,
+    "published" : "2023-09-06",
+    "duration" : 21618,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_56bc42f97cb1f38860974353d642d836_fd8cf6d2018bdcc143dbca8adf90bf41.mp3",
+    "href" : "https://archive.org/download/thuebao/Thuebao%201.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3624,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_56bc42f97cb1f38860974353d642d836_3bf0b6e3ffe6937d8637257d11ddb6fd.mp3",
+    "href" : "https://archive.org/download/thuebao/Thuebao%202.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3572,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_56bc42f97cb1f38860974353d642d836_56747f1303418a4cdeddd8546cc2181d.mp3",
+    "href" : "https://archive.org/download/thuebao/Thuebao%203.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3613,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_56bc42f97cb1f38860974353d642d836_fd8cf6d2018bdcc143dbca8adf90bf41.mp3",
+    "href" : "https://archive.org/download/thuebao/Thuebao%201.mp3",
     "title" : "Thuebao 1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_56bc42f97cb1f38860974353d642d836_3bf0b6e3ffe6937d8637257d11ddb6fd.mp3",
+    "href" : "https://archive.org/download/thuebao/Thuebao%202.mp3",
     "title" : "Thuebao 2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_56bc42f97cb1f38860974353d642d836_56747f1303418a4cdeddd8546cc2181d.mp3",
+    "href" : "https://archive.org/download/thuebao/Thuebao%203.mp3",
     "title" : "Thuebao 3",
     "children" : [ ]
   } ],

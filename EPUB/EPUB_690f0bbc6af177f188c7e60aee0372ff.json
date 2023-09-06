@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-23",
+    "published" : "2023-09-06",
     "duration" : 15162,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,101 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_11821994d56bc7277ae6458065e6b500_1.mp3",
+    "href" : "https://archive.org/download/5cm-tren-giay/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1 (1)",
+    "duration" : 4632,
+    "title" : "1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_11821994d56bc7277ae6458065e6b500_2.mp3",
+    "href" : "https://archive.org/download/5cm-tren-giay/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1 (2)",
+    "duration" : 4882,
+    "title" : "2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_11821994d56bc7277ae6458065e6b500_3.mp3",
+    "href" : "https://archive.org/download/5cm-tren-giay/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_e48114ee429d0c931f11467b5f89e1dc_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_e48114ee429d0c931f11467b5f89e1dc_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_e48114ee429d0c931f11467b5f89e1dc_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_5212b03f7ecae5a27a064c52507c4135_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_5212b03f7ecae5a27a064c52507c4135_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "3 (2)",
+    "duration" : 5648,
+    "title" : "3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_11821994d56bc7277ae6458065e6b500_1.mp3",
-    "title" : "1 (1)",
+    "href" : "https://archive.org/download/5cm-tren-giay/1.mp3",
+    "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_11821994d56bc7277ae6458065e6b500_2.mp3",
-    "title" : "1 (2)",
+    "href" : "https://archive.org/download/5cm-tren-giay/2.mp3",
+    "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_11821994d56bc7277ae6458065e6b500_3.mp3",
-    "title" : "1 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_e48114ee429d0c931f11467b5f89e1dc_1.mp3",
-    "title" : "2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_e48114ee429d0c931f11467b5f89e1dc_2.mp3",
-    "title" : "2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_e48114ee429d0c931f11467b5f89e1dc_3.mp3",
-    "title" : "2 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_5212b03f7ecae5a27a064c52507c4135_1.mp3",
-    "title" : "3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_690f0bbc6af177f188c7e60aee0372ff_5212b03f7ecae5a27a064c52507c4135_2.mp3",
-    "title" : "3 (2)",
+    "href" : "https://archive.org/download/5cm-tren-giay/3.mp3",
+    "title" : "3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

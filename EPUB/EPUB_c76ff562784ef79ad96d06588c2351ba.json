@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-06",
-    "duration" : 18215,
+    "published" : "2023-09-06",
+    "duration" : 36430,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_f78542572c12507a9fa14ec2cb4607e2.mp3",
+    "href" : "https://archive.org/download/tu-iq-den-eq/TU-IQ-DEN-EQ-P1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_4a3bc0db50789a8313cdc5588b44629c.mp3",
+    "href" : "https://archive.org/download/tu-iq-den-eq/TU-IQ-DEN-EQ-P2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_3b17081e00610318e32cd51113c61bf4.mp3",
+    "href" : "https://archive.org/download/tu-iq-den-eq/TU-IQ-DEN-EQ-P3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_5ccb12ebfdb95652ec49051190f10066.mp3",
+    "href" : "https://archive.org/download/tu-iq-den-eq/TU-IQ-DEN-EQ-P4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_7619b962c21ee403ed82d9f1a3224081.mp3",
+    "href" : "https://archive.org/download/tu-iq-den-eq/TU-IQ-DEN-EQ-P5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_f78542572c12507a9fa14ec2cb4607e2.mp3",
+    "href" : "https://archive.org/download/tu-iq-den-eq/TU-IQ-DEN-EQ-P1.mp3",
     "title" : "Chương 1: Kĩ năng biến \"yêu quý\" trở thành \"coi trọng\" P1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_4a3bc0db50789a8313cdc5588b44629c.mp3",
+    "href" : "https://archive.org/download/tu-iq-den-eq/TU-IQ-DEN-EQ-P2.mp3",
     "title" : "Chương 1: Kĩ năng biến \"yêu quý\" trở thành \"coi trọng\" P2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_3b17081e00610318e32cd51113c61bf4.mp3",
+    "href" : "https://archive.org/download/tu-iq-den-eq/TU-IQ-DEN-EQ-P3.mp3",
     "title" : "Chương 2: Khả năng quản lý thương hiệu của chính bản thân P1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_5ccb12ebfdb95652ec49051190f10066.mp3",
+    "href" : "https://archive.org/download/tu-iq-den-eq/TU-IQ-DEN-EQ-P4.mp3",
     "title" : "Chương 2: Khả năng quản lý thương hiệu của chính bản thân P2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two8/main/AUDIO/AUDIO_c76ff562784ef79ad96d06588c2351ba_7619b962c21ee403ed82d9f1a3224081.mp3",
+    "href" : "https://archive.org/download/tu-iq-den-eq/TU-IQ-DEN-EQ-P5.mp3",
     "title" : "Chương 3: Hai bàn tay trắng của bạn chỉ là một góc nhìn P1",
     "children" : [ ]
   } ],
