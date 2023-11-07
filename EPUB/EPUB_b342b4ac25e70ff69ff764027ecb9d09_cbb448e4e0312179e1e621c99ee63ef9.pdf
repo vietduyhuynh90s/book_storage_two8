@@ -1,0 +1,996 @@
+{
+  "metadata" : {
+    "identifier" : "https://nettruyenup.vn/truyen-tranh/invitation-of-mystic-messenger-24507",
+    "title" : "Invitation Of Mystic Messenger - Chapter 16",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-11-07",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 41,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_a6d56394c7c0c4d6d5cace34c8356f1d.JPG",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/35/4e/8f/d821bc9b6ed8394d939f4ee702293702.JPG",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_23887e2e18cf1edb28a6ff371fd5ac88.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/af/8c/bf/57d95ea2c2b8ef752da5fa8232e7fa47.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_786bdb2b1c3a7c062bf8e385348a43af.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/78/96/8f/995969149f07c4d2a9d8167a6c89d65a.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_9691739e1b07fa38d6c7347e44f7ece6.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/7a/3b/4a/0ae76c9597f835a790bcae62ad9c0aa7.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_2ab1909a1e6d3f97609faf4de724a6ef.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/16/71/de/9838ba74cbe53d333e18a3f237dfde4e.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_44ae34ebe7b549063992d707d60386f1.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/83/73/78/8adfec46fa46daad6cf62b4faa1e4192.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_96189de5d6c15bbffb308826f167c43a.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/86/96/9a/0dfdba896aebbbf081bc1eb19be1407b.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_4d73d9418af47d0ac61fc1a9342552d4.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/1e/2a/81/cd28d4054e21c50bee56a04dbb5d305f.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_c9c4376b037d2a878886900c578a37b4.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/cd/2a/3b/bcf6b8d6ab0fa788647754384a12c834.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_303f1eb6a27533d04c0c19abff96793b.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/e2/86/ef/9fc58493160d3ecfaeeb2de1fea7b578.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_ef0fcda98ef04cb57067b302f5858908.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/bd/57/00/a3dd0e670285cc67bb5b7d19df369e2f.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_07d1816cbc06ad6cfa094a87b1d86782.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/65/ff/2e/101e33dbcc015d770aad3d4a8e606175.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_5d7d0642bc048156dc439bc6c8625a04.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/1b/4b/e0/6b36813ff1cbbca851d17fe1076ce472.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_a9f69abdf07fb33db1e870810dd5d073.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/42/4a/7c/98021497918eab3509243a97856fb2eb.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_cef4d20a14b1f185820a4cbd6f85d55d.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/41/39/ff/b7e618a1c4a41e328900eeeeeeda716c.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_ef3ae24d58f497376f9823446536a921.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/18/29/d2/1588f898a09215bcd7c5682fb0b91893.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_b2ade139afe4d1362ec5f64ee2e4ceb8.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/0a/8a/90/1b22e977e90e77dd0808dfd2de0454e4.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_62be7b076b494baac5999955a6d9dbc8.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/19/c0/fb/9b7c1431f5495b810a7a272830680937.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_bcfa84d557645658a1253b5e4bdb9b33.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/a3/d6/f9/74528d434871ebf7a04205bf91f6fbc1.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_3e1933919db90d1695aa293519f7626c.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/cb/ff/d5/021ced2e6f7ccbfe2b497956422f6fdd.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_7f6c06a2d0061f19d02b5a9199089139.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/10/19/1f/25b9f7571e0bd9bbab93cbb0624be2d9.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_f205a7debf97b97085b7fc03af1dd678.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/a5/88/96/c5e2f0ddbc2a27730db84fa98b4ba492.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_13f132da702a29c47750d55d2efcc35b.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/99/92/dc/9e85b8e3c2984d644e2b10c0968202dd.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_18123f434d0720d59486d1a345817ee0.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/a1/e2/78/229ee452024413e004fd143db4615ec2.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_944fc9773fe1aed49a2bce2e196a3b9e.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/63/ab/98/eb19447fe7a9e161f63908713c6febb4.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_fde06ee7862f5434f15db9210ac8ae4d.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/37/a9/65/0956ce46240abc94515986b87ba430ad.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_2bbc2996eed09afb728190d62b7637a9.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/07/03/e5/9070f679900b739b05905d094e0fa4f9.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_72de40d97fdbc3b75ddbe0f9d8ddccaa.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/82/b9/bb/9eadf6c3e28a35052757a7de87d35a47.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_fbd1be3c543c11e539625855c62bae45.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/a8/88/ab/b40ca88e3aa565294fe0ff889716b53c.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_3c24d922073f26e99e04fb65cb4a5c17.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/39/a9/a8/255a89336e01107a34475fb5a0604beb.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_15a42922f8c3c52bdd612feec8e4f54a.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/f6/e7/e9/27005cdab0240cb457e4f3b1fb47d1d1.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_7269a57bf5ac375351c22c260ab43c67.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/20/d3/e8/7d0030a86c43f117b61b101dc7d64933.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_3d20af69d573783a49b564e38287fb7c.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/ad/77/8a/dbd892370df75a6304398efe2fc86178.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_e9f4eb1eddfc9fae11a4fbc1f03389bf.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/f7/4b/73/71c15cb5ec88acb09f08fd9801bf6403.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_971678d95cb5d3da616d851b4e0ded6e.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/c3/fc/d4/f7c7bf81aa39058ded386570aacf3bf4.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_9b9bb96a5599bb64d37cdbad258df8f0.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/2c/a1/7a/712d88a7fe854f69c259ec312028d678.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_23534f8f0a41d1e55679fe78bdb9ab7f.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/63/ae/82/497762f2ec495049e9657267633c2fea.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_4c01b7a0eeca1cfbc4397d5cd90508cc.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/7f/51/3b/9fdcf3717453fc0ed7c99fa47e4f72f8.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_fa42e1594bfec7deb08030b627d6c82a.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/54/59/f2/f61ef64b23bcf4ae5bc77f18384a1636.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_82b432192cfb8082df78c8056638ad77.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/e1/da/d2/82f485dbd4256dce52ddb07c781906db.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_1670135906570bf40e6b191f5d95370b.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/95/42/b2/066045b69fd853dd57caffaadc6b11b0.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_4882214df68075418329ac2b251174e3.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/eb/c2/61/99dd899ccbe9d25f2e3004457436b4bf.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_607d9e0ec0272e8674d6bd125b11ec9f.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/61/bc/8c/743885fb783f0db3d108c177541bda90.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_61a92a73a25a209935034d4e618c86f5.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/cf/97/db/1762a41bffdc364eaeae271a77286949.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_07fc2e05e0fc9609a0c5d3b53f19c6bc.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/ca/29/f7/212dfdededda9ad2b8942951cff7de11.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_12d2cd2742139b809f57ab085a37aaba.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/10/09/65/71b6e89ce97fc947cad3b9e3f9abf35c.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_74dbf21419bbe7c0359cd2c9314e95a3.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/c5/bf/a0/204fd765ebf3db7705fd371e2bf867f8.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_9d1bb22e4768bbd4ae0bf4dbac13f10b.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/32/59/62/7ff74ccad444659270904477f31d5516.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_a46dd9c464f7fc1a25e46440a71f6de5.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/a6/bf/37/83ce20e39946841fa402788cde0a5ac6.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_02023c80a8e4fb9272e0400dbbc1bf6d.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/98/52/78/7ad46cf4431a118dbd3ae81eaa2b9a72.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_521550e7cb823e7683b87e51e493912e.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/b2/d1/76/5d6aa925ec0a196cb991ca406828e1cb.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_4aa3522dd2f496715cfa2f13f46e50a7.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/6f/53/95/f8b465ae1cc8b815e2bf73456b517579.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_867bd86b6da6112d57cb6df5cc4c6d33.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/f7/41/47/0d882cd292e877619d73b1676cdcd045.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_fb6e7ebb022a0d0fb262e00d9566d949.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/d8/75/11/b01155c0e41417dace9e2e28deccfb65.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_a90164412ce8975f4a37d6f68c587c76.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/eb/88/75/7e7bd31f3aa7c455a59f25f656c6dcae.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_a84e236de7d93fa8c685194e41ae3a84.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/2f/84/56/ea6d701fc2e6904cbe2c670c0f92f4da.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_2b81fa96e58b997e5b71f4fa3d835018.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/fa/80/35/3c524e9579b42bb8221274e9502be901.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_6a9296849007edc5bd6b63c1ba0dc85e.jpeg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/38/09/66/b84248b6e3238192a23bdc4742783812.jpeg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_302d956b67b4b6ff768e51df46ede7f4.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/fc/41/81/97a6e190dc023898b0e68ffd5a9a80bb.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_cbb448e4e0312179e1e621c99ee63ef9_ef75cd74cf316488150d4d202d38fa3e.jpeg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://salt.tikicdn.com/ts/product/18/f6/e7/81d03f80f481129af98364c0288c700c.jpeg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
