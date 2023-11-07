@@ -10,7 +10,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-06-24",
+    "published" : "2023-11-07",
     "duration" : 0,
     "abridged" : false,
     "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
@@ -335,21 +335,13 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_9e793eb27d0f440e1985f2da835bc01c_8a0b0d988f394b840fa53b4b5f7c5a81.jpg",
+    "href" : "https://salt.tikicdn.com/ts/product/52/f4/1a/143c7764ff452df0df1e97547df76353.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ {
-      "href" : "https://salt.tikicdn.com/ts/product/52/f4/1a/143c7764ff452df0df1e97547df76353.jpg",
-      "type" : "image/jpeg",
-      "bitrate" : 0,
-      "duration" : 0,
-      "title" : null,
-      "properties" : null,
-      "alternate" : null
-    } ]
+    "alternate" : [ ]
   }, {
     "href" : "https://bitbucket.org/wp-tsvhcomic23/comic_storage18/raw/master/IMAGE/IMAGE_b342b4ac25e70ff69ff764027ecb9d09_9e793eb27d0f440e1985f2da835bc01c_e188bddeb64860b4fab6e146ce116d3a.jpg",
     "type" : "image/jpeg",
